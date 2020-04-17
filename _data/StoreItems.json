@@ -1868,7 +1868,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -2750,19 +2750,19 @@
 	},
 	{
 		"abr": "linkmonosword",
-		"price": 5000,
+		"price": -10,
 		"category": "Bladelink weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "linkplasmasword",
-		"price": 5000,
+		"price": -10,
 		"category": "Bladelink weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "linkzeushammer",
-		"price": 5000,
+		"price": -10,
 		"category": "Bladelink weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
@@ -2795,12 +2795,6 @@
 		"price": 333,
 		"category": "Misc",
 		"defname": "ClutterBasicLocker"
-	},
-	{
-		"abr": "lolitadress",
-		"price": 417,
-		"category": "Apparel",
-		"defname": "Apparel_lolita"
 	},
 	{
 		"abr": "longsword",
@@ -2957,18 +2951,6 @@
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining"
-	},
-	{
-		"abr": "maiddress",
-		"price": 417,
-		"category": "Apparel",
-		"defname": "Apparel_maid"
-	},
-	{
-		"abr": "maidhairband",
-		"price": 100,
-		"category": "Apparel",
-		"defname": "Apparel_hairband"
 	},
 	{
 		"abr": "maintenancejack",
@@ -3145,12 +3127,6 @@
 		"defname": "Mindscrew"
 	},
 	{
-		"abr": "minihat",
-		"price": 167,
-		"category": "Apparel",
-		"defname": "Apparel_mini"
-	},
-	{
 		"abr": "minitable",
 		"price": 88,
 		"category": "Furniture",
@@ -3212,7 +3188,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -3427,12 +3403,6 @@
 		"defname": "NuclearStomach"
 	},
 	{
-		"abr": "nuns_habi",
-		"price": 417,
-		"category": "Apparel",
-		"defname": "Apparel_nuns"
-	},
-	{
 		"abr": "nutrientpastemeal",
 		"price": 17,
 		"category": "Meals",
@@ -3443,12 +3413,6 @@
 		"price": 87,
 		"category": "Furniture",
 		"defname": "RGK_orc"
-	},
-	{
-		"abr": "offshoulderneat",
-		"price": 417,
-		"category": "Apparel",
-		"defname": "Apparel_neat"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
@@ -3632,7 +3596,7 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -4184,7 +4148,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -4235,18 +4199,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Rhinoceros"
-	},
-	{
-		"abr": "ribondress",
-		"price": 333,
-		"category": "Apparel",
-		"defname": "Apparel_ribondress"
-	},
-	{
-		"abr": "ribonhat",
-		"price": 167,
-		"category": "Apparel",
-		"defname": "Apparel_ribonhat"
 	},
 	{
 		"abr": "rice",
@@ -4742,61 +4694,61 @@
 	},
 	{
 		"abr": "techprint(brainwiring)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_BrainWiring"
 	},
 	{
 		"abr": "techprint(cataphractarmor)",
-		"price": 5000,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CataphractArmor"
 	},
 	{
 		"abr": "techprint(circadianinfluence)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CircadianInfluence"
 	},
 	{
 		"abr": "techprint(compactweaponry)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CompactWeaponry"
 	},
 	{
 		"abr": "techprint(fleshshaping)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_FleshShaping"
 	},
 	{
 		"abr": "techprint(healingfactors)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
 	{
 		"abr": "techprint(molecularanalysis)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_MolecularAnalysis"
 	},
 	{
 		"abr": "techprint(neuralcomputation)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_NeuralComputation"
 	},
 	{
 		"abr": "techprint(poisonsynthesis)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
 		"abr": "techprint(skinhardening)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SkinHardening"
 	},
@@ -5372,10 +5324,82 @@
 	},
 	{
 		"abr": "zeushammer",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
 	},
+	{
+		"abr": "clannfear",
+		"price": 667,
+		"category": "Animal",
+		"defname": "MorrowRim_Clannfear"
+	},
+	{
+		"abr": "clannfearegg(fert.)",
+		"price": 43,
+		"category": "Eggs (fert.)",
+		"defname": "MorrowRim_Egg_ClannfearFertilized"
+	},
+	{
+		"abr": "clannfearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MorrowRim_Clannfear"
+	},
+	{
+		"abr": "daedrahide",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "MorrowRim_DaedraHide"
+	},
+	{
+		"abr": "daedroth",
+		"price": 750,
+		"category": "Animal",
+		"defname": "MorrowRim_Daedroth"
+	},
+	{
+		"abr": "daedrothegg(fert.)",
+		"price": 47,
+		"category": "Eggs (fert.)",
+		"defname": "MorrowRim_Egg_DaedrothFertilized"
+	},
+	{
+		"abr": "daedrothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MorrowRim_Daedroth"
+	},
+	{
+		"abr": "ogrim",
+		"price": 833,
+		"category": "Animal",
+		"defname": "MorrowRim_Ogrim"
+	},
+	{
+		"abr": "ogrimegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "MorrowRim_Egg_OgrimFertilized"
+	},
+	{
+		"abr": "ogrimmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MorrowRim_Ogrim"
+	},
+	{
+		"abr": "scamp",
+		"price": 167,
+		"category": "Animal",
+		"defname": "MorrowRim_Scamp"
+	},
+	{
+		"abr": "scampmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_MorrowRim_Scamp"
+	}
 	],
-	"total": 934
+	"total": 946
 }

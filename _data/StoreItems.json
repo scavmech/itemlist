@@ -1322,13 +1322,13 @@
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
 	},
@@ -3122,7 +3122,7 @@
 	},
 	{
 		"abr": "enhancedshadowkeeper",
-		"price": 16667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_Shadowkeeper"
 	},
@@ -3362,7 +3362,7 @@
 	},
 	{
 		"abr": "largevanometricpowercell",
-		"price": 4000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_LargeVanometricPowerCell"
 	},
@@ -3572,7 +3572,7 @@
 	},
 	{
 		"abr": "poweredshadowkeeper",
-		"price": 33333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VBY_Powered_Shadowkeeper"
 	},
@@ -3722,7 +3722,7 @@
 	},
 	{
 		"abr": "smallvanometricpowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "VFE_SmallVanometricPowerCell"
 	},
@@ -3947,7 +3947,7 @@
 		"price": 392,
 		"category": "Melee weapons",
 		"defname": "VBY_XCom_Sword"
-	}
+	},
 	],
 	"total": 1127
 }

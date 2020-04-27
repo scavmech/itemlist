@@ -21,14 +21,8 @@
 	{
 		"abr": "agavefruit",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawAgave"
-	},
-	{
-		"abr": "aimanager",
-		"price": -10,
-		"category": "Production",
-		"defname": "FM_AIManager"
 	},
 	{
 		"abr": "alpaca",
@@ -39,7 +33,7 @@
 	{
 		"abr": "alpacameat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Alpaca"
 	},
 	{
@@ -57,7 +51,7 @@
 	{
 		"abr": "alphabeavermeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Alphabeaver"
 	},
 	{
@@ -80,7 +74,7 @@
 	},
 	{
 		"abr": "antigrainwarhead",
-		"price": 2000,
+		"price": -10,
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
@@ -151,12 +145,6 @@
 		"defname": "MeleeWeapon_Axe"
 	},
 	{
-		"abr": "basicmanagerdesk",
-		"price": 262,
-		"category": "Production",
-		"defname": "FM_BasicManagerStation"
-	},
-	{
 		"abr": "battery",
 		"price": 333,
 		"category": "Power",
@@ -165,7 +153,7 @@
 	{
 		"abr": "bearmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Bear_Grizzly"
 	},
 	{
@@ -189,7 +177,7 @@
 	{
 		"abr": "beef",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Cow"
 	},
 	{
@@ -201,7 +189,7 @@
 	{
 		"abr": "berries",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawBerries"
 	},
 	{
@@ -255,7 +243,7 @@
 	{
 		"abr": "birdmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Cassowary"
 	},
 	{
@@ -273,7 +261,7 @@
 	{
 		"abr": "bisonmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Bison"
 	},
 	{
@@ -303,7 +291,7 @@
 	{
 		"abr": "boomalopemeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Boomalope"
 	},
 	{
@@ -315,7 +303,7 @@
 	{
 		"abr": "boomratmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Boomrat"
 	},
 	{
@@ -363,7 +351,7 @@
 	{
 		"abr": "capybarameat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Capybara"
 	},
 	{
@@ -375,7 +363,7 @@
 	{
 		"abr": "cariboumeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Caribou"
 	},
 	{
@@ -399,7 +387,7 @@
 	{
 		"abr": "catmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Cat"
 	},
 	{
@@ -465,7 +453,7 @@
 	{
 		"abr": "chickenmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Chicken"
 	},
 	{
@@ -483,7 +471,7 @@
 	{
 		"abr": "chinchillameat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Chinchilla"
 	},
 	{
@@ -537,7 +525,7 @@
 	{
 		"abr": "cobrameat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Cobra"
 	},
 	{
@@ -555,7 +543,7 @@
 	{
 		"abr": "corn",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawCorn"
 	},
 	{
@@ -579,7 +567,7 @@
 	{
 		"abr": "cougarmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Cougar"
 	},
 	{
@@ -651,7 +639,7 @@
 	{
 		"abr": "donkeymeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Donkey"
 	},
 	{
@@ -699,7 +687,7 @@
 	{
 		"abr": "dromedarymeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Dromedary"
 	},
 	{
@@ -729,7 +717,7 @@
 	{
 		"abr": "duckmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Duck"
 	},
 	{
@@ -783,7 +771,7 @@
 	{
 		"abr": "elephantmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Elephant"
 	},
 	{
@@ -801,7 +789,7 @@
 	{
 		"abr": "elkmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Elk"
 	},
 	{
@@ -915,7 +903,7 @@
 	{
 		"abr": "foxmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Fox_Fennec"
 	},
 	{
@@ -963,7 +951,7 @@
 	{
 		"abr": "gazellemeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Gazelle"
 	},
 	{
@@ -993,7 +981,7 @@
 	{
 		"abr": "goatmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Goat"
 	},
 	{
@@ -1071,7 +1059,7 @@
 	{
 		"abr": "guineapigmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_GuineaPig"
 	},
 	{
@@ -1095,7 +1083,7 @@
 	{
 		"abr": "haremeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Hare"
 	},
 	{
@@ -1185,7 +1173,7 @@
 	{
 		"abr": "horsemeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Horse"
 	},
 	{
@@ -1215,7 +1203,7 @@
 	{
 		"abr": "humanmeat",
 		"price": 1,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Human"
 	},
 	{
@@ -1227,7 +1215,7 @@
 	{
 		"abr": "huskymeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Husky"
 	},
 	{
@@ -1245,12 +1233,12 @@
 	{
 		"abr": "ibexmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Ibex"
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
@@ -1293,7 +1281,7 @@
 	{
 		"abr": "iguanameat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Iguana"
 	},
 	{
@@ -1341,13 +1329,13 @@
 	{
 		"abr": "insectjelly",
 		"price": 13,
-		"category": "Animal products",
+		"category": "Raw animal products",
 		"defname": "InsectJelly"
 	},
 	{
 		"abr": "insectmeat",
 		"price": 1,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Megaspider"
 	},
 	{
@@ -1401,7 +1389,7 @@
 	{
 		"abr": "labradorretrievermeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_LabradorRetriever"
 	},
 	{
@@ -1509,7 +1497,7 @@
 	{
 		"abr": "lynxmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Lynx"
 	},
 	{
@@ -1529,12 +1517,6 @@
 		"price": 758,
 		"category": "Production",
 		"defname": "TableMachining"
-	},
-	{
-		"abr": "managerdesk",
-		"price": 508,
-		"category": "Production",
-		"defname": "FM_ManagerStation"
 	},
 	{
 		"abr": "marbleblocks",
@@ -1581,7 +1563,7 @@
 	{
 		"abr": "megaslothmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Megasloth"
 	},
 	{
@@ -1599,7 +1581,7 @@
 	{
 		"abr": "milk",
 		"price": 5,
-		"category": "Animal products",
+		"category": "Raw animal products",
 		"defname": "Milk"
 	},
 	{
@@ -1635,7 +1617,7 @@
 	{
 		"abr": "monkeymeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Monkey"
 	},
 	{
@@ -1659,7 +1641,7 @@
 	{
 		"abr": "muffalomeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Muffalo"
 	},
 	{
@@ -1827,7 +1809,7 @@
 	{
 		"abr": "panthermeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Panther"
 	},
 	{
@@ -1941,13 +1923,13 @@
 	{
 		"abr": "pork",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Pig"
 	},
 	{
 		"abr": "potatoes",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawPotatoes"
 	},
 	{
@@ -2199,7 +2181,7 @@
 	{
 		"abr": "raccoonmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Raccoon"
 	},
 	{
@@ -2211,13 +2193,13 @@
 	{
 		"abr": "ratmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Rat"
 	},
 	{
 		"abr": "rawfungus",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawFungus"
 	},
 	{
@@ -2277,13 +2259,13 @@
 	{
 		"abr": "rhinocerosmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Rhinoceros"
 	},
 	{
 		"abr": "rice",
 		"price": 2,
-		"category": "Vegetarian",
+		"category": "Raw vegetarian",
 		"defname": "RawRice"
 	},
 	{
@@ -2325,7 +2307,7 @@
 	{
 		"abr": "sheepmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Sheep"
 	},
 	{
@@ -2457,7 +2439,7 @@
 	{
 		"abr": "squirrelmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Squirrel"
 	},
 	{
@@ -2649,7 +2631,7 @@
 	{
 		"abr": "thrumbomeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Thrumbo"
 	},
 	{
@@ -2697,7 +2679,7 @@
 	{
 		"abr": "tortoisemeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Tortoise"
 	},
 	{
@@ -2705,18 +2687,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
-	},
-	{
-		"abr": "tradereportslog",
-		"price": 321,
-		"category": "Misc",
-		"defname": "ASReportsLog"
-	},
-	{
-		"abr": "tradereportsprinter",
-		"price": 317,
-		"category": "Misc",
-		"defname": "ASReportsPrinter"
 	},
 	{
 		"abr": "tribalheaddress",
@@ -2769,7 +2739,7 @@
 	{
 		"abr": "turkeymeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Turkey"
 	},
 	{
@@ -2799,7 +2769,7 @@
 	{
 		"abr": "venison",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Deer"
 	},
 	{
@@ -2847,7 +2817,7 @@
 	{
 		"abr": "wargmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Warg"
 	},
 	{
@@ -2865,7 +2835,7 @@
 	{
 		"abr": "wolfmeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Wolf_Timber"
 	},
 	{
@@ -2895,7 +2865,7 @@
 	{
 		"abr": "yakbeef",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_Yak"
 	},
 	{
@@ -2913,7 +2883,7 @@
 	{
 		"abr": "yorkshireterriermeat",
 		"price": 3,
-		"category": "Meat",
+		"category": "Raw meat",
 		"defname": "Meat_YorkshireTerrier"
 	},
 	{
@@ -2923,1031 +2893,1325 @@
 		"defname": "MeleeWeapon_Zeushammer"
 	},
 	{
-		"abr": "10mmpistol",
-		"price": 244,
-		"category": "Ranged weapons",
-		"defname": "rwa_10mmpistol"
-	},
-	{
-		"abr": "10mmsmg",
-		"price": 400,
-		"category": "Ranged weapons",
-		"defname": "rwa_10mmSMG"
-	},
-	{
-		"abr": "14mmpistol",
-		"price": 375,
-		"category": "Ranged weapons",
-		"defname": "rwa_14mmpistol"
-	},
-	{
-		"abr": "advancedbattery",
-		"price": 750,
-		"category": "Power",
-		"defname": "VFE_AdvancedBattery"
-	},
-	{
-		"abr": "arashi",
-		"price": 2158,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Arashi"
-	},
-	{
-		"abr": "arbalest",
-		"price": 322,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Arbalest"
-	},
-	{
-		"abr": "arbalest(flamingarrow)",
-		"price": 375,
-		"category": "Ranged weapons",
-		"defname": "Flame_Arbalest"
-	},
-	{
-		"abr": "arcblade",
-		"price": 667,
-		"category": "Melee weapons",
-		"defname": "VBY_Arc_Blade"
-	},
-	{
-		"abr": "archotechviolencegenerator",
-		"price": -10,
-		"category": "Special",
-		"defname": "VPE_ArchotechViolenceGenerator"
-	},
-	{
-		"abr": "atomiccoffee",
-		"price": 13,
-		"category": "Drugs",
-		"defname": "ACMM_atomiccoffee"
-	},
-	{
-		"abr": "atomiccoffeemaker",
-		"price": 2167,
+		"abr": "aimanager",
+		"price": 7833,
 		"category": "Production",
-		"defname": "FP_ACMM_building"
+		"defname": "FM_AIManager"
 	},
 	{
-		"abr": "ballista",
+		"abr": "basicmanagerdesk",
+		"price": 262,
+		"category": "Production",
+		"defname": "FM_BasicManagerStation"
+	},
+	{
+		"abr": "managerdesk",
 		"price": 508,
-		"category": "Security",
-		"defname": "Turret_Ballista"
+		"category": "Production",
+		"defname": "FM_ManagerStation"
 	},
 	{
-		"abr": "beamcannon",
-		"price": 3867,
+		"abr": "thesculpture",
+		"price": 10317,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_TheSculptureBase"
+	},
+	{
+		"abr": "4thbatter'sbloodybaseballbat",
+		"price": 1383,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_BBBB"
+	},
+	{
+		"abr": "alightinshiningdarkness",
+		"price": 229,
 		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Beam_Cannon"
+		"defname": "Hearts_JoshPistol"
 	},
 	{
-		"abr": "beampistol",
-		"price": 842,
+		"abr": "absoluteanswer30",
+		"price": 2200,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerTZ"
+	},
+	{
+		"abr": "absoluteanswer34",
+		"price": 2200,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerTF"
+	},
+	{
+		"abr": "absoluteanswer38",
+		"price": 2200,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerTE"
+	},
+	{
+		"abr": "absoluteanswer42",
+		"price": 4008,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerFT"
+	},
+	{
+		"abr": "absoluteanswer46",
+		"price": 2200,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerFS"
+	},
+	{
+		"abr": "absoluteanswer50",
+		"price": 2200,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AbsoluteAnswerFZ"
+	},
+	{
+		"abr": "adrenalineinjector",
+		"price": 2250,
 		"category": "Ranged weapons",
-		"defname": "VBY_XCOM_Plasma_Pistol"
+		"defname": "Gun_EVAAI"
 	},
 	{
-		"abr": "beamrifle",
-		"price": 1483,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Plasma_AssaultRifle"
-	},
-	{
-		"abr": "blastmasterhelmet",
-		"price": 188,
-		"category": "Headgear",
-		"defname": "Apparel_RaiderBlastmasterHelmet"
-	},
-	{
-		"abr": "blowgun",
-		"price": 231,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Blowgun"
-	},
-	{
-		"abr": "buddasculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "BuddaSculpture"
-	},
-	{
-		"abr": "candycotton",
-		"price": 2,
-		"category": "Animal products",
-		"defname": "CandyCotton"
-	},
-	{
-		"abr": "candycottonflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "CandyCottonFlommel"
-	},
-	{
-		"abr": "candycottonflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCandyCottonFlommelFertilized"
-	},
-	{
-		"abr": "catapult",
-		"price": 667,
-		"category": "Security",
-		"defname": "Turret_Catapult"
-	},
-	{
-		"abr": "chasmoflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "ChasmoFlommel"
-	},
-	{
-		"abr": "chasmoflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggChasmoFlommelFertilized"
-	},
-	{
-		"abr": "cloudcocoa",
-		"price": 25,
-		"category": "Meals",
-		"defname": "CloudCocoa"
-	},
-	{
-		"abr": "dalmaflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "DalmaFlommel"
-	},
-	{
-		"abr": "dalmaflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggDalmaFlommelFertilized"
-	},
-	{
-		"abr": "darkclaw",
-		"price": 1100,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCOM_Darkclaw"
-	},
-	{
-		"abr": "darklance",
-		"price": 2325,
-		"category": "Ranged weapons",
-		"defname": "VBY_Xcom_Darklance"
-	},
-	{
-		"abr": "discussculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "DiscusSculpture"
-	},
-	{
-		"abr": "disrupterrifle",
-		"price": 2267,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Disrupter_Rifle"
-	},
-	{
-		"abr": "dks-501sniperrifle",
-		"price": 1075,
-		"category": "Ranged weapons",
-		"defname": "rwa_SniperRifle"
-	},
-	{
-		"abr": "eleriumcrystals",
-		"price": 20,
-		"category": "Raw resources",
-		"defname": "VBY_Elerium_Crystals"
-	},
-	{
-		"abr": "enhancedshadowkeeper",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VBY_Shadowkeeper"
-	},
-	{
-		"abr": "finepackagedsurvivalmeal",
-		"price": 33,
-		"category": "Meals",
-		"defname": "MealSurvivalPackFine"
-	},
-	{
-		"abr": "flommelfruit",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawFlommelFruit"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_PinkFlommel"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_StarfruitFlommel"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_PomegranateFlommel"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_OceanBreezeFlommel"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_WinterkissFlommel"
-	},
-	{
-		"abr": "flommelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_LizardFlommel"
-	},
-	{
-		"abr": "flommelmilk",
-		"price": 5,
-		"category": "Animal products",
-		"defname": "FlommelMilk"
-	},
-	{
-		"abr": "flommelwool",
+		"abr": "agavemosto",
 		"price": 4,
-		"category": "Textiles",
-		"defname": "WoolFlommel"
+		"category": "Alcohol precursors",
+		"defname": "RC2_AgaveMosto"
 	},
 	{
-		"abr": "fruitymilk",
+		"abr": "agavenectar",
+		"price": 7,
+		"category": "Processed sweets",
+		"defname": "RC2_AgaveNectar"
+	},
+	{
+		"abr": "ale",
+		"price": 15,
+		"category": "Alcohol",
+		"defname": "RC2_Ale"
+	},
+	{
+		"abr": "alefermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_AleFermentingBarrel"
+	},
+	{
+		"abr": "altarofthetrickstergodofcards",
+		"price": 5592,
+		"category": "Art",
+		"defname": "VOSB_XobehaltarBase"
+	},
+	{
+		"abr": "ambrosiafermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_AmbrosiaFermentingBarrel"
+	},
+	{
+		"abr": "ambrosiamust",
+		"price": 83,
+		"category": "Alcohol precursors",
+		"defname": "RC2_AmbrosiaMust"
+	},
+	{
+		"abr": "ambrosianectar",
+		"price": 208,
+		"category": "Alcohol",
+		"defname": "RC2_AmbrosiaNectar"
+	},
+	{
+		"abr": "applemust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_AppleMust"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawApples"
+	},
+	{
+		"abr": "aquascepter",
+		"price": 3308,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_AquaScepterTurret"
+	},
+	{
+		"abr": "archerstatue",
+		"price": 925,
+		"category": "Art",
+		"defname": "VOSB_ArcherstatueBase"
+	},
+	{
+		"abr": "arrack",
+		"price": 33,
+		"category": "Alcohol",
+		"defname": "RC2_Arrack"
+	},
+	{
+		"abr": "arrackfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_ArrackFermentingBarrel"
+	},
+	{
+		"abr": "asparagus",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawAsparagus"
+	},
+	{
+		"abr": "assemblingmachine",
+		"price": 1133,
+		"category": "VOSBsecurity",
+		"defname": "FACAssemblingMachine"
+	},
+	{
+		"abr": "atfielddeployer",
+		"price": 1967,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_ATFDBasezero"
+	},
+	{
+		"abr": "atfielddeployer",
+		"price": 1967,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_ATFDBaseone"
+	},
+	{
+		"abr": "atfielddeployer",
+		"price": 1967,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_ATFDBasetwo"
+	},
+	{
+		"abr": "bananas",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawBanana"
+	},
+	{
+		"abr": "banknote",
+		"price": 1667,
+		"category": "Manufactured",
+		"defname": "BankNote"
+	},
+	{
+		"abr": "barley",
+		"price": 2,
+		"category": "Raw grains",
+		"defname": "RC2_RawBarley"
+	},
+	{
+		"abr": "bazelbombardier",
+		"price": 5033,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Bazelbombardier"
+	},
+	{
+		"abr": "beets",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawBeets"
+	},
+	{
+		"abr": "bionicbrainpal",
+		"price": 5000,
+		"category": "Bionic",
+		"defname": "BionicTacticalImplant"
+	},
+	{
+		"abr": "bionicopticaltentacle",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "LTF_BionicOpticalTentacle"
+	},
+	{
+		"abr": "bionicsensorytentacle",
+		"price": 1717,
+		"category": "Bionic",
+		"defname": "LTF_BionicSensoryTentacle"
+	},
+	{
+		"abr": "bionictail",
+		"price": 2242,
+		"category": "Bionic",
+		"defname": "LTF_BionicTail"
+	},
+	{
+		"abr": "bird",
 		"price": 5,
-		"category": "Animal products",
-		"defname": "FruityMilk"
+		"category": "VOSB weapons",
+		"defname": "VOSB_Bird"
 	},
 	{
-		"abr": "fungusflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "FungusFlommel"
-	},
-	{
-		"abr": "fungusflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggFungusFlommelFertilized"
-	},
-	{
-		"abr": "fusionblade",
-		"price": 1000,
-		"category": "Melee weapons",
-		"defname": "VBY_Fusion_Blade"
-	},
-	{
-		"abr": "gasheater",
-		"price": 218,
-		"category": "Temperature",
-		"defname": "VPE_GasHeater"
-	},
-	{
-		"abr": "gaspoweredexcavator",
-		"price": 483,
-		"category": "Production",
-		"defname": "VPE_GasDrill"
-	},
-	{
-		"abr": "gassunlamp",
-		"price": 160,
-		"category": "Furniture",
-		"defname": "VPE_GasSunLamp"
-	},
-	{
-		"abr": "gastank",
-		"price": 321,
-		"category": "Power",
-		"defname": "VPE_GasTank"
-	},
-	{
-		"abr": "gaussrifle",
-		"price": 1258,
-		"category": "Ranged weapons",
-		"defname": "VBY_Xcom_GaussRifle"
-	},
-	{
-		"abr": "glowflommel",
-		"price": 1042,
-		"category": "Animal",
-		"defname": "GlowFlommel"
-	},
-	{
-		"abr": "glowflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggGlowFlommelFertilized"
-	},
-	{
-		"abr": "greatbow(flamingarrow)",
-		"price": 204,
-		"category": "Ranged weapons",
-		"defname": "Bowgreat_Flame"
-	},
-	{
-		"abr": "greeksculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "GreekSculpture"
-	},
-	{
-		"abr": "growingzonepuller",
-		"price": 475,
-		"category": "Buildings",
-		"defname": "MovingRailGreenPuller"
-	},
-	{
-		"abr": "healgelee",
-		"price": 17,
-		"category": "Medicine",
-		"defname": "HealGelee"
-	},
-	{
-		"abr": "helixiengassmelter",
-		"price": 667,
-		"category": "Production",
-		"defname": "VPE_GasSmelter"
-	},
-	{
-		"abr": "helixiengasstove",
-		"price": 375,
-		"category": "Production",
-		"defname": "VPE_GasStove"
-	},
-	{
-		"abr": "huntingrifle",
-		"price": 542,
-		"category": "Ranged weapons",
-		"defname": "rwa_HuntingRifle"
-	},
-	{
-		"abr": "iaaniversaryapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "IA_Aniversary_Apparel"
-	},
-	{
-		"abr": "iamarineapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "IA_Marine_Apparel"
-	},
-	{
-		"abr": "iamarinehat",
-		"price": 197,
-		"category": "Headgear",
-		"defname": "IA_Marine_Hat"
-	},
-	{
-		"abr": "iaofficialinner",
-		"price": 558,
-		"category": "Vocaloid apparel",
-		"defname": "Official_Inner"
-	},
-	{
-		"abr": "iaofficialouter",
-		"price": 197,
-		"category": "Vocaloid apparel",
-		"defname": "Official_Outer"
-	},
-	{
-		"abr": "iarocksofficialapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "IA_ROCKS"
-	},
-	{
-		"abr": "iaschoolapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "IA_School_Apparel"
-	},
-	{
-		"abr": "kal-7bullpup",
-		"price": 717,
-		"category": "Ranged weapons",
-		"defname": "GVBY_KAL7_Bullpup"
-	},
-	{
-		"abr": "keksculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "KekSculpture"
-	},
-	{
-		"abr": "largeadvancedbattery",
+		"abr": "bloodshooter",
 		"price": 1467,
-		"category": "Power",
-		"defname": "VFE_LargeAdvancedBattery"
+		"category": "VOSBsecurity",
+		"defname": "VOSB_BloodShooter"
 	},
 	{
-		"abr": "largebattery",
-		"price": 667,
-		"category": "Power",
-		"defname": "VFE_LargeBattery"
+		"abr": "blueportal",
+		"price": 883,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_BluePortalBase"
 	},
 	{
-		"abr": "largevanometricpowercell",
-		"price": -10,
-		"category": "Special",
-		"defname": "VFE_LargeVanometricPowerCell"
+		"abr": "bluesky",
+		"price": 37,
+		"category": "Drugs",
+		"defname": "RC2_BlueSky"
 	},
 	{
-		"abr": "lavishpackagedsurvivalmeal",
+		"abr": "brandy",
+		"price": 133,
+		"category": "Alcohol",
+		"defname": "RC2_Brandy"
+	},
+	{
+		"abr": "breadfruit",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawBreadfruit"
+	},
+	{
+		"abr": "brinedvegetables",
+		"price": 2,
+		"category": "Foods",
+		"defname": "RC2_PickleBrine"
+	},
+	{
+		"abr": "bulletshield(humanmade)",
+		"price": 4675,
+		"category": "Security",
+		"defname": "PlayerShieldGeneratorBullets"
+	},
+	{
+		"abr": "burnrifle",
+		"price": 2083,
+		"category": "Ranged weapons",
+		"defname": "Gun_EVABR"
+	},
+	{
+		"abr": "cabbages",
+		"price": 1,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawCabbages"
+	},
+	{
+		"abr": "cactusfruit",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawCactusFruit"
+	},
+	{
+		"abr": "camouflageturret",
+		"price": 608,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_CamoTurretBase"
+	},
+	{
+		"abr": "candy",
+		"price": 1,
+		"category": "Snacks",
+		"defname": "RC2_MealCandy"
+	},
+	{
+		"abr": "cannedfruit",
+		"price": 17,
+		"category": "Processed fruits",
+		"defname": "RC2_CannedFruit"
+	},
+	{
+		"abr": "cannedmeal",
+		"price": 17,
+		"category": "Meals",
+		"defname": "RC2_CannedMeal"
+	},
+	{
+		"abr": "cannedmeat",
+		"price": 20,
+		"category": "Processed meat",
+		"defname": "RC2_CannedMeat"
+	},
+	{
+		"abr": "cannedvegetables",
+		"price": 17,
+		"category": "Processed vegetables",
+		"defname": "RC2_CannedVegetables"
+	},
+	{
+		"abr": "cannery",
+		"price": 558,
+		"category": "Production",
+		"defname": "RC2_Cannery"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawCarrots"
+	},
+	{
+		"abr": "cheese",
+		"price": 5,
+		"category": "Processed animal products",
+		"defname": "RC2_Cheese"
+	},
+	{
+		"abr": "cheesepress",
+		"price": 85,
+		"category": "Production",
+		"defname": "RC2_CheesePress"
+	},
+	{
+		"abr": "cherries",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawCherries"
+	},
+	{
+		"abr": "chickpeas",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawChickpeas"
+	},
+	{
+		"abr": "chilipeppers",
+		"price": 3,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawPeppers"
+	},
+	{
+		"abr": "chocolateicecream",
+		"price": 10,
+		"category": "Snacks",
+		"defname": "RC2_MealChocolateIceCream"
+	},
+	{
+		"abr": "chunkegg",
+		"price": 10,
+		"category": "Eggs (fert.)",
+		"defname": "LTF_ChunkEgg"
+	},
+	{
+		"abr": "cider",
+		"price": 23,
+		"category": "Alcohol",
+		"defname": "RC2_Cider"
+	},
+	{
+		"abr": "ciderfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_CiderFermentingBarrel"
+	},
+	{
+		"abr": "cigar",
+		"price": 7,
+		"category": "Drugs",
+		"defname": "RC2_Cigar"
+	},
+	{
+		"abr": "cigarette",
+		"price": 1,
+		"category": "Drugs",
+		"defname": "RC2_Cigarette"
+	},
+	{
+		"abr": "citrusfruits",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawOrange"
+	},
+	{
+		"abr": "cocoabeans",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RC2_RawCocoaBeans"
+	},
+	{
+		"abr": "coconutwort",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_CoconutWort"
+	},
+	{
+		"abr": "coconuts",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawCoconut"
+	},
+	{
+		"abr": "coffee",
+		"price": 5,
+		"category": "Drinks",
+		"defname": "RC2_Coffee"
+	},
+	{
+		"abr": "coffeebeans",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "RC2_RawCoffeeBeans"
+	},
+	{
+		"abr": "conjurerstatue",
+		"price": 1392,
+		"category": "Art",
+		"defname": "VOSB_ConjurerstatueBase"
+	},
+	{
+		"abr": "cornmash",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_CornMash"
+	},
+	{
+		"abr": "crisps",
+		"price": 8,
+		"category": "Snacks",
+		"defname": "RC2_MealCrisps"
+	},
+	{
+		"abr": "crustypeanuts",
+		"price": 25,
+		"category": "Snacks",
+		"defname": "RC2_MealCrustyPeanuts"
+	},
+	{
+		"abr": "cucumbers",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawCucumbers"
+	},
+	{
+		"abr": "cupcake",
+		"price": 2,
+		"category": "Snacks",
+		"defname": "RC2_MealCupcake"
+	},
+	{
+		"abr": "cyanportal",
+		"price": 883,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_CyanPortalBase"
+	},
+	{
+		"abr": "dewegg",
+		"price": 8,
+		"category": "Eggs (fert.)",
+		"defname": "LTF_DewEgg"
+	},
+	{
+		"abr": "directionalseffleparticledispenser",
+		"price": 6825,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_DSPDBase"
+	},
+	{
+		"abr": "distiller",
+		"price": 392,
+		"category": "Production",
+		"defname": "RC2_Distiller"
+	},
+	{
+		"abr": "dreamflowerpods",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "RC2_RawDreamflower"
+	},
+	{
+		"abr": "dreamstick",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "RC2_Dreamstick"
+	},
+	{
+		"abr": "driedfruit",
+		"price": 3,
+		"category": "Processed fruits",
+		"defname": "RC2_DriedFruit"
+	},
+	{
+		"abr": "driedmeat",
+		"price": 4,
+		"category": "Processed meat",
+		"defname": "RC2_DriedMeat"
+	},
+	{
+		"abr": "durians",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawDurians"
+	},
+	{
+		"abr": "dwarvenautomaticcrossbow",
+		"price": 1608,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_DACBase"
+	},
+	{
+		"abr": "eggnog",
+		"price": 2,
+		"category": "Drinks",
+		"defname": "RC2_Eggnog"
+	},
+	{
+		"abr": "eggplants",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawEggplants"
+	},
+	{
+		"abr": "electricbrewery",
+		"price": 500,
+		"category": "Production",
+		"defname": "RC2_ElectricBrewery"
+	},
+	{
+		"abr": "electricdistiller",
+		"price": 500,
+		"category": "Production",
+		"defname": "RC2_ElectricDistiller"
+	},
+	{
+		"abr": "electronicbrainpal",
+		"price": 3250,
+		"category": "Bionic",
+		"defname": "ElectronicTacticalImplant"
+	},
+	{
+		"abr": "energydrink",
+		"price": 5,
+		"category": "Drinks",
+		"defname": "RC2_EnergyDrink"
+	},
+	{
+		"abr": "extravagantmeal",
+		"price": 133,
+		"category": "Meals",
+		"defname": "RC2_ExtravagantMeal"
+	},
+	{
+		"abr": "factorydesignedgunturret",
+		"price": 3633,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_FACGunTurretBase"
+	},
+	{
+		"abr": "factorydesignedlaserturret",
+		"price": 3717,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_FACLaserTurretBase"
+	},
+	{
+		"abr": "figs",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawFigs"
+	},
+	{
+		"abr": "firespitterstatue",
+		"price": 1017,
+		"category": "Art",
+		"defname": "VOSB_FirespitterstatueBase"
+	},
+	{
+		"abr": "fireworks",
+		"price": 129,
+		"category": "VOSB weapons",
+		"defname": "Weapon_RVFireworks"
+	},
+	{
+		"abr": "fireworkstuberack",
+		"price": 467,
+		"category": "VOSBsecurity",
+		"defname": "Fireworkstube"
+	},
+	{
+		"abr": "flameballista",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_EVAIP"
+	},
+	{
+		"abr": "floatingturret",
+		"price": 975,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_FlyingTurret"
+	},
+	{
+		"abr": "flour",
+		"price": 5,
+		"category": "Processed grains",
+		"defname": "RC2_Flour"
+	},
+	{
+		"abr": "floxacine",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "RC2_Floxacine"
+	},
+	{
+		"abr": "fondlingvestigialshell",
+		"price": 4950,
+		"category": "Bionic",
+		"defname": "LTF_FondlingVestigialShell"
+	},
+	{
+		"abr": "forcefielddeployer",
+		"price": 1008,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_FFDBase"
+	},
+	{
+		"abr": "fruitdryingrack",
+		"price": 85,
+		"category": "Production",
+		"defname": "RC2_FruitDryingRack"
+	},
+	{
+		"abr": "fruitjuice",
+		"price": 2,
+		"category": "Drinks",
+		"defname": "RC2_MealJuice"
+	},
+	{
+		"abr": "fruitmust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_FruitMust"
+	},
+	{
+		"abr": "fruitpreserves",
+		"price": 10,
+		"category": "Processed fruits",
+		"defname": "RC2_FruitPreserves"
+	},
+	{
+		"abr": "fruitsoda",
+		"price": 2,
+		"category": "Drinks",
+		"defname": "RC2_FruitSoda"
+	},
+	{
+		"abr": "fruitwine",
+		"price": 22,
+		"category": "Alcohol",
+		"defname": "RC2_FruitWine"
+	},
+	{
+		"abr": "fruitwinefermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_FruitWineFermentingBarrel"
+	},
+	{
+		"abr": "fulminantprism",
+		"price": 333,
+		"category": "VOSB weapons",
+		"defname": "VOSB_Fulminantprismthrow"
+	},
+	{
+		"abr": "fulminantprism",
+		"price": 1,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Fulminantprism"
+	},
+	{
+		"abr": "gemofsummonwerewolf",
+		"price": 1667,
+		"category": "VOSB weapons",
+		"defname": "VOSB_KagerouSummongem"
+	},
+	{
+		"abr": "gin",
+		"price": 43,
+		"category": "Alcohol",
+		"defname": "RC2_Gin"
+	},
+	{
+		"abr": "ginfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_GinFermentingBarrel"
+	},
+	{
+		"abr": "ginprecursor",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_GinPrecursor"
+	},
+	{
+		"abr": "glasscannonturret",
+		"price": 57,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_GlassCannon"
+	},
+	{
+		"abr": "grapemust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_GrapeMust"
+	},
+	{
+		"abr": "grapes",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawGrapes"
+	},
+	{
+		"abr": "greentea",
+		"price": 4,
+		"category": "Drinks",
+		"defname": "RC2_GreenTea"
+	},
+	{
+		"abr": "grog",
+		"price": 3,
+		"category": "Alcohol",
+		"defname": "RC2_Grog"
+	},
+	{
+		"abr": "handcannonturret",
+		"price": 7992,
+		"category": "VOSBsecurity",
+		"defname": "Turret_HandCannonTurret"
+	},
+	{
+		"abr": "hardenedminiturret",
+		"price": 775,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_HardenedTurretBase"
+	},
+	{
+		"abr": "hardtack",
+		"price": 0,
+		"category": "Meals",
+		"defname": "RC2_Hardtack"
+	},
+	{
+		"abr": "headwraps",
+		"price": 79,
+		"category": "Headgear",
+		"defname": "Apparel_HeartsHeadWraps"
+	},
+	{
+		"abr": "hellcatcaller",
+		"price": 1667,
+		"category": "VOSB weapons",
+		"defname": "VOSB_OrinSummonScroll"
+	},
+	{
+		"abr": "high-explosiverockets",
+		"price": 367,
+		"category": "VOSB Shells",
+		"defname": "VOSB_RocketShell_HighExplosive"
+	},
+	{
+		"abr": "holodecoyprojector",
+		"price": 1450,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_HDPBase"
+	},
+	{
+		"abr": "honey",
+		"price": 13,
+		"category": "Raw sweets",
+		"defname": "RC2_Honey"
+	},
+	{
+		"abr": "honeymust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_HoneyMust"
+	},
+	{
+		"abr": "hotcocoa",
+		"price": 2,
+		"category": "Drinks",
+		"defname": "RC2_HotCocoa"
+	},
+	{
+		"abr": "icecream",
+		"price": 7,
+		"category": "Snacks",
+		"defname": "RC2_MealIceCream"
+	},
+	{
+		"abr": "icedtea",
+		"price": 2,
+		"category": "Drinks",
+		"defname": "RC2_IcedTea"
+	},
+	{
+		"abr": "joshuagraham'sarmour",
+		"price": 268,
+		"category": "Apparel",
+		"defname": "Apparel_HeartsGrahamsArmour"
+	},
+	{
+		"abr": "juniperberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawJuniperBerries"
+	},
+	{
+		"abr": "kneecapper",
+		"price": 683,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_KneeCapper"
+	},
+	{
+		"abr": "krapken",
+		"price": 125,
+		"category": "Animal",
+		"defname": "LTF_Krapken"
+	},
+	{
+		"abr": "krapkenegg",
+		"price": 13,
+		"category": "Eggs (fert.)",
+		"defname": "LTF_KrapkenEgg"
+	},
+	{
+		"abr": "krapkenmeat",
+		"price": 3,
+		"category": "Raw meat",
+		"defname": "Meat_LTF_Krapken"
+	},
+	{
+		"abr": "krapskin",
+		"price": 7,
+		"category": "Leathers",
+		"defname": "Leather_Krapken"
+	},
+	{
+		"abr": "kraptyl",
+		"price": 4,
+		"category": "Raw resources",
+		"defname": "LTF_Kraptyl"
+	},
+	{
+		"abr": "kumis",
+		"price": 17,
+		"category": "Alcohol",
+		"defname": "RC2_Kumis"
+	},
+	{
+		"abr": "kumisfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_KumisFermentingBarrel"
+	},
+	{
+		"abr": "kumismust",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_KumisMust"
+	},
+	{
+		"abr": "launcherrocket",
+		"price": 1667,
+		"category": "VOSB weapons",
+		"defname": "VOSB_LauncherRocket"
+	},
+	{
+		"abr": "legobricks",
+		"price": 77,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Legomine"
+	},
+	{
+		"abr": "lehudib'scrystalspear",
+		"price": 1225,
+		"category": "VOSBsecurity",
+		"defname": "Turret_LehudibTurret"
+	},
+	{
+		"abr": "luceferium",
+		"price": 200,
+		"category": "Drugs",
+		"defname": "VOSB_LuCEferium"
+	},
+	{
+		"abr": "luditecannon",
+		"price": 4475,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_LuditeCannonBase"
+	},
+	{
+		"abr": "magicmushrooms",
+		"price": 10,
+		"category": "Drugs",
+		"defname": "RC2_Shrooms"
+	},
+	{
+		"abr": "mead",
+		"price": 20,
+		"category": "Alcohol",
+		"defname": "RC2_Mead"
+	},
+	{
+		"abr": "meadfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "RC2_MeadFermentingBarrel"
+	},
+	{
+		"abr": "mechwarrior",
+		"price": 5567,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_MechwarriorBase"
+	},
+	{
+		"abr": "megabloodshooter",
+		"price": 1908,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_MegaBloodShooter"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawMelons"
+	},
+	{
+		"abr": "microturretlauncher",
+		"price": 1442,
+		"category": "Ranged weapons",
+		"defname": "Gun_MicroTurretLauncher"
+	},
+	{
+		"abr": "milkcurds",
+		"price": 1,
+		"category": "Foods",
+		"defname": "RC2_MilkCurd"
+	},
+	{
+		"abr": "minecanistershell",
+		"price": 367,
+		"category": "VOSB Shells",
+		"defname": "VOSB_Shell_Mine"
+	},
+	{
+		"abr": "minelayer",
+		"price": 492,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_MineLayerBase"
+	},
+	{
+		"abr": "minimine",
+		"price": 6,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_MiniMine"
+	},
+	{
+		"abr": "moonshine",
+		"price": 23,
+		"category": "Alcohol",
+		"defname": "RC2_Moonshine"
+	},
+	{
+		"abr": "moonshineprecursor",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_MoonshinePrecursor"
+	},
+	{
+		"abr": "mortarshield(humanmade)",
+		"price": 6392,
+		"category": "Security",
+		"defname": "PlayerShieldGeneratorMortar"
+	},
+	{
+		"abr": "mrlpod",
+		"price": 650,
+		"category": "VOSBsecurity",
+		"defname": "LightMRL"
+	},
+	{
+		"abr": "nanoprinter",
+		"price": 758,
+		"category": "Production",
+		"defname": "NanoPrinter"
+	},
+	{
+		"abr": "nanoregenturret",
+		"price": 1408,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_RegenTurretBase"
+	},
+	{
+		"abr": "nanoscanner",
+		"price": 160,
+		"category": "Production",
+		"defname": "NanoScanner"
+	},
+	{
+		"abr": "nanowelder",
+		"price": 2975,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Nanowelder"
+	},
+	{
+		"abr": "neutronblaster",
+		"price": 4817,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Neutronblasterbase"
+	},
+	{
+		"abr": "note7",
+		"price": 86,
+		"category": "VOSB weapons",
+		"defname": "VOSB_Noteseven"
+	},
+	{
+		"abr": "nuclearmissile",
+		"price": 4742,
+		"category": "Retaliator Weapon",
+		"defname": "VOSB_RetaliatorNukeWarhead"
+	},
+	{
+		"abr": "oatwort",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_OatWort"
+	},
+	{
+		"abr": "oats",
+		"price": 2,
+		"category": "Raw grains",
+		"defname": "RC2_RawOats"
+	},
+	{
+		"abr": "onions",
+		"price": 2,
+		"category": "Raw vegetables",
+		"defname": "RC2_RawOnion"
+	},
+	{
+		"abr": "opticaltentacle",
+		"price": 333,
+		"category": "Natural",
+		"defname": "OpticalTentacle"
+	},
+	{
+		"abr": "orangeportal",
+		"price": 883,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_OrangePortalBase"
+	},
+	{
+		"abr": "orbcard",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "VOSB_Orbcard"
+	},
+	{
+		"abr": "overheatedminibattery",
+		"price": 173,
+		"category": "VOSB weapons",
+		"defname": "VOSB_Overheatedbattery"
+	},
+	{
+		"abr": "pastry",
+		"price": 2,
+		"category": "Snacks",
+		"defname": "RC2_MealPastry"
+	},
+	{
+		"abr": "peaches",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawPeaches"
+	},
+	{
+		"abr": "pecans",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawPecans"
+	},
+	{
+		"abr": "photonray",
+		"price": 4908,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_Photonray"
+	},
+	{
+		"abr": "pickledvegetables",
+		"price": 2,
+		"category": "Processed vegetables",
+		"defname": "RC2_PickledVegetables"
+	},
+	{
+		"abr": "picklingbarrel",
+		"price": 85,
+		"category": "Production",
+		"defname": "RC2_PicklingBarrel"
+	},
+	{
+		"abr": "pineapples",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawPineapples"
+	},
+	{
+		"abr": "pizza",
 		"price": 67,
 		"category": "Meals",
-		"defname": "MealSurvivalPackLavish"
+		"defname": "RC2_Pizza"
 	},
 	{
-		"abr": "lightcrossbow",
-		"price": 229,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Crossbow"
+		"abr": "plagueshell",
+		"price": 67,
+		"category": "VOSB Shells",
+		"defname": "VOSB_Plagueshell"
 	},
 	{
-		"abr": "lightcrossbow(flamingarrow)",
-		"price": 279,
-		"category": "Ranged weapons",
-		"defname": "Flame_Crossbow"
+		"abr": "plums",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "RC2_RawPlums"
 	},
 	{
-		"abr": "lightningrod",
-		"price": 667,
-		"category": "Special",
-		"defname": "VPE_LightningRod"
-	},
-	{
-		"abr": "lizardflommel",
-		"price": 542,
-		"category": "Animal",
-		"defname": "LizardFlommel"
-	},
-	{
-		"abr": "lizardflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggLizardFlommelFertilized"
-	},
-	{
-		"abr": "magcannon",
-		"price": 2692,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Mag_Cannon"
-	},
-	{
-		"abr": "magneticrifle",
-		"price": 1125,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Mag_AssaultRifle"
-	},
-	{
-		"abr": "mapleflommel",
-		"price": 750,
-		"category": "Animal",
-		"defname": "MapleFlommel"
-	},
-	{
-		"abr": "mapleflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggMapleFlommelFertilized"
-	},
-	{
-		"abr": "mapleflommelegg(unfert.)",
-		"price": 17,
-		"category": "Eggs (unfert.)",
-		"defname": "EggMapleFlommelUnfertilized"
-	},
-	{
-		"abr": "meditationcushion",
-		"price": 175,
-		"category": "Furniture",
-		"defname": "MeditationCushion"
-	},
-	{
-		"abr": "moaisculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "MoaiSculpture"
-	},
-	{
-		"abr": "mothflommel",
-		"price": 750,
-		"category": "Animal",
-		"defname": "MothFlommel"
-	},
-	{
-		"abr": "mothflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggMothFlommelFertilized"
-	},
-	{
-		"abr": "neurotrainer(meditation)",
-		"price": -10,
-		"category": "Neurotrainers",
-		"defname": "Neurotrainer_Meditation"
-	},
-	{
-		"abr": "oceanbreezeflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "OceanBreezeFlommel"
-	},
-	{
-		"abr": "oceanbreezeflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggOceanBreezeFlommelFertilized"
-	},
-	{
-		"abr": "oneaniversaryapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "ONE_Aniversary_Apparel"
-	},
-	{
-		"abr": "onedarlingapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "Darling_Apparel"
-	},
-	{
-		"abr": "onedarlinghat",
-		"price": 197,
-		"category": "Headgear",
-		"defname": "Darling_Hat"
-	},
-	{
-		"abr": "onemarineapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "ONE_Marine_Apparel"
-	},
-	{
-		"abr": "onemarinehat",
-		"price": 197,
-		"category": "Headgear",
-		"defname": "ONE_Marine_Hat"
-	},
-	{
-		"abr": "oneofficialapparel",
-		"price": 675,
-		"category": "Vocaloid apparel",
-		"defname": "Official_ONE"
-	},
-	{
-		"abr": "oneschoolapparel",
-		"price": 783,
-		"category": "Vocaloid apparel",
-		"defname": "ONE_School_Apparel"
-	},
-	{
-		"abr": "peltflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "PeltFlommel"
-	},
-	{
-		"abr": "peltflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggPeltFlommelFertilized"
-	},
-	{
-		"abr": "pinkflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "PinkFlommel"
-	},
-	{
-		"abr": "pinkflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggPinkFlommelFertilized"
-	},
-	{
-		"abr": "plasmalance",
-		"price": 1875,
-		"category": "Ranged weapons",
-		"defname": "VBY_Xcom_PlasmaLance"
-	},
-	{
-		"abr": "pomegranateflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "PomegranateFlommel"
-	},
-	{
-		"abr": "pomegranateflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggPomegranateFlommelFertilized"
-	},
-	{
-		"abr": "portablechemfuelpoweredgenerator",
-		"price": 242,
-		"category": "Power",
-		"defname": "VFE_PortableChemfuelPoweredGenerator"
-	},
-	{
-		"abr": "portablewood-firedgenerator",
-		"price": 189,
-		"category": "Power",
-		"defname": "VFE_PortableWoodFiredGenerator"
-	},
-	{
-		"abr": "poweredshadowkeeper",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VBY_Powered_Shadowkeeper"
-	},
-	{
-		"abr": "psycho-tichelmet",
-		"price": 193,
-		"category": "Headgear",
-		"defname": "Apparel_RaiderPsycho-tic"
-	},
-	{
-		"abr": "psytrainer(bandage)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiBind"
-	},
-	{
-		"abr": "psytrainer(becomerabbit)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiForRabbit"
-	},
-	{
-		"abr": "psytrainer(blinking)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiSkipAndBack"
-	},
-	{
-		"abr": "psytrainer(changegender)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiSexConversion"
-	},
-	{
-		"abr": "psytrainer(charge)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiCharge"
-	},
-	{
-		"abr": "psytrainer(corpseexplosion)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiCorpseExplosion"
-	},
-	{
-		"abr": "psytrainer(diffusioncorpseexplosion)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiCorpseExplosionPlus"
-	},
-	{
-		"abr": "psytrainer(giftofdamage)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiDamageTransOtr"
-	},
-	{
-		"abr": "psytrainer(injuryextraction)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiDamageTransfer"
-	},
-	{
-		"abr": "psytrainer(madbeasts)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_LingAbiMadBeast"
-	},
-	{
-		"abr": "puller",
-		"price": 475,
-		"category": "Buildings",
-		"defname": "MovingRailPuller"
-	},
-	{
-		"abr": "pusher",
-		"price": 293,
-		"category": "Buildings",
-		"defname": "MovingRailPusher"
-	},
-	{
-		"abr": "raidersadistarmour",
-		"price": 229,
-		"category": "Apparel",
-		"defname": "Apparel_RadierLightSad"
-	},
-	{
-		"abr": "rainbowflommel",
-		"price": 958,
-		"category": "Animal",
-		"defname": "RainbowFlommel"
-	},
-	{
-		"abr": "rainbowflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggRainbowFlommelFertilized"
-	},
-	{
-		"abr": "recurvebow(flamingarrow)",
-		"price": 160,
-		"category": "Ranged weapons",
-		"defname": "Bowrecurve_Flame"
-	},
-	{
-		"abr": "repeatingcrossbow",
-		"price": 400,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Repeatingcrossbow"
-	},
-	{
-		"abr": "shardgun",
-		"price": 792,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Magnetic_Shotgun"
-	},
-	{
-		"abr": "shortbow(flamingarrow)",
-		"price": 112,
-		"category": "Ranged weapons",
-		"defname": "Bowshort_Flame"
-	},
-	{
-		"abr": "shroomsoup",
-		"price": 25,
-		"category": "Animal products",
-		"defname": "ShroomSoup"
-	},
-	{
-		"abr": "slimyleather",
-		"price": 5,
-		"category": "Leathers",
-		"defname": "Leather_Slimy"
-	},
-	{
-		"abr": "sling",
-		"price": 37,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Slinger"
-	},
-	{
-		"abr": "smallbattery",
-		"price": 182,
-		"category": "Power",
-		"defname": "VFE_SmallBattery"
-	},
-	{
-		"abr": "smallvanometricpowercell",
-		"price": -10,
-		"category": "Special",
-		"defname": "VFE_SmallVanometricPowerCell"
-	},
-	{
-		"abr": "spikeflommel",
-		"price": 625,
-		"category": "Animal",
-		"defname": "SpikeFlommel"
-	},
-	{
-		"abr": "spikeflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggSpikeFlommelFertilized"
-	},
-	{
-		"abr": "starfruitflommel",
-		"price": 583,
-		"category": "Animal",
-		"defname": "StarfruitFlommel"
-	},
-	{
-		"abr": "starfruitflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggStarfruitFlommelFertilized"
-	},
-	{
-		"abr": "stegoflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "StegoFlommel"
-	},
-	{
-		"abr": "stegoflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggStegoFlommelFertilized"
-	},
-	{
-		"abr": "stormgun",
-		"price": 1433,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Plasma_Shotgun"
-	},
-	{
-		"abr": "sweetspikes",
-		"price": 33,
-		"category": "Meals",
-		"defname": "SweetSpikes"
-	},
-	{
-		"abr": "temnoticrifle",
-		"price": 1458,
-		"category": "Ranged weapons",
-		"defname": "VBY_Temnotic_Rifle"
-	},
-	{
-		"abr": "thinkersculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "ThinkerSculpture"
-	},
-	{
-		"abr": "throwingtorch",
-		"price": 61,
-		"category": "Melee weapons",
-		"defname": "Ranged_Torch"
-	},
-	{
-		"abr": "tomahawk",
-		"price": 238,
-		"category": "Melee weapons",
-		"defname": "Ranged_Tomahawk"
-	},
-	{
-		"abr": "tranquilizerturret",
-		"price": 1092,
-		"category": "Security",
-		"defname": "TranqTurretGun"
-	},
-	{
-		"abr": "trebuchet",
-		"price": 925,
-		"category": "Security",
-		"defname": "Turret_Trebuchet"
-	},
-	{
-		"abr": "trickleflommel",
+		"abr": "pneumostome",
 		"price": 417,
-		"category": "Animal",
-		"defname": "TrickleFlommel"
+		"category": "Natural",
+		"defname": "Pneumostome"
 	},
 	{
-		"abr": "trickleflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggTrickleFlommelFertilized"
-	},
-	{
-		"abr": "trikeflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "TrikeFlommel"
-	},
-	{
-		"abr": "trikeflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggTrikeFlommelFertilized"
-	},
-	{
-		"abr": "triple-bowcrossbow",
-		"price": 617,
-		"category": "Security",
-		"defname": "Turret_Triplecrossbow"
-	},
-	{
-		"abr": "tynansculpture",
-		"price": 450,
-		"category": "Art",
-		"defname": "TynanSculpture"
-	},
-	{
-		"abr": "vektorrifle",
-		"price": 1183,
-		"category": "Ranged weapons",
-		"defname": "VBY_Vektor_Rifle"
-	},
-	{
-		"abr": "waist-stretchedcrossbow",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "Ranged_Waistcrossbow"
-	},
-	{
-		"abr": "wastehoundhelmet",
-		"price": 222,
-		"category": "Headgear",
-		"defname": "Apparel_RaiderWasterRag"
-	},
-	{
-		"abr": "weldinghelmet",
-		"price": 118,
-		"category": "Headgear",
-		"defname": "Apparel_RaiderWeldingHelmet"
-	},
-	{
-		"abr": "winterkissflommel",
+		"abr": "pocketball",
 		"price": 833,
-		"category": "Animal",
-		"defname": "WinterkissFlommel"
+		"category": "VOSB weapons",
+		"defname": "VOSB_Pocketball"
 	},
 	{
-		"abr": "winterkissflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggWinterkissFlommelFertilized"
+		"abr": "pomegranates",
+		"price": 3,
+		"category": "Raw fruits",
+		"defname": "RC2_RawPomegranates"
 	},
 	{
-		"abr": "winterkissice",
-		"price": 50,
-		"category": "Special",
-		"defname": "WinterkissIce"
+		"abr": "portableturret",
+		"price": 1258,
+		"category": "VOSBsecurity",
+		"defname": "VOSB_PortableTurretBase"
 	},
 	{
-		"abr": "woollyflommel",
-		"price": 708,
-		"category": "Animal",
-		"defname": "WoollyFlommel"
+		"abr": "potatomash",
+		"price": 4,
+		"category": "Alcohol precursors",
+		"defname": "RC2_PotatoMash"
 	},
 	{
-		"abr": "woollyflommelegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggWoollyFlommelFertilized"
+		"abr": "preparedfruit",
+		"price": 2,
+		"category": "Foods",
+		"defname": "RC2_PreparedFruit"
 	},
 	{
-		"abr": "x-assaultrifle",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_AssaultRifle"
+		"abr": "procurebench",
+		"price": 358,
+		"category": "VOSBsecurity",
+		"defname": "VOSBProcurebench"
 	},
 	{
-		"abr": "x-cannon",
-		"price": 1933,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Cannon"
+		"abr": "professorlauncher",
+		"price": 2467,
+		"category": "VOSB weapons",
+		"defname": "VOSB_VolgaLauncher"
 	},
 	{
-		"abr": "x-katana",
-		"price": 1650,
-		"category": "Melee weapons",
-		"defname": "VBY_Katana"
+		"abr": "prostheticopticaltentacle",
+		"price": 700,
+		"category": "Prosthetic",
+		"defname": "LTF_ProstheticOpticalTentacle"
 	},
 	{
-		"abr": "x-magpistol",
+		"abr": "prostheticsensorytentacle",
+		"price": 276,
+		"category": "Prosthetic",
+		"defname": "LTF_ProstheticSensoryTentacle"
+	},
+	{
+		"abr": "prosthetictail",
+		"price": 358,
+		"category": "Prosthetic",
+		"defname": "LTF_ProstheticTail"
+	},
+	{
+		"abr": "psytrainer(disarm)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Disarm"
+	},
+	{
+		"abr": "psytrainer(dread)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Dread"
+	},
+	{
+		"abr": "psytrainer(entropybond)",
+		"price": 1417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Entropy_Bond"
+	},
+	{
+		"abr": "psytrainer(haste)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Haste"
+	},
+	{
+		"abr": "psytrainer(manhunt)",
+		"price": 1167,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Manhunt"
+	},
+	{
+		"abr": "psytrainer(massskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Mass_Skip"
+	},
+	{
+		"abr": "psytrainer(meditate)",
 		"price": 417,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCOM_Mag_Pistol"
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Meditate"
 	},
 	{
-		"abr": "x-pistol",
-		"price": 226,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCOM_Pistol"
+		"abr": "psytrainer(migraine)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Migraine"
 	},
 	{
-		"abr": "x-shotgun",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "VBY_XCom_Shotgun"
+		"abr": "psytrainer(nausea)",
+		"price": 667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Nausea"
 	},
 	{
-		"abr": "x-sniper",
-		"price": 883,
-		"category": "Ranged weapons",
-		"defname": "VBY_Xcom_SniperRifle"
+		"abr": "psytrainer(painshock)",
+		"price": 917,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Pain_Shock"
 	},
 	{
-		"abr": "x-sword",
-		"price": 392,
-		"category": "Melee weapons",
-		"defname": "VBY_XCom_Sword"
+		"abr": "psytrainer(rally)",
+		"price": 417,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Rally"
+	},
+	{
+		"abr": "psytrainer(shadowskip)",
+		"price": 1667,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Shadow_Skip"
 	},
 	],
-	"total": 1127
+	"total": 796
 }

@@ -1568,7 +1568,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -2311,30 +2311,6 @@
 		"defname": "Apparel_ShirtRuffle"
 	},
 	{
-		"abr": "30mmcannon",
-		"price": 1517,
-		"category": "Ranged weapons",
-		"defname": "Gun_Cannon"
-	},
-	{
-		"abr": "ac-96",
-		"price": 817,
-		"category": "Ranged weapons",
-		"defname": "Gun_AC-96a"
-	},
-	{
-		"abr": "akm-74",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "Gun_AKm-74a"
-	},
-	{
-		"abr": "akm-74u",
-		"price": 775,
-		"category": "Ranged weapons",
-		"defname": "Gun_AKm-74u"
-	},
-	{
 		"abr": "ancientcarpet2x1",
 		"price": 282,
 		"category": "Furniture",
@@ -2371,12 +2347,6 @@
 		"defname": "SadjuukCarpetCE"
 	},
 	{
-		"abr": "anti-materialpistol",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "Gun_AMP"
-	},
-	{
 		"abr": "archivalcabinet",
 		"price": 350,
 		"category": "Misc",
@@ -2393,12 +2363,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Armadillo"
-	},
-	{
-		"abr": "automaticrocketlauncher",
-		"price": 2533,
-		"category": "Ranged weapons",
-		"defname": "Gun_ARL"
 	},
 	{
 		"abr": "basicsurgerytools",
@@ -2539,22 +2503,10 @@
 		"defname": "Meat_Budgerigar"
 	},
 	{
-		"abr": "bulldog6",
-		"price": 933,
-		"category": "Grenades",
-		"defname": "Weapon_Bulldog_6a"
-	},
-	{
 		"abr": "ceramicheater",
 		"price": 925,
 		"category": "Temperature",
 		"defname": "SadjuukHeaterAB"
-	},
-	{
-		"abr": "chaser13",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_Chaser-13a"
 	},
 	{
 		"abr": "cockatiel",
@@ -2579,12 +2531,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Cockatiel"
-	},
-	{
-		"abr": "coilgun",
-		"price": 2450,
-		"category": "Ranged weapons",
-		"defname": "Gun_CG"
 	},
 	{
 		"abr": "commonerrobes",
@@ -2665,12 +2611,6 @@
 		"defname": "SadjuukBedBB"
 	},
 	{
-		"abr": "doublebarrelassaultshotgun",
-		"price": 1142,
-		"category": "Ranged weapons",
-		"defname": "Gun_DBAS"
-	},
-	{
 		"abr": "electricdangersign",
 		"price": 67,
 		"category": "Furniture",
@@ -2687,12 +2627,6 @@
 		"price": 304,
 		"category": "Temperature",
 		"defname": "SadjuukHeaterAA"
-	},
-	{
-		"abr": "eliminator",
-		"price": 742,
-		"category": "Ranged weapons",
-		"defname": "Gun_Eliminator"
 	},
 	{
 		"abr": "elitejanissaryuniform",
@@ -2743,18 +2677,6 @@
 		"defname": "SadjuukHighBannerCF"
 	},
 	{
-		"abr": "ft-200m",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_FT-200M"
-	},
-	{
-		"abr": "fulljacketpistol",
-		"price": 283,
-		"category": "Ranged weapons",
-		"defname": "Gun_FMJP"
-	},
-	{
 		"abr": "galliabanner",
 		"price": 116,
 		"category": "Furniture",
@@ -2777,18 +2699,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_Gartersnake"
-	},
-	{
-		"abr": "gasmask",
-		"price": 199,
-		"category": "Headgear",
-		"defname": "Apparel_GM"
-	},
-	{
-		"abr": "gauss-rifle",
-		"price": 1633,
-		"category": "Ranged weapons",
-		"defname": "Gun_GaussRifle"
 	},
 	{
 		"abr": "gdibanner",
@@ -2837,18 +2747,6 @@
 		"price": 742,
 		"category": "Furniture",
 		"defname": "SadjuukTableED"
-	},
-	{
-		"abr": "gp-37",
-		"price": 817,
-		"category": "Ranged weapons",
-		"defname": "Gun_GP-37a"
-	},
-	{
-		"abr": "greathelm",
-		"price": 272,
-		"category": "Headgear",
-		"defname": "Apparel_GreatHelm"
 	},
 	{
 		"abr": "greenlight",
@@ -2965,12 +2863,6 @@
 		"defname": "Meat_Hedgehog"
 	},
 	{
-		"abr": "il-86",
-		"price": 817,
-		"category": "Ranged weapons",
-		"defname": "Gun_IL-86a"
-	},
-	{
 		"abr": "imperialbanner",
 		"price": 116,
 		"category": "Furniture",
@@ -3053,12 +2945,6 @@
 		"price": 52,
 		"category": "Furniture",
 		"defname": "SadjuukSurgeryBA"
-	},
-	{
-		"abr": "militarywintercoat",
-		"price": 408,
-		"category": "Apparel",
-		"defname": "Apparel_MilitaryWinterCoat"
 	},
 	{
 		"abr": "moderncarpet2x1",
@@ -3163,12 +3049,6 @@
 		"defname": "SKs_Tulwar"
 	},
 	{
-		"abr": "peakedcap",
-		"price": 417,
-		"category": "Headgear",
-		"defname": "Apparel_PC"
-	},
-	{
 		"abr": "plasteelmeetingtable",
 		"price": 1675,
 		"category": "Furniture",
@@ -3239,12 +3119,6 @@
 		"price": 750,
 		"category": "Furniture",
 		"defname": "SadjuukTableEF"
-	},
-	{
-		"abr": "polymersubmachinegun",
-		"price": 508,
-		"category": "Ranged weapons",
-		"defname": "Gun_PSMG"
 	},
 	{
 		"abr": "radiationwarningsign",
@@ -3373,12 +3247,6 @@
 		"defname": "SadjuukWallLightCR"
 	},
 	{
-		"abr": "redeemer",
-		"price": 2750,
-		"category": "Ranged weapons",
-		"defname": "Gun_Redeemer"
-	},
-	{
 		"abr": "researchdesk",
 		"price": 458,
 		"category": "Production",
@@ -3433,18 +3301,6 @@
 		"defname": "SadjuukCarpetCF"
 	},
 	{
-		"abr": "rp-74",
-		"price": 1150,
-		"category": "Ranged weapons",
-		"defname": "Gun_RP-74a"
-	},
-	{
-		"abr": "rpg-7u",
-		"price": 875,
-		"category": "Grenades",
-		"defname": "Weapon_RPG-7u"
-	},
-	{
 		"abr": "rusbanner",
 		"price": 116,
 		"category": "Furniture",
@@ -3463,34 +3319,10 @@
 		"defname": "SadjuukSurgeryAA"
 	},
 	{
-		"abr": "saavalanche",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_SA-Avalanche"
-	},
-	{
 		"abr": "sandstoneblocks",
 		"price": 2,
 		"category": "Stone blocks",
 		"defname": "BlocksSandstone"
-	},
-	{
-		"abr": "sawlauncher",
-		"price": 1158,
-		"category": "Ranged weapons",
-		"defname": "Gun_SL"
-	},
-	{
-		"abr": "sawn-offtoz-66",
-		"price": 608,
-		"category": "Ranged weapons",
-		"defname": "Gun_TOZ-66a"
-	},
-	{
-		"abr": "sgi-5k",
-		"price": 817,
-		"category": "Ranged weapons",
-		"defname": "Gun_SGI-5k"
 	},
 	{
 		"abr": "sheep",
@@ -3533,12 +3365,6 @@
 		"price": 74,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
-	},
-	{
-		"abr": "shoulder-padgatlingshotgun",
-		"price": 1342,
-		"category": "Ranged weapons",
-		"defname": "Gun_SPGS"
 	},
 	{
 		"abr": "silver",
@@ -3703,12 +3529,6 @@
 		"defname": "Apparel_SpikedSnowshoes"
 	},
 	{
-		"abr": "spsa-14",
-		"price": 650,
-		"category": "Ranged weapons",
-		"defname": "Gun_SPSA-14a"
-	},
-	{
 		"abr": "squirrel",
 		"price": -10,
 		"category": "Animal",
@@ -3847,18 +3667,6 @@
 		"defname": "SadjuukChairBC"
 	},
 	{
-		"abr": "sterilestandinglamp",
-		"price": 100,
-		"category": "Misc",
-		"defname": "sterile_standing_lamp"
-	},
-	{
-		"abr": "steriletable",
-		"price": 184,
-		"category": "Misc",
-		"defname": "sterile_table"
-	},
-	{
 		"abr": "stonecutter'stable",
 		"price": 358,
 		"category": "Production",
@@ -3887,24 +3695,6 @@
 		"price": 4783,
 		"category": "Misc",
 		"defname": "SadjuukSurgeryAD"
-	},
-	{
-		"abr": "svdm-2",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_SVDm2a"
-	},
-	{
-		"abr": "svdm-2wood",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_SVDm2w"
-	},
-	{
-		"abr": "svumk-2",
-		"price": 842,
-		"category": "Ranged weapons",
-		"defname": "Gun_OTs03SVU"
 	},
 	{
 		"abr": "synthread",
@@ -3937,92 +3727,86 @@
 		"defname": "Table3x3c"
 	},
 	{
-		"abr": "tagelmust",
-		"price": 112,
-		"category": "Headgear",
-		"defname": "Apparel_Tagelmust"
-	},
-	{
 		"abr": "techprint(artificialmetabolism)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
 		"abr": "techprint(brainwiring)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_BrainWiring"
 	},
 	{
 		"abr": "techprint(cataphractarmor)",
-		"price": 5000,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CataphractArmor"
 	},
 	{
 		"abr": "techprint(circadianinfluence)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CircadianInfluence"
 	},
 	{
 		"abr": "techprint(compactweaponry)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_CompactWeaponry"
 	},
 	{
 		"abr": "techprint(fleshshaping)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_FleshShaping"
 	},
 	{
 		"abr": "techprint(healingfactors)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
 	{
 		"abr": "techprint(molecularanalysis)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_MolecularAnalysis"
 	},
 	{
 		"abr": "techprint(neuralcomputation)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_NeuralComputation"
 	},
 	{
 		"abr": "techprint(poisonsynthesis)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
 		"abr": "techprint(skinhardening)",
-		"price": 3333,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SkinHardening"
 	},
 	{
 		"abr": "techprint(specializedlimbs)",
-		"price": 1667,
+		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
 	},
 	{
 		"abr": "techprofsubpersonacore",
-		"price": 1667,
+		"price": -10,
 		"category": "Items",
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
 		"abr": "telescope",
-		"price": 583,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
@@ -4075,12 +3859,6 @@
 		"defname": "Leather_Thrumbo"
 	},
 	{
-		"abr": "thunders-14",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_ThunderS-14a"
-	},
-	{
 		"abr": "timberwolf",
 		"price": -10,
 		"category": "Animal",
@@ -4100,7 +3878,7 @@
 	},
 	{
 		"abr": "tornadogenerator",
-		"price": 1333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TornadoGenerator"
 	},
@@ -4127,12 +3905,6 @@
 		"price": 1717,
 		"category": "Bionic",
 		"defname": "ToughskinGland"
-	},
-	{
-		"abr": "toz-34",
-		"price": 617,
-		"category": "Ranged weapons",
-		"defname": "Gun_TOZ-34a"
 	},
 	{
 		"abr": "tradereportslog",
@@ -4207,12 +3979,6 @@
 		"defname": "Gun_TripleRocket"
 	},
 	{
-		"abr": "trs-301",
-		"price": 800,
-		"category": "Ranged weapons",
-		"defname": "Gun_TRs-301a"
-	},
-	{
 		"abr": "t-shirt",
 		"price": 143,
 		"category": "Apparel",
@@ -4268,7 +4034,7 @@
 	},
 	{
 		"abr": "unstablepowercell",
-		"price": 667,
+		"price": -10,
 		"category": "Special",
 		"defname": "UnstablePowerCell"
 	},
@@ -4285,14 +4051,8 @@
 		"defname": "Urn"
 	},
 	{
-		"abr": "ushanka",
-		"price": 129,
-		"category": "Headgear",
-		"defname": "Apparel_Ushanka"
-	},
-	{
 		"abr": "vanometricpowercell",
-		"price": 2000,
+		"price": -10,
 		"category": "Special",
 		"defname": "VanometricPowerCell"
 	},
@@ -4313,18 +4073,6 @@
 		"price": 592,
 		"category": "Prosthetic",
 		"defname": "VenomTalon"
-	},
-	{
-		"abr": "vintarbc",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "Gun_VintarBC"
-	},
-	{
-		"abr": "viper5",
-		"price": 675,
-		"category": "Ranged weapons",
-		"defname": "Gun_Viper-5a"
 	},
 	{
 		"abr": "vitalsmonitor",
@@ -4693,173 +4441,347 @@
 		"defname": "SadjuukLightBY"
 	},
 	{
-		"abr": "yellowlight",
-		"price": 226,
-		"category": "Furniture",
-		"defname": "SadjuukLightCY"
+		"abr": "casquehelmet",
+		"price": 1392,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_Casque_Helmet"
 	},
 	{
-		"abr": "yellowlight",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "SadjuukLightFY"
+		"abr": "chestplate(ar)armor",
+		"price": 1458,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_ChestPlate_AR_Armor"
 	},
 	{
-		"abr": "yellowlight",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "SadjuukLightGY"
+		"abr": "chestplatearmor",
+		"price": 2367,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_ChestPlate_Armor"
 	},
 	{
-		"abr": "yellowstreetlight",
-		"price": 302,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightAY"
+		"abr": "coloredchestplate(ar)armor",
+		"price": 2367,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_ChestPlate_AR_Armor"
 	},
 	{
-		"abr": "yellowstreetlight",
-		"price": 302,
-		"category": "Furniture",
-		"defname": "SadjuukStreetLightBY"
+		"abr": "coloredchestplatearmor",
+		"price": 2367,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_ChestPlate_Armor"
 	},
 	{
-		"abr": "yellowtorch",
-		"price": 300,
-		"category": "Furniture",
-		"defname": "SadjuukLightAY"
+		"abr": "coloredfieldmarshal(ar)armor",
+		"price": 2550,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_FieldMarshal_AR_Armor"
 	},
 	{
-		"abr": "yellowtorch",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "SadjuukLightDY"
+		"abr": "coloredfieldmarshalarmor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_FieldMarshal_Armor"
 	},
 	{
-		"abr": "yellowtorch",
-		"price": 333,
-		"category": "Furniture",
-		"defname": "SadjuukLightEY"
+		"abr": "coloredfootsoldier(ar)armor",
+		"price": 2450,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_FootSoldier_AR_Armor"
 	},
 	{
-		"abr": "yellowwalllight",
-		"price": 300,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightAY"
+		"abr": "coloredfootsoldierarmor",
+		"price": 2375,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_FootSoldier_Armor"
 	},
 	{
-		"abr": "yellowwalllight",
-		"price": 300,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightBY"
+		"abr": "coloredkingarmor",
+		"price": 3517,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_King_Armor"
 	},
 	{
-		"abr": "yellowwalllight",
-		"price": 301,
-		"category": "Furniture",
-		"defname": "SadjuukWallLightCY"
+		"abr": "coloredknightarmor",
+		"price": 3517,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_Knight_Armor"
 	},
 	{
-		"abr": "yorkshireterrier",
-		"price": -10,
+		"abr": "coloredknightcaptainarmor",
+		"price": 3592,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_Knight_Captain"
+	},
+	{
+		"abr": "coloredplategambesonararmor",
+		"price": 1033,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_PlateGambeson_AR_Armor"
+	},
+	{
+		"abr": "coloredplategambesonarmor",
+		"price": 983,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_PlateGambeson_Armor"
+	},
+	{
+		"abr": "coloredscholararmor",
+		"price": 2808,
+		"category": "Exiled Dawn Armor",
+		"defname": "Colored_Scholar_Armor"
+	},
+	{
+		"abr": "defenderhelmet",
+		"price": 1917,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_Defender_Helmet"
+	},
+	{
+		"abr": "fieldmarshal(ar)armor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_FieldMarshal_AR_Armor"
+	},
+	{
+		"abr": "fieldmarshalarmor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_FieldMarshal_Armor"
+	},
+	{
+		"abr": "flagpole",
+		"price": 92,
+		"category": "Buildings",
+		"defname": "JDSExiledDawnFlagPole"
+	},
+	{
+		"abr": "footsoldier(ar)armor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_FootSoldier_AR_Armor"
+	},
+	{
+		"abr": "footsoldierarmor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_FootSoldier_Armor"
+	},
+	{
+		"abr": "footsoldierheadgear",
+		"price": 1933,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_FootSoldier_Headgear"
+	},
+	{
+		"abr": "headguard",
+		"price": 2367,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_Headguard"
+	},
+	{
+		"abr": "kingarmor",
+		"price": 2633,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_King_Armor"
+	},
+	{
+		"abr": "kingcrown",
+		"price": 3342,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_King_Crown_Icon"
+	},
+	{
+		"abr": "knightarmor",
+		"price": 2633,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_Knight_Armor"
+	},
+	{
+		"abr": "knightcaptainarmor",
+		"price": 2633,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_Knight_Captain"
+	},
+	{
+		"abr": "knightheadgear",
+		"price": 4467,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_Knight_Headgear"
+	},
+	{
+		"abr": "locker",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "RqLocker"
+	},
+	{
+		"abr": "peregrinefalcon",
+		"price": 83,
 		"category": "Animal",
-		"defname": "YorkshireTerrier"
+		"defname": "Peregrine_falcon"
 	},
 	{
-		"abr": "yorkshireterriermeat",
+		"abr": "peregrinefalconegg(fert.)",
+		"price": 25,
+		"category": "Eggs (fert.)",
+		"defname": "EggperegrinefalconFertilized"
+	},
+	{
+		"abr": "peregrinefalconegg(unfert.)",
+		"price": 25,
+		"category": "Eggs (unfert.)",
+		"defname": "EggperegrinefalconUnfertilized"
+	},
+	{
+		"abr": "peregrinefalconmeat",
 		"price": 3,
 		"category": "Meat",
-		"defname": "Meat_YorkshireTerrier"
+		"defname": "Meat_Peregrine_falcon"
 	},
 	{
-		"abr": "zeushammer",
-		"price": 3333,
+		"abr": "platedplategambesonararmor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_PlateGambeson_AR_Armor"
+	},
+	{
+		"abr": "platedplategambesonarmor",
+		"price": 2500,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_PlateGambeson_Armor"
+	},
+	{
+		"abr": "reforgedalpha",
+		"price": 4183,
 		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Zeushammer"
+		"defname": "JDSExiledDawn_Melee_Reforged_Alpha"
 	},
 	{
-		"abr": "бандитскаякуртка",
-		"price": 316,
-		"category": "Apparel",
-		"defname": "Apparel_BanditShirt"
+		"abr": "reforgedbludgeon",
+		"price": 2317,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_Bludgeon"
 	},
 	{
-		"abr": "волкер-п9м",
-		"price": 600,
+		"abr": "reforgedcannon",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_Walker_P9m"
+		"defname": "JDSExiledDawn_Reforged_Cannon"
 	},
 	{
-		"abr": "капюшонбандитскойкуртки",
-		"price": 242,
-		"category": "Headgear",
-		"defname": "Apparel_BanditHood"
+		"abr": "reforgedeternalglory",
+		"price": 2633,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_Eternal_Glory"
 	},
 	{
-		"abr": "капюшонкожанойкуртки",
-		"price": 242,
-		"category": "Headgear",
-		"defname": "Apparel_LonerHood"
+		"abr": "reforgedheadhunter",
+		"price": 3492,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_Headhunter"
 	},
 	{
-		"abr": "кожанаякуртка",
-		"price": 316,
-		"category": "Apparel",
-		"defname": "Apparel_LonerShirt"
+		"abr": "reforgedoathkeeper",
+		"price": 2317,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_Oathkeeper"
 	},
 	{
-		"abr": "кора-919",
-		"price": 608,
+		"abr": "reforgedplasmaminigun",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_Kora-919a"
+		"defname": "JDSExiledDawn_Reforged_Plasma_Minigun"
 	},
 	{
-		"abr": "марта",
-		"price": 608,
+		"abr": "reforgedplasmarail",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_Martha"
+		"defname": "JDSExiledDawn_Reforged_Plasma_Rail"
 	},
 	{
-		"abr": "пб-1с",
-		"price": 600,
+		"abr": "reforgedplasmarifle",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_PB1s"
+		"defname": "JDSExiledDawn_Reforged_Plasma_Rifle"
 	},
 	{
-		"abr": "пмм",
-		"price": 592,
+		"abr": "reforgedplasmashooter",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_PMm"
+		"defname": "JDSExiledDawn_Reforged_Plasma_Shooter"
 	},
 	{
-		"abr": "сип-тм200",
-		"price": 617,
+		"abr": "reforgedplasmashortstop",
+		"price": 2500,
 		"category": "Ranged weapons",
-		"defname": "Gun_SIP-tM200a"
+		"defname": "JDSExiledDawn_Reforged_Plasma_Shortstop"
 	},
 	{
-		"abr": "удп«компакт»",
-		"price": 617,
-		"category": "Ranged weapons",
-		"defname": "Gun_UDP_Compat"
+		"abr": "reforgedwarcleaver",
+		"price": 1825,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_WarCleaver"
 	},
 	{
-		"abr": "фора-12",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "Gun_Fort-12a"
+		"abr": "reforgedwarspear",
+		"price": 2475,
+		"category": "Melee weapons",
+		"defname": "JDSExiledDawn_Melee_Reforged_WarSpear"
 	},
 	{
-		"abr": "хпсс-1м",
-		"price": 600,
-		"category": "Ranged weapons",
-		"defname": "Gun_HPSS-1m"
+		"abr": "royalcrown",
+		"price": 3342,
+		"category": "Exiled Dawn Headgear",
+		"defname": "ExiledDawn_Royal_Crown"
 	},
 	{
-		"abr": "чёрныйястреб",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_BlackKite"
+		"abr": "scholararmor",
+		"price": 2525,
+		"category": "Exiled Dawn Armor",
+		"defname": "ExiledDawn_Scholar_Armor"
+	},
+	{
+		"abr": "techprint(exileddawnknowledge)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnStart"
+	},
+	{
+		"abr": "techprint(exileddawnphasmarailgun)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnPhasmaRail"
+	},
+	{
+		"abr": "techprint(exileddawnphasmaspc.)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnPhasmaSpc"
+	},
+	{
+		"abr": "techprint(exileddawnplasmaweapon)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnweaponsRanged"
+	},
+	{
+		"abr": "techprint(kingarmor)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnKingArmor"
+	},
+	{
+		"abr": "techprint(knightarmor)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnKnightArmor"
+	},
+	{
+		"abr": "techprint(knightcaptainarmor)",
+		"price": -1,
+		"category": "Techprints",
+		"defname": "Techprint_JDSExiledDawnKnightCaptainArmor"
 	}
 	],
-	"total": 810
+	"total": 815
 }

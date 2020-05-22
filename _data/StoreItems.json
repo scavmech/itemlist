@@ -644,7 +644,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -2624,7 +2624,7 @@
 	},
 	{
 		"abr": "telescope",
-		"price": 583,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
@@ -2732,7 +2732,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -3181,12 +3181,6 @@
 		"defname": "SpellOf_BloodMoon"
 	},
 	{
-		"abr": "bombpiece",
-		"price": 833,
-		"category": "Items",
-		"defname": "BombGemitem"
-	},
-	{
 		"abr": "bondagebed",
 		"price": 205,
 		"category": "Furniture",
@@ -3209,12 +3203,6 @@
 		"price": 6375,
 		"category": "Apparel",
 		"defname": "TM_Artifact_BracersOfThePacifist"
-	},
-	{
-		"abr": "bustersword",
-		"price": 4500,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_CloudBuster"
 	},
 	{
 		"abr": "casquehelmet",
@@ -3380,45 +3368,39 @@
 	},
 	{
 		"abr": "combatstyle:bladedancer",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfBladedancer"
 	},
 	{
 		"abr": "combatstyle:commander",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfCommander"
 	},
 	{
 		"abr": "combatstyle:deathknight",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfDeathKnight"
 	},
 	{
 		"abr": "combatstyle:monk",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfMonk"
 	},
 	{
 		"abr": "combatstyle:ranger",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfRanger"
 	},
 	{
 		"abr": "combatstyle:sniper",
-		"price": 4292,
+		"price": -10,
 		"category": "Skill books",
 		"defname": "BookOfSniper"
-	},
-	{
-		"abr": "cranebotraycannon",
-		"price": 2250,
-		"category": "Ranged weapons",
-		"defname": "Gun_CraneRay_A"
 	},
 	{
 		"abr": "daedrahide",
@@ -3769,12 +3751,6 @@
 		"defname": "Meat_SyntheticGazelle"
 	},
 	{
-		"abr": "gelnikabomberbombardmenttargeter",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "ShinraargeterBombardment"
-	},
-	{
 		"abr": "gemofarcaneinsight",
 		"price": 5000,
 		"category": "Magic artifacts",
@@ -3983,12 +3959,6 @@
 		"price": 425,
 		"category": "Headgear",
 		"defname": "Apparel_CIInsurgentHelmetMask"
-	},
-	{
-		"abr": "j.e.n.o.v.acellsflask",
-		"price": 5833,
-		"category": "Prosthetic",
-		"defname": "JenovaCellsfrask"
 	},
 	{
 		"abr": "kagouti",
@@ -4285,30 +4255,6 @@
 		"defname": "TM_EStone_wonder_major"
 	},
 	{
-		"abr": "makobarrels",
-		"price": 5,
-		"category": "Manufactured",
-		"defname": "Makobarrel"
-	},
-	{
-		"abr": "makocondenser",
-		"price": 2775,
-		"category": "Production",
-		"defname": "Materiacondenser"
-	},
-	{
-		"abr": "makosuspensiontank",
-		"price": 967,
-		"category": "Furniture",
-		"defname": "SRMakSuspensionTank"
-	},
-	{
-		"abr": "maksteelingots",
-		"price": 58,
-		"category": "Raw resources",
-		"defname": "MakSteelRe"
-	},
-	{
 		"abr": "manapotion",
 		"price": 150,
 		"category": "Drugs",
@@ -4325,12 +4271,6 @@
 		"price": -10,
 		"category": "Vegetarian",
 		"defname": "TM_RawPomanaMash"
-	},
-	{
-		"abr": "materia",
-		"price": 72,
-		"category": "Manufactured",
-		"defname": "SolidMako"
 	},
 	{
 		"abr": "minorarcanegemofacceleration",
@@ -4409,12 +4349,6 @@
 		"price": 442,
 		"category": "Headgear",
 		"defname": "Apparel_SCPMobileTaskForceHelmetMask"
-	},
-	{
-		"abr": "musamune",
-		"price": 6167,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Musamune"
 	},
 	{
 		"abr": "mysterymeat",
@@ -4741,12 +4675,6 @@
 		"defname": "Psytrainer_ExtraPsycasts_Stasis"
 	},
 	{
-		"abr": "pumpkins",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawPumpkin"
-	},
-	{
 		"abr": "reforgedalpha",
 		"price": 4183,
 		"category": "Melee weapons",
@@ -4873,12 +4801,6 @@
 		"defname": "ArchMageRobe"
 	},
 	{
-		"abr": "robotplasteelreinforcement",
-		"price": 542,
-		"category": "Apparel",
-		"defname": "Shinra_robotarmor"
-	},
-	{
 		"abr": "rocketbattery",
 		"price": 3783,
 		"category": "Security",
@@ -4889,18 +4811,6 @@
 		"price": 3342,
 		"category": "Exiled Dawn Headgear",
 		"defname": "ExiledDawn_Royal_Crown"
-	},
-	{
-		"abr": "rufussawed-offshotgun",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "SRGun_PumpShotgun"
-	},
-	{
-		"abr": "rufusshinraoutfit",
-		"price": 392,
-		"category": "Apparel",
-		"defname": "Apparel_PRERFSuniform"
 	},
 	{
 		"abr": "sc7assaultrifle",
@@ -4988,7 +4898,7 @@
 	},
 	{
 		"abr": "scp939meat",
-		"price": 3,
+		"price": -10,
 		"category": "Meat",
 		"defname": "Meat_SCP939_A"
 	},
@@ -5047,146 +4957,8 @@
 		"defname": "MorrowRim_Egg_ShalkFertilized"
 	},
 	{
-		"abr": "shin-ra80mmcannon",
-		"price": 2250,
-		"category": "Ranged weapons",
-		"defname": "Gun_Tankgun_80mm"
-	},
-	{
-		"abr": "shin-raassaultrifle",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_ASR"
-	},
-	{
-		"abr": "shin-raassaultsmg",
-		"price": 250,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_SMG"
-	},
-	{
-		"abr": "shin-raflamethrower",
-		"price": 250,
-		"category": "Ranged weapons",
-		"defname": "Gun_SrFlamethrower"
-	},
-	{
-		"abr": "shin-ragruntdualwaistgun",
-		"price": 2250,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_GDA"
-	},
-	{
-		"abr": "shin-ragruntdualwaistplasmalauncher",
-		"price": 2250,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_Gplasma"
-	},
-	{
-		"abr": "shin-raheadofpublicsafetyuniform",
-		"price": 342,
-		"category": "Apparel",
-		"defname": "Apparel_HPSuniform"
-	},
-	{
-		"abr": "shin-rahelmet",
-		"price": 525,
-		"category": "Headgear",
-		"defname": "shinra_armorHelmet"
-	},
-	{
-		"abr": "shin-ramakopistol",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_Makpistol"
-	},
-	{
-		"abr": "shin-ramakoplasmalauncher",
-		"price": 8333,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_plasmalauncher"
-	},
-	{
-		"abr": "shin-ramakoraycannon",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_lasCan"
-	},
-	{
-		"abr": "shin-ramakorifle",
-		"price": 4167,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_lasRif"
-	},
-	{
-		"abr": "shin-ramakosmg",
-		"price": 2500,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_lasSMG"
-	},
-	{
-		"abr": "shin-ramightygruntpa",
-		"price": 4500,
-		"category": "Apparel",
-		"defname": "Apparel_ShinraPowerArmor"
-	},
-	{
-		"abr": "shin-ramightygruntpahelmet",
-		"price": 2333,
-		"category": "Headgear",
-		"defname": "Apparel_ShinraPowerArmorhelmet"
-	},
-	{
-		"abr": "shin-rampuniform",
-		"price": 425,
-		"category": "Apparel",
-		"defname": "Apparel_SRInfantry"
-	},
-	{
-		"abr": "shin-raorbitalcommstable",
-		"price": 1925,
-		"category": "Production",
-		"defname": "SROrbitalCommsTable"
-	},
-	{
-		"abr": "shin-rareglamentarypistolmk-11",
-		"price": 250,
-		"category": "Ranged weapons",
-		"defname": "Gun_SrPistol1mk"
-	},
-	{
-		"abr": "shin-rascientistcoat",
-		"price": 400,
-		"category": "Apparel",
-		"defname": "Apparel_SCIuniform"
-	},
-	{
-		"abr": "shin-rasniperrifle",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "Gun_Shinra_SR"
-	},
-	{
-		"abr": "shin-ratoolbox",
-		"price": 35,
-		"category": "Manufactured",
-		"defname": "SRBoxoftools"
-	},
-	{
-		"abr": "shinraturksoutfit",
-		"price": 392,
-		"category": "Apparel",
-		"defname": "Apparel_Turksuniform"
-	},
-	{
-		"abr": "shin-raworkerexosqueleton",
-		"price": 2458,
-		"category": "Apparel",
-		"defname": "Shinra_WorkerExo"
-	},
-	{
 		"abr": "shuihuhuangmensword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "SR_MeleeWeapon_ShuihuHuangmenSword"
 	},
@@ -5231,30 +5003,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_TM_SkeletonR"
-	},
-	{
-		"abr": "soldier1stclassuniform",
-		"price": 508,
-		"category": "Apparel",
-		"defname": "Apparel_SRSoldier1ST"
-	},
-	{
-		"abr": "soldier2ndclassuniform",
-		"price": 483,
-		"category": "Apparel",
-		"defname": "Apparel_SRSoldier2nd"
-	},
-	{
-		"abr": "soldier3rdclassuniform",
-		"price": 467,
-		"category": "Apparel",
-		"defname": "Apparel_SRSoldier3rd"
-	},
-	{
-		"abr": "soldiersword",
-		"price": 550,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_ShinrasoldierSword"
 	},
 	{
 		"abr": "springhare",
@@ -5641,6 +5389,270 @@
 		"defname": "VFEM_Apparel_Tabard"
 	},
 	{
+		"abr": "bombpiece",
+		"price": 833,
+		"category": "Items",
+		"defname": "BombGemitem"
+	},
+	{
+		"abr": "bustersword",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_CloudBuster"
+	},
+	{
+		"abr": "cranebotraycannon",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "Gun_CraneRay_A"
+	},
+	{
+		"abr": "gelnikabomberbombardmenttargeter",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "ShinraargeterBombardment"
+	},
+	{
+		"abr": "j.e.n.o.v.acellsflask",
+		"price": 5833,
+		"category": "Prosthetic",
+		"defname": "JenovaCellsfrask"
+	},
+	{
+		"abr": "jenovacompatiblehuman",
+		"price": -10,
+		"category": "Animal",
+		"defname": "HumanSoldier"
+	},
+	{
+		"abr": "jenovacompatiblehumanmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_HumanSoldier"
+	},
+	{
+		"abr": "makobarrels",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "Makobarrel"
+	},
+	{
+		"abr": "makocondenser",
+		"price": 2775,
+		"category": "Production",
+		"defname": "Materiacondenser"
+	},
+	{
+		"abr": "makosuspensiontank",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "SRMakSuspensionTank"
+	},
+	{
+		"abr": "maksteelingots",
+		"price": 58,
+		"category": "Raw resources",
+		"defname": "MakSteelRe"
+	},
+	{
+		"abr": "materia",
+		"price": 72,
+		"category": "Manufactured",
+		"defname": "SolidMako"
+	},
+	{
+		"abr": "musamune",
+		"price": 6167,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Musamune"
+	},
+	{
+		"abr": "pumpkins",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawPumpkin"
+	},
+	{
+		"abr": "robotplasteelreinforcement",
+		"price": 542,
+		"category": "Apparel",
+		"defname": "Shinra_robotarmor"
+	},
+	{
+		"abr": "rufussawed-offshotgun",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "SRGun_PumpShotgun"
+	},
+	{
+		"abr": "rufusshinraoutfit",
+		"price": 392,
+		"category": "Apparel",
+		"defname": "Apparel_PRERFSuniform"
+	},
+	{
+		"abr": "shin-ra80mmcannon",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "Gun_Tankgun_80mm"
+	},
+	{
+		"abr": "shin-raassaultrifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_ASR"
+	},
+	{
+		"abr": "shin-raassaultsmg",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_SMG"
+	},
+	{
+		"abr": "shin-raflamethrower",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_SrFlamethrower"
+	},
+	{
+		"abr": "shin-ragruntdualwaistgun",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_GDA"
+	},
+	{
+		"abr": "shin-ragruntdualwaistplasmalauncher",
+		"price": 2250,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_Gplasma"
+	},
+	{
+		"abr": "shin-raheadofpublicsafetyuniform",
+		"price": 342,
+		"category": "Apparel",
+		"defname": "Apparel_HPSuniform"
+	},
+	{
+		"abr": "shin-rahelmet",
+		"price": 525,
+		"category": "Headgear",
+		"defname": "shinra_armorHelmet"
+	},
+	{
+		"abr": "shin-ramakopistol",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_Makpistol"
+	},
+	{
+		"abr": "shin-ramakoplasmalauncher",
+		"price": 8333,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_plasmalauncher"
+	},
+	{
+		"abr": "shin-ramakoraycannon",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_lasCan"
+	},
+	{
+		"abr": "shin-ramakorifle",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_lasRif"
+	},
+	{
+		"abr": "shin-ramakosmg",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_lasSMG"
+	},
+	{
+		"abr": "shin-ramightygruntpa",
+		"price": 4500,
+		"category": "Apparel",
+		"defname": "Apparel_ShinraPowerArmor"
+	},
+	{
+		"abr": "shin-ramightygruntpahelmet",
+		"price": 2333,
+		"category": "Headgear",
+		"defname": "Apparel_ShinraPowerArmorhelmet"
+	},
+	{
+		"abr": "shin-rampuniform",
+		"price": 425,
+		"category": "Apparel",
+		"defname": "Apparel_SRInfantry"
+	},
+	{
+		"abr": "shin-raorbitalcommstable",
+		"price": 1925,
+		"category": "Production",
+		"defname": "SROrbitalCommsTable"
+	},
+	{
+		"abr": "shin-rareglamentarypistolmk-11",
+		"price": 250,
+		"category": "Ranged weapons",
+		"defname": "Gun_SrPistol1mk"
+	},
+	{
+		"abr": "shin-rascientistcoat",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Apparel_SCIuniform"
+	},
+	{
+		"abr": "shin-rasniperrifle",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "Gun_Shinra_SR"
+	},
+	{
+		"abr": "shin-ratoolbox",
+		"price": 35,
+		"category": "Manufactured",
+		"defname": "SRBoxoftools"
+	},
+	{
+		"abr": "shinraturksoutfit",
+		"price": 392,
+		"category": "Apparel",
+		"defname": "Apparel_Turksuniform"
+	},
+	{
+		"abr": "shin-raworkerexosqueleton",
+		"price": 2458,
+		"category": "Apparel",
+		"defname": "Shinra_WorkerExo"
+	},
+	{
+		"abr": "soldier1stclassuniform",
+		"price": 508,
+		"category": "Apparel",
+		"defname": "Apparel_SRSoldier1ST"
+	},
+	{
+		"abr": "soldier2ndclassuniform",
+		"price": 483,
+		"category": "Apparel",
+		"defname": "Apparel_SRSoldier2nd"
+	},
+	{
+		"abr": "soldier3rdclassuniform",
+		"price": 467,
+		"category": "Apparel",
+		"defname": "Apparel_SRSoldier3rd"
+	},
+	{
+		"abr": "soldiersword",
+		"price": 550,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_ShinrasoldierSword"
+	},
+	{
 		"abr": "technomancerspell:kineticshield",
 		"price": 833,
 		"category": "Scrolls",
@@ -5690,103 +5702,103 @@
 	},
 	{
 		"abr": "tornscript:bard",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfBard"
 	},
 	{
 		"abr": "tornscript:chaos",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfChaos"
 	},
 	{
 		"abr": "tornscript:chronomancy",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfChronomancer"
 	},
 	{
 		"abr": "tornscript:demonology",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfDemons"
 	},
 	{
 		"abr": "tornscript:enchanter",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfEnchanter"
 	},
 	{
 		"abr": "tornscript:fire",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfInnerFire"
 	},
 	{
 		"abr": "tornscript:geomancy",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfEarth"
 	},
 	{
 		"abr": "tornscript:hemomancy",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHemomancy"
 	},
 	{
 		"abr": "tornscript:ice",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfHeartOfFrost"
 	},
 	{
 		"abr": "tornscript:lightning",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfStormBorn"
 	},
 	{
 		"abr": "tornscript:nature",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfNature"
 	},
 	{
 		"abr": "tornscript:necromancy",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfUndead"
 	},
 	{
 		"abr": "tornscript:paladin",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfValiant"
 	},
 	{
 		"abr": "tornscript:power",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfArcanist"
 	},
 	{
 		"abr": "tornscript:priest",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfPriest"
 	},
 	{
 		"abr": "tornscript:summoning",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfSummoner"
 	},
 	{
 		"abr": "tornscript:technomancy",
-		"price": -10,
+		"price": 2917,
 		"category": "Skill books",
 		"defname": "Torn_BookOfMagitech"
 	},
@@ -5798,7 +5810,7 @@
 	},
 	{
 		"abr": "type-ccanon",
-		"price": 2250,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Type_CB"
 	},
@@ -5893,5 +5905,5 @@
 		"defname": "SadjuukWoodenPallet"
 	}
 	],
-	"total": 982
+	"total": 984
 }

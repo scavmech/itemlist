@@ -82,7 +82,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 7150,
 		"karmatype": "Doom"
 	},
 	{
@@ -118,16 +118,6 @@
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "tradercaravan",
-		"price": 275,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -202,7 +192,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 2495,
+		"price": 2744,
 		"karmatype": "Bad"
 	},
 	{
@@ -227,7 +217,7 @@
 	},
 	{
 		"abr": "dropraid",
-		"price": 1815,
+		"price": 1996,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,7 +242,7 @@
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 2314,
+		"price": 2545,
 		"karmatype": "Bad"
 	},
 	{
@@ -349,6 +339,16 @@
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
 	}
 	],
 	"total": 70

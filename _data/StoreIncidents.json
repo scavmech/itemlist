@@ -118,6 +118,16 @@
 	{
 		"abr": "transportpodcrash",
 		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "tradercaravan",
+		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -148,11 +158,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -192,7 +197,7 @@
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 2744,
+		"price": 3018,
 		"karmatype": "Bad"
 	},
 	{
@@ -212,7 +217,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 2743,
+		"price": 3017,
 		"karmatype": "Bad"
 	},
 	{
@@ -222,7 +227,7 @@
 	},
 	{
 		"abr": "sapperraid",
-		"price": 1650,
+		"price": 1996,
 		"karmatype": "Bad"
 	},
 	{
@@ -237,12 +242,12 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 2750,
+		"price": 3025,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "manhunterpack",
-		"price": 2545,
+		"price": 2799,
 		"karmatype": "Bad"
 	},
 	{
@@ -318,11 +323,6 @@
 	{
 		"abr": "reviveme",
 		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
 		"karmatype": "Good"
 	},
 	{

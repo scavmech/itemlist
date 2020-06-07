@@ -62,13 +62,13 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": -10,
+		"price": 136,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
 	{
 		"abr": "animalsleepingbox",
-		"price": -10,
+		"price": 84,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox"
 	},
@@ -1953,7 +1953,7 @@
 	{
 		"abr": "psychicamplifier",
 		"price": -10,
-		"category": "Archotech",
+		"category": "Items",
 		"defname": "PsychicAmplifier"
 	},
 	{
@@ -2972,7 +2972,7 @@
 	},
 	{
 		"abr": "astromite",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Astromite"
 	},
@@ -3008,7 +3008,7 @@
 	},
 	{
 		"abr": "bat",
-		"price": 125,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ROMV_BatRace"
 	},
@@ -3122,7 +3122,7 @@
 	},
 	{
 		"abr": "cargoshuttle(hovermode)",
-		"price": 7500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleCargoRace"
 	},
@@ -3284,7 +3284,7 @@
 	},
 	{
 		"abr": "cosmopillar",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Cosmopillar"
 	},
@@ -3458,7 +3458,7 @@
 	},
 	{
 		"abr": "heavycargoshuttle(hovermode)",
-		"price": 16667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttleHeavyRace"
 	},
@@ -3583,12 +3583,6 @@
 		"defname": "MechaTentacleME"
 	},
 	{
-		"abr": "medicbag",
-		"price": 708,
-		"category": "Apparel",
-		"defname": "Apparel_flyfire2002_MedicBag"
-	},
-	{
 		"abr": "milker",
 		"price": 842,
 		"category": "Automation",
@@ -3656,7 +3650,7 @@
 	},
 	{
 		"abr": "personalshuttle(hovermode)",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ShuttlePersonalRace"
 	},
@@ -3872,7 +3866,7 @@
 	},
 	{
 		"abr": "stellapede",
-		"price": 333,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Stellapede"
 	},
@@ -3962,7 +3956,7 @@
 	},
 	{
 		"abr": "weathernormalizationdevice",
-		"price": 2000,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "WeatherCancelDevice"
 	},
@@ -3979,11 +3973,11 @@
 		"defname": "MechSerumYouth"
 	},
 	{
-		"abr": "zoom",
-		"price": 1500,
-		"category": "Cyborg",
-		"defname": "ANN_Zoom"
-	}
+		"abr": "medicbag",
+		"price": 708,
+		"category": "Apparel",
+		"defname": "Apparel_flyfire2002_MedicBag"
+	},
 	],
 	"total": 664
 }

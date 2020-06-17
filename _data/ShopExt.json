@@ -3,7 +3,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Abrasive",
@@ -16,7 +16,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "AnnoyingVoice",
@@ -100,7 +100,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [
         "transhumanist"
@@ -165,7 +165,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "DrugDesire",
@@ -178,7 +178,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "DrugDesire",
@@ -191,7 +191,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "CreepyBreathing",
@@ -204,7 +204,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
@@ -288,7 +288,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [
         "ascetic",
@@ -304,7 +304,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Industriousness",
@@ -349,7 +349,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [
         "ascetic",
@@ -396,7 +396,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Industriousness",
@@ -424,7 +424,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "DislikesMen",
@@ -437,7 +437,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "DislikesWomen",
@@ -450,7 +450,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Nerves",
@@ -510,7 +510,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Nudist",
@@ -523,7 +523,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
@@ -536,7 +536,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
@@ -549,7 +549,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
@@ -637,7 +637,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Pyromaniac",
@@ -678,7 +678,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Immunity",
@@ -691,7 +691,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Industriousness",
@@ -706,7 +706,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [
         "toosmart"
@@ -723,7 +723,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "SpeedOffset",
@@ -738,7 +738,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
@@ -783,7 +783,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "DrugDesire",
@@ -879,7 +879,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
@@ -923,7 +923,7 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Nerves",

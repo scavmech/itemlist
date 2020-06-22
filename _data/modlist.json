@@ -6,6 +6,48 @@
     "version": "1.0.2.0"
   },
   {
+    "author": "Kikohi",
+    "name": "Wave Survival",
+    "steamId": "1781679122",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.7.93"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.3.90"
+  },
+  {
+    "author": "Supes",
+    "name": "Auto Seller",
+    "steamId": "1440321094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.0.4"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Where's My Bed?",
+    "steamId": "1919873778",
+    "version": "1.2.2.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "0.4.2.0"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -21,121 +63,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "0",
-    "version": "4.0.6.4"
+    "version": "4.0.7.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "0",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.7.93"
-  },
-  {
-    "author": "notfood",
-    "name": "ResearchPal",
-    "steamId": "946390822",
-    "version": "1.1.3.0"
-  },
-  {
-    "author": "Supes",
-    "name": "Auto Seller",
-    "steamId": "1440321094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "notfood",
-    "name": "Outfitted",
-    "steamId": "1595812861",
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "0.3.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "ShowModDesignators",
-    "steamId": "1399212509",
-    "version": null
-  },
-  {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.30.605"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": "761421485",
-    "version": null
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "4M Mehni's Misc Modifications",
-    "steamId": "1366888108",
-    "version": "1.1.8"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.2.2.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.3.90"
   },
   {
     "author": "Dubwise",
@@ -150,75 +84,111 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "flyfire2002",
-    "name": "Field Medic [1.0+]",
-    "steamId": "1541287769",
-    "version": null
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Random Research",
-    "steamId": "1374065851",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "historic",
-    "name": "Industrial Rollers",
-    "steamId": "784327493",
-    "version": "2.5.0.0"
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.1.5"
-  },
-  {
-    "author": "Kentington and Thain",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": null
-  },
-  {
-    "author": "Spino",
-    "name": "Mechanoids Extraordinaire",
-    "steamId": "1106719215",
-    "version": null
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Vampires",
-    "steamId": "1187010034",
-    "version": "1.21.0.0"
-  },
-  {
-    "author": "Kikohi, Trunken",
-    "name": "Cybernetic Organism and Neural Network",
-    "steamId": "2045064990",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "explodoboy",
-    "name": "Science Never Stops: Ambition of the Cosmic",
-    "steamId": "1802857253",
-    "version": null
-  },
-  {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7445.18423"
-  },
-  {
     "author": "sirrandoo",
     "name": "More Pause Events",
     "steamId": "1874708724",
     "version": "1.6.1.0"
   },
   {
-    "author": "TalliDown",
-    "name": "Numbers",
-    "steamId": "2009084576",
-    "version": "1.1.0.2"
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "4M Mehni's Misc Modifications",
+    "steamId": "1366888108",
+    "version": "1.1.8"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "7.2.1"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": "761421485",
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators",
+    "steamId": "1399212509",
+    "version": null
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "notfood",
+    "name": "Outfitted",
+    "steamId": "1595812861",
+    "version": null
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": "1136958577",
+    "version": null
+  },
+  {
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": "753498552",
+    "version": "1.1.12"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.30.605"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.8.1465"
+  },
+  {
+    "author": "Little White Mouse",
+    "name": "LWM's Deep Storage",
+    "steamId": "1617282896",
+    "version": "1.1.0.10"
   }
 ]

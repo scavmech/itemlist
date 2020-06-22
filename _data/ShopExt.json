@@ -951,6 +951,103 @@
       "stats": [
         "-60% Pain shock threshold"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SimpleMindedAndroid",
+      "degree": 0,
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.",
+      "name": "simpleminded",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MechAtlas",
+      "degree": 0,
+      "description": "A mechanized infantry unit, they do not think or feel.",
+      "name": "mech",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Intolerance",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.",
+      "name": "intolerance",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.",
+      "name": "loveshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.",
+      "name": "hateshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Xenophobia",
+      "degree": 1,
+      "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
+      "name": "xenophobe",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Xenophobia",
+      "degree": -1,
+      "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "name": "xenophile",
+      "removePrice": 5500,
+      "stats": []
     }
   ],
   "races": [
@@ -959,6 +1056,42 @@
       "enabled": true,
       "name": "human",
       "price": 2917
+    },
+    {
+      "defName": "M7Mech",
+      "enabled": true,
+      "name": "m7mechanisedinfantry",
+      "price": 30000
+    },
+    {
+      "defName": "Android5Tier",
+      "enabled": true,
+      "name": "t5android",
+      "price": 13333
+    },
+    {
+      "defName": "Android4Tier",
+      "enabled": true,
+      "name": "t4android",
+      "price": 10000
+    },
+    {
+      "defName": "Android3Tier",
+      "enabled": true,
+      "name": "t3android",
+      "price": 8000
+    },
+    {
+      "defName": "Android1Tier",
+      "enabled": true,
+      "name": "t1android",
+      "price": 2333
+    },
+    {
+      "defName": "Android2Tier",
+      "enabled": true,
+      "name": "t2android",
+      "price": 4167
     }
   ]
 }

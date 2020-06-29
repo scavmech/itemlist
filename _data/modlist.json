@@ -6,12 +6,6 @@
     "version": "1.0.2.0"
   },
   {
-    "author": "Kikohi",
-    "name": "Wave Survival",
-    "steamId": "1781679122",
-    "version": "1.1.0.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Follow Me",
     "steamId": "715759739",
@@ -69,7 +63,7 @@
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "0",
-    "version": "1.0.0.0"
+    "version": "1.0.1.0"
   },
   {
     "author": "Dubwise",
@@ -150,16 +144,40 @@
     "version": null
   },
   {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": "1136958577",
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.30.605"
+  },
+  {
+    "author": "notfood",
+    "name": "ResearchPal",
+    "steamId": "946390822",
+    "version": "1.1.3.0"
+  },
+  {
+    "author": "dninemfive",
+    "name": "D9 Framework",
+    "steamId": "2037445541",
+    "version": "1.2.0"
+  },
+  {
+    "author": "cuproPanda, updated by dninemfive",
+    "name": "Additional Joy Objects - Misc",
+    "steamId": "2068703292",
+    "version": "1.0.1"
+  },
+  {
+    "author": "Meltup",
+    "name": "Beautiful Outdoors",
+    "steamId": "2011794898",
     "version": null
   },
   {
-    "author": "Atlas, aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "2.0.2.0"
+    "author": "Albion",
+    "name": "Sparkling Worlds - Full Mod",
+    "steamId": "1123043922",
+    "version": "2.5.0"
   },
   {
     "author": "erdelf",
@@ -168,27 +186,51 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": "753498552",
-    "version": "1.1.12"
+    "author": "Naharri and EvilChaosKnight",
+    "name": "Kilhn Race",
+    "steamId": "2025689796",
+    "version": null
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.30.605"
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Core",
+    "steamId": "2023507013",
+    "version": "1.1.5.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.8.1465"
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
   },
   {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.1.0.10"
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Spincrus",
+    "name": "Dinosauria",
+    "steamId": "1136958577",
+    "version": null
+  },
+  {
+    "author": "Spino",
+    "name": "Megafauna",
+    "steamId": "1055485938",
+    "version": null
+  },
+  {
+    "author": "Fishbrains",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
   }
 ]

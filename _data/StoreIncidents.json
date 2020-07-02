@@ -96,11 +96,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -351,5 +346,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 69
 }

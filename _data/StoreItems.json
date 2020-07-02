@@ -1106,7 +1106,7 @@
 	},
 	{
 		"abr": "healermechserum",
-		"price": 2167,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumHealer"
 	},
@@ -1424,19 +1424,19 @@
 	},
 	{
 		"abr": "linkmonosword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_MonoSwordBladelink"
 	},
 	{
 		"abr": "linkplasmasword",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_PlasmaSwordBladelink"
 	},
 	{
 		"abr": "linkzeushammer",
-		"price": 5000,
+		"price": -10,
 		"category": "Persona weapons",
 		"defname": "MeleeWeapon_ZeusHammerBladelink"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -1616,7 +1616,7 @@
 	},
 	{
 		"abr": "monosword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_MonoSword"
 	},
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": 40,
+		"price": -10,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -1886,7 +1886,7 @@
 	},
 	{
 		"abr": "plasmasword",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PlasmaSword"
 	},
@@ -1952,13 +1952,13 @@
 	},
 	{
 		"abr": "psychicamplifier",
-		"price": 4333,
+		"price": -10,
 		"category": "Items",
 		"defname": "PsychicAmplifier"
 	},
 	{
 		"abr": "psychicanimalpulser",
-		"price": 1167,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicAnimalPulser"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "psychicfoilhelmet",
-		"price": 417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PsychicFoilHelmet"
 	},
@@ -1982,7 +1982,7 @@
 	},
 	{
 		"abr": "psychicinsanitylance",
-		"price": 1083,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicInsanityLance"
 	},
@@ -2000,151 +2000,151 @@
 	},
 	{
 		"abr": "psychicshocklance",
-		"price": 917,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "psychicsoothepulser",
-		"price": 1000,
+		"price": -10,
 		"category": "Artifacts",
 		"defname": "PsychicSoothePulser"
 	},
 	{
 		"abr": "psychitetea",
-		"price": 17,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "PsychiteTea"
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
 	{
 		"abr": "psyfocushelmet",
-		"price": 833,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PsyfocusHelmet"
 	},
 	{
 		"abr": "psyfocusrobe",
-		"price": 1000,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_PsyfocusRobe"
 	},
 	{
 		"abr": "psyfocusshirt",
-		"price": 667,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_PsyfocusShirt"
 	},
 	{
 		"abr": "psyfocusstaff",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PsyfocusStaff"
 	},
 	{
 		"abr": "psyfocusvest",
-		"price": 833,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "Apparel_PsyfocusVest"
 	},
 	{
 		"abr": "psytrainer(beckon)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Beckon"
 	},
 	{
 		"abr": "psytrainer(berserkpulse)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BerserkPulse"
 	},
 	{
 		"abr": "psytrainer(berserk)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Berserk"
 	},
 	{
 		"abr": "psytrainer(blindingpulse)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BlindingPulse"
 	},
 	{
 		"abr": "psytrainer(burden)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Burden"
 	},
 	{
 		"abr": "psytrainer(chaosskip)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ChaosSkip"
 	},
 	{
 		"abr": "psytrainer(focus)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Focus"
 	},
 	{
 		"abr": "psytrainer(invisibility)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Invisibility"
 	},
 	{
 		"abr": "psytrainer(manhunterpulse)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_ManhunterPulse"
 	},
 	{
 		"abr": "psytrainer(masschaosskip)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_MassChaosSkip"
 	},
 	{
 		"abr": "psytrainer(painblock)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Painblock"
 	},
 	{
 		"abr": "psytrainer(skip)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Skip"
 	},
 	{
 		"abr": "psytrainer(smokepop)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Smokepop"
 	},
 	{
 		"abr": "psytrainer(stun)",
-		"price": 417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Stun"
 	},
 	{
 		"abr": "psytrainer(vertigopulse)",
-		"price": 917,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_VertigoPulse"
 	},
 	{
 		"abr": "psytrainer(wallraise)",
-		"price": 1167,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Wallraise"
 	},
@@ -2216,7 +2216,7 @@
 	},
 	{
 		"abr": "resurrectormechserum",
-		"price": 2833,
+		"price": -10,
 		"category": "Items",
 		"defname": "MechSerumResurrector"
 	},
@@ -2864,7 +2864,7 @@
 	},
 	{
 		"abr": "zeushammer",
-		"price": 3333,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zeushammer"
 	},
@@ -2918,25 +2918,25 @@
 	},
 	{
 		"abr": "psytrainer(bulletshield)",
-		"price": 1667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_BulletShield"
 	},
 	{
 		"abr": "psytrainer(flashstorm)",
-		"price": 1417,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Flashstorm"
 	},
 	{
 		"abr": "psytrainer(neuralheatdump)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_EntropyDump"
 	},
 	{
 		"abr": "psytrainer(waterskip)",
-		"price": 667,
+		"price": -10,
 		"category": "Psytrainers",
 		"defname": "Psytrainer_Waterskip"
 	},

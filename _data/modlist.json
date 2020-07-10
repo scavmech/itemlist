@@ -63,7 +63,7 @@
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "0",
-    "version": "1.0.1.0"
+    "version": "1.0.1.2"
   },
   {
     "author": "Dubwise",
@@ -138,12 +138,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "notfood",
-    "name": "Outfitted",
-    "steamId": "1595812861",
-    "version": null
-  },
-  {
     "author": "Fluffy",
     "name": "Colony Manager",
     "steamId": "715565262",
@@ -156,81 +150,63 @@
     "version": "1.1.3.0"
   },
   {
-    "author": "dninemfive",
-    "name": "D9 Framework",
-    "steamId": "2037445541",
-    "version": "1.2.0"
-  },
-  {
-    "author": "cuproPanda, updated by dninemfive",
-    "name": "Additional Joy Objects - Misc",
-    "steamId": "2068703292",
-    "version": "1.0.1"
-  },
-  {
-    "author": "Meltup",
-    "name": "Beautiful Outdoors",
-    "steamId": "2011794898",
-    "version": null
-  },
-  {
-    "author": "Albion",
-    "name": "Sparkling Worlds - Full Mod",
-    "steamId": "1123043922",
-    "version": "2.5.0"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
     "version": "1.0.0.0"
   },
   {
-    "author": "Naharri and EvilChaosKnight",
-    "name": "Kilhn Race",
-    "steamId": "2025689796",
+    "author": "Roolo",
+    "name": "What the hack?!",
+    "steamId": "1505914869",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "Rocka / hauvega",
+    "name": "Equiums",
+    "steamId": "1211945995",
     "version": null
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Core",
-    "steamId": "2023507013",
-    "version": "1.1.5.0"
+    "author": "Trunken, Luizi",
+    "name": "Cybernetic Warfare and Special Weapons (Continued)",
+    "steamId": "2155485488",
+    "version": "1.0.2.0"
   },
   {
-    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.1.0.0"
+    "author": "bean",
+    "name": "Dune (Continued)",
+    "steamId": "0",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan",
-    "name": "Vanilla Factions Expanded - Medieval",
-    "steamId": "2023513450",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
-    "steamId": "1136958577",
+    "author": "Xen, ChJees",
+    "name": "Logann Race",
+    "steamId": "2018389473",
     "version": null
   },
   {
-    "author": "Spino",
-    "name": "Megafauna",
-    "steamId": "1055485938",
-    "version": null
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.0"
   },
   {
-    "author": "Fishbrains",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
+    "author": "Ra_Zim",
+    "name": "Martens - Nature's Most Adorable Assassins",
+    "steamId": "1966193572",
+    "version": "1.1"
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
+    "author": "Jecrell",
+    "name": "Rim of Madness - Vampires",
+    "steamId": "1187010034",
+    "version": "1.21.0.0"
   }
 ]

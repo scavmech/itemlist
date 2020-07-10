@@ -16,53 +16,6 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
-      "conflicts": [],
-      "defName": "DragonoidKilhn",
-      "degree": 3,
-      "description": "[PAWN_nameDef] has the aspect of an ancient dragon so they are considered bewitching to look at, of vast intellegence, but are still beasts at their core giving them an edge in survival, but also makes them territorial and extremely less tolerant of others.",
-      "name": "ancientdragonaspect",
-      "removePrice": 5500,
-      "stats": [
-        "+4.0 Melee hit chance",
-        "-33% Rest rate multiplier",
-        "+25% Immunity gain speed",
-        "-7% Mental break threshold",
-        "+5.00% Trade price improvement",
-        "+10.00% Social impact",
-        "+12.0 Melee dodge chance",
-        "+33% Pain shock threshold",
-        "-15% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
-      "conflicts": [],
-      "defName": "DragonoidKilhn",
-      "degree": 4,
-      "description": "[PAWN_nameDef] has the manifestation of an ancient elder dragon so they are considered beyond bewitching to look at, of unending intellegence, but are no mere beasts, they are almost beyond mortal limits almost guaranteeing survival, these beings will be territorial and will not tolerate others whom they are frustrated with.",
-      "name": "ancientelderdragonmanifestation",
-      "removePrice": 5500,
-      "stats": [
-        "+10.0 Melee hit chance",
-        "-67% Rest rate multiplier",
-        "+50% Immunity gain speed",
-        "-20% Mental break threshold",
-        "+25.00% Trade price improvement",
-        "+25.00% Social impact",
-        "+25.0 Melee dodge chance",
-        "+33% Global learning factor",
-        "+50% Pain shock threshold",
-        "-20% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
@@ -260,48 +213,6 @@
       "name": "depressive",
       "removePrice": 3500,
       "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
-      "conflicts": [],
-      "defName": "DragonoidKilhn",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has the traits of a dragon so they are considered very good to look at, intellegent, but are still beasts at their core giving them an edge in survival, but also makes them territorial and less tolerant of others.",
-      "name": "dragonattribute",
-      "removePrice": 5500,
-      "stats": [
-        "-10% Rest rate multiplier",
-        "+5% Immunity gain speed",
-        "+4.0 Melee dodge chance",
-        "+5% Global learning factor",
-        "-5% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
-      "conflicts": [],
-      "defName": "DragonoidKilhn",
-      "degree": 2,
-      "description": "[PAWN_nameDef] has the characteristics of an elder dragon so they are considered extremely good to look at, of superior intellegent, but are still beasts at their core giving them an edge in survival, but also makes them territorial and less tolerant of others.",
-      "name": "elderdragoncharacteristic",
-      "removePrice": 5500,
-      "stats": [
-        "+2.0 Melee hit chance",
-        "-20% Rest rate multiplier",
-        "+15% Immunity gain speed",
-        "-3% Mental break threshold",
-        "+5.00% Social impact",
-        "+8.0 Melee dodge chance",
-        "+5% Global learning factor",
-        "+10% Pain shock threshold",
-        "-10% Global work speed"
-      ]
     },
     {
       "addPrice": 3500,
@@ -1049,7 +960,7 @@
       "conflicts": [],
       "defName": "Xenophobia",
       "degree": -1,
-      "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
       "name": "xenophile",
       "removePrice": 5500,
       "stats": []
@@ -1062,7 +973,7 @@
       "conflicts": [],
       "defName": "Xenophobia",
       "degree": 1,
-      "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
+      "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
       "name": "xenophobe",
       "removePrice": 5500,
       "stats": []
@@ -1076,10 +987,16 @@
       "price": 2917
     },
     {
-      "defName": "Dragon_Kilhn",
+      "defName": "Alien_Equium",
       "enabled": true,
-      "name": "kilhn",
-      "price": 7917
+      "name": "equium",
+      "price": 4167
+    },
+    {
+      "defName": "Alien_Wolvx",
+      "enabled": true,
+      "name": "logann",
+      "price": 3333
     }
   ]
 }

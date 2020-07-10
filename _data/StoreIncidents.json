@@ -106,11 +106,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 275,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
@@ -161,11 +156,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "visitorgroup",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
@@ -189,11 +179,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -251,11 +236,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -274,11 +254,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -328,7 +303,7 @@
 	{
 		"abr": "surgery",
 		"price": 500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passionshuffle",
@@ -338,13 +313,8 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "immortality",
-		"price": 100000,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	}
 	],
-	"total": 69
+	"total": 63
 }

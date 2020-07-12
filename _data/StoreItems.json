@@ -1214,7 +1214,7 @@
 	},
 	{
 		"abr": "hyperweave",
-		"price": 15,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -2480,7 +2480,7 @@
 	},
 	{
 		"abr": "synthread",
-		"price": 7,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "Synthread"
 	},
@@ -2600,7 +2600,7 @@
 	},
 	{
 		"abr": "thrumbohorn",
-		"price": 1333,
+		"price": -10,
 		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
@@ -2990,13 +2990,13 @@
 	},
 	{
 		"abr": "advancedmechanoidchip",
-		"price": 92,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_MechanoidChip"
 	},
 	{
 		"abr": "armormodule",
-		"price": 1483,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_ArmorModule"
 	},
@@ -3020,13 +3020,13 @@
 	},
 	{
 		"abr": "batteryexpansionmodule",
-		"price": 1183,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_BatteryExpansionModule"
 	},
 	{
 		"abr": "beechmarten",
-		"price": 1417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_BeechMart"
 	},
@@ -3044,7 +3044,7 @@
 	},
 	{
 		"abr": "beltmodule",
-		"price": 1175,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_BeltModule"
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{
 		"abr": "cargomodule",
-		"price": 950,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_CargoModule"
 	},
@@ -3086,7 +3086,7 @@
 	},
 	{
 		"abr": "cleaningmodule",
-		"price": 1042,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_CleaningModule"
 	},
@@ -3104,7 +3104,7 @@
 	},
 	{
 		"abr": "bat",
-		"price": 125,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ROMV_BatRace"
 	},
@@ -3320,7 +3320,7 @@
 	},
 	{
 		"abr": "firefightingmodule",
-		"price": 842,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_FirefightingModule"
 	},
@@ -3344,7 +3344,7 @@
 	},
 	{
 		"abr": "growingmodule",
-		"price": 1400,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_GrowingModule"
 	},
@@ -3356,7 +3356,7 @@
 	},
 	{
 		"abr": "haulingmodule",
-		"price": 1525,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_HaulingModule"
 	},
@@ -3392,7 +3392,7 @@
 	},
 	{
 		"abr": "japanesemarten",
-		"price": 1417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_JapaneseMart"
 	},
@@ -3458,7 +3458,7 @@
 	},
 	{
 		"abr": "megamarten",
-		"price": 2833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_MegaMart"
 	},
@@ -3488,7 +3488,7 @@
 	},
 	{
 		"abr": "nilgirimarten",
-		"price": 1500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_NilgiriMart"
 	},
@@ -3506,13 +3506,13 @@
 	},
 	{
 		"abr": "opticsensormodule",
-		"price": 767,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_OpticSensorModule"
 	},
 	{
 		"abr": "overdrivemodule",
-		"price": 767,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_OverdriveModule"
 	},
@@ -3524,7 +3524,7 @@
 	},
 	{
 		"abr": "pinemarten",
-		"price": 2000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_PineMart"
 	},
@@ -3584,13 +3584,13 @@
 	},
 	{
 		"abr": "repairmodule",
-		"price": 1158,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_RepairModule"
 	},
 	{
 		"abr": "rimmarten",
-		"price": 2167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_RimMart"
 	},
@@ -3620,7 +3620,7 @@
 	},
 	{
 		"abr": "sable",
-		"price": 2500,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_Sable"
 	},
@@ -3638,7 +3638,7 @@
 	},
 	{
 		"abr": "selfdestructmodule",
-		"price": 417,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_SelfDestructModule"
 	},
@@ -3656,7 +3656,7 @@
 	},
 	{
 		"abr": "speedmodule",
-		"price": 750,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_SpeedModule"
 	},
@@ -3698,13 +3698,13 @@
 	},
 	{
 		"abr": "turretmodule",
-		"price": 1500,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_TurretModule"
 	},
 	{
 		"abr": "vanometricpowercellmodule",
-		"price": 2875,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "WTH_VanometricModule"
 	},
@@ -3740,7 +3740,7 @@
 	},
 	{
 		"abr": "yellow-throatedmarten",
-		"price": 1667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "ZGF_YellowMart"
 	},
@@ -3758,28 +3758,634 @@
 	},
 	{
 		"abr": "centipede",
-		"price": 2000,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mech_Centipede"
 	},
 	{
 		"abr": "lancer",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mech_Lancer"
 	},
 	{
 		"abr": "pikeman",
-		"price": 550,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mech_Pikeman"
 	},
 	{
 		"abr": "scyther",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Mech_Scyther"
-	}
+	},
+	{
+		"abr": "chaoboar",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaoboar"
+	},
+	{
+		"abr": "chaoboom",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaoboom"
+	},
+	{
+		"abr": "chaobulbseedpod",
+		"price": 12,
+		"category": "Plant matter",
+		"defname": "Chaobulb"
+	},
+	{
+		"abr": "chaocow",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaocow"
+	},
+	{
+		"abr": "chaodino",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaodino"
+	},
+	{
+		"abr": "chaofox",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaofox"
+	},
+	{
+		"abr": "chaofusion",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChaofusionRhino"
+	},
+	{
+		"abr": "chaomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chaocow"
+	},
+	{
+		"abr": "chaomeld",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Chaomeld"
+	},
+	{
+		"abr": "chaomeld",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChaomeldDog"
+	},
+	{
+		"abr": "chaomeld",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChaomeldDragon"
+	},
+	{
+		"abr": "chaomeld",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChaomeldCow"
+	},
+	{
+		"abr": "chaopelt",
+		"price": 3,
+		"category": "Leathers",
+		"defname": "Leather_Chao"
+	},
+	{
+		"abr": "chookmorphegg",
+		"price": -10,
+		"category": "Animal products",
+		"defname": "TFEgg"
+	},
+	{
+		"abr": "cowmorphmilk",
+		"price": 12,
+		"category": "Animal products",
+		"defname": "TFMilk"
+	},
+	{
+		"abr": "hellhound",
+		"price": -10,
+		"category": "Animal",
+		"defname": "EtherHellhound"
+	},
+	{
+		"abr": "hellhoundmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_EtherHellhound"
+	},
+	{
+		"abr": "iedmutagentrap",
+		"price": -10,
+		"category": "Security",
+		"defname": "TrapIED_TF"
+	},
+	{
+		"abr": "mechaniteslurry",
+		"price": 133,
+		"category": "Serums",
+		"defname": "MechaniteSlurry"
+	},
+	{
+		"abr": "morphsilk",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "Morphsilk"
+	},
+	{
+		"abr": "mutagenlab",
+		"price": -10,
+		"category": "Production",
+		"defname": "MutagenLab"
+	},
+	{
+		"abr": "mutagenicchamber",
+		"price": -10,
+		"category": "Production",
+		"defname": "MutagenicChamber"
+	},
+	{
+		"abr": "mutagenicchamber2x2",
+		"price": -10,
+		"category": "Production",
+		"defname": "BigMutagenicChamber"
+	},
+	{
+		"abr": "mutagenicgrenades",
+		"price": -10,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeTF"
+	},
+	{
+		"abr": "mutagenichealermechserum",
+		"price": -10,
+		"category": "Items",
+		"defname": "MechSerumMutagenicHealer"
+	},
+	{
+		"abr": "mutagenicmodulator",
+		"price": -10,
+		"category": "Production",
+		"defname": "MutagenicModulator"
+	},
+	{
+		"abr": "mutagenicrocketlauncher",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "Gun_MutagenicRocketLauncher"
+	},
+	{
+		"abr": "mutagenicshell",
+		"price": -10,
+		"category": "Mortar shells",
+		"defname": "Shell_TF"
+	},
+	{
+		"abr": "mutagenicstunstick",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutagenicStunStick"
+	},
+	{
+		"abr": "mutagun",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "TST_Gun_EtherGun"
+	},
+	{
+		"abr": "mutanite",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "Mutanite"
+	},
+	{
+		"abr": "mutaniteknife",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutaniteKnife"
+	},
+	{
+		"abr": "mutanitespear",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_MutaniteSpear"
+	},
+	{
+		"abr": "mutapill,accelerator",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "MutagenAccelerator"
+	},
+	{
+		"abr": "mutapill,booster",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "UdderPill"
+	},
+	{
+		"abr": "mutapill,dry",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "DryPills"
+	},
+	{
+		"abr": "mutapill,feral",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "FeralPill"
+	},
+	{
+		"abr": "mutapill,rgb",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "ColorsPill"
+	},
+	{
+		"abr": "mutapill,stabiliser",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "MutagenStabiliser"
+	},
+	{
+		"abr": "mutapill,x-aspect",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "AspectReverterPills"
+	},
+	{
+		"abr": "mutarifle",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "Mutarifle"
+	},
+	{
+		"abr": "mutaserum",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomTransformer"
+	},
+	{
+		"abr": "mutaserum,arid",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomAridTransformer"
+	},
+	{
+		"abr": "mutaserum,avian",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomAvianTransformer"
+	},
+	{
+		"abr": "mutaserum,bovid",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomBovidTransformer"
+	},
+	{
+		"abr": "mutaserum,canid",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomCanineTransformer"
+	},
+	{
+		"abr": "mutaserum,cervid",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomCervidTransformer"
+	},
+	{
+		"abr": "mutaserum,cold",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomColdTransformer"
+	},
+	{
+		"abr": "mutaserum,combat",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomCombatTransformer"
+	},
+	{
+		"abr": "mutaserum,crafter",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomCrafterTransformer"
+	},
+	{
+		"abr": "mutaserum,domestic",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomDomesticTransformer"
+	},
+	{
+		"abr": "mutaserum,feline",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomFelineTransformer"
+	},
+	{
+		"abr": "mutaserum,powerful",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomPowerfulTransformer"
+	},
+	{
+		"abr": "mutaserum,production",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomProductionTransformer"
+	},
+	{
+		"abr": "mutaserum,reptilian",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomReptileTransformer"
+	},
+	{
+		"abr": "mutaserum,reverter",
+		"price": -10,
+		"category": "Serums",
+		"defname": "ReversionSyringe"
+	},
+	{
+		"abr": "mutaserum,rodent",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomRodentTransformer"
+	},
+	{
+		"abr": "mutaserum,social",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomSocialTransformer"
+	},
+	{
+		"abr": "mutaserum,temperate",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomTemperateTransformer"
+	},
+	{
+		"abr": "mutaserum,tropical",
+		"price": -10,
+		"category": "Serums",
+		"defname": "RandomTropicalTransformer"
+	},
+	{
+		"abr": "mutasyringe,alpaca",
+		"price": -10,
+		"category": "Injector",
+		"defname": "AlpacaTransformer"
+	},
+	{
+		"abr": "mutasyringe,arcticfox",
+		"price": -10,
+		"category": "Injector",
+		"defname": "ArcticFoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,arcticwolf",
+		"price": -10,
+		"category": "Injector",
+		"defname": "ArcticWolfTransformer"
+	},
+	{
+		"abr": "mutasyringe,boar",
+		"price": -10,
+		"category": "Injector",
+		"defname": "BoarTransformer"
+	},
+	{
+		"abr": "mutasyringe,boomalope",
+		"price": -10,
+		"category": "Injector",
+		"defname": "BoomalopeTransformer"
+	},
+	{
+		"abr": "mutasyringe,cat",
+		"price": -10,
+		"category": "Injector",
+		"defname": "CatTransformer"
+	},
+	{
+		"abr": "mutasyringe,chicken",
+		"price": -10,
+		"category": "Injector",
+		"defname": "ChickenTransformer"
+	},
+	{
+		"abr": "mutasyringe,cobra",
+		"price": -10,
+		"category": "Injector",
+		"defname": "SnakeTransformer"
+	},
+	{
+		"abr": "mutasyringe,cougar",
+		"price": -10,
+		"category": "Injector",
+		"defname": "CougarTransformer"
+	},
+	{
+		"abr": "mutasyringe,cow",
+		"price": -10,
+		"category": "Injector",
+		"defname": "CowTransformer"
+	},
+	{
+		"abr": "mutasyringe,deer",
+		"price": -10,
+		"category": "Injector",
+		"defname": "DeerTransformer"
+	},
+	{
+		"abr": "mutasyringe,donkey",
+		"price": -10,
+		"category": "Injector",
+		"defname": "DonkeyTransformer"
+	},
+	{
+		"abr": "mutasyringe,elephant",
+		"price": -10,
+		"category": "Injector",
+		"defname": "ElephantTransformer"
+	},
+	{
+		"abr": "mutasyringe,fennecfox",
+		"price": -10,
+		"category": "Injector",
+		"defname": "FennecFoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,grizzlybear",
+		"price": -10,
+		"category": "Injector",
+		"defname": "BearTransformer"
+	},
+	{
+		"abr": "mutasyringe,hare",
+		"price": -10,
+		"category": "Injector",
+		"defname": "HareTransformer"
+	},
+	{
+		"abr": "mutasyringe,horse",
+		"price": -10,
+		"category": "Injector",
+		"defname": "HorseTransformer"
+	},
+	{
+		"abr": "mutasyringe,husky",
+		"price": -10,
+		"category": "Injector",
+		"defname": "HuskyTransformer"
+	},
+	{
+		"abr": "mutasyringe,iguana",
+		"price": -10,
+		"category": "Injector",
+		"defname": "IguanaTransformer"
+	},
+	{
+		"abr": "mutasyringe,lynx",
+		"price": -10,
+		"category": "Injector",
+		"defname": "LynxTransformer"
+	},
+	{
+		"abr": "mutasyringe,marten",
+		"price": -10,
+		"category": "Injector",
+		"defname": "MartenTransformer"
+	},
+	{
+		"abr": "mutasyringe,megasloth",
+		"price": -10,
+		"category": "Injector",
+		"defname": "MegaslothTransformer"
+	},
+	{
+		"abr": "mutasyringe,monkey",
+		"price": -10,
+		"category": "Injector",
+		"defname": "MonkeyTransformer"
+	},
+	{
+		"abr": "mutasyringe,panther",
+		"price": -10,
+		"category": "Injector",
+		"defname": "PantherTransformer"
+	},
+	{
+		"abr": "mutasyringe,pig",
+		"price": -10,
+		"category": "Injector",
+		"defname": "PigTransformer"
+	},
+	{
+		"abr": "mutasyringe,polarbear",
+		"price": -10,
+		"category": "Injector",
+		"defname": "PolarBearTransformer"
+	},
+	{
+		"abr": "mutasyringe,raccoon",
+		"price": -10,
+		"category": "Injector",
+		"defname": "RaccoonTransformer"
+	},
+	{
+		"abr": "mutasyringe,rat",
+		"price": -10,
+		"category": "Injector",
+		"defname": "RatTransformer"
+	},
+	{
+		"abr": "mutasyringe,redfox",
+		"price": -10,
+		"category": "Injector",
+		"defname": "FoxTransformer"
+	},
+	{
+		"abr": "mutasyringe,rhinoceros",
+		"price": -10,
+		"category": "Injector",
+		"defname": "RhinocerosTransformer"
+	},
+	{
+		"abr": "mutasyringe,sheep",
+		"price": -10,
+		"category": "Injector",
+		"defname": "SheepTransformer"
+	},
+	{
+		"abr": "mutasyringe,snowhare",
+		"price": -10,
+		"category": "Injector",
+		"defname": "SnowhareTransformer"
+	},
+	{
+		"abr": "mutasyringe,squirrel",
+		"price": -10,
+		"category": "Injector",
+		"defname": "SquirrelTransformer"
+	},
+	{
+		"abr": "mutasyringe,thrumbo",
+		"price": -10,
+		"category": "Injector",
+		"defname": "ThrumboTransformer"
+	},
+	{
+		"abr": "mutasyringe,timberwolf",
+		"price": -10,
+		"category": "Injector",
+		"defname": "WolfTransformer"
+	},
+	{
+		"abr": "mutasyringe,warg",
+		"price": -10,
+		"category": "Injector",
+		"defname": "WargTransformer"
+	},
+	{
+		"abr": "naga",
+		"price": -10,
+		"category": "Animal",
+		"defname": "SnakeMorph"
+	},
+	{
+		"abr": "nagameat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Meat_SnakeMorph"
+	},
+	{
+		"abr": "powerfulmutagenicmodulator",
+		"price": -10,
+		"category": "Production",
+		"defname": "PowerfulMutagenicModulator"
+	},
+	{
+		"abr": "taggingrifle",
+		"price": 1083,
+		"category": "Ranged weapons",
+		"defname": "TST_Gun_TaggingGun"
+	},
+	{
+		"abr": "transformativeresurrectormechserum",
+		"price": 2833,
+		"category": "Items",
+		"defname": "MechSerumResurrectorTf"
+	},
 	],
-	"total": 630
+	"total": 751
 }

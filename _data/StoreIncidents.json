@@ -101,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
@@ -148,11 +143,6 @@
 	{
 		"abr": "shipchunkdrop",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "travelergroup",
-		"price": 80,
 		"karmatype": "Good"
 	},
 	{
@@ -316,5 +306,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 63
+	"total": 61
 }

@@ -13,7 +13,7 @@
 	{
 		"abr": "vomitrain",
 		"price": 650,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "foggyrain",
@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 11000,
 		"karmatype": "Doom"
 	},
 	{
@@ -226,6 +226,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -306,5 +311,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 61
+	"total": 62
 }

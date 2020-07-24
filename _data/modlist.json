@@ -6,10 +6,40 @@
     "version": "1.0.2.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.7.93"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "7.2.1"
+  },
+  {
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": "761421485",
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "4M Mehni's Misc Modifications",
+    "steamId": "1366888108",
+    "version": "1.1.8"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.1.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.644"
   },
   {
     "author": "Fluffy",
@@ -18,22 +48,106 @@
     "version": "3.3.90"
   },
   {
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.7.93"
+  },
+  {
+    "author": "targhetti",
+    "name": "Show Draftees Weapon",
+    "steamId": "1690978457",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "EdB",
+    "name": "EdB Prepare Carefully",
+    "steamId": "735106432",
+    "version": "1.1.9"
+  },
+  {
+    "author": "Linq",
+    "name": "[1.1] Psychology (unofficial)",
+    "steamId": "2016263135",
+    "version": "1.0.6"
+  },
+  {
+    "author": "Saakra",
+    "name": "Empire",
+    "steamId": "2006535182",
+    "version": "0.331"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogliss",
+    "name": "Alien Vs Predator",
+    "steamId": "2034103876",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Shazbot",
+    "name": "SRTS Expanded: RotorCraft",
+    "steamId": "2156088844",
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Giddy-up! Core",
+    "steamId": "1216999901",
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Motors Core",
+    "steamId": "2049539983",
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Combat Car",
+    "steamId": "2049540461",
+    "version": null
+  },
+  {
     "author": "Supes",
     "name": "Auto Seller",
     "steamId": "1440321094",
     "version": "1.0.0.0"
   },
   {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.0.0.4"
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
   },
   {
     "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.2.2.0"
+    "name": "ToolkitRaids",
+    "steamId": "0",
+    "version": "1.0.1.2"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": "761219125",
+    "version": null
   },
   {
     "author": "Andreas Pardeike",
@@ -42,10 +156,10 @@
     "version": "0.4.2.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.0.4"
   },
   {
     "author": "hodlhodl",
@@ -60,82 +174,16 @@
     "version": "4.0.7.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "0",
-    "version": "1.0.1.2"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.2.644"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCreator",
     "steamId": "2099493475",
     "version": "1.0.0.0"
   },
   {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.1.0"
-  },
-  {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "4M Mehni's Misc Modifications",
-    "steamId": "1366888108",
-    "version": "1.1.8"
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "7.2.1"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": "761421485",
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "ShowModDesignators",
-    "steamId": "1399212509",
-    "version": null
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.2.0"
-  },
-  {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
-    "version": "1.0.0.0"
+    "author": "SirRandoo",
+    "name": "Where's My Bed?",
+    "steamId": "1919873778",
+    "version": "1.2.2.0"
   },
   {
     "author": "Fluffy",
@@ -144,75 +192,33 @@
     "version": "4.30.605"
   },
   {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators",
+    "steamId": "1399212509",
+    "version": null
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "notfood",
     "name": "ResearchPal",
     "steamId": "946390822",
     "version": "1.1.3.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Roolo",
-    "name": "What the hack?!",
-    "steamId": "1505914869",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.4"
-  },
-  {
-    "author": "Rocka / hauvega",
-    "name": "Equiums",
-    "steamId": "1211945995",
-    "version": null
-  },
-  {
-    "author": "Trunken, Luizi",
-    "name": "Cybernetic Warfare and Special Weapons (Continued)",
-    "steamId": "2155485488",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "bean",
-    "name": "Dune (Continued)",
-    "steamId": "0",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Xen, ChJees",
-    "name": "Logann Race",
-    "steamId": "2018389473",
-    "version": null
-  },
-  {
-    "author": "sumghai",
-    "name": "MedPod",
-    "steamId": "2153065191",
-    "version": "1.0"
-  },
-  {
-    "author": "Ra_Zim",
-    "name": "Martens - Nature's Most Adorable Assassins",
-    "steamId": "1966193572",
-    "version": "1.1"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Rim of Madness - Vampires",
-    "steamId": "1187010034",
-    "version": "1.21.0.0"
-  },
-  {
-    "author": "Mic",
-    "name": "Pawnmorpher",
-    "steamId": "1786466855",
-    "version": "1.9.1"
   }
 ]

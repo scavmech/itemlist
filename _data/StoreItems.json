@@ -896,7 +896,7 @@
 	},
 	{
 		"abr": "flatscreentelevision",
-		"price": 1533,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "FlatscreenTelevision"
 	},
@@ -1016,7 +1016,7 @@
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1967,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
@@ -1088,13 +1088,13 @@
 	},
 	{
 		"abr": "harp",
-		"price": 408,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Harp"
 	},
 	{
 		"abr": "harpsichord",
-		"price": 692,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Harpsichord"
 	},
@@ -1154,7 +1154,7 @@
 	},
 	{
 		"abr": "hoopstonering",
-		"price": 67,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "HoopstoneRing"
 	},
@@ -1178,7 +1178,7 @@
 	},
 	{
 		"abr": "horseshoespin",
-		"price": 34,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "HorseshoesPin"
 	},
@@ -1238,25 +1238,25 @@
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
@@ -1394,7 +1394,7 @@
 	},
 	{
 		"abr": "largesculpture",
-		"price": 517,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
@@ -1544,7 +1544,7 @@
 	},
 	{
 		"abr": "megascreentelevision",
-		"price": 2475,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "MegascreenTelevision"
 	},
@@ -1592,7 +1592,7 @@
 	},
 	{
 		"abr": "mini-turret",
-		"price": 492,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
@@ -1622,7 +1622,7 @@
 	},
 	{
 		"abr": "mortar",
-		"price": 1058,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_Mortar"
 	},
@@ -1850,7 +1850,7 @@
 	},
 	{
 		"abr": "piano",
-		"price": 1117,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Piano"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "smallsculpture",
-		"price": 275,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -2408,7 +2408,7 @@
 	},
 	{
 		"abr": "spiketrap",
-		"price": 169,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapSpike"
 	},
@@ -2582,7 +2582,7 @@
 	},
 	{
 		"abr": "telescope",
-		"price": 583,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
@@ -2690,7 +2690,7 @@
 	},
 	{
 		"abr": "tubetelevision",
-		"price": 525,
+		"price": -10,
 		"category": "Recreation",
 		"defname": "TubeTelevision"
 	},
@@ -2876,7 +2876,7 @@
 	},
 	{
 		"abr": "iedsmoketrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Smoke"
 	},
@@ -3002,7 +3002,7 @@
 	},
 	{
 		"abr": "bull",
-		"price": 4483,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCBull"
 	},
@@ -3020,13 +3020,13 @@
 	},
 	{
 		"abr": "cookiecutter",
-		"price": 3900,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCCookiecutter"
 	},
 	{
 		"abr": "dogfish",
-		"price": 2442,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCDogfish"
 	},
@@ -3200,7 +3200,7 @@
 	},
 	{
 		"abr": "mako",
-		"price": 5525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCMako"
 	},
@@ -3212,7 +3212,7 @@
 	},
 	{
 		"abr": "megamouth",
-		"price": 9533,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCMegamouth"
 	},
@@ -3236,7 +3236,7 @@
 	},
 	{
 		"abr": "nurse",
-		"price": 5525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCHip"
 	},
@@ -3260,7 +3260,7 @@
 	},
 	{
 		"abr": "requiem",
-		"price": 4483,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCRequiem"
 	},
@@ -3284,7 +3284,7 @@
 	},
 	{
 		"abr": "sandbar",
-		"price": 5525,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCSandbar"
 	},
@@ -3308,55 +3308,55 @@
 	},
 	{
 		"abr": "spiketrap",
-		"price": 319,
+		"price": -10,
 		"category": "Security",
 		"defname": "AvP_TrapSpike"
 	},
 	{
 		"abr": "sraf:canary",
-		"price": 20258,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAF"
 	},
 	{
 		"abr": "sraf:tek-7",
-		"price": 31292,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRAFTek"
 	},
 	{
 		"abr": "srtsmk.i:skip",
-		"price": 9150,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSkip"
 	},
 	{
 		"abr": "srtsmk.ii:albatross",
-		"price": 29875,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkII"
 	},
 	{
 		"abr": "srtsmk.iii:phoenix",
-		"price": 52792,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIII"
 	},
 	{
 		"abr": "srtsmk.iiip:pelican",
-		"price": 61100,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIIIp"
 	},
 	{
 		"abr": "srtsmk.iv:genesis",
-		"price": 218617,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSMkIV"
 	},
 	{
 		"abr": "superpod",
-		"price": 6958,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "SRTSSuperpod"
 	},
@@ -3374,13 +3374,13 @@
 	},
 	{
 		"abr": "thrasher",
-		"price": 2867,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCThrasher"
 	},
 	{
 		"abr": "tiger",
-		"price": 6450,
+		"price": -10,
 		"category": "Buildings",
 		"defname": "RCTiger"
 	},
@@ -3404,7 +3404,7 @@
 	},
 	{
 		"abr": "ua571-cautomatedsentrygun",
-		"price": 16667,
+		"price": -10,
 		"category": "Security",
 		"defname": "AvP_USCM_UA571C_Turret"
 	},
@@ -3479,12 +3479,6 @@
 		"price": -10,
 		"category": "Misc",
 		"defname": "AvP_Yautja_CryptosleepCasket_Tribute_XenoEgg"
-	},
-	{
-		"abr": "methadone",
-		"price": 27,
-		"category": "Drugs",
-		"defname": "Methadone"
 	},
 	{
 		"abr": "yautjacompoundbow",
@@ -3569,7 +3563,151 @@
 		"price": 211,
 		"category": "Yautja apparel",
 		"defname": "AvP_Yautja_Apparel_HunterVest"
+	},
+	{
+		"abr": "archive",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LeeaniBookshelf"
+	},
+	{
+		"abr": "banquetchair",
+		"price": 142,
+		"category": "Furniture",
+		"defname": "BanquetChair"
+	},
+	{
+		"abr": "banquettable",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "BanquetTable"
+	},
+	{
+		"abr": "berryjuice",
+		"price": 17,
+		"category": "Vegetarian",
+		"defname": "BerryJuice"
+	},
+	{
+		"abr": "bionicleeanitail",
+		"price": 1233,
+		"category": "Bionic",
+		"defname": "LeeaniBionicTail"
+	},
+	{
+		"abr": "brazier",
+		"price": 142,
+		"category": "Furniture",
+		"defname": "LeeaniStoneBrazier"
+	},
+	{
+		"abr": "ciderkeg",
+		"price": 95,
+		"category": "Production",
+		"defname": "LeeaniCiderKeg"
+	},
+	{
+		"abr": "craftcider",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "LeeaniCider"
+	},
+	{
+		"abr": "craftwine",
+		"price": 30,
+		"category": "Drugs",
+		"defname": "LeeaniWine"
+	},
+	{
+		"abr": "electriclamp-post",
+		"price": 46,
+		"category": "Furniture",
+		"defname": "LeeaniLampPost"
+	},
+	{
+		"abr": "grapejuice",
+		"price": 17,
+		"category": "Vegetarian",
+		"defname": "GrapeJuice"
+	},
+	{
+		"abr": "grapes",
+		"price": 5,
+		"category": "Vegetarian",
+		"defname": "RawGrapes"
+	},
+	{
+		"abr": "industrialciderkeg",
+		"price": 858,
+		"category": "Production",
+		"defname": "IndustrialCiderKeg"
+	},
+	{
+		"abr": "industrialwinevat",
+		"price": 833,
+		"category": "Production",
+		"defname": "IndustrialWineVat"
+	},
+	{
+		"abr": "juniper",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawJuniper"
+	},
+	{
+		"abr": "leeani",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Leeani"
+	},
+	{
+		"abr": "leeanibycocket",
+		"price": 86,
+		"category": "Headgear",
+		"defname": "LeeaniBycocket"
+	},
+	{
+		"abr": "leeanifur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Leeani"
+	},
+	{
+		"abr": "leeanimeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_Alien_Leeani"
+	},
+	{
+		"abr": "leeanitail",
+		"price": 333,
+		"category": "Natural",
+		"defname": "LeeaniTail"
+	},
+	{
+		"abr": "quarterstaff",
+		"price": 237,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Quarterstaff"
+	},
+	{
+		"abr": "throne",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "LoordThrone"
+	},
+	{
+		"abr": "winekeg",
+		"price": 95,
+		"category": "Production",
+		"defname": "LeeaniWineKeg"
+	},
+	{
+		"abr": "winepress",
+		"price": 207,
+		"category": "Production",
+		"defname": "LeeaniWinePress"
 	}
 	],
-	"total": 595
+	"total": 618
 }

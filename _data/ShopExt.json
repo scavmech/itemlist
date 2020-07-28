@@ -1068,25 +1068,25 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 5834
+      "price": 11668
     },
     {
       "defName": "Alien_Leeani",
       "enabled": true,
       "name": "leeani",
-      "price": 6666
+      "price": 13332
     },
     {
       "defName": "AvP_Synth",
       "enabled": true,
       "name": "synth",
-      "price": 16666
+      "price": 33332
     },
     {
       "defName": "AvP_Alien_Yautja",
       "enabled": true,
       "name": "yautja",
-      "price": 11666
+      "price": 23332
     }
   ]
 }

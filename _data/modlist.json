@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.0.2.0"
+    "version": "1.0.4.0"
   },
   {
     "author": "UnlimitedHugs",
@@ -33,7 +33,7 @@
     "author": "sirrandoo",
     "name": "More Pause Events",
     "steamId": "1874708724",
-    "version": "1.6.1.0"
+    "version": "1.6.2.0"
   },
   {
     "author": "Dubwise",
@@ -60,64 +60,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "EdB",
-    "name": "EdB Prepare Carefully",
-    "steamId": "735106432",
-    "version": "1.1.9"
-  },
-  {
-    "author": "Linq",
-    "name": "[1.1] Psychology (unofficial)",
-    "steamId": "2016263135",
-    "version": "1.0.6"
-  },
-  {
-    "author": "Saakra",
-    "name": "Empire",
-    "steamId": "2006535182",
-    "version": "0.331"
-  },
-  {
     "author": "erdelf",
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Ogliss",
-    "name": "Alien Vs Predator",
-    "steamId": "2034103876",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Shazbot",
-    "name": "SRTS Expanded: RotorCraft",
-    "steamId": "2156088844",
-    "version": null
-  },
-  {
-    "author": "Roolo",
-    "name": "Giddy-up! Core",
-    "steamId": "1216999901",
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Motors Core",
-    "steamId": "2049539983",
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Combat Car",
-    "steamId": "2049540461",
-    "version": null
   },
   {
     "author": "Supes",
@@ -153,7 +99,7 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "0.4.2.0"
+    "version": "1.0.0.0"
   },
   {
     "author": "sirrandoo",
@@ -220,5 +166,47 @@
     "name": "ResearchPal",
     "steamId": "946390822",
     "version": "1.1.3.0"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots",
+    "steamId": "724602224",
+    "version": "1.1.7"
+  },
+  {
+    "author": "Alaestor",
+    "name": "Misc. Robots++",
+    "steamId": "747645520",
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion",
+    "name": "Vanilla Factions Expanded - Core - Now with Faction Discovery!",
+    "steamId": "2023507013",
+    "version": "1.1.8.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RamRod",
+    "name": "Z-Levels Beta",
+    "steamId": "2127428910",
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Vulpine Race Pack",
+    "steamId": "2018389163",
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2088"
   }
 ]

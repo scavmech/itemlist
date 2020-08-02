@@ -146,7 +146,7 @@
 	},
 	{
 		"abr": "battery",
-		"price": 333,
+		"price": -10,
 		"category": "Power",
 		"defname": "Battery"
 	},
@@ -644,7 +644,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -776,7 +776,7 @@
 	},
 	{
 		"abr": "elephanttusk",
-		"price": 133,
+		"price": -10,
 		"category": "Items",
 		"defname": "ElephantTusk"
 	},
@@ -1124,7 +1124,7 @@
 	},
 	{
 		"abr": "heater",
-		"price": 218,
+		"price": -10,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
@@ -1304,13 +1304,13 @@
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannon"
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "insectjelly",
-		"price": 13,
+		"price": -10,
 		"category": "Animal products",
 		"defname": "InsectJelly"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "luciferium",
-		"price": 117,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "Luciferium"
 	},
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"abr": "milk",
-		"price": 5,
+		"price": -10,
 		"category": "Animal products",
 		"defname": "Milk"
 	},
@@ -1730,7 +1730,7 @@
 	},
 	{
 		"abr": "neutroamine",
-		"price": 10,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Neutroamine"
 	},
@@ -2678,7 +2678,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -2983,731 +2983,1037 @@
 		"defname": "FM_ManagerStation"
 	},
 	{
-		"abr": "88mod4combatpistol",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_88mod4P"
-	},
-	{
-		"abr": "ancientcryptosleepcasket",
+		"abr": "antenna",
 		"price": -10,
-		"category": "Misc",
-		"defname": "AvP_XenomorphCryptosleepCasket"
+		"category": "Insect",
+		"defname": "VFEI_Antenna"
 	},
 	{
-		"abr": "artificialskin",
+		"abr": "archotecheraser",
 		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Synthetic_Skin"
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechEraser"
 	},
 	{
-		"abr": "bull",
+		"abr": "archotechshieldbelt",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCBull"
+		"category": "Artifacts",
+		"defname": "VFEI_Apparel_ArchotechShieldBelt"
 	},
 	{
-		"abr": "combatcar",
+		"abr": "archotechteleporter",
 		"price": -10,
-		"category": "Animal",
-		"defname": "motor_yy_combatCar"
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechTeleporter"
 	},
 	{
-		"abr": "combistaff",
-		"price": 500,
-		"category": "Melee weapons",
-		"defname": "AvP_Yautja_Melee_Combistaff"
-	},
-	{
-		"abr": "cookiecutter",
+		"abr": "bio-engineeringincubator",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCCookiecutter"
+		"category": "Furniture",
+		"defname": "VFEI_BioengineeringIncubator"
 	},
 	{
-		"abr": "dogfish",
+		"abr": "builderbot(disabled)",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCDogfish"
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
-		"abr": "eliteyautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskElite"
-	},
-	{
-		"abr": "eliteyautjahunterchestplate",
-		"price": 4167,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateElite"
-	},
-	{
-		"abr": "engineerjumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Engineer"
-	},
-	{
-		"abr": "falconeryautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskFalconer"
-	},
-	{
-		"abr": "headmountedsight",
-		"price": 1667,
-		"category": "USCM Equipment",
-		"defname": "AvP_USCM_Equipment_HeadMountedSight"
-	},
-	{
-		"abr": "healthshard",
-		"price": 1250,
-		"category": "Items",
-		"defname": "AvP_Yautja_HealthShard"
-	},
-	{
-		"abr": "huntergauntlet(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(longblade)(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletLong_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_Gauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(l)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "huntergauntlet(singleblade)(r)",
-		"price": 4167,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_GauntletShort_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "m10patternballistichelmet",
-		"price": 583,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_M10PAttern"
-	},
-	{
-		"abr": "m240incinerator",
-		"price": 625,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M240Incinerator"
-	},
-	{
-		"abr": "m2402heavyincinerator",
-		"price": 2167,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_M240A2Incinerator_Heavy"
-	},
-	{
-		"abr": "m3patternpersonalarmour",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M3Pattern"
-	},
-	{
-		"abr": "m37a2pumpshotgun",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M37A2S"
-	},
-	{
-		"abr": "m39submachinegun",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M39SMG"
-	},
-	{
-		"abr": "m41apulserifle(grenade)",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M41APR"
-	},
-	{
-		"abr": "m41apulserifle(shotgun)",
-		"price": 833,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M41BPR"
-	},
-	{
-		"abr": "m42asniperrifle",
-		"price": 5000,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M42ASR"
-	},
-	{
-		"abr": "m4a3servicepistol",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M4A3P"
-	},
-	{
-		"abr": "m4a4pistol",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M4A4P"
-	},
-	{
-		"abr": "m5rocketpropelledgrenade",
-		"price": 13333,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M5RPG"
-	},
-	{
-		"abr": "m56combatharness",
-		"price": 1667,
-		"category": "USCM Armour",
-		"defname": "AvP_USCM_Armour_M56CombatHarness"
-	},
-	{
-		"abr": "m56operatorsupplies",
-		"price": 200,
-		"category": "Items",
-		"defname": "AvP_USCM_OperatorGear"
-	},
-	{
-		"abr": "m56smartgun",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "AvP_USCM_Gun_M56SmartGun"
-	},
-	{
-		"abr": "maintenancejack",
-		"price": 125,
-		"category": "Melee weapons",
-		"defname": "AvP_USCM_MaintenanceJack"
-	},
-	{
-		"abr": "mako",
+		"abr": "builderbot(disabled)",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCMako"
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
-		"abr": "medicaljumpsuit",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Jumpsuit_Medical"
-	},
-	{
-		"abr": "megamouth",
+		"abr": "builderbot(disabled)",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCMegamouth"
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
-		"abr": "militarycap",
-		"price": 94,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Cap"
-	},
-	{
-		"abr": "needler",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Needler"
-	},
-	{
-		"abr": "neomorphmeat",
+		"abr": "builderbot(disabled)",
 		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Xenomorph_Neomorph"
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
-		"abr": "nurse",
+		"abr": "builderbot(disabled)",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCHip"
+		"category": "Robots",
+		"defname": "RPP_Bot_Builder_V_disabled"
 	},
 	{
-		"abr": "ornateyautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskOrnate"
-	},
-	{
-		"abr": "ornateyautjahunterchestplate",
-		"price": 4167,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateOrnate"
-	},
-	{
-		"abr": "plasmapistol",
-		"price": 1250,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Blaster"
-	},
-	{
-		"abr": "requiem",
+		"abr": "builder(i)basestation",
 		"price": -10,
-		"category": "Buildings",
-		"defname": "RCRequiem"
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
 	},
 	{
-		"abr": "rhynth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Rhynth"
-	},
-	{
-		"abr": "rhynthleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Rhynth"
-	},
-	{
-		"abr": "rhynthmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Rhynth"
-	},
-	{
-		"abr": "sandbar",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "RCSandbar"
-	},
-	{
-		"abr": "shoulderplasmacaster",
-		"price": 5833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_PlasmaCaster"
-	},
-	{
-		"abr": "simplexenomorphshield(drone)",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "AvP_Shield_Xenomorph_Drone"
-	},
-	{
-		"abr": "spearrifle",
-		"price": 1467,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_SpearRifle"
-	},
-	{
-		"abr": "spiketrap",
-		"price": -10,
-		"category": "Security",
-		"defname": "AvP_TrapSpike"
-	},
-	{
-		"abr": "sraf:canary",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRAF"
-	},
-	{
-		"abr": "sraf:tek-7",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRAFTek"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iiip:pelican",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSMkIIIp"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
-	},
-	{
-		"abr": "superpod",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
-	},
-	{
-		"abr": "synth",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Synth"
-	},
-	{
-		"abr": "synthmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Synth"
-	},
-	{
-		"abr": "thrasher",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "RCThrasher"
-	},
-	{
-		"abr": "tiger",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "RCTiger"
-	},
-	{
-		"abr": "tribalhunterwristblade(l)",
-		"price": 833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_LH"
-	},
-	{
-		"abr": "tribalhunterwristblade(r)",
-		"price": 833,
-		"category": "Yautja Equipment",
-		"defname": "AvP_Yautja_Equipment_TribalGauntlet_TOGGLEDEF_RH"
-	},
-	{
-		"abr": "tribalcloak",
-		"price": 244,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_TribalCloak"
-	},
-	{
-		"abr": "ua571-cautomatedsentrygun",
-		"price": -10,
-		"category": "Security",
-		"defname": "AvP_USCM_UA571C_Turret"
-	},
-	{
-		"abr": "uscmfatigues",
-		"price": 166,
-		"category": "USCM Apparel",
-		"defname": "AvP_USCM_Apparel_Fatigues"
-	},
-	{
-		"abr": "uscmstandardarmamement",
-		"price": 200,
-		"category": "Items",
-		"defname": "AvP_USCM_StandardGear"
-	},
-	{
-		"abr": "warbandana",
-		"price": 58,
-		"category": "USCM Headgear",
-		"defname": "AvP_USCM_Headgear_Bandana"
-	},
-	{
-		"abr": "xenomorphcarapace",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_Xenomorph_Shell"
-	},
-	{
-		"abr": "xenomorphflesh",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Xenomorph_FaceHugger"
-	},
-	{
-		"abr": "xenomorphleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Xenomorph"
-	},
-	{
-		"abr": "xenomorphtailspike",
-		"price": -10,
-		"category": "Items",
-		"defname": "AvP_Xenomorph_TailSpike"
-	},
-	{
-		"abr": "xenomorph-tailspear",
-		"price": -10,
-		"category": "Melee weapons",
-		"defname": "AvP_MeleeWeapon_XenoSpear"
-	},
-	{
-		"abr": "yautja",
-		"price": -10,
-		"category": "Animal",
-		"defname": "AvP_Alien_Yautja"
-	},
-	{
-		"abr": "yautjabiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMask"
-	},
-	{
-		"abr": "yautjabladedmaul",
-		"price": 1333,
-		"category": "Melee weapons",
-		"defname": "AvP_Yautja_Melee_BladedMaul"
-	},
-	{
-		"abr": "yautjabloodingcasket",
-		"price": -10,
-		"category": "Misc",
-		"defname": "AvP_Yautja_CryptosleepCasket_Tribute_XenoEgg"
-	},
-	{
-		"abr": "yautjacompoundbow",
-		"price": 358,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Compound_Bow"
-	},
-	{
-		"abr": "yautjaheavychestplate",
-		"price": 3333,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateHeavy"
-	},
-	{
-		"abr": "yautjahunterchestplate",
-		"price": 2917,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Chestplate"
-	},
-	{
-		"abr": "yautjahuntergreaves",
-		"price": 1667,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_Greaves"
-	},
-	{
-		"abr": "yautjahuntingbow",
-		"price": 218,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_Hunting_Bow"
-	},
-	{
-		"abr": "yautjaleather",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "AvP_Leather_Yautja"
-	},
-	{
-		"abr": "yautjalightbiomask",
-		"price": 833,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Armour_BioMaskLight"
-	},
-	{
-		"abr": "yautjalightchestplate",
+		"abr": "bionicfoxtail",
 		"price": 2500,
-		"category": "Yautja armour",
-		"defname": "AvP_Yautja_Armour_ChestplateLight"
-	},
-	{
-		"abr": "yautjamachiningtable",
-		"price": -10,
-		"category": "Production",
-		"defname": "AvP_Yautja_TableMachining"
-	},
-	{
-		"abr": "yautjameat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_AvP_Alien_Yautja"
-	},
-	{
-		"abr": "yautjasmartdisk",
-		"price": 692,
-		"category": "Ranged weapons",
-		"defname": "AvP_Yautja_Gun_SmartDisk"
-	},
-	{
-		"abr": "yautjasurvivalmesh",
-		"price": 383,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_ThermalMesh"
-	},
-	{
-		"abr": "yautjatribalmask",
-		"price": 167,
-		"category": "Yautja headgear",
-		"defname": "AvP_Yautja_Apparel_TribalMask"
-	},
-	{
-		"abr": "yautjavest",
-		"price": 211,
-		"category": "Yautja apparel",
-		"defname": "AvP_Yautja_Apparel_HunterVest"
-	},
-	{
-		"abr": "archive",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "LeeaniBookshelf"
-	},
-	{
-		"abr": "banquetchair",
-		"price": 142,
-		"category": "Furniture",
-		"defname": "BanquetChair"
-	},
-	{
-		"abr": "banquettable",
-		"price": 282,
-		"category": "Furniture",
-		"defname": "BanquetTable"
-	},
-	{
-		"abr": "berryjuice",
-		"price": 17,
-		"category": "Vegetarian",
-		"defname": "BerryJuice"
-	},
-	{
-		"abr": "bionicleeanitail",
-		"price": 1233,
 		"category": "Bionic",
-		"defname": "LeeaniBionicTail"
+		"defname": "BionicFennexTail"
 	},
 	{
-		"abr": "brazier",
-		"price": 142,
+		"abr": "builder(ii)basestation",
+		"price": -10,
 		"category": "Furniture",
-		"defname": "LeeaniStoneBrazier"
+		"defname": "RPP_RechargeStation_Builder_II"
 	},
 	{
-		"abr": "ciderkeg",
-		"price": 95,
-		"category": "Production",
-		"defname": "LeeaniCiderKeg"
-	},
-	{
-		"abr": "craftcider",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "LeeaniCider"
-	},
-	{
-		"abr": "craftwine",
-		"price": 30,
-		"category": "Drugs",
-		"defname": "LeeaniWine"
-	},
-	{
-		"abr": "electriclamp-post",
-		"price": 46,
+		"abr": "builder(iii)basestation",
+		"price": -10,
 		"category": "Furniture",
-		"defname": "LeeaniLampPost"
+		"defname": "RPP_RechargeStation_Builder_III"
 	},
 	{
-		"abr": "grapejuice",
-		"price": 17,
-		"category": "Vegetarian",
-		"defname": "GrapeJuice"
+		"abr": "builder(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
 	},
 	{
-		"abr": "grapes",
-		"price": 5,
-		"category": "Vegetarian",
-		"defname": "RawGrapes"
+		"abr": "builder(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
 	},
 	{
-		"abr": "industrialciderkeg",
-		"price": 858,
-		"category": "Production",
-		"defname": "IndustrialCiderKeg"
+		"abr": "chitin",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "VFEI_Chitin"
 	},
 	{
-		"abr": "industrialwinevat",
-		"price": 833,
-		"category": "Production",
-		"defname": "IndustrialWineVat"
+		"abr": "cleanerbasestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
 	{
-		"abr": "juniper",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "RawJuniper"
+		"abr": "cleaner(ii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
 	},
 	{
-		"abr": "leeani",
+		"abr": "cleaner(iii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "alc",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ALC"
+	},
+	{
+		"abr": "atom",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ATOM"
+	},
+	{
+		"abr": "beamsplitter",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "BeamSplitter"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_II_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_III_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_IV_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_V_disabled"
+	},
+	{
+		"abr": "cleaningbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Cleaner_disabled"
+	},
+	{
+		"abr": "clothtail",
+		"price": 667,
+		"category": "Prosthetic",
+		"defname": "ClothTail"
+	},
+	{
+		"abr": "compoundeye",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_CompoundEye"
+	},
+	{
+		"abr": "controlrodactuator",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ControlRodActuator"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_I_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_II_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_III_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_IV_disabled"
+	},
+	{
+		"abr": "crafterbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Crafter_V_disabled"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "depleteduranium",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "driveactuator",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "DriveActuator"
+	},
+	{
+		"abr": "dronegeneticmaterial",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "VFEI_DroneGenome"
+	},
+	{
+		"abr": "dusabotround",
+		"price": -10,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabotDU"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_I_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_II_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_III_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_IV_disabled"
+	},
+	{
+		"abr": "erbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_ER_V_disabled"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "ers",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "ERS"
+	},
+	{
+		"abr": "fennex",
 		"price": -10,
 		"category": "Animal",
-		"defname": "Alien_Leeani"
+		"defname": "Alien_Fennex"
 	},
 	{
-		"abr": "leeanibycocket",
-		"price": 86,
-		"category": "Headgear",
-		"defname": "LeeaniBycocket"
-	},
-	{
-		"abr": "leeanifur",
+		"abr": "fennexleather",
 		"price": -10,
 		"category": "Leathers",
-		"defname": "Leather_Leeani"
+		"defname": "Leather_fenx"
 	},
 	{
-		"abr": "leeanimeat",
+		"abr": "fennexmeat",
 		"price": -10,
 		"category": "Meat",
-		"defname": "Meat_Alien_Leeani"
+		"defname": "Meat_Alien_Fennex"
 	},
 	{
-		"abr": "leeanitail",
+		"abr": "frijjid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Frijjid"
+	},
+	{
+		"abr": "frijjidleather",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_frij"
+	},
+	{
+		"abr": "frijjidmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_Alien_Frijjid"
+	},
+	{
+		"abr": "fuelrods",
+		"price": -10,
+		"category": "Nuclear fuel",
+		"defname": "FuelRods"
+	},
+	{
+		"abr": "fuelrodsmox",
+		"price": -10,
+		"category": "Nuclear fuel",
+		"defname": "FuelRodsMOX"
+	},
+	{
+		"abr": "gigalocust",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Gigalocust"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_II_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_III_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_IV_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_V_disabled"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
+	},
+	{
+		"abr": "insectmilk",
+		"price": -10,
+		"category": "Animal products",
+		"defname": "VFEI_InsectMilk"
+	},
+	{
+		"abr": "insectoidarm",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_InsectoidArm"
+	},
+	{
+		"abr": "insectoidegg(unfert.)",
+		"price": -10,
+		"category": "Eggs (unfert.)",
+		"defname": "VFEI_EggInsectoidUnfertilized"
+	},
+	{
+		"abr": "insectoidleg",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_InsectoidLeg"
+	},
+	{
+		"abr": "insectoidqueen",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Queen"
+	},
+	{
+		"abr": "jellysac",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_JellySac"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_I_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_II_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_III_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_IV_disabled"
+	},
+	{
+		"abr": "kitchenbot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Kitchen_V_disabled"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
+	},
+	{
+		"abr": "kitchen(iii)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_III"
+	},
+	{
+		"abr": "kitchen(iv)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_IV"
+	},
+	{
+		"abr": "kitchen(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_V"
+	},
+	{
+		"abr": "larvae",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Larvae"
+	},
+	{
+		"abr": "lensmodule",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "LenseModule"
+	},
+	{
+		"abr": "mandibles",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_Mandibles"
+	},
+	{
+		"abr": "megapede",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Megapede"
+	},
+	{
+		"abr": "meps",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "MEPS"
+	},
+	{
+		"abr": "missilefuselage",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "MissileFuselage"
+	},
+	{
+		"abr": "moppmask(desert)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskDesert"
+	},
+	{
+		"abr": "moppmask(snow)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskSnow"
+	},
+	{
+		"abr": "moppmask(woodland)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskWoodland"
+	},
+	{
+		"abr": "moppsuit(desert)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitDesert"
+	},
+	{
+		"abr": "moppsuit(snow)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitSnow"
+	},
+	{
+		"abr": "moppsuit(woodland)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitWoodland"
+	},
+	{
+		"abr": "nuclearwarhead",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "FissionWarhead"
+	},
+	{
+		"abr": "omni(v)basestation",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Omni_V"
+	},
+	{
+		"abr": "omnibot(disabled)",
+		"price": -10,
+		"category": "Robots",
+		"defname": "RPP_Bot_Omni_V_disabled"
+	},
+	{
+		"abr": "pheromonesecretor",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_PheromoneSecretor"
+	},
+	{
+		"abr": "plasmascattergun",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_PlasmaScattergun"
+	},
+	{
+		"abr": "plasmabeamrifle",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_PlasmabeamRifle"
+	},
+	{
+		"abr": "plasmacutter",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_Plasmacutter"
+	},
+	{
+		"abr": "plasmapiercer",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_Plasmapiercer"
+	},
+	{
+		"abr": "plasmasaw",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "VFE_Plasmasaw"
+	},
+	{
+		"abr": "plutonium",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "Plutonium"
+	},
+	{
+		"abr": "pneumaticclaw",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_PneumaticClaw"
+	},
+	{
+		"abr": "potassiumiodide",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "PotassiumIodide"
+	},
+	{
+		"abr": "predatorstomach",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_PredatorStomach"
+	},
+	{
+		"abr": "psychicanimaltamer",
+		"price": -10,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
+	},
+	{
+		"abr": "psychicpacifier",
+		"price": -10,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_PsychicPacifier"
+	},
+	{
+		"abr": "psychicwarhead",
+		"price": -10,
+		"category": "Mortar shells",
+		"defname": "VFEI_Shell_PsychicWarhead"
+	},
+	{
+		"abr": "r.t.g",
+		"price": -10,
+		"category": "Nuclear",
+		"defname": "RimatomicsRTG"
+	},
+	{
+		"abr": "radiationmask",
+		"price": 244,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationMask"
+	},
+	{
+		"abr": "radiationsuit",
+		"price": 383,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "riotarmor",
+		"price": 667,
+		"category": "Armor",
+		"defname": "VFE_Apparel_RiotArmor"
+	},
+	{
+		"abr": "riothelmet",
+		"price": 315,
+		"category": "Headgear",
+		"defname": "VFE_Apparel_RiotHelmet"
+	},
+	{
+		"abr": "riotshield",
+		"price": 274,
+		"category": "Shields",
+		"defname": "VFEI_Shield_Riot"
+	},
+	{
+		"abr": "roboticcomponent",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Component"
+	},
+	{
+		"abr": "roboticmatrix(advanced)",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Matrix_IV"
+	},
+	{
+		"abr": "roboticmatrix(anti-logic)",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Matrix_V"
+	},
+	{
+		"abr": "roboticmatrix(basic)",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Matrix_II"
+	},
+	{
+		"abr": "roboticmatrix(intermediate)",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Matrix_III"
+	},
+	{
+		"abr": "roboticmatrix(simple)",
+		"price": -10,
+		"category": "Items",
+		"defname": "RPP_Matrix_I"
+	},
+	{
+		"abr": "roboticsworkbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "Table_RPP_RoboticsBench"
+	},
+	{
+		"abr": "rocketengine",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "RocketEngine"
+	},
+	{
+		"abr": "royalgeneticmaterial",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "VFEI_RoyalGenome"
+	},
+	{
+		"abr": "royalinsectjelly",
+		"price": -10,
+		"category": "Animal products",
+		"defname": "VFEI_RoyalInsectJelly"
+	},
+	{
+		"abr": "royalmegaspider",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_RoyalMegaspider"
+	},
+	{
+		"abr": "sabotround",
+		"price": -10,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabot"
+	},
+	{
+		"abr": "scad",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "sonicinfestationrepeller",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "VFEI_SonicInfestationRepeller"
+	},
+	{
+		"abr": "spidersilk",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "VFEI_Spidersilk"
+	},
+	{
+		"abr": "stairsdown",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ZL_StairsDown"
+	},
+	{
+		"abr": "stairsup",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "ZL_StairsUp"
+	},
+	{
+		"abr": "synapticcerebellum",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_SynapticCerebellum"
+	},
+	{
+		"abr": "tail",
 		"price": 333,
 		"category": "Natural",
-		"defname": "LeeaniTail"
+		"defname": "Tail"
 	},
 	{
-		"abr": "quarterstaff",
-		"price": 237,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_Quarterstaff"
+		"abr": "tail",
+		"price": 333,
+		"category": "Natural",
+		"defname": "FTail"
 	},
 	{
-		"abr": "throne",
-		"price": 750,
-		"category": "Furniture",
-		"defname": "LoordThrone"
+		"abr": "targetingchip",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
 	},
 	{
-		"abr": "winekeg",
-		"price": 95,
-		"category": "Production",
-		"defname": "LeeaniWineKeg"
+		"abr": "turbineblades",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
 	},
 	{
-		"abr": "winepress",
-		"price": 207,
-		"category": "Production",
-		"defname": "LeeaniWinePress"
+		"abr": "uraniumpellets",
+		"price": -10,
+		"category": "Rimatomics Product",
+		"defname": "UraniumPellets"
+	},
+	{
+		"abr": "vat-grownboomtick",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownBoomtick"
+	},
+	{
+		"abr": "vat-growncuterpillar",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownCuterpillar"
+	},
+	{
+		"abr": "vat-growngigalocust",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigalocust"
+	},
+	{
+		"abr": "vat-growngigascorpion",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigascorpion"
+	},
+	{
+		"abr": "vat-growngigawig",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigawig"
+	},
+	{
+		"abr": "vat-grownmegacricket",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegacricket"
+	},
+	{
+		"abr": "vat-grownmegapede",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegapede"
+	},
+	{
+		"abr": "vat-grownmegascarab",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegascarab"
+	},
+	{
+		"abr": "vat-grownmegaspider",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownMegaspider"
+	},
+	{
+		"abr": "vat-grownmilkbeetle",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMilkbeetle"
+	},
+	{
+		"abr": "vat-grownmonstrosity",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMonstrosity"
+	},
+	{
+		"abr": "vat-grownprincess",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownPrincess"
+	},
+	{
+		"abr": "vat-grownroyallarva",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownRoyalLarva"
+	},
+	{
+		"abr": "vat-grownroyalmaggot",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownRoyalMaggot"
+	},
+	{
+		"abr": "vat-grownspelopede",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpelopede"
+	},
+	{
+		"abr": "vat-grownspiderweaver",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpiderweaver"
+	},
+	{
+		"abr": "vat-growntitanbeetle",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownTitanbeetle"
+	},
+	{
+		"abr": "vat-grownwargling",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWargling"
+	},
+	{
+		"abr": "vat-grownworkerant",
+		"price": -10,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWorkerAnt"
+	},
+	{
+		"abr": "venomgland",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_VenomGland"
+	},
+	{
+		"abr": "ventricularsleeve",
+		"price": -10,
+		"category": "Insect",
+		"defname": "VFEI_VentricularSleeve"
+	},
+	{
+		"abr": "warriorgeneticmaterial",
+		"price": -10,
+		"category": "Manufactured",
+		"defname": "VFEI_WarriorGenome"
 	}
 	],
-	"total": 618
+	"total": 669
 }

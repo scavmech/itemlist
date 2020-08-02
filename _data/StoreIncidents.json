@@ -11,11 +11,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "vomitrain",
-		"price": 650,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -86,11 +81,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
@@ -121,38 +111,13 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "ambrosiasprout",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "herdmigration",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rarethrumbos",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -221,11 +186,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -251,16 +211,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "randominspire",
-		"price": 450,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "torytalkervote",
 		"price": 750,
 		"karmatype": "Good"
@@ -268,16 +218,6 @@
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
@@ -311,5 +251,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 62
+	"total": 50
 }

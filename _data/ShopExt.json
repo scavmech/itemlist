@@ -72,27 +72,6 @@
       ]
     },
     {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "AvP_Berserker",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is a Berserker [PAWN_alienRace], [PAWN_pronoun] has no honor in the hunt, unlike rival clans, as [PAWN_pronoun] will hunt unarmed prey with [PAWN_possessive] clan. [PAWN_pronoun] is a relentless and ruthless hunter, and [PAWN_pronoun] has also shown to be sadistic, seemingly savoring the fear of the prey throughout the hunt. Despite [PAWN_nameDef]'s brutality, [PAWN_pronoun] is also an incredibly skilled fighter, proving this by repeatedly emerging victorious in battle against Humans, Xenomorph and Predator alike. Unsurprisingly, [PAWN_pronoun] arrogance will be [PAWN_pronoun] demise./n/n[PAWN_pronoun] is four times as likely to start a social fight as others.\n(Alien Vs Predator)",
-      "name": "berserker",
-      "removePrice": 5500,
-      "stats": [
-        "+4.0 Melee hit chance",
-        "+15.0 Melee dodge chance",
-        "+60% Pain shock threshold",
-        "-50% Aiming time",
-        "-5.0 Shooting accuracy (people)"
-      ]
-    },
-    {
       "addPrice": 100,
       "bypassLimit": true,
       "canAdd": true,
@@ -228,19 +207,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "AvP_DefectiveInhibitor",
-      "degree": 0,
-      "description": "[PAWN_nameDef] has a defective inhibitor.\n(Alien Vs Predator)",
-      "name": "defectiveinhibitor",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "NaturalMood",
       "degree": -2,
       "description": "[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.",
@@ -356,25 +322,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "YautjaBuild",
-      "degree": -1,
-      "description": "[PAWN_nameDef] has a very heavy build for a [PAWN_alienRace], [PAWN_pronoun] cant jump as high as most [PAWN_alienRace] and is always falling behind the group whenever [PAWN_pronoun] goes anywhere. But when it comes to matter of raw physical strength, [PAWN_nameDef] is Far stronger compared to the average [PAWN_alienRace].\n(Alien Vs Predator)",
-      "name": "heavyset",
-      "removePrice": 5500,
-      "stats": [
-        "-0.20 Move speed",
-        "-35% Global work speed",
-        "-2.0 Melee hit chance",
-        "-15.0 Melee dodge chance",
-        "+30% Pain shock threshold"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -459,24 +406,6 @@
       "removePrice": 3500,
       "stats": [
         "-20% Global work speed"
-      ]
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "YautjaBuild",
-      "degree": 1,
-      "description": "[PAWN_nameDef] has a very light build for a [PAWN_alienRace], [PAWN_pronoun] can jump higher and move faster than your average [PAWN_alienRace] this allows [PAWN_nameDef] to avoid attacks that would kill, a side effect is that [PAWN_nameDef] is weaker when it comes to raw physical strength compared to the average [PAWN_alienRace].\n(Alien Vs Predator)",
-      "name": "lightweight",
-      "removePrice": 5500,
-      "stats": [
-        "+0.40 Move speed",
-        "+4.0 Melee hit chance",
-        "+15.0 Melee dodge chance",
-        "-20% Pain shock threshold"
       ]
     },
     {
@@ -610,19 +539,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "LeeaniPacifist",
-      "degree": 0,
-      "description": "[PAWN_nameDef] is a pacifist - of a sort. [PAWN_pronoun]'s far, far less likely to start a social fight, but this doesn't mean [PAWN_pronoun] won't defend his friends from harm. [PAWN_possessive] relative pacifism only has a minor effect on [PAWN_possessive] combat ability,\n(Leeani Playable Race)",
-      "name": "pacifist",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "NaturalMood",
       "degree": -1,
       "description": "[PAWN_nameDef] tends to look on the bad side of life.",
@@ -744,6 +660,25 @@
       "removePrice": 3500,
       "stats": [
         "+50% Rest rate multiplier"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "AIRobot_BaseTrait",
+      "degree": 1,
+      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.\n(Misc. Robots)",
+      "name": "robot",
+      "removePrice": 5500,
+      "stats": [
+        "+0.10 Move speed",
+        "+20% Global work speed",
+        "-100% Psychic sensitivity",
+        "-95% Toxic sensitivity",
+        "-90% Mental break threshold"
       ]
     },
     {
@@ -1065,28 +1000,22 @@
   ],
   "races": [
     {
+      "defName": "Alien_Fennex",
+      "enabled": true,
+      "name": "fennex",
+      "price": 3333
+    },
+    {
+      "defName": "Alien_Frijjid",
+      "enabled": true,
+      "name": "frijjid",
+      "price": 3333
+    },
+    {
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 11668
-    },
-    {
-      "defName": "Alien_Leeani",
-      "enabled": true,
-      "name": "leeani",
-      "price": 13332
-    },
-    {
-      "defName": "AvP_Synth",
-      "enabled": true,
-      "name": "synth",
-      "price": 33332
-    },
-    {
-      "defName": "AvP_Alien_Yautja",
-      "enabled": true,
-      "name": "yautja",
-      "price": 23332
+      "price": 2917
     }
   ]
 }

@@ -665,8 +665,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "AIRobot_BaseTrait",
       "degree": 1,
@@ -1003,19 +1003,19 @@
       "defName": "Alien_Fennex",
       "enabled": true,
       "name": "fennex",
-      "price": 3333
+      "price": 13332
     },
     {
       "defName": "Alien_Frijjid",
       "enabled": true,
       "name": "frijjid",
-      "price": 3333
+      "price": 13332
     },
     {
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
+      "price": 11668
     }
   ]
 }

@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": 333,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -188,7 +188,7 @@
 	},
 	{
 		"abr": "berries",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "RawBerries"
 	},
@@ -2018,7 +2018,7 @@
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": -10,
+		"price": 3,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
@@ -2180,7 +2180,7 @@
 	},
 	{
 		"abr": "rawfungus",
-		"price": 2,
+		"price": -10,
 		"category": "Vegetarian",
 		"defname": "RawFungus"
 	},
@@ -2828,7 +2828,7 @@
 	},
 	{
 		"abr": "wort",
-		"price": 4,
+		"price": -10,
 		"category": "Manufactured",
 		"defname": "Wort"
 	},
@@ -2983,1037 +2983,1739 @@
 		"defname": "FM_ManagerStation"
 	},
 	{
-		"abr": "antenna",
+		"abr": "ancientmail",
 		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_Antenna"
+		"category": "Magic equipment",
+		"defname": "AncientMail"
 	},
 	{
-		"abr": "archotecheraser",
+		"abr": "arcalleum",
 		"price": -10,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_ArchotechEraser"
-	},
-	{
-		"abr": "archotechshieldbelt",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "VFEI_Apparel_ArchotechShieldBelt"
-	},
-	{
-		"abr": "archotechteleporter",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_ArchotechTeleporter"
-	},
-	{
-		"abr": "bio-engineeringincubator",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "VFEI_BioengineeringIncubator"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_I_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_II_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_III_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_IV_disabled"
-	},
-	{
-		"abr": "builderbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Builder_V_disabled"
-	},
-	{
-		"abr": "builder(i)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_I"
-	},
-	{
-		"abr": "bionicfoxtail",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "BionicFennexTail"
-	},
-	{
-		"abr": "builder(ii)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_II"
-	},
-	{
-		"abr": "builder(iii)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_III"
-	},
-	{
-		"abr": "builder(iv)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_IV"
-	},
-	{
-		"abr": "builder(v)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Builder_V"
-	},
-	{
-		"abr": "chitin",
-		"price": 10,
 		"category": "Raw resources",
-		"defname": "VFEI_Chitin"
+		"defname": "TM_Arcalleum"
 	},
 	{
-		"abr": "cleanerbasestation",
+		"abr": "arcanegemofacceleration",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown"
 	},
 	{
-		"abr": "cleaner(ii)basestation",
+		"abr": "arcanegemofconservation",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_II"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost"
 	},
 	{
-		"abr": "cleaner(iii)basestation",
+		"abr": "arcanegemofforce",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_III"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg"
 	},
 	{
-		"abr": "cleaner(iv)basestation",
+		"abr": "arcanegemofholding",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP"
 	},
 	{
-		"abr": "alc",
+		"abr": "arcanegemoflearning",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "ALC"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain"
 	},
 	{
-		"abr": "atom",
+		"abr": "arcanegemofregeneration",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "ATOM"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate"
 	},
 	{
-		"abr": "beamsplitter",
+		"abr": "arcanegemofresistance",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "BeamSplitter"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes"
 	},
 	{
-		"abr": "cleaner(v)basestation",
+		"abr": "arcanegemofwonder",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Cleaner_V"
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
+		"abr": "arcanehood",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_II_disabled"
+		"category": "Magic equipment",
+		"defname": "ArcaneHood"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
+		"abr": "arcanescript:???",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_III_disabled"
+		"category": "Skill books",
+		"defname": "BookOfQuestion"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
+		"abr": "arcanespell:gateway",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_IV_disabled"
+		"category": "Scrolls",
+		"defname": "SpellOf_FoldReality"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
+		"abr": "arcanetome:bard",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_V_disabled"
+		"category": "Skill books",
+		"defname": "BookOfBard"
 	},
 	{
-		"abr": "cleaningbot(disabled)",
+		"abr": "arcanetome:brightmage",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Cleaner_disabled"
+		"category": "Skill books",
+		"defname": "BookOfTheSun"
 	},
 	{
-		"abr": "clothtail",
-		"price": 667,
-		"category": "Prosthetic",
-		"defname": "ClothTail"
-	},
-	{
-		"abr": "compoundeye",
+		"abr": "arcanetome:chaosmage",
 		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_CompoundEye"
+		"category": "Skill books",
+		"defname": "BookOfChaos"
 	},
 	{
-		"abr": "controlrodactuator",
+		"abr": "arcanetome:chronomancer",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "ControlRodActuator"
+		"category": "Skill books",
+		"defname": "BookOfChronomancer"
 	},
 	{
-		"abr": "crafterbot(disabled)",
+		"abr": "arcanetome:demonology",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_I_disabled"
+		"category": "Skill books",
+		"defname": "BookOfDemons"
 	},
 	{
-		"abr": "crafterbot(disabled)",
+		"abr": "arcanetome:earth",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_II_disabled"
+		"category": "Skill books",
+		"defname": "BookOfEarth"
 	},
 	{
-		"abr": "crafterbot(disabled)",
+		"abr": "arcanetome:enchanter",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_III_disabled"
+		"category": "Skill books",
+		"defname": "BookOfEnchanter"
 	},
 	{
-		"abr": "crafterbot(disabled)",
+		"abr": "arcanetome:fire",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_IV_disabled"
+		"category": "Skill books",
+		"defname": "BookOfInnerFire"
 	},
 	{
-		"abr": "crafterbot(disabled)",
+		"abr": "arcanetome:hemomancy",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Crafter_V_disabled"
+		"category": "Skill books",
+		"defname": "BookOfHemomancy"
 	},
 	{
-		"abr": "crafter(i)basestation",
+		"abr": "arcanetome:ice",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_I"
+		"category": "Skill books",
+		"defname": "BookOfHeartOfFrost"
 	},
 	{
-		"abr": "crafter(ii)basestation",
+		"abr": "arcanetome:lightning",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_II"
+		"category": "Skill books",
+		"defname": "BookOfStormBorn"
 	},
 	{
-		"abr": "crafter(iii)basestation",
+		"abr": "arcanetome:nature",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_III"
+		"category": "Skill books",
+		"defname": "BookOfDruid"
 	},
 	{
-		"abr": "crafter(iv)basestation",
+		"abr": "arcanetome:necromancer",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_IV"
+		"category": "Skill books",
+		"defname": "BookOfNecromancer"
 	},
 	{
-		"abr": "crafter(v)basestation",
+		"abr": "arcanetome:power",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Crafter_V"
+		"category": "Skill books",
+		"defname": "BookOfArcanist"
 	},
 	{
-		"abr": "depleteduranium",
+		"abr": "arcanetome:priest",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "DepletedUraniumPellets"
+		"category": "Skill books",
+		"defname": "BookOfPriest"
 	},
 	{
-		"abr": "driveactuator",
+		"abr": "arcanetome:shadow",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "DriveActuator"
+		"category": "Skill books",
+		"defname": "BookOfShadow"
 	},
 	{
-		"abr": "dronegeneticmaterial",
+		"abr": "arcanetome:summoning",
 		"price": -10,
-		"category": "Manufactured",
-		"defname": "VFEI_DroneGenome"
+		"category": "Skill books",
+		"defname": "BookOfSummoner"
 	},
 	{
-		"abr": "dusabotround",
+		"abr": "arcanetome:technomancy",
 		"price": -10,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabotDU"
+		"category": "Skill books",
+		"defname": "BookOfMagitech"
 	},
 	{
-		"abr": "erbot(disabled)",
+		"abr": "armorofthevaliant",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_I_disabled"
+		"category": "Magic equipment",
+		"defname": "RoyalArmor"
 	},
 	{
-		"abr": "erbot(disabled)",
+		"abr": "bardspell:battlehymn",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_II_disabled"
+		"category": "Scrolls",
+		"defname": "SpellOf_BattleHymn"
 	},
 	{
-		"abr": "erbot(disabled)",
+		"abr": "bloodmagespell:bloodmoon",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_III_disabled"
+		"category": "Scrolls",
+		"defname": "SpellOf_BloodMoon"
 	},
 	{
-		"abr": "erbot(disabled)",
+		"abr": "bracersofdefense",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_IV_disabled"
+		"category": "Apparel",
+		"defname": "TM_Artifact_BracersOfDefense"
 	},
 	{
-		"abr": "erbot(disabled)",
+		"abr": "bracersofdeflection",
 		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_ER_V_disabled"
+		"category": "Apparel",
+		"defname": "TM_Artifact_BracersOfDeflection"
 	},
 	{
-		"abr": "er(i)basestation",
+		"abr": "bracersofthepacifist",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_I"
+		"category": "Apparel",
+		"defname": "TM_Artifact_BracersOfThePacifist"
 	},
 	{
-		"abr": "er(ii)basestation",
+		"abr": "brightmagespell:spiritoflight",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_II"
+		"category": "Scrolls",
+		"defname": "SpellOf_SpiritOfLight"
 	},
 	{
-		"abr": "er(iii)basestation",
+		"abr": "chronomancerspell:recall",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_III"
+		"category": "Scrolls",
+		"defname": "SpellOf_Recall"
 	},
 	{
-		"abr": "er(iv)basestation",
+		"abr": "cloakofsupremacy",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_IV"
+		"category": "Magic equipment",
+		"defname": "DemonLordCloak"
 	},
 	{
-		"abr": "er(v)basestation",
+		"abr": "combatform:faceless",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_ER_V"
+		"category": "Skill books",
+		"defname": "BookOfFaceless"
 	},
 	{
-		"abr": "ers",
+		"abr": "combatform:gladiator",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "ERS"
+		"category": "Skill books",
+		"defname": "BookOfGladiator"
 	},
 	{
-		"abr": "fennex",
+		"abr": "combatpower:psionic",
 		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Fennex"
+		"category": "Skill books",
+		"defname": "BookOfPsionic"
 	},
 	{
-		"abr": "fennexleather",
+		"abr": "combatstyle:bladedancer",
 		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_fenx"
+		"category": "Skill books",
+		"defname": "BookOfBladedancer"
 	},
 	{
-		"abr": "fennexmeat",
+		"abr": "combatstyle:commander",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfCommander"
+	},
+	{
+		"abr": "combatstyle:deathknight",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfDeathKnight"
+	},
+	{
+		"abr": "combatstyle:monk",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfMonk"
+	},
+	{
+		"abr": "combatstyle:ranger",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfRanger"
+	},
+	{
+		"abr": "combatstyle:sniper",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfSniper"
+	},
+	{
+		"abr": "darkrobe",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "DarkRobe"
+	},
+	{
+		"abr": "demonflesh",
 		"price": -10,
 		"category": "Meat",
-		"defname": "Meat_Alien_Fennex"
+		"defname": "Meat_TM_DemonR"
 	},
 	{
-		"abr": "frijjid",
+		"abr": "direwolf",
 		"price": -10,
 		"category": "Animal",
-		"defname": "Alien_Frijjid"
+		"defname": "TM_Dire_WolfR"
 	},
 	{
-		"abr": "frijjidleather",
+		"abr": "divinetome:paladin",
 		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_frij"
+		"category": "Skill books",
+		"defname": "BookOfValiant"
 	},
 	{
-		"abr": "frijjidmeat",
+		"abr": "druidspell:briarpatch",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_BriarPatch"
+	},
+	{
+		"abr": "druidspell:fertilelands",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_FertileLands"
+	},
+	{
+		"abr": "druidspell:regrowlimb",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_RegrowLimb"
+	},
+	{
+		"abr": "elementaldust",
 		"price": -10,
 		"category": "Meat",
-		"defname": "Meat_Alien_Frijjid"
+		"defname": "Meat_TM_LesserEarth_ElementalR"
 	},
 	{
-		"abr": "fuelrods",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Nuclear fuel",
-		"defname": "FuelRods"
+		"category": "Meat",
+		"defname": "Meat_TM_Earth_ElementalR"
 	},
 	{
-		"abr": "fuelrodsmox",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Nuclear fuel",
-		"defname": "FuelRodsMOX"
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterEarth_ElementalR"
 	},
 	{
-		"abr": "gigalocust",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Gigalocust"
+		"category": "Meat",
+		"defname": "Meat_TM_LesserFire_ElementalR"
 	},
 	{
-		"abr": "haulerbasestation",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler"
+		"category": "Meat",
+		"defname": "Meat_TM_Fire_ElementalR"
 	},
 	{
-		"abr": "hauler(ii)basestation",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_II"
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterFire_ElementalR"
 	},
 	{
-		"abr": "hauler(iii)basestation",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_III"
+		"category": "Meat",
+		"defname": "Meat_TM_LesserWater_ElementalR"
 	},
 	{
-		"abr": "hauler(iv)basestation",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_IV"
+		"category": "Meat",
+		"defname": "Meat_TM_Water_ElementalR"
 	},
 	{
-		"abr": "hauler(v)basestation",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Furniture",
-		"defname": "AIRobot_RechargeStation_Hauler_V"
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterWater_ElementalR"
 	},
 	{
-		"abr": "haulingbot(disabled)",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_II_disabled"
+		"category": "Meat",
+		"defname": "Meat_TM_LesserWind_ElementalR"
 	},
 	{
-		"abr": "haulingbot(disabled)",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_III_disabled"
+		"category": "Meat",
+		"defname": "Meat_TM_Wind_ElementalR"
 	},
 	{
-		"abr": "haulingbot(disabled)",
+		"abr": "elementaldust",
 		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_IV_disabled"
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterWind_ElementalR"
 	},
 	{
-		"abr": "haulingbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_V_disabled"
-	},
-	{
-		"abr": "haulingbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "AIRobot_Hauler_disabled"
-	},
-	{
-		"abr": "insectmilk",
-		"price": -10,
-		"category": "Animal products",
-		"defname": "VFEI_InsectMilk"
-	},
-	{
-		"abr": "insectoidarm",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_InsectoidArm"
-	},
-	{
-		"abr": "insectoidegg(unfert.)",
-		"price": -10,
-		"category": "Eggs (unfert.)",
-		"defname": "VFEI_EggInsectoidUnfertilized"
-	},
-	{
-		"abr": "insectoidleg",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_InsectoidLeg"
-	},
-	{
-		"abr": "insectoidqueen",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Queen"
-	},
-	{
-		"abr": "jellysac",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_JellySac"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_I_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_II_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_III_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_IV_disabled"
-	},
-	{
-		"abr": "kitchenbot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Kitchen_V_disabled"
-	},
-	{
-		"abr": "kitchen(i)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_I"
-	},
-	{
-		"abr": "kitchen(ii)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_II"
-	},
-	{
-		"abr": "kitchen(iii)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_III"
-	},
-	{
-		"abr": "kitchen(iv)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_IV"
-	},
-	{
-		"abr": "kitchen(v)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Kitchen_V"
-	},
-	{
-		"abr": "larvae",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Larvae"
-	},
-	{
-		"abr": "lensmodule",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "LenseModule"
-	},
-	{
-		"abr": "mandibles",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_Mandibles"
-	},
-	{
-		"abr": "megapede",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_Megapede"
-	},
-	{
-		"abr": "meps",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "MEPS"
-	},
-	{
-		"abr": "missilefuselage",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "MissileFuselage"
-	},
-	{
-		"abr": "moppmask(desert)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskDesert"
-	},
-	{
-		"abr": "moppmask(snow)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskSnow"
-	},
-	{
-		"abr": "moppmask(woodland)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskWoodland"
-	},
-	{
-		"abr": "moppsuit(desert)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitDesert"
-	},
-	{
-		"abr": "moppsuit(snow)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitSnow"
-	},
-	{
-		"abr": "moppsuit(woodland)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitWoodland"
-	},
-	{
-		"abr": "nuclearwarhead",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "FissionWarhead"
-	},
-	{
-		"abr": "omni(v)basestation",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "omnibot(disabled)",
-		"price": -10,
-		"category": "Robots",
-		"defname": "RPP_Bot_Omni_V_disabled"
-	},
-	{
-		"abr": "pheromonesecretor",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_PheromoneSecretor"
-	},
-	{
-		"abr": "plasmascattergun",
-		"price": -10,
+		"abr": "elephantbow",
+		"price": 2083,
 		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmaScattergun"
+		"defname": "TM_ElephantBow"
 	},
 	{
-		"abr": "plasmabeamrifle",
+		"abr": "elephantspear",
 		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_PlasmabeamRifle"
-	},
-	{
-		"abr": "plasmacutter",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmacutter"
-	},
-	{
-		"abr": "plasmapiercer",
-		"price": -10,
-		"category": "Ranged weapons",
-		"defname": "VFE_Gun_Plasmapiercer"
-	},
-	{
-		"abr": "plasmasaw",
-		"price": 3333,
 		"category": "Melee weapons",
-		"defname": "VFE_Plasmasaw"
+		"defname": "TM_ElephantSpear"
 	},
 	{
-		"abr": "plutonium",
+		"abr": "enchanterspell:blankmind",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "Plutonium"
+		"category": "Scrolls",
+		"defname": "SpellOf_BlankMind"
 	},
 	{
-		"abr": "pneumaticclaw",
+		"abr": "enchanterspell:shapeshift",
 		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_PneumaticClaw"
+		"category": "Scrolls",
+		"defname": "SpellOf_Shapeshift"
 	},
 	{
-		"abr": "potassiumiodide",
-		"price": 53,
+		"abr": "fighterskill:burningfury",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_BurningFury"
+	},
+	{
+		"abr": "fighterskill:fightersfocus",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_FightersFocus"
+	},
+	{
+		"abr": "fighterskill:gearrepair",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_GearRepair"
+	},
+	{
+		"abr": "fighterskill:heavyblow",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_HeavyBlow"
+	},
+	{
+		"abr": "fighterskill:innerhealing",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_InnerHealing"
+	},
+	{
+		"abr": "fighterskill:legion",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_Legion"
+	},
+	{
+		"abr": "fighterskill:pommelstrike",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_PommelStrike"
+	},
+	{
+		"abr": "fighterskill:sprint",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_Sprint"
+	},
+	{
+		"abr": "fighterskill:strongback",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_StrongBack"
+	},
+	{
+		"abr": "fighterskill:tempeststrike",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_TempestStrike"
+	},
+	{
+		"abr": "fighterskill:thickskin",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThickSkin"
+	},
+	{
+		"abr": "fighterskill:throwingknife",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SkillOf_ThrowingKnife"
+	},
+	{
+		"abr": "firespell:cauterizewound",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_CauterizeWound"
+	},
+	{
+		"abr": "firespell:dryground",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_DryGround"
+	},
+	{
+		"abr": "firespell:firestorm",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Firestorm"
+	},
+	{
+		"abr": "gemofarcaneinsight",
+		"price": -10,
+		"category": "Magic artifacts",
+		"defname": "GemstoneOfInsight_Magic"
+	},
+	{
+		"abr": "gemofphysicalinsight",
+		"price": -10,
+		"category": "Magic artifacts",
+		"defname": "GemstoneOfInsight_Might"
+	},
+	{
+		"abr": "geomancerspell:meteor",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Meteor"
+	},
+	{
+		"abr": "giantskeletonmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_GiantSkeletonR"
+	},
+	{
+		"abr": "helmofthevaliant",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "RoyalHelm"
+	},
+	{
+		"abr": "hoodofmadness",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "HoodOfMadness"
+	},
+	{
+		"abr": "icespell:blizzard",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blizzard"
+	},
+	{
+		"abr": "icespell:moisturizeground",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_WetGround"
+	},
+	{
+		"abr": "lightningspell:chargebattery",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_ChargeBattery"
+	},
+	{
+		"abr": "lightningspell:eyeofthestorm",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_EyeOfTheStorm"
+	},
+	{
+		"abr": "magespell:arcanebolt",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_ArcaneBolt"
+	},
+	{
+		"abr": "magespell:blink",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blink"
+	},
+	{
+		"abr": "magespell:blur",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Blur"
+	},
+	{
+		"abr": "magespell:dirtdevil",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_DirtDevil"
+	},
+	{
+		"abr": "magespell:emp",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_EMP"
+	},
+	{
+		"abr": "magespell:extinguish",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Extinguish"
+	},
+	{
+		"abr": "magespell:heal",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Heal"
+	},
+	{
+		"abr": "magespell:ignite",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Ignite"
+	},
+	{
+		"abr": "magespell:invisibility",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Invisibility"
+	},
+	{
+		"abr": "magespell:lightningtrap",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_LightningTrap"
+	},
+	{
+		"abr": "magespell:magelight",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_MageLight"
+	},
+	{
+		"abr": "magespell:magiccooler",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Cooler"
+	},
+	{
+		"abr": "magespell:magicheater",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Heater"
+	},
+	{
+		"abr": "magespell:manashield",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_ManaShield"
+	},
+	{
+		"abr": "magespell:powernode",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_PowerNode"
+	},
+	{
+		"abr": "magespell:rain",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Rain"
+	},
+	{
+		"abr": "magespell:siphonmana",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SiphonMana"
+	},
+	{
+		"abr": "magespell:smokecloud",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SmokeCloud"
+	},
+	{
+		"abr": "magespell:snapfreeze",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SnapFreeze"
+	},
+	{
+		"abr": "magespell:spellmending",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SpellMending"
+	},
+	{
+		"abr": "magespell:summonminion",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SummonMinion"
+	},
+	{
+		"abr": "magespell:sunlight",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Sunlight"
+	},
+	{
+		"abr": "magespell:teleport",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Teleport"
+	},
+	{
+		"abr": "magespell:transfermana",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_TransferMana"
+	},
+	{
+		"abr": "majorarcanegemofacceleration",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown_major"
+	},
+	{
+		"abr": "majorarcanegemofconservation",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost_major"
+	},
+	{
+		"abr": "majorarcanegemofforce",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg_major"
+	},
+	{
+		"abr": "majorarcanegemofholding",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP_major"
+	},
+	{
+		"abr": "majorarcanegemoflearning",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain_major"
+	},
+	{
+		"abr": "majorarcanegemofregeneration",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate_major"
+	},
+	{
+		"abr": "majorarcanegemofresistance",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes_major"
+	},
+	{
+		"abr": "majorarcanegemofwonder",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder_major"
+	},
+	{
+		"abr": "manapotion",
+		"price": 150,
 		"category": "Drugs",
-		"defname": "PotassiumIodide"
+		"defname": "ManaPotion"
 	},
 	{
-		"abr": "predatorstomach",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_PredatorStomach"
-	},
-	{
-		"abr": "psychicanimaltamer",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
-	},
-	{
-		"abr": "psychicpacifier",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "VFEI_Artifacts_PsychicPacifier"
-	},
-	{
-		"abr": "psychicwarhead",
-		"price": -10,
-		"category": "Mortar shells",
-		"defname": "VFEI_Shell_PsychicWarhead"
-	},
-	{
-		"abr": "r.t.g",
-		"price": -10,
-		"category": "Nuclear",
-		"defname": "RimatomicsRTG"
-	},
-	{
-		"abr": "radiationmask",
-		"price": 244,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationMask"
-	},
-	{
-		"abr": "radiationsuit",
-		"price": 383,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationSuit"
-	},
-	{
-		"abr": "riotarmor",
-		"price": 667,
-		"category": "Armor",
-		"defname": "VFE_Apparel_RiotArmor"
-	},
-	{
-		"abr": "riothelmet",
-		"price": 315,
-		"category": "Headgear",
-		"defname": "VFE_Apparel_RiotHelmet"
-	},
-	{
-		"abr": "riotshield",
-		"price": 274,
-		"category": "Shields",
-		"defname": "VFEI_Shield_Riot"
-	},
-	{
-		"abr": "roboticcomponent",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Component"
-	},
-	{
-		"abr": "roboticmatrix(advanced)",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Matrix_IV"
-	},
-	{
-		"abr": "roboticmatrix(anti-logic)",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Matrix_V"
-	},
-	{
-		"abr": "roboticmatrix(basic)",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Matrix_II"
-	},
-	{
-		"abr": "roboticmatrix(intermediate)",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Matrix_III"
-	},
-	{
-		"abr": "roboticmatrix(simple)",
-		"price": -10,
-		"category": "Items",
-		"defname": "RPP_Matrix_I"
-	},
-	{
-		"abr": "roboticsworkbench",
-		"price": -10,
-		"category": "Production",
-		"defname": "Table_RPP_RoboticsBench"
-	},
-	{
-		"abr": "rocketengine",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "RocketEngine"
-	},
-	{
-		"abr": "royalgeneticmaterial",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "VFEI_RoyalGenome"
-	},
-	{
-		"abr": "royalinsectjelly",
-		"price": -10,
-		"category": "Animal products",
-		"defname": "VFEI_RoyalInsectJelly"
-	},
-	{
-		"abr": "royalmegaspider",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_Insectoid_RoyalMegaspider"
-	},
-	{
-		"abr": "sabotround",
-		"price": -10,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabot"
-	},
-	{
-		"abr": "scad",
-		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "SCAD"
-	},
-	{
-		"abr": "sonicinfestationrepeller",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "VFEI_SonicInfestationRepeller"
-	},
-	{
-		"abr": "spidersilk",
+		"abr": "manaweave",
 		"price": -10,
 		"category": "Textiles",
-		"defname": "VFEI_Spidersilk"
+		"defname": "TM_Manaweave"
 	},
 	{
-		"abr": "stairsdown",
+		"abr": "mashedpomana",
 		"price": -10,
+		"category": "Vegetarian",
+		"defname": "TM_RawPomanaMash"
+	},
+	{
+		"abr": "minorarcanegemofacceleration",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_coolDown_minor"
+	},
+	{
+		"abr": "minorarcanegemofconservation",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpCost_minor"
+	},
+	{
+		"abr": "minorarcanegemofforce",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneDmg_minor"
+	},
+	{
+		"abr": "minorarcanegemofholding",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_maxMP_minor"
+	},
+	{
+		"abr": "minorarcanegemoflearning",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_xpGain_minor"
+	},
+	{
+		"abr": "minorarcanegemofregeneration",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_mpRegenRate_minor"
+	},
+	{
+		"abr": "minorarcanegemofresistance",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_arcaneRes_minor"
+	},
+	{
+		"abr": "minorarcanegemofwonder",
+		"price": -10,
+		"category": "Refined magicyte",
+		"defname": "TM_EStone_wonder_minor"
+	},
+	{
+		"abr": "100kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery100k"
+	},
+	{
+		"abr": "10kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery10k"
+	},
+	{
+		"abr": "16kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery16k"
+	},
+	{
+		"abr": "256kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery256k"
+	},
+	{
+		"abr": "4kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery4k"
+	},
+	{
+		"abr": "64kbattery",
+		"price": -10,
+		"category": "Power",
+		"defname": "Battery64k"
+	},
+	{
+		"abr": "adaptiveassembler",
+		"price": -10,
+		"category": "Automation",
+		"defname": "MachineLearningAssembler"
+	},
+	{
+		"abr": "adv.machineframe",
+		"price": -10,
+		"category": "Items",
+		"defname": "PRFMachineFrameLarge"
+	},
+	{
+		"abr": "animalmanager",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Slaughterhouse"
+	},
+	{
+		"abr": "armoredshelf",
+		"price": 253,
 		"category": "Furniture",
-		"defname": "ZL_StairsDown"
+		"defname": "ArmoredShelf"
 	},
 	{
-		"abr": "stairsup",
+		"abr": "assembler",
 		"price": -10,
+		"category": "Automation",
+		"defname": "UniversalAssembler"
+	},
+	{
+		"abr": "augerdrill(t1)",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry_mkI"
+	},
+	{
+		"abr": "blastfurnace",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_FurnaceI"
+	},
+	{
+		"abr": "coal",
+		"price": 1,
+		"category": "Raw resources",
+		"defname": "WDCoal"
+	},
+	{
+		"abr": "commode",
+		"price": 525,
 		"category": "Furniture",
-		"defname": "ZL_StairsUp"
+		"defname": "SE_Commode"
 	},
 	{
-		"abr": "synapticcerebellum",
+		"abr": "conveyorbelt",
 		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_SynapticCerebellum"
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor"
 	},
 	{
-		"abr": "tail",
-		"price": 333,
-		"category": "Natural",
-		"defname": "Tail"
-	},
-	{
-		"abr": "tail",
-		"price": 333,
-		"category": "Natural",
-		"defname": "FTail"
-	},
-	{
-		"abr": "targetingchip",
+		"abr": "digitalstorageunit",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "TargetingChip"
+		"category": "Automation",
+		"defname": "PRFCargoPlatform"
 	},
 	{
-		"abr": "turbineblades",
+		"abr": "dronecultivator",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "turbineBlade"
+		"category": "Automation",
+		"defname": "CultivatorTools_DroneCultivator"
 	},
 	{
-		"abr": "uraniumpellets",
+		"abr": "dronecultivator(sunlamp)",
 		"price": -10,
-		"category": "Rimatomics Product",
-		"defname": "UraniumPellets"
+		"category": "Automation",
+		"defname": "CultivatorTools_CultivatorWithLamp"
 	},
 	{
-		"abr": "vat-grownboomtick",
+		"abr": "dronemodule",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatgrownBoomtick"
+		"category": "Items",
+		"defname": "PRFDroneModule"
 	},
 	{
-		"abr": "vat-growncuterpillar",
+		"abr": "electricfurnace",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_FurnaceIII"
+	},
+	{
+		"abr": "ferian",
 		"price": -10,
 		"category": "Animal",
-		"defname": "VFEI_VatGrownCuterpillar"
+		"defname": "AFerian"
 	},
 	{
-		"abr": "vat-growngigalocust",
+		"abr": "ferianleather",
+		"price": 8,
+		"category": "Leathers",
+		"defname": "Leather_Ferian"
+	},
+	{
+		"abr": "fermentingtank",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownGigalocust"
+		"category": "Automation",
+		"defname": "PRFFermentingBarrel"
 	},
 	{
-		"abr": "vat-growngigascorpion",
+		"abr": "floorspotlight",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownGigascorpion"
+		"category": "Automation",
+		"defname": "PRF_FloorSpotlight"
 	},
 	{
-		"abr": "vat-growngigawig",
+		"abr": "fuelingmachine",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownGigawig"
+		"category": "Automation",
+		"defname": "FuelingMachine"
 	},
 	{
-		"abr": "vat-grownmegacricket",
+		"abr": "fusionreactor",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMegacricket"
+		"category": "Power",
+		"defname": "SE_FusionReactor"
 	},
 	{
-		"abr": "vat-grownmegapede",
+		"abr": "genericanimalharvester",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMegapede"
+		"category": "Automation",
+		"defname": "GenericAnimalHarvester"
 	},
 	{
-		"abr": "vat-grownmegascarab",
+		"abr": "growzonepuller",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMegascarab"
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_GrowZonePuller"
 	},
 	{
-		"abr": "vat-grownmegaspider",
+		"abr": "hi-techfirefoampopper",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatgrownMegaspider"
+		"category": "Misc",
+		"defname": "FirefoamPopperMKII"
 	},
 	{
-		"abr": "vat-grownmilkbeetle",
+		"abr": "hi-techkitchen",
+		"price": 2608,
+		"category": "Production",
+		"defname": "HiTechKitchen"
+	},
+	{
+		"abr": "i/oport",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMilkbeetle"
+		"category": "Automation",
+		"defname": "PRFStorageUnitIOPort"
 	},
 	{
-		"abr": "vat-grownmonstrosity",
+		"abr": "improvedhay",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownMonstrosity"
+		"category": "Foods",
+		"defname": "ImprovedHay"
 	},
 	{
-		"abr": "vat-grownprincess",
+		"abr": "industrialcooker",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownPrincess"
+		"category": "Automation",
+		"defname": "SelfCooker"
 	},
 	{
-		"abr": "vat-grownroyallarva",
+		"abr": "industrialfoodprocessor",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatgrownRoyalLarva"
+		"category": "Automation",
+		"defname": "SelfPrepper"
 	},
 	{
-		"abr": "vat-grownroyalmaggot",
+		"abr": "industrialfurnace",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownRoyalMaggot"
+		"category": "Automation",
+		"defname": "PRF_FurnaceII"
 	},
 	{
-		"abr": "vat-grownspelopede",
+		"abr": "industriallamp",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownSpelopede"
+		"category": "Automation",
+		"defname": "PRF_IndustrialLamp"
 	},
 	{
-		"abr": "vat-grownspiderweaver",
+		"abr": "industrialstoneworks",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownSpiderweaver"
+		"category": "Automation",
+		"defname": "PRF_StoneWorks"
 	},
 	{
-		"abr": "vat-growntitanbeetle",
+		"abr": "itemanglepuller",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownTitanbeetle"
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller_Side"
 	},
 	{
-		"abr": "vat-grownwargling",
+		"abr": "itempuller",
 		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownWargling"
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller"
 	},
 	{
-		"abr": "vat-grownworkerant",
-		"price": -10,
-		"category": "Animal",
-		"defname": "VFEI_VatGrownWorkerAnt"
-	},
-	{
-		"abr": "venomgland",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_VenomGland"
-	},
-	{
-		"abr": "ventricularsleeve",
-		"price": -10,
-		"category": "Insect",
-		"defname": "VFEI_VentricularSleeve"
-	},
-	{
-		"abr": "warriorgeneticmaterial",
+		"abr": "lunchboxcasing",
 		"price": -10,
 		"category": "Manufactured",
-		"defname": "VFEI_WarriorGenome"
+		"defname": "LunchboxCasing"
+	},
+	{
+		"abr": "lunchboxmeal",
+		"price": 75,
+		"category": "Meals",
+		"defname": "LunchboxMeal"
+	},
+	{
+		"abr": "machineframe",
+		"price": -10,
+		"category": "Items",
+		"defname": "PRFMachineFrame"
+	},
+	{
+		"abr": "meatgrinder",
+		"price": -10,
+		"category": "Automation",
+		"defname": "MeatGrinder"
+	},
+	{
+		"abr": "mechanitescultivator",
+		"price": -10,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18Cultivator"
+	},
+	{
+		"abr": "mechanitescultivator(sunlamp)",
+		"price": -10,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18CultivatorSun"
+	},
+	{
+		"abr": "mechanitesxlcultivator",
+		"price": -10,
+		"category": "Automation",
+		"defname": "CultivatorTools_b18CultivatorXL"
+	},
+	{
+		"abr": "metalrefinery",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_MetalRefinery"
+	},
+	{
+		"abr": "milker",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Milker"
+	},
+	{
+		"abr": "miniground-penetratingscanner",
+		"price": -10,
+		"category": "Misc",
+		"defname": "MiniGroundPenetratingScanner"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_MinionR"
+	},
+	{
+		"abr": "mysterymeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_GreaterMinionR"
+	},
+	{
+		"abr": "necromancerspell:lichform",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_LichForm"
+	},
+	{
+		"abr": "necroticorb",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_NecroticOrb"
+	},
+	{
+		"abr": "orbofconviction",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_OrbOfConviction"
+	},
+	{
+		"abr": "orbofsouls(empty)",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_OrbOfSouls"
+	},
+	{
+		"abr": "orbofsouls(filled)",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_OrbOfSouls_Full"
+	},
+	{
+		"abr": "orboftheeternal",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_OrbOfEternal"
+	},
+	{
+		"abr": "paladinspell:holywrath",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_HolyWrath"
+	},
+	{
+		"abr": "paragon'shelm",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "ParagonHelm"
+	},
+	{
+		"abr": "plasmadrill(t3)",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Miner"
+	},
+	{
+		"abr": "pomanafruit",
+		"price": -10,
+		"category": "Vegetarian",
+		"defname": "TM_RawPomanasyrrium"
+	},
+	{
+		"abr": "poppimeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_Poppi"
+	},
+	{
+		"abr": "priestspell:resurrection",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Resurrection"
+	},
+	{
+		"abr": "pulsedrill(t2)",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_DeepQuarry"
+	},
+	{
+		"abr": "recipedatadisk",
+		"price": -10,
+		"category": "Items",
+		"defname": "RimFactory_Data_Disk"
+	},
+	{
+		"abr": "recipedatabase",
+		"price": -10,
+		"category": "Automation",
+		"defname": "RecipeDatabase"
+	},
+	{
+		"abr": "ringofblood",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_RingOfBlood"
+	},
+	{
+		"abr": "ringofkeenintellect",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_RingOfKeenIntellect"
+	},
+	{
+		"abr": "ringofmalice",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_RingOfMalice"
+	},
+	{
+		"abr": "ringoftheeternalblue",
+		"price": -10,
+		"category": "Apparel",
+		"defname": "TM_Artifact_RingOfEternalBlue"
+	},
+	{
+		"abr": "robesofthearchmage",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "ArchMageRobe"
+	},
+	{
+		"abr": "roboticarm",
+		"price": -10,
+		"category": "Items",
+		"defname": "PRFRoboticArm"
+	},
+	{
+		"abr": "roboticmachiningtable",
+		"price": -10,
+		"category": "Production",
+		"defname": "TableRoboticMachining"
+	},
+	{
+		"abr": "seedofregrowth",
+		"price": -10,
+		"category": "Magic Items",
+		"defname": "SeedofRegrowth"
+	},
+	{
+		"abr": "serum:supersoldier",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "BookOfSuperSoldier"
+	},
+	{
+		"abr": "shearer",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Shearer"
+	},
+	{
+		"abr": "simplemachineframe",
+		"price": -10,
+		"category": "Items",
+		"defname": "PRFMachineFrameSmall"
+	},
+	{
+		"abr": "skeletonlichmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_SkeletonLichR"
+	},
+	{
+		"abr": "skeletonmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_SkeletonR"
+	},
+	{
+		"abr": "smallsteelcrate",
+		"price": -10,
+		"category": "Automation",
+		"defname": "StockpileCrateReinforcedTiny"
+	},
+	{
+		"abr": "smallwoodencrate",
+		"price": -10,
+		"category": "Automation",
+		"defname": "StockpileCrateSmall"
+	},
+	{
+		"abr": "smartrecycler",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_Recycler"
+	},
+	{
+		"abr": "spacercooker",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_SpacerCooker"
+	},
+	{
+		"abr": "staffofblazingpower",
+		"price": 6250,
+		"category": "Ranged weapons",
+		"defname": "TM_BlazingPowerStaff"
+	},
+	{
+		"abr": "staffofthedefender",
+		"price": 5583,
+		"category": "Ranged weapons",
+		"defname": "TM_DefenderStaff"
+	},
+	{
+		"abr": "steelcrate",
+		"price": -10,
+		"category": "Automation",
+		"defname": "StockpileCrateReinforced"
+	},
+	{
+		"abr": "stone",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_Lesser_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_SentinelR"
+	},
+	{
+		"abr": "stone",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_Greater_SentinelR"
+	},
+	{
+		"abr": "studydesk:botany(growing)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Growing"
+	},
+	{
+		"abr": "studydesk:construction",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Construction"
+	},
+	{
+		"abr": "studydesk:crafting",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Crafting"
+	},
+	{
+		"abr": "studydesk:creativearts(art)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Artistic"
+	},
+	{
+		"abr": "studydesk:masterchef(cooking)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Cooking"
+	},
+	{
+		"abr": "studydesk:mining&dwarves(mining)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Mining"
+	},
+	{
+		"abr": "studydesk:modernmedicine",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Medicine"
+	},
+	{
+		"abr": "studydesk:psychology&marketing(social)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Social"
+	},
+	{
+		"abr": "studydesk:science(intellectual)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Intellectual"
+	},
+	{
+		"abr": "studydesk:thewildlifebiologist(animals)",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_Edu_PC_Animals"
+	},
+	{
+		"abr": "succubusspell:scorn",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Scorn"
+	},
+	{
+		"abr": "summonerspell:summonpoppi",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_SummonPoppi"
+	},
+	{
+		"abr": "syrrium",
+		"price": 75,
+		"category": "Drugs",
+		"defname": "TM_Syrrium"
+	},
+	{
+		"abr": "technomancerspell:kineticshield",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_TechnoShield"
+	},
+	{
+		"abr": "technomancerspell:mechanitereprogramming",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_MechaniteReprogramming"
+	},
+	{
+		"abr": "technomancerspell:orbitalstrike",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_OrbitalStrike"
+	},
+	{
+		"abr": "technomancerspell:overdrive",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Overdrive"
+	},
+	{
+		"abr": "technomancerspell:sabotage",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_Sabotage"
+	},
+	{
+		"abr": "thrumbow",
+		"price": 7467,
+		"category": "Ranged weapons",
+		"defname": "TM_ThrumBow"
+	},
+	{
+		"abr": "thrumboaxe",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "TM_ThrumboAxe"
+	},
+	{
+		"abr": "toolcabinetmkii",
+		"price": -10,
+		"category": "Misc",
+		"defname": "SE_ToolCabinetMKII"
+	},
+	{
+		"abr": "tornscript:bard",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfBard"
+	},
+	{
+		"abr": "tornscript:brightmage",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfTheSun"
+	},
+	{
+		"abr": "tornscript:chaos",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChaos"
+	},
+	{
+		"abr": "tornscript:chronomancy",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfChronomancer"
+	},
+	{
+		"abr": "tornscript:demonology",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfDemons"
+	},
+	{
+		"abr": "tornscript:enchanter",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfEnchanter"
+	},
+	{
+		"abr": "tornscript:fire",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfInnerFire"
+	},
+	{
+		"abr": "tornscript:geomancy",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfEarth"
+	},
+	{
+		"abr": "tornscript:hemomancy",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfHemomancy"
+	},
+	{
+		"abr": "tornscript:ice",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfHeartOfFrost"
+	},
+	{
+		"abr": "tornscript:lightning",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfStormBorn"
+	},
+	{
+		"abr": "tornscript:nature",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfNature"
+	},
+	{
+		"abr": "tornscript:necromancy",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfUndead"
+	},
+	{
+		"abr": "tornscript:paladin",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfValiant"
+	},
+	{
+		"abr": "tornscript:power",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfArcanist"
+	},
+	{
+		"abr": "tornscript:priest",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfPriest"
+	},
+	{
+		"abr": "tornscript:summoning",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfSummoner"
+	},
+	{
+		"abr": "tornscript:technomancy",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "Torn_BookOfMagitech"
+	},
+	{
+		"abr": "undergroundbelt",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Underground"
+	},
+	{
+		"abr": "undergroundbeltentrance",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_ToUnderground"
+	},
+	{
+		"abr": "undergroundbeltexit",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_ToFloor"
+	},
+	{
+		"abr": "unfinishedarcanebook",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "UnfinishedAdvArcane"
+	},
+	{
+		"abr": "unfinishedmartialbook",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "UnfinishedMartial"
+	},
+	{
+		"abr": "unfinishedtornscript",
+		"price": -10,
+		"category": "Skill books",
+		"defname": "UnfinishedArcane"
+	},
+	{
+		"abr": "unrefinedmagicyte",
+		"price": 8,
+		"category": "Refined magicyte",
+		"defname": "RawMagicyte"
+	},
+	{
+		"abr": "vacuumhopper",
+		"price": -10,
+		"category": "Automation",
+		"defname": "SAL_SmartHopper"
+	},
+	{
+		"abr": "vitalsmonitormkii",
+		"price": -10,
+		"category": "Misc",
+		"defname": "VitalsMonitorMKII"
+	},
+	{
+		"abr": "wallconveyorbelt",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_BeltConveyor_Wall"
+	},
+	{
+		"abr": "wallitempuller",
+		"price": -10,
+		"category": "Automation",
+		"defname": "Building_AutoMachineTool_Puller_Wall"
+	},
+	{
+		"abr": "walllamp",
+		"price": -10,
+		"category": "Automation",
+		"defname": "PRF_WallLight"
+	},
+	{
+		"abr": "wandoffire",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "TM_FireWand"
+	},
+	{
+		"abr": "wandofice",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "TM_IceWand"
+	},
+	{
+		"abr": "wandoflightning",
+		"price": -10,
+		"category": "Ranged weapons",
+		"defname": "TM_LightningWand"
+	},
+	{
+		"abr": "wanderer'scloak",
+		"price": -10,
+		"category": "Magic equipment",
+		"defname": "TM_MaestersCloak"
+	},
+	{
+		"abr": "warlockspell:psychicshock",
+		"price": -10,
+		"category": "Scrolls",
+		"defname": "SpellOf_PsychicShock"
+	},
+	{
+		"abr": "weakaichip",
+		"price": -10,
+		"category": "Items",
+		"defname": "PRFWeakAIChip"
+	},
+	{
+		"abr": "wolfmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_TM_Dire_WolfR"
+	},
+	{
+		"abr": "woodencrate",
+		"price": -10,
+		"category": "Automation",
+		"defname": "StockpileCrate"
 	}
 	],
-	"total": 669
+	"total": 786
 }

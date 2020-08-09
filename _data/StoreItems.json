@@ -4472,7 +4472,7 @@
 	},
 	{
 		"abr": "thrumbow",
-		"price": 7467,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "TM_ThrumBow"
 	},

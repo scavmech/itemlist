@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 11000,
+		"price": 13000,
 		"karmatype": "Doom"
 	},
 	{
@@ -81,13 +81,33 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "transportpodcrash",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "tradercaravan",
+		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -111,13 +131,58 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ambrosiasprout",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "herdmigration",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "wildman",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "rarethrumbos",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "shipchunkdrop",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "travelergroup",
+		"price": 80,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitorgroup",
 		"price": 200,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "party",
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -211,14 +276,29 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "visitcolony",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "randominspire",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "torytalkervote",
 		"price": 750,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "healall",
@@ -238,7 +318,7 @@
 	{
 		"abr": "surgery",
 		"price": 500,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "passionshuffle",
@@ -248,8 +328,8 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 50
+	"total": 66
 }

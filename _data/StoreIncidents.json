@@ -146,11 +146,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "wildman",
 		"price": 300,
 		"karmatype": "Good"
@@ -276,11 +271,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "visitcolony",
 		"price": 300,
 		"karmatype": "Good"
@@ -299,16 +289,6 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
@@ -331,5 +311,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 62
 }

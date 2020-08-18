@@ -59,8 +59,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 2,
@@ -549,8 +549,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 1,
@@ -738,8 +738,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -2,
@@ -879,8 +879,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -1,
@@ -982,15 +982,9 @@
   "races": [
     {
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
-    },
-    {
-      "defName": "Kurin",
-      "enabled": true,
-      "name": "kurin",
-      "price": 4133
     },
     {
       "defName": "Alien_Orassan",

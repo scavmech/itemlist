@@ -476,7 +476,7 @@
 	},
 	{
 		"abr": "chocolate",
-		"price": 5,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -1100,7 +1100,7 @@
 	},
 	{
 		"abr": "hay",
-		"price": 1,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Hay"
 	},
@@ -1160,7 +1160,7 @@
 	},
 	{
 		"abr": "hops",
-		"price": 2,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "RawHops"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "kibble",
-		"price": 2,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Kibble"
 	},
@@ -1659,73 +1659,73 @@
 	{
 		"abr": "neurotrainer(animals)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
 		"price": -10,
-		"category": "Neurotrainers",
+		"category": "Skilltrainers",
 		"defname": "Neurotrainer_Social"
 	},
 	{
@@ -1749,7 +1749,7 @@
 	{
 		"abr": "orbitalbombardmenttargeter",
 		"price": -10,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "orbitalpowerbeamtargeter",
 		"price": -10,
-		"category": "Ranged weapons",
+		"category": "Utility",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -1784,7 +1784,7 @@
 	},
 	{
 		"abr": "packagedsurvivalmeal",
-		"price": 40,
+		"price": -10,
 		"category": "Meals",
 		"defname": "MealSurvivalPack"
 	},
@@ -1832,7 +1832,7 @@
 	},
 	{
 		"abr": "pemmican",
-		"price": 2,
+		"price": -10,
 		"category": "Foods",
 		"defname": "Pemmican"
 	},
@@ -2006,7 +2006,7 @@
 	},
 	{
 		"abr": "psychoidleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "PsychoidLeaves"
 	},
@@ -2295,7 +2295,7 @@
 	{
 		"abr": "shieldbelt",
 		"price": 650,
-		"category": "Armor",
+		"category": "Utility",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -2360,14 +2360,14 @@
 	},
 	{
 		"abr": "smokeleafleaves",
-		"price": 3,
+		"price": -10,
 		"category": "Plant matter",
 		"defname": "SmokeleafLeaves"
 	},
 	{
 		"abr": "smokepopbelt",
 		"price": 277,
-		"category": "Apparel",
+		"category": "Utility",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -2971,743 +2971,293 @@
 		"defname": "FM_ManagerStation"
 	},
 	{
-		"abr": "arc-920railgun",
-		"price": 2333,
-		"category": "Ranged weapons",
-		"defname": "Asymmetric_Recoilless_Carbine"
-	},
-	{
-		"abr": "bionicorassantail",
-		"price": 2500,
-		"category": "Bionic",
-		"defname": "OBionicTail"
-	},
-	{
-		"abr": "bluecatlily",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "CatLavenderCloth"
-	},
-	{
-		"abr": "br85",
-		"price": 1333,
-		"category": "Ranged weapons",
-		"defname": "BR85_Service_Rifle"
-	},
-	{
-		"abr": "catnipjoint",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "CatnipJoint"
-	},
-	{
-		"abr": "catnipleaves",
-		"price": 2,
-		"category": "Plant matter",
-		"defname": "CatnipLeaves"
-	},
-	{
-		"abr": "cat'seyeberries",
-		"price": -10,
-		"category": "Vegetarian",
-		"defname": "CateyeBerries"
-	},
-	{
-		"abr": "cat'seyeberryjuice",
-		"price": -10,
-		"category": "Drugs",
-		"defname": "Catberryjuice"
-	},
-	{
-		"abr": "concretemixer",
-		"price": -10,
-		"category": "Production",
-		"defname": "TableConcreteMixer"
-	},
-	{
-		"abr": "cryogeniclauncher",
-		"price": 3258,
-		"category": "Ranged weapons",
-		"defname": "Gun_CryoLauncher"
-	},
-	{
-		"abr": "desiri",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Animal_Desiri"
-	},
-	{
-		"abr": "desirifur",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Desiri"
-	},
-	{
-		"abr": "gryphon",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Gryphon"
-	},
-	{
-		"abr": "gryphonhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Gryphon"
-	},
-	{
-		"abr": "gryphonmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Gryphon"
-	},
-	{
-		"abr": "amplifierofambition(cosmiccomponent#5/5)",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "SNS_CosmicCall_Component_V"
-	},
-	{
-		"abr": "astralrefuter(cosmiccomponent#4/5)",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "SNS_CosmicCall_Component_IV"
-	},
-	{
-		"abr": "atomicfabricator",
-		"price": -10,
-		"category": "Production",
-		"defname": "Table_SNS_Constructor"
-	},
-	{
-		"abr": "beckoningofdesire(cosmiccomponent#3/5)",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "SNS_CosmicCall_Component_III"
-	},
-	{
-		"abr": "charonarmor",
-		"price": 215550,
-		"category": "Armor",
-		"defname": "SNS_Apparel_StableMatterPowerArmor"
-	},
-	{
-		"abr": "charonhelmet",
-		"price": 93867,
-		"category": "Headgear",
-		"defname": "SNS_Apparel_StableMatterPowerArmorHelmet"
-	},
-	{
-		"abr": "cosmicalloy",
-		"price": 83,
-		"category": "Raw resources",
-		"defname": "SNS_Unobtainium"
-	},
-	{
-		"abr": "cosmicalloyhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "SNS_Apparel_CosmicAlloyHelmet"
-	},
-	{
-		"abr": "cosmicalloyplatearmor",
-		"price": 23883,
-		"category": "Armor",
-		"defname": "SNS_Apparel_CosmicAlloyPlateArmor"
-	},
-	{
-		"abr": "cosmicbatterygeneration1",
-		"price": -10,
-		"category": "Power",
-		"defname": "SNS_Battery_I"
-	},
-	{
-		"abr": "cosmicbatterygeneration2",
-		"price": -10,
-		"category": "Power",
-		"defname": "SNS_Battery_II"
-	},
-	{
-		"abr": "cosmicbatterygenerationomega",
-		"price": -10,
-		"category": "Power",
-		"defname": "SNS_Battery_III"
-	},
-	{
-		"abr": "cosmiccatalystfuelcell",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "SNS_Unobtainium_Fuel"
-	},
-	{
-		"abr": "cosmicdrawer",
-		"price": -10,
-		"category": "Production",
-		"defname": "Table_SNS_CosmicDrawer"
-	},
-	{
-		"abr": "cosmicempgrenade",
-		"price": -10,
-		"category": "Grenades",
-		"defname": "SNS_EMPGrenade"
-	},
-	{
-		"abr": "cosmicforge",
-		"price": -10,
-		"category": "Production",
-		"defname": "Table_SNS_Unobtainer"
-	},
-	{
-		"abr": "cosmicfraggrenade",
-		"price": -10,
-		"category": "Grenades",
-		"defname": "SNS_FragGrenade"
-	},
-	{
-		"abr": "cosmiclance",
-		"price": 119342,
-		"category": "Ranged weapons",
-		"defname": "SNS_CosmicLance"
-	},
-	{
-		"abr": "cosmicmatter",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "SNS_CosmicMatter"
-	},
-	{
-		"abr": "cosmicpistol",
-		"price": 1800,
-		"category": "Ranged weapons",
-		"defname": "SNS_Pistol"
-	},
-	{
-		"abr": "cosmicpowerarmor",
-		"price": 89108,
-		"category": "Armor",
-		"defname": "SNS_Apparel_CosmicPowerArmor"
-	},
-	{
-		"abr": "cosmicpowerarmorhelmet",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "SNS_Apparel_CosmicPowerArmorHelmet"
-	},
-	{
-		"abr": "cosmicrifle",
-		"price": 3158,
-		"category": "Ranged weapons",
-		"defname": "SNS_Rifle"
-	},
-	{
-		"abr": "cosmicsniper",
-		"price": 4517,
-		"category": "Ranged weapons",
-		"defname": "SNS_Sniper"
-	},
-	{
-		"abr": "cosmicweave",
-		"price": -10,
-		"category": "Manufactured",
-		"defname": "SNS_Unobtainium_Fiber"
-	},
-	{
-		"abr": "eternitycell",
-		"price": -10,
-		"category": "Power",
-		"defname": "SNS_Hidden"
-	},
-	{
-		"abr": "eternium",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "SNS_Eternium"
-	},
-	{
-		"abr": "forbiddenknowledge(cosmiccomponent#2/5)",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "SNS_CosmicCall_Component_II"
-	},
-	{
-		"abr": "fractureofgreatness(cosmiccomponent#1/5)",
-		"price": -10,
-		"category": "Artifacts",
-		"defname": "SNS_CosmicCall_Component_I"
-	},
-	{
-		"abr": "advancedbedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedBedIntegrator"
-	},
-	{
-		"abr": "advancedcybernetaccesspoint",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "CNCyberNetAdvancedAccessPoint"
-	},
-	{
-		"abr": "advancedglitternetprocessor",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedGlitterNetProcessor"
-	},
-	{
-		"abr": "advancedmedicalintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedMedicalIntegrator"
-	},
-	{
-		"abr": "advancednetworkedarm",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedArm"
-	},
-	{
-		"abr": "advancednetworkedear",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedEar"
-	},
-	{
-		"abr": "advancednetworkedeye",
-		"price": 1300,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedEye"
-	},
-	{
-		"abr": "advancednetworkedheart",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedHeart"
-	},
-	{
-		"abr": "advancednetworkedleg",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedLeg"
-	},
-	{
-		"abr": "advancednetworkedspine",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedSpine"
-	},
-	{
-		"abr": "advancednetworkedstomach",
-		"price": 1250,
-		"category": "Networked Prosthetics",
-		"defname": "CNAdvancedNetworkedStomach"
-	},
-	{
-		"abr": "advancedpowerintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedPowerIntegrator"
-	},
-	{
-		"abr": "advancedresearchintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedResearchIntegrator"
-	},
-	{
-		"abr": "advancedworkspeedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNAdvancedWorkspeedIntegrator"
-	},
-	{
-		"abr": "basicbedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicBedIntegrator"
-	},
-	{
-		"abr": "basiccybernetaccesspoint",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "CNCyberNetBasicAccessPoint"
-	},
-	{
-		"abr": "basicglitternetprocessor",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicGlitterNetProcessor"
-	},
-	{
-		"abr": "basicmedicalintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicMedicalIntegrator"
-	},
-	{
-		"abr": "basicpowerintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicPowerIntegrator"
-	},
-	{
-		"abr": "basicresearchintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicResearchIntegrator"
-	},
-	{
-		"abr": "basicworkspeedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNBasicWorkspeedIntegrator"
-	},
-	{
-		"abr": "braindamagerepairsystem",
-		"price": 1242,
-		"category": "Networked Prosthetics",
-		"defname": "CNBrainDamageRepairSystem"
-	},
-	{
-		"abr": "combatoptimizationimplant",
-		"price": 2192,
-		"category": "Networked Prosthetics",
-		"defname": "CNCombatOptimizationImplant"
-	},
-	{
-		"abr": "comfortnse",
-		"price": 1483,
-		"category": "Networked Prosthetics",
-		"defname": "CNComfortNSE"
-	},
-	{
-		"abr": "consciousnessenhancementimplant",
-		"price": 3150,
-		"category": "Networked Prosthetics",
-		"defname": "CNConsciousnessEnhancementImplant"
-	},
-	{
-		"abr": "energymaxbloodreplacement",
-		"price": 1483,
-		"category": "Networked Prosthetics",
-		"defname": "CNEnergyMaxBloodReplacement"
-	},
-	{
-		"abr": "filtrationbloodenhancement",
-		"price": 742,
-		"category": "Networked Prosthetics",
-		"defname": "CNFiltrationBloodEnhancement"
-	},
-	{
-		"abr": "glitternethub",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNGlitterNetHub"
-	},
-	{
-		"abr": "hyperclotbloodreplacement",
-		"price": 1483,
-		"category": "Networked Prosthetics",
-		"defname": "CNHyperClotBloodReplacement"
-	},
-	{
-		"abr": "improvedbedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedBedIntegrator"
-	},
-	{
-		"abr": "improvedcybernetaccesspoint",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "CNCyberNetImprovedAccessPoint"
-	},
-	{
-		"abr": "improvedglitternetprocessor",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedGlitterNetProcessor"
-	},
-	{
-		"abr": "improvedmedicalintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedMedicalIntegrator"
-	},
-	{
-		"abr": "improvedpowerintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedPowerIntegrator"
-	},
-	{
-		"abr": "improvedresearchintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedResearchIntegrator"
-	},
-	{
-		"abr": "improvedworkspeedintegrator",
-		"price": -10,
-		"category": "Buildings",
-		"defname": "GNImprovedWorkspeedIntegrator"
-	},
-	{
-		"abr": "lightcosmicturret",
-		"price": -10,
-		"category": "Security",
-		"defname": "SNS_Turret_LightCosmic"
-	},
-	{
-		"abr": "m319individualgrenadelauncher",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "M319_Individual_Grenade_Launcher"
-	},
-	{
-		"abr": "m392dmr",
-		"price": 1083,
-		"category": "Ranged weapons",
-		"defname": "M392_Designated_Marksman_Rifle"
-	},
-	{
-		"abr": "m41ssrmav/aw",
-		"price": 8333,
-		"category": "Ranged weapons",
-		"defname": "M41_SSR_MAV_AW"
-	},
-	{
-		"abr": "m6dmagnum",
-		"price": 500,
-		"category": "Ranged weapons",
-		"defname": "M6D_Personal_Defense_Weapon_System"
-	},
-	{
-		"abr": "m7submachinegun",
-		"price": 1000,
-		"category": "Ranged weapons",
-		"defname": "M7_SubmachineGun"
-	},
-	{
-		"abr": "m739saw",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "M739_SAW"
-	},
-	{
-		"abr": "m90-cawsshotgun",
-		"price": 583,
-		"category": "Ranged weapons",
-		"defname": "M90-CAWS_Shotgun"
-	},
-	{
-		"abr": "ma5dassaultrifle",
-		"price": 1083,
-		"category": "Ranged weapons",
-		"defname": "MA5D_ICWS"
-	},
-	{
-		"abr": "memoryenhancementimplant",
-		"price": 2192,
-		"category": "Networked Prosthetics",
-		"defname": "CNMemoryEnhancementImplant"
-	},
-	{
-		"abr": "metabolicbloodenhancement",
-		"price": 742,
-		"category": "Networked Prosthetics",
-		"defname": "CNMetabolicBloodEnhancement"
-	},
-	{
-		"abr": "neo-concretemix",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "NeoConcreteMix"
-	},
-	{
-		"abr": "networkedarm",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedArm"
-	},
-	{
-		"abr": "networkedear",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedEar"
-	},
-	{
-		"abr": "networkedeye",
-		"price": 650,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedEye"
-	},
-	{
-		"abr": "networkedheart",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedHeart"
-	},
-	{
-		"abr": "networkedleg",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedLeg"
-	},
-	{
-		"abr": "networkedspine",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedSpine"
-	},
-	{
-		"abr": "networkedstomach",
-		"price": 667,
-		"category": "Networked Prosthetics",
-		"defname": "CNNetworkedStomach"
-	},
-	{
-		"abr": "orassan",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_Orassan"
-	},
-	{
-		"abr": "orassanclaws",
-		"price": -10,
-		"category": "Natural",
-		"defname": "OClaws"
-	},
-	{
-		"abr": "orassandmr",
-		"price": 2350,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanDMR"
-	},
-	{
-		"abr": "orassanexoskeletalarmor",
-		"price": 5833,
-		"category": "Apparel",
-		"defname": "Apparel_MediumKittyArmor"
-	},
-	{
-		"abr": "orassanexoskeletonhelmet",
-		"price": 3750,
-		"category": "Headgear",
-		"defname": "Apparel_OrassanPowerArmorHelmet"
-	},
-	{
-		"abr": "orassanfur",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Orassan"
-	},
-	{
-		"abr": "orassanheavyexoskeletalarmor",
-		"price": 8333,
-		"category": "Apparel",
-		"defname": "Apparel_KittyArmor"
-	},
-	{
-		"abr": "orassanlightexoskeletalarmor",
-		"price": 3750,
-		"category": "Apparel",
-		"defname": "Apparel_LightKittyArmor"
-	},
-	{
-		"abr": "orassanlmg",
-		"price": 4725,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanLMG"
-	},
-	{
-		"abr": "orassanmachiningtable",
-		"price": -10,
-		"category": "Production",
-		"defname": "TableOrassanMachining"
-	},
-	{
-		"abr": "orassanmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Alien_Orassan"
-	},
-	{
-		"abr": "orassanmissilelauncher",
-		"price": 3050,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanRocket"
-	},
-	{
-		"abr": "orassanpistol",
-		"price": 667,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanPistol"
-	},
-	{
-		"abr": "orassanpowertransfer",
+		"abr": "broadshieldcore",
 		"price": -10,
 		"category": "Items",
-		"defname": "OrassanPowerTransfer"
+		"defname": "BroadshieldCore"
 	},
 	{
-		"abr": "orassanrifle",
-		"price": 2733,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanRifle"
+		"abr": "broadshieldpack",
+		"price": 717,
+		"category": "Utility",
+		"defname": "Apparel_PackBroadshield"
 	},
 	{
-		"abr": "orassans.a.c.r.ihelmet",
-		"price": 3083,
-		"category": "Headgear",
-		"defname": "Apparel_OrassanSacriArmorHelmet"
-	},
-	{
-		"abr": "orassans.a.c.r.isuit",
-		"price": 5667,
-		"category": "Apparel",
-		"defname": "Apparel_KittySacriSuit"
-	},
-	{
-		"abr": "orassansabre",
-		"price": 3642,
-		"category": "Melee weapons",
-		"defname": "MeleeWeapon_kittyclaws"
-	},
-	{
-		"abr": "orassanshotgun",
-		"price": 2000,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanShotgun"
-	},
-	{
-		"abr": "orassansmg",
-		"price": 1100,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanSMG"
-	},
-	{
-		"abr": "orassansniper",
-		"price": 2917,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanSniper"
-	},
-	{
-		"abr": "orassanstylet-shirtandshorts",
-		"price": 213,
-		"category": "Apparel",
-		"defname": "Apparel_OrassanBasicShirt"
-	},
-	{
-		"abr": "orassantail",
+		"abr": "forsaken",
 		"price": -10,
-		"category": "Natural",
-		"defname": "OTail"
+		"category": "Animal",
+		"defname": "Alien_Forsaken"
 	},
 	{
-		"abr": "orassantundrafalcon",
-		"price": 1025,
-		"category": "Ranged weapons",
-		"defname": "Gun_OrassanAEPistol"
+		"abr": "forsakenassaultrifle",
+		"price": 1250,
+		"category": "Weapons",
+		"defname": "ForsakenAR"
 	},
+	{
+		"abr": "forsakenbattleaxe",
+		"price": 1000,
+		"category": "Weapons",
+		"defname": "ForsakenBattle"
+	},
+	{
+		"abr": "forsakenblackhydra",
+		"price": 1917,
+		"category": "Weapons",
+		"defname": "ForsakenHydra"
+	},
+	{
+		"abr": "forsakenbow",
+		"price": 833,
+		"category": "Weapons",
+		"defname": "FBow"
+	},
+	{
+		"abr": "forsakenbulksword",
+		"price": 1000,
+		"category": "Weapons",
+		"defname": "ForsakenBulksword"
+	},
+	{
+		"abr": "forsakencloak",
+		"price": 1667,
+		"category": "Apparel",
+		"defname": "Forsaken_Cloak"
+	},
+	{
+		"abr": "forsakencombatblade",
+		"price": 833,
+		"category": "Weapons",
+		"defname": "ForsakenCombatBlade"
+	},
+	{
+		"abr": "forsakenhood",
+		"price": 1417,
+		"category": "Headgear",
+		"defname": "Forsaken_Hood"
+	},
+	{
+		"abr": "forsakenlongblade",
+		"price": 500,
+		"category": "Weapons",
+		"defname": "ForsakenLongBlade"
+	},
+	{
+		"abr": "forsakenmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_Alien_Forsaken"
+	},
+	{
+		"abr": "forsakenshotgun",
+		"price": 1000,
+		"category": "Weapons",
+		"defname": "ForsakenShotGun"
+	},
+	{
+		"abr": "forsakenskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Forsaken"
+	},
+	{
+		"abr": "forsakensnipingrifle",
+		"price": 1500,
+		"category": "Weapons",
+		"defname": "ForsakenSniper"
+	},
+	{
+		"abr": "forsakenspear",
+		"price": 1000,
+		"category": "Weapons",
+		"defname": "FSpear"
+	},
+	{
+		"abr": "frosties",
+		"price": -10,
+		"category": "Meals",
+		"defname": "Frosties"
+	},
+	{
+		"abr": "gloomlight",
+		"price": -10,
+		"category": "Special",
+		"defname": "Gloomlight"
+	},
+	{
+		"abr": "grenadierarmor",
+		"price": 3842,
+		"category": "Armor",
+		"defname": "Apparel_ArmorMarineGrenadier"
+	},
+	{
+		"abr": "hood",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "Apparel_HatHood"
+	},
+	{
+		"abr": "jumppack",
+		"price": 717,
+		"category": "Utility",
+		"defname": "Apparel_PackJump"
+	},
+	{
+		"abr": "kaleidoscrystal",
+		"price": -10,
+		"category": "Plant matter",
+		"defname": "KaleidosCrystal"
+	},
+	{
+		"abr": "locustarmor",
+		"price": 3350,
+		"category": "Armor",
+		"defname": "Apparel_ArmorLocust"
+	},
+	{
+		"abr": "nightling",
+		"price": -10,
+		"category": "Animal",
+		"defname": "NightlingF"
+	},
+	{
+		"abr": "nightlingegg(fert.)",
+		"price": -10,
+		"category": "Eggs (fert.)",
+		"defname": "EggNightlingFertilized"
+	},
+	{
+		"abr": "nightlingfur",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Nightling"
+	},
+	{
+		"abr": "nightlingmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_NightlingF"
+	},
+	{
+		"abr": "phoenixarmor",
+		"price": 5800,
+		"category": "Armor",
+		"defname": "Apparel_ArmorCataphractPhoenix"
+	},
+	{
+		"abr": "psychicinsanitylance",
+		"price": -10,
+		"category": "Utility",
+		"defname": "Apparel_PsychicInsanityLance"
+	},
+	{
+		"abr": "psychicshocklance",
+		"price": -10,
+		"category": "Utility",
+		"defname": "Apparel_PsychicShockLance"
+	},
+	{
+		"abr": "psytrainer(chunkskip)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Chunkskip"
+	},
+	{
+		"abr": "psytrainer(farskip)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Farskip"
+	},
+	{
+		"abr": "psytrainer(neuroquake)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_Neuroquake"
+	},
+	{
+		"abr": "psytrainer(solarpinhole)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_SolarPinhole"
+	},
+	{
+		"abr": "psytrainer(wordofinspiration)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfInspiration"
+	},
+	{
+		"abr": "psytrainer(wordofjoy)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfJoy"
+	},
+	{
+		"abr": "psytrainer(wordoflove)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfLove"
+	},
+	{
+		"abr": "psytrainer(wordofserenity)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfSerenity"
+	},
+	{
+		"abr": "psytrainer(wordoftrust)",
+		"price": -10,
+		"category": "Psytrainers",
+		"defname": "Psytrainer_WordOfTrust"
+	},
+	{
+		"abr": "ragadastfruits",
+		"price": -10,
+		"category": "Plant matter",
+		"defname": "RagadastFruit"
+	},
+	{
+		"abr": "razor",
+		"price": 88,
+		"category": "Drugs",
+		"defname": "Razor"
+	},
+	{
+		"abr": "stikehr",
+		"price": -10,
+		"category": "Meat",
+		"defname": "RawStikehr"
+	},
+	{
+		"abr": "techprint(jumppacks)",
+		"price": -10,
+		"category": "Techprints",
+		"defname": "Techprint_JumpPack"
+	},
+	{
+		"abr": "theforsakenarmor",
+		"price": 2083,
+		"category": "Apparel",
+		"defname": "TForsakenA"
+	},
+	{
+		"abr": "theforsakenhelmet",
+		"price": 1917,
+		"category": "Headgear",
+		"defname": "TForsakenH"
+	},
+	{
+		"abr": "ultimafabric",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Ultima"
+	},
+	{
+		"abr": "vitaminf",
+		"price": 133,
+		"category": "Drugs",
+		"defname": "Vitaminf"
+	}
 	],
-	"total": 661
+	"total": 543
 }

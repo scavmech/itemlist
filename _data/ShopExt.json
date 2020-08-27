@@ -59,8 +59,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 2,
@@ -167,6 +167,25 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
+      "conflicts": [
+        "psychopath",
+        "petty"
+      ],
+      "defName": "MT_Charismatic",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a shining personality. {PAWN_possessive} words can get through to others more than usual.\n(Moloy Traits)",
+      "name": "charismatic",
+      "removePrice": 5500,
+      "stats": [
+        "+50.00% Social impact",
+        "+20.00% Trade price improvement"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "DrugDesire",
       "degree": 2,
@@ -194,6 +213,32 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "MT_Commander",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is an effective leader in ranged combat. Colonists around {PAWN_nameDef} have better aim.\n(Moloy Traits)",
+      "name": "commander",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Conductor",
+      "degree": 0,
+      "description": "{PAWN_nameDef} leads the movement of others well. Colonists around {PAWN_nameDef} move faster.\n(Moloy Traits)",
+      "name": "conductor",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "CreepyBreathing",
       "degree": 0,
       "description": "{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.",
@@ -213,6 +258,23 @@
       "name": "depressive",
       "removePrice": 3500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "charismatic"
+      ],
+      "defName": "MT_Eccentric",
+      "degree": 0,
+      "description": "{PAWN_nameDef} Acts abnormally, probably due to their oddly high intelligence. {PAWN_pronoun} often makes a larger impact socially... For better or worse. {PAWN_nameDef} is so out of the social loop, {PAWN_pronoun} doesn't realise when {PAWN_pronoun} is being insulted.\n(Moloy Traits)",
+      "name": "eccentric",
+      "removePrice": 5500,
+      "stats": [
+        "+50.00% Social impact"
+      ]
     },
     {
       "addPrice": 3500,
@@ -322,6 +384,22 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "MT_Hermit",
+      "degree": 0,
+      "description": "{PAWN_nameDef} prefers being solitary. {PAWN_pronoun} is better at working with plants anyways.\n(Moloy Traits)",
+      "name": "hermit",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Plant harvest yield",
+        "-50.00% Social impact"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -407,6 +485,19 @@
       "stats": [
         "-20% Global work speed"
       ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [],
+      "defName": "MT_Luminary",
+      "degree": 0,
+      "description": "For whatever reason, everyone seems to really care how {PAWN_nameDef} is feeling.\n(Moloy Traits)",
+      "name": "luminary",
+      "removePrice": 5500,
+      "stats": []
     },
     {
       "addPrice": 3500,
@@ -539,6 +630,19 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "MT_Peppy",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is full of energy. {PAWN_pronoun} will randomly gain the Frenzy Go Inspiration, even if {PAWN_pronoun} is not happy.\n(Moloy Traits)",
+      "name": "peppy",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "NaturalMood",
       "degree": -1,
       "description": "[PAWN_nameDef] tends to look on the bad side of life.",
@@ -549,8 +653,24 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "psychopath",
+        "asexual"
+      ],
+      "defName": "MT_Petty",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is overtly concerned with social hitches. {PAWN_pronoun} tends to annoy others and can't stand {PAWN_possessive} ex-lovers moving on.\n(Moloy Traits)",
+      "name": "petty",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 1,
@@ -738,8 +858,8 @@
     {
       "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -2,
@@ -881,6 +1001,22 @@
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
+      "conflicts": [
+        "kind",
+        "conductor"
+      ],
+      "defName": "MT_Tyrant",
+      "degree": 0,
+      "description": "{PAWN_nameDef} harshly criticizes and dictates the actions of others. Colonists around {PAWN_nameDef} move and work faster, but receive a mood debuff from the added stress.\n(Moloy Traits)",
+      "name": "tyrannic",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -1,
@@ -902,6 +1038,19 @@
       "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
       "name": "undergrounder",
       "removePrice": 3500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MT_Venturous",
+      "degree": 0,
+      "description": "{PAWN_nameDef} loves to take risks and complete quests. {PAWN_pronoun} will recieve mood buffs for successful quests, and debuffs for failed quests.\n(Moloy Traits)",
+      "name": "venturous",
+      "removePrice": 5500,
       "stats": []
     },
     {
@@ -933,6 +1082,24 @@
       "removePrice": 3500,
       "stats": [
         "+15% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "peppy",
+        "torturedartist"
+      ],
+      "defName": "MT_Volatile_Crafter",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a genius crafter, and will often have creative inspiration. However, {PAWN_possessive} mind is constantly ticking, making {PAWN_nameDef} much more likely to have a mental break.\n(Moloy Traits)",
+      "name": "volatilecrafter",
+      "removePrice": 5500,
+      "stats": [
+        "+20% Mental break threshold"
       ]
     },
     {
@@ -981,16 +1148,16 @@
   ],
   "races": [
     {
+      "defName": "Alien_Forsaken",
+      "enabled": true,
+      "name": "forsaken",
+      "price": 3167
+    },
+    {
       "defName": "Human",
       "enabled": false,
       "name": "human",
       "price": 2917
-    },
-    {
-      "defName": "Alien_Orassan",
-      "enabled": true,
-      "name": "orassan",
-      "price": 3167
     }
   ]
 }

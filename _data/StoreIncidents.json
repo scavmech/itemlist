@@ -67,7 +67,7 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 13000,
+		"price": 26000,
 		"karmatype": "Doom"
 	},
 	{
@@ -246,6 +246,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -291,14 +296,34 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
-		"karmatype": "Neutral"
+		"price": 1,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passionshuffle",
@@ -311,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 62
+	"total": 67
 }

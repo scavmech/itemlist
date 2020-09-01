@@ -1659,73 +1659,73 @@
 	{
 		"abr": "neurotrainer(animals)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
 		"abr": "neurotrainer(artistic)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(construction)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(cooking)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(crafting)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(intellectual)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(medical)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(melee)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(mining)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(plants)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(shooting)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(social)",
 		"price": -10,
-		"category": "Skilltrainers",
+		"category": "Neurotrainers",
 		"defname": "Neurotrainer_Social"
 	},
 	{
@@ -1749,7 +1749,7 @@
 	{
 		"abr": "orbitalbombardmenttargeter",
 		"price": -10,
-		"category": "Utility",
+		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
@@ -1761,7 +1761,7 @@
 	{
 		"abr": "orbitalpowerbeamtargeter",
 		"price": -10,
-		"category": "Utility",
+		"category": "Ranged weapons",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
@@ -2295,7 +2295,7 @@
 	{
 		"abr": "shieldbelt",
 		"price": 650,
-		"category": "Utility",
+		"category": "Armor",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -2367,7 +2367,7 @@
 	{
 		"abr": "smokepopbelt",
 		"price": 277,
-		"category": "Utility",
+		"category": "Apparel",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -2941,48 +2941,6 @@
 		"defname": "Techprint_BrainWiring"
 	},
 	{
-		"abr": "broadshieldcore",
-		"price": -10,
-		"category": "Items",
-		"defname": "BroadshieldCore"
-	},
-	{
-		"abr": "broadshieldpack",
-		"price": -10,
-		"category": "Utility",
-		"defname": "Apparel_PackBroadshield"
-	},
-	{
-		"abr": "gloomlight",
-		"price": -10,
-		"category": "Special",
-		"defname": "Gloomlight"
-	},
-	{
-		"abr": "grenadierarmor",
-		"price": 3842,
-		"category": "Armor",
-		"defname": "Apparel_ArmorMarineGrenadier"
-	},
-	{
-		"abr": "hood",
-		"price": 94,
-		"category": "Headgear",
-		"defname": "Apparel_HatHood"
-	},
-	{
-		"abr": "jumppack",
-		"price": 717,
-		"category": "Utility",
-		"defname": "Apparel_PackJump"
-	},
-	{
-		"abr": "locustarmor",
-		"price": 3350,
-		"category": "Armor",
-		"defname": "Apparel_ArmorLocust"
-	},
-	{
 		"abr": "aimanager",
 		"price": -10,
 		"category": "Production",
@@ -3020,15 +2978,9 @@
 	},
 	{
 		"abr": "advancedarchotechleg",
-		"price": 33333,
+		"price": -10,
 		"category": "Archotech",
 		"defname": "AdvancedArchotechLeg"
-	},
-	{
-		"abr": "advancedbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "ZoltanT1Battery"
 	},
 	{
 		"abr": "advancedpowerarmor",
@@ -3272,7 +3224,7 @@
 	},
 	{
 		"abr": "concrete",
-		"price": 8,
+		"price": -10,
 		"category": "Stone blocks",
 		"defname": "Ind_Concrete"
 	},
@@ -3332,7 +3284,7 @@
 	},
 	{
 		"abr": "high-gradesteel",
-		"price": 7,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "Ind_HighGradeSteel"
 	},
@@ -3433,18 +3385,6 @@
 		"defname": "DRKGun_P94t"
 	},
 	{
-		"abr": "perfectedbattery",
-		"price": -10,
-		"category": "Power",
-		"defname": "ZoltanT2Battery"
-	},
-	{
-		"abr": "phoenixarmor",
-		"price": 5800,
-		"category": "Armor",
-		"defname": "Apparel_ArmorCataphractPhoenix"
-	},
-	{
 		"abr": "picomachinery",
 		"price": -10,
 		"category": "Textiles",
@@ -3481,72 +3421,6 @@
 		"defname": "DRKGun_PPK12Gauss"
 	},
 	{
-		"abr": "psychicinsanitylance",
-		"price": -10,
-		"category": "Utility",
-		"defname": "Apparel_PsychicInsanityLance"
-	},
-	{
-		"abr": "psychicshocklance",
-		"price": -10,
-		"category": "Utility",
-		"defname": "Apparel_PsychicShockLance"
-	},
-	{
-		"abr": "psytrainer(chunkskip)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_Chunkskip"
-	},
-	{
-		"abr": "psytrainer(farskip)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_Farskip"
-	},
-	{
-		"abr": "psytrainer(neuroquake)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_Neuroquake"
-	},
-	{
-		"abr": "psytrainer(solarpinhole)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_SolarPinhole"
-	},
-	{
-		"abr": "psytrainer(wordofinspiration)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_WordOfInspiration"
-	},
-	{
-		"abr": "psytrainer(wordofjoy)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_WordOfJoy"
-	},
-	{
-		"abr": "psytrainer(wordoflove)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_WordOfLove"
-	},
-	{
-		"abr": "psytrainer(wordofserenity)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_WordOfSerenity"
-	},
-	{
-		"abr": "psytrainer(wordoftrust)",
-		"price": -10,
-		"category": "Psytrainers",
-		"defname": "Psytrainer_WordOfTrust"
-	},
-	{
 		"abr": "rockwellbigbazooka",
 		"price": 6667,
 		"category": "Ranged weapons",
@@ -3575,18 +3449,6 @@
 		"price": 392,
 		"category": "Brotherhood apparel",
 		"defname": "DRKApparelScribeRobe"
-	},
-	{
-		"abr": "shieldbench",
-		"price": -10,
-		"category": "Production",
-		"defname": "LTF_ShieldBench"
-	},
-	{
-		"abr": "shieldmet",
-		"price": 1858,
-		"category": "Headgear",
-		"defname": "LTF_shieldmet"
 	},
 	{
 		"abr": "sigsauer14mm",
@@ -3674,19 +3536,19 @@
 	},
 	{
 		"abr": "equiumhandnhoof",
-		"price": 333,
+		"price": -10,
 		"category": "Natural",
 		"defname": "HandnHoof"
 	},
 	{
 		"abr": "equiumhoof",
-		"price": 333,
+		"price": -10,
 		"category": "Natural",
 		"defname": "Equium_Hoof"
 	},
 	{
 		"abr": "equiumlavishmeal",
-		"price": 67,
+		"price": -10,
 		"category": "Meals",
 		"defname": "EquiumLavishMeal"
 	},
@@ -3722,7 +3584,7 @@
 	},
 	{
 		"abr": "equiumtail",
-		"price": 333,
+		"price": -10,
 		"category": "Natural",
 		"defname": "Equium_Tail"
 	},
@@ -3731,24 +3593,6 @@
 		"price": 667,
 		"category": "Prosthetic",
 		"defname": "WoodenEquiumHoof"
-	},
-	{
-		"abr": "goldhorseearring",
-		"price": 125,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Ear_Ring_Gold"
-	},
-	{
-		"abr": "goldhorsenosering",
-		"price": 125,
-		"category": "Horse Apparel",
-		"defname": "Horse_Nose_Ring_Gold"
-	},
-	{
-		"abr": "goldhorsenosering",
-		"price": 125,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Nose_Ring_Gold"
 	},
 	{
 		"abr": "hayfinemeal",
@@ -3769,42 +3613,6 @@
 		"defname": "EquiumSurvivalMeal"
 	},
 	{
-		"abr": "primitiveequium",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alien_PEquium"
-	},
-	{
-		"abr": "primitiveequiummeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Alien_PEquium"
-	},
-	{
-		"abr": "silverhorseearring",
-		"price": 42,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Ear_Ring_Silver"
-	},
-	{
-		"abr": "silverhorsenoseearring",
-		"price": 83,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Nose_Ear_Ring_Silver"
-	},
-	{
-		"abr": "silverhorsenosering",
-		"price": 83,
-		"category": "Horse Apparel",
-		"defname": "Horse_Nose_Ring_Silver"
-	},
-	{
-		"abr": "silverhorsenosering",
-		"price": 83,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Nose_Ring_Silver"
-	},
-	{
 		"abr": "srtsmk.iiip:pelican",
 		"price": -10,
 		"category": "Buildings",
@@ -3821,6 +3629,372 @@
 		"price": 5883,
 		"category": "Brotherhood apparel",
 		"defname": "DRKApparelBOSST432Armor"
+	},
+	{
+		"abr": "boardingdrone",
+		"price": -10,
+		"category": "Animal",
+		"defname": "BoardingDrone"
+	},
+	{
+		"abr": "chipcraftbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "LTF_EngieBench"
+	},
+	{
+		"abr": "chunkegg",
+		"price": 10,
+		"category": "Ranged weapons",
+		"defname": "LTF_ChunkEgg"
+	},
+	{
+		"abr": "cooler01",
+		"price": 33,
+		"category": "Bionic",
+		"defname": "LTF_Engie01Cooler"
+	},
+	{
+		"abr": "cooler02",
+		"price": 33,
+		"category": "Bionic",
+		"defname": "LTF_Engie02Cooler"
+	},
+	{
+		"abr": "cooler04",
+		"price": 33,
+		"category": "Bionic",
+		"defname": "LTF_Engie04Cooler"
+	},
+	{
+		"abr": "core01vanilla",
+		"price": -10,
+		"category": "Natural",
+		"defname": "LTF_EngieSingleCore"
+	},
+	{
+		"abr": "core02dual",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie02Core"
+	},
+	{
+		"abr": "core04quad",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie04Core"
+	},
+	{
+		"abr": "core08octo",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie08Core"
+	},
+	{
+		"abr": "core16hexa",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie16Core"
+	},
+	{
+		"abr": "core32",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie32Core"
+	},
+	{
+		"abr": "core64",
+		"price": 117,
+		"category": "Bionic",
+		"defname": "LTF_Engie64Core"
+	},
+	{
+		"abr": "dewegg",
+		"price": 8,
+		"category": "Ranged weapons",
+		"defname": "LTF_DewEgg"
+	},
+	{
+		"abr": "engie",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Engie"
+	},
+	{
+		"abr": "krapken",
+		"price": -10,
+		"category": "Animal",
+		"defname": "LTF_Krapken"
+	},
+	{
+		"abr": "krapkenegg",
+		"price": -10,
+		"category": "Animal products",
+		"defname": "LTF_KrapkenEgg"
+	},
+	{
+		"abr": "krapkenmeat",
+		"price": -10,
+		"category": "Meat",
+		"defname": "Meat_LTF_Krapken"
+	},
+	{
+		"abr": "krapskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Krapken"
+	},
+	{
+		"abr": "kraptyl",
+		"price": -10,
+		"category": "Raw resources",
+		"defname": "LTF_Kraptyl"
+	},
+	{
+		"abr": "kromcook1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCookKrom"
+	},
+	{
+		"abr": "krommed1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieMedicineKrom"
+	},
+	{
+		"abr": "kromres1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieResearchKrom"
+	},
+	{
+		"abr": "mantis",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Mantis"
+	},
+	{
+		"abr": "mindbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "LTF_MindcontrolBench"
+	},
+	{
+		"abr": "naturalleftmantisclaws",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "LTF_MantisLeftClaws"
+	},
+	{
+		"abr": "naturalrightmantisclaws",
+		"price": -10,
+		"category": "Melee weapons",
+		"defname": "LTF_MantisRightClaws"
+	},
+	{
+		"abr": "plasteelclaws(left)",
+		"price": 4167,
+		"category": "Bionic",
+		"defname": "LTF_LeftPlasteelClaws"
+	},
+	{
+		"abr": "plasteelclaws(right)",
+		"price": 4167,
+		"category": "Bionic",
+		"defname": "LTF_RightPlasteelClaws"
+	},
+	{
+		"abr": "psychicinsanitylance",
+		"price": -10,
+		"category": "Artifacts",
+		"defname": "PsychicInsanityLance"
+	},
+	{
+		"abr": "psychicshocklance",
+		"price": -10,
+		"category": "Artifacts",
+		"defname": "PsychicShockLance"
+	},
+	{
+		"abr": "rockstove",
+		"price": -10,
+		"category": "Production",
+		"defname": "LTF_RegularRockmanStove"
+	},
+	{
+		"abr": "rockman",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Rockman"
+	},
+	{
+		"abr": "rockmanskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Rockman"
+	},
+	{
+		"abr": "romcon1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieConstructRom"
+	},
+	{
+		"abr": "romcon2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieConstruct2Rom"
+	},
+	{
+		"abr": "romcon3",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieConstruct3Rom"
+	},
+	{
+		"abr": "romcook1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCookRom"
+	},
+	{
+		"abr": "romcook2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCook2Rom"
+	},
+	{
+		"abr": "romcra1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCraftRom"
+	},
+	{
+		"abr": "romcra2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCraft2Rom"
+	},
+	{
+		"abr": "romcra3",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieCraft3Rom"
+	},
+	{
+		"abr": "romgro1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieGrowRom"
+	},
+	{
+		"abr": "romgro2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieGrow2Rom"
+	},
+	{
+		"abr": "rommed1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieMedicineRom"
+	},
+	{
+		"abr": "rommed2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieMedicine2Rom"
+	},
+	{
+		"abr": "rommin1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieMiningRom"
+	},
+	{
+		"abr": "rommin2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieMining2Rom"
+	},
+	{
+		"abr": "romres1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieResearchRom"
+	},
+	{
+		"abr": "romres2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieResearch2Rom"
+	},
+	{
+		"abr": "romsoc1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieSocialRom"
+	},
+	{
+		"abr": "romsoc2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieSocial2Rom"
+	},
+	{
+		"abr": "romtam1",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieTamingRom"
+	},
+	{
+		"abr": "romtam2",
+		"price": 83,
+		"category": "Bionic",
+		"defname": "LTF_EngieTaming2Rom"
+	},
+	{
+		"abr": "shieldbench",
+		"price": -10,
+		"category": "Production",
+		"defname": "LTF_ShieldBench"
+	},
+	{
+		"abr": "shieldmet",
+		"price": 2000,
+		"category": "Headgear",
+		"defname": "LTF_shieldHelm"
+	},
+	{
+		"abr": "slug",
+		"price": -10,
+		"category": "Animal",
+		"defname": "Alien_Slug"
+	},
+	{
+		"abr": "slugdew",
+		"price": -10,
+		"category": "Animal products",
+		"defname": "LTF_SlugDew"
+	},
+	{
+		"abr": "slugdewbeerawecka",
+		"price": 7,
+		"category": "Drugs",
+		"defname": "LTF_SlugDewBeerawecka"
+	},
+	{
+		"abr": "slugsilk",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "LTF_SlugSilk"
+	},
+	{
+		"abr": "slugskin",
+		"price": -10,
+		"category": "Leathers",
+		"defname": "Leather_Slug"
 	},
 	{
 		"abr": "st-432helmet",
@@ -3847,22 +4021,16 @@
 		"defname": "BoSbp3s"
 	},
 	{
-		"abr": "steelhorsenoseearring",
-		"price": 42,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Nose_Ear_Ring_Gold"
+		"abr": "steelclaws(left)",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "LTF_LeftSteelClaws"
 	},
 	{
-		"abr": "steelhorsenosering",
-		"price": 42,
-		"category": "Horse Apparel",
-		"defname": "Horse_Nose_Ring_Steel"
-	},
-	{
-		"abr": "steelhorsenosering",
-		"price": 42,
-		"category": "Horse Apparel",
-		"defname": "Female_Horse_Nose_Ring_Steel"
+		"abr": "steelclaws(right)",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "LTF_RightSteelClaws"
 	},
 	{
 		"abr": "supersledge",
@@ -3913,16 +4081,16 @@
 		"defname": "Table1x1c"
 	},
 	{
-		"abr": "techprint(jumppacks)",
-		"price": -10,
-		"category": "Techprints",
-		"defname": "Techprint_JumpPack"
-	},
-	{
 		"abr": "techprint(magneticfieldsmastery)",
 		"price": -10,
 		"category": "Techprints",
 		"defname": "Techprint_BoS_mastery"
+	},
+	{
+		"abr": "threadspinningtool",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "LTF_YarnMaker"
 	},
 	{
 		"abr": "tradereportslog",
@@ -3947,6 +4115,12 @@
 		"price": -10,
 		"category": "Furniture",
 		"defname": "BoSsusflagus"
+	},
+	{
+		"abr": "vanillarom",
+		"price": -10,
+		"category": "Natural",
+		"defname": "LTF_EngieRawRom"
 	},
 	{
 		"abr": "vindicatorminigun",
@@ -3997,11 +4171,17 @@
 		"defname": "Alien_Zoltan"
 	},
 	{
-		"abr": "zoltanbattery",
+		"abr": "zoltanegg",
 		"price": -10,
-		"category": "Power",
-		"defname": "ZoltanBattery"
+		"category": "Animal products",
+		"defname": "LTF_ZoltanEgg"
+	},
+	{
+		"abr": "zoltanenergypod",
+		"price": -10,
+		"category": "Misc",
+		"defname": "LTF_ZoltanPod"
 	}
 	],
-	"total": 667
+	"total": 697
 }

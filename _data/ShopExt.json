@@ -981,6 +981,12 @@
   ],
   "races": [
     {
+      "defName": "Alien_Engie",
+      "enabled": true,
+      "name": "engie",
+      "price": 2833
+    },
+    {
       "defName": "Alien_Equium",
       "enabled": true,
       "name": "equium",
@@ -993,10 +999,22 @@
       "price": 2917
     },
     {
-      "defName": "Alien_PEquium",
+      "defName": "Alien_Mantis",
       "enabled": true,
-      "name": "primitiveequium",
-      "price": 4167
+      "name": "mantis",
+      "price": 3167
+    },
+    {
+      "defName": "Alien_Rockman",
+      "enabled": true,
+      "name": "rockman",
+      "price": 3333
+    },
+    {
+      "defName": "Alien_Slug",
+      "enabled": true,
+      "name": "slug",
+      "price": 3000
     },
     {
       "defName": "Alien_Zoltan",

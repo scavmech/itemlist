@@ -63,7 +63,7 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "1.3.4.0"
+    "version": "1.3.6.0"
   },
   {
     "author": "SirRandoo",
@@ -106,36 +106,6 @@
     "name": "Humanoid Alien Races 2.0",
     "steamId": "839005762",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Kikohi",
-    "name": "Forsakens",
-    "steamId": "1728999127",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Garwel",
-    "name": "Rimocracy",
-    "steamId": "2159080853",
-    "version": "1.0.5"
-  },
-  {
-    "author": "Orion, JoeysLucky22, Erdelf",
-    "name": "More Mechanoids",
-    "steamId": "846222458",
-    "version": "1.2.1"
-  },
-  {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
-    "steamId": "2202185773",
-    "version": null
-  },
-  {
-    "author": "Moloy559",
-    "name": "Moloy Traits",
-    "steamId": "1777036482",
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -190,5 +160,59 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.0.1.0"
+  },
+  {
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "Kurtus_Mob",
+    "name": "The Brotherhood Compendium",
+    "steamId": "2010861354",
+    "version": null
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "Zoltan race",
+    "steamId": "2032477436",
+    "version": "0.15.1.0"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon",
+    "steamId": "857350593",
+    "version": null
+  },
+  {
+    "author": "TrashedDT",
+    "name": "Industrialisation",
+    "steamId": "1463579055",
+    "version": null
+  },
+  {
+    "author": "Teok25",
+    "name": "Archotech Expanded",
+    "steamId": "1442734859",
+    "version": null
+  },
+  {
+    "author": "Redsnapper12",
+    "name": "Comically Large Spoon",
+    "steamId": "2207048553",
+    "version": null
+  },
+  {
+    "author": "Rocka / hauvega",
+    "name": "Equiums",
+    "steamId": "1211945995",
+    "version": null
   }
 ]

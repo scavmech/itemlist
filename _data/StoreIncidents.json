@@ -93,7 +93,7 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -108,11 +108,6 @@
 	{
 		"abr": "tradercaravan",
 		"price": 275,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -341,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 68
+	"total": 67
 }

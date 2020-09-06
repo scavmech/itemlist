@@ -6,52 +6,34 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
   },
   {
-    "author": "Rocka / hauvega",
-    "name": "Equiums",
-    "steamId": "1211945995",
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
+  },
+  {
+    "author": "Darth_Sergeant",
+    "name": "Nurse Job",
+    "steamId": "1820501433",
     "version": null
   },
   {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": "857350593",
+    "author": "Summin",
+    "name": "Dragonkin",
+    "steamId": "1793932198",
     "version": null
   },
   {
-    "author": "TrashedDT",
-    "name": "Industrialisation",
-    "steamId": "1463579055",
-    "version": null
-  },
-  {
-    "author": "Teok25",
-    "name": "Archotech Expanded",
-    "steamId": "1442734859",
-    "version": null
-  },
-  {
-    "author": "Redsnapper12",
-    "name": "Comically Large Spoon",
-    "steamId": "2207048553",
-    "version": null
-  },
-  {
-    "author": "Kurtus_Mob",
-    "name": "The Brotherhood Compendium",
-    "steamId": "2010861354",
-    "version": null
+    "author": "Atlas, aRandomKiwi",
+    "name": "Android tiers",
+    "steamId": "1386412863",
+    "version": "2.0.2.0"
   },
   {
     "author": "Fluffy",
@@ -96,12 +78,6 @@
     "version": "1.2.3.0"
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Puppeteer",
-    "steamId": "2057192142",
-    "version": "1.3.6.0"
-  },
-  {
     "author": "erdelf",
     "name": "ShowModDesignators",
     "steamId": "1399212509",
@@ -112,12 +88,6 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.31.645"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "8.0.1"
   },
   {
     "author": "UnlimitedHugs",
@@ -150,10 +120,16 @@
     "version": null
   },
   {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.0.5.0"
+    "version": "3.0.7.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -162,22 +138,16 @@
     "version": "2.0.1.0"
   },
   {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.4"
+    "author": "Hatti",
+    "name": "QualitySurgeon",
+    "steamId": "857350593",
+    "version": null
   },
   {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "0",
-    "version": "1.0.1.2"
   },
   {
     "author": "hodlhodl",
@@ -190,6 +160,12 @@
     "name": "ToolkitUtils",
     "steamId": "0",
     "version": "4.0.7.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "0",
+    "version": "1.0.1.2"
   },
   {
     "author": "hodlhodl",
@@ -210,21 +186,27 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
     "author": "Mehni",
     "name": "4M Mehni's Misc Modifications",
     "steamId": "1366888108",
     "version": "1.1.8"
   },
   {
-    "author": "Gouda quiche",
-    "name": "Lighter Than Fast",
-    "steamId": "1240656304",
-    "version": null
+    "author": "SirRandoo",
+    "name": "BetterSliders",
+    "steamId": "0",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.3.7.0"
   }
 ]

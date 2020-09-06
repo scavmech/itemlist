@@ -322,6 +322,19 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 2,
+      "description": "{PAWN_nameDef} has a deep hatred toward all of humanity, seeing them as nothing more than egotistical meatbags.\n(Android tiers)",
+      "name": "hateshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -329,6 +342,21 @@
       "removePrice": 3500,
       "stats": [
         "+35% Global work speed"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "Intolerance",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is intolerant of all lifeforms, whether they be mechanical or biological. There is always a chance they will randomly cause fights, especially when their mood is low.\n(Android tiers)",
+      "name": "intolerance",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
       ]
     },
     {
@@ -414,12 +442,40 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "FeelingsTowardHumanity",
+      "degree": 1,
+      "description": "{PAWN_nameDef} has a deep fondness toward all humans, seeing them as not only their own creators but as parental figures.\n(Android tiers)",
+      "name": "loveshumanity",
+      "removePrice": 5500,
+      "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "Masochist",
       "degree": 0,
       "description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
       "name": "masochist",
       "removePrice": 3500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "MechAtlas",
+      "degree": 0,
+      "description": "A mechanized infantry unit, they do not think or feel.\n(Android tiers)",
+      "name": "mech",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
     },
     {
       "addPrice": 3500,
@@ -567,6 +623,51 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
+      "defName": "PrimalInstinct",
+      "degree": 2,
+      "description": "{PAWN_nameDef} feels a strange knawing at {PAWN_pronoun} mind.\n(Dragonkin)",
+      "name": "primalanger",
+      "removePrice": 5500,
+      "stats": [
+        "+9% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "PrimalInstinct",
+      "degree": 3,
+      "description": "{PAWN_nameDef} feels a strange knawing at {PAWN_pronoun} mind.\n(Dragonkin)",
+      "name": "primalfury",
+      "removePrice": 5500,
+      "stats": [
+        "+15% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "PrimalInstinct",
+      "degree": 1,
+      "description": "{PAWN_nameDef} feels a strange knawing at {PAWN_pronoun} mind.\n(Dragonkin)",
+      "name": "primalinstinct",
+      "removePrice": 5500,
+      "stats": [
+        "+5% Mental break threshold"
+      ]
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
       "defName": "PsychicSensitivity",
       "degree": -2,
       "description": "[PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.",
@@ -687,6 +788,21 @@
       "name": "sickly",
       "removePrice": 3500,
       "stats": []
+    },
+    {
+      "addPrice": 3500,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "SimpleMindedAndroid",
+      "degree": 0,
+      "description": "Due to the limitations of this androids mind: they are only barely able to understand and feel emotion. This makes them less than desired in social situations.\n(Android tiers)",
+      "name": "simpleminded",
+      "removePrice": 5500,
+      "stats": [
+        "-90.00% Social impact"
+      ]
     },
     {
       "addPrice": 3500,
@@ -981,46 +1097,88 @@
   ],
   "races": [
     {
-      "defName": "Alien_Engie",
+      "defName": "Alien_Black_Dragonkin",
       "enabled": true,
-      "name": "engie",
-      "price": 2833
+      "name": "blackdragonkin",
+      "price": 3167
     },
     {
-      "defName": "Alien_Equium",
+      "defName": "Alien_Blue_Dragonkin",
       "enabled": true,
-      "name": "equium",
-      "price": 4167
+      "name": "bluedragonkin",
+      "price": 3167
+    },
+    {
+      "defName": "Alien_Gold_Dragonkin",
+      "enabled": true,
+      "name": "golddragonkin",
+      "price": 3167
+    },
+    {
+      "defName": "Alien_Green_Dragonkin",
+      "enabled": true,
+      "name": "greendragonkin",
+      "price": 3167
     },
     {
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
     {
-      "defName": "Alien_Mantis",
+      "defName": "M7Mech",
+      "enabled": false,
+      "name": "m7mechanisedinfantry",
+      "price": 30000
+    },
+    {
+      "defName": "Alien_Purple_Dragonkin",
       "enabled": true,
-      "name": "mantis",
+      "name": "purpledragonkin",
       "price": 3167
     },
     {
-      "defName": "Alien_Rockman",
+      "defName": "Alien_Red_Dragonkin",
       "enabled": true,
-      "name": "rockman",
-      "price": 3333
+      "name": "reddragonkin",
+      "price": 3167
     },
     {
-      "defName": "Alien_Slug",
+      "defName": "Alien_Silver_Dragonkin",
       "enabled": true,
-      "name": "slug",
-      "price": 3000
+      "name": "silverdragonkin",
+      "price": 3167
     },
     {
-      "defName": "Alien_Zoltan",
-      "enabled": true,
-      "name": "zoltan",
-      "price": 3000
+      "defName": "Android1Tier",
+      "enabled": false,
+      "name": "t1android",
+      "price": 2333
+    },
+    {
+      "defName": "Android2Tier",
+      "enabled": false,
+      "name": "t2android",
+      "price": 4167
+    },
+    {
+      "defName": "Android3Tier",
+      "enabled": false,
+      "name": "t3android",
+      "price": 8000
+    },
+    {
+      "defName": "Android4Tier",
+      "enabled": false,
+      "name": "t4android",
+      "price": 10000
+    },
+    {
+      "defName": "Android5Tier",
+      "enabled": false,
+      "name": "t5android",
+      "price": 13333
     }
   ]
 }

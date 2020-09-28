@@ -18,28 +18,10 @@
     "version": "1.1.1.2"
   },
   {
-    "author": "Darth_Sergeant",
-    "name": "Nurse Job",
-    "steamId": "1820501433",
-    "version": null
-  },
-  {
-    "author": "Summin",
-    "name": "Dragonkin",
-    "steamId": "1793932198",
-    "version": null
-  },
-  {
-    "author": "Atlas, aRandomKiwi",
-    "name": "Android tiers",
-    "steamId": "1386412863",
-    "version": "2.0.2.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Follow Me",
     "steamId": "715759739",
-    "version": "4.8.94"
+    "version": "4.9.95"
   },
   {
     "author": "Fluffy",
@@ -79,21 +61,17 @@
   },
   {
     "author": "erdelf",
-    "name": "ShowModDesignators",
-    "steamId": "1399212509",
-    "version": null
+    "name": "ShowModDesignators"
   },
   {
     "author": "Fluffy",
     "name": "Colony Manager",
     "steamId": "715565262",
-    "version": "4.31.645"
+    "version": "4.33.649"
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": "761421485",
-    "version": null
+    "name": "Allow Tool"
   },
   {
     "author": "targhetti",
@@ -115,21 +93,13 @@
   },
   {
     "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": "761219125",
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
+    "name": "Defensive Positions"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.0.7.0"
+    "version": "3.0.8.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -139,9 +109,13 @@
   },
   {
     "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": "857350593",
-    "version": null
+    "name": "QualitySurgeon"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "BetterSliders",
+    "steamId": "2218078784",
+    "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
@@ -156,15 +130,15 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "0",
-    "version": "4.0.7.0"
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitRaids",
-    "steamId": "0",
+    "steamId": "",
     "version": "1.0.1.2"
   },
   {
@@ -180,33 +154,75 @@
     "version": "1.2.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "4M Mehni's Misc Modifications",
-    "steamId": "1366888108",
-    "version": "1.1.8"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "0",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.4"
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.3.7.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils - Testing",
+    "steamId": "2230192317",
+    "version": "5.0.0.2"
+  },
+  {
+    "author": "aRandomKiwi",
+    "name": "Power++",
+    "steamId": "1771402217",
+    "version": "1.7.11"
+  },
+  {
+    "author": "NanoCE",
+    "name": "Glass+Lights"
+  },
+  {
+    "author": "Neceros",
+    "name": "Coal Expanded"
+  },
+  {
+    "author": "N7Huntsman",
+    "name": "Ceramics"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.8.1583"
+  },
+  {
+    "author": "Neceros",
+    "name": "Metal Don't Burn"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "GloomyLynx NukaFrog",
+    "name": "GloomyFurniture",
+    "steamId": "1558635181",
+    "version": "1.0.4"
+  },
+  {
+    "author": "Sztorno",
+    "name": "Industrialisation Rebuild"
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Robots"
+  },
+  {
+    "author": "leion247",
+    "name": "Misc. Craftable Robots"
+  },
+  {
+    "author": "Vaniat",
+    "name": "Polarisbloc - Mechenemy"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils"
   }
 ]

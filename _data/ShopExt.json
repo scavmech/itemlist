@@ -198,7 +198,9 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance"
+          "+4.0 melee hit chance",
+          "+25% melee critical chance",
+          "+25% melee parry chance"
         ]
       },
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
@@ -206,7 +208,9 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance"
+        "+4.0 melee hit chance",
+        "+25% melee critical chance",
+        "+25% melee parry chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -254,13 +258,13 @@
         "customName": false,
         "stats": [
           "+25% aiming time",
-          "+5.0 shooting accuracy"
+          "x150% weapon handling"
         ]
       },
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "+5.0 shooting accuracy"
+        "x150% weapon handling"
       ],
       "conflicts": [
         "brawler"
@@ -791,13 +795,13 @@
         "conflicts": [],
         "customName": false,
         "stats": [
-          "+15.0 melee dodge chance",
+          "+50% melee dodge chance",
           "x10% trap spring chance"
         ]
       },
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+15.0 melee dodge chance",
+        "+50% melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -1042,37 +1046,6 @@
       "description": "Timmy doesn't need as much sleep as the average person. Whether he's sleeping on a bed or on the ground, he will be fully rested in about two thirds the usual time.",
       "stats": [
         "+50% rest rate multiplier"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "AIRobot_BaseTrait",
-      "degree": 1,
-      "name": "robot",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.\n(Misc. Robots)",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
       ],
       "conflicts": [],
       "bypassLimit": false
@@ -1410,13 +1383,13 @@
         "customName": false,
         "stats": [
           "-50% aiming time",
-          "-5.0 shooting accuracy"
+          "x50% weapon handling"
         ]
       },
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
-        "-5.0 shooting accuracy"
+        "x50% weapon handling"
       ],
       "conflicts": [
         "brawler"
@@ -1543,6 +1516,113 @@
         "brawler"
       ],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Xenophobia",
+      "degree": -1,
+      "name": "xenophile",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Xenophobia",
+      "degree": 1,
+      "name": "xenophobe",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Bravery",
+      "degree": -1,
+      "name": "cowardly",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "+25% suppressability"
+        ]
+      },
+      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.\n(Combat Extended)",
+      "stats": [
+        "+25% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Bravery",
+      "degree": 1,
+      "name": "brave",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-50% suppressability"
+        ]
+      },
+      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.\n(Combat Extended)",
+      "stats": [
+        "-50% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "Bravery",
+      "degree": 2,
+      "name": "fearless",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": [
+          "-100% suppressability"
+        ]
+      },
+      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.\n(Combat Extended)",
+      "stats": [
+        "-100% suppressability"
+      ],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -1551,6 +1631,15 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Zombie",
+      "enabled": true,
+      "name": "Zombie",
       "data": {
         "customName": false
       }

@@ -12,12 +12,6 @@
     "version": "8.0.1"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
     "author": "Fluffy",
     "name": "Follow Me",
     "steamId": "715759739",
@@ -80,12 +74,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.2.644"
-  },
-  {
     "author": "sirrandoo",
     "name": "More Pause Events",
     "steamId": "1874708724",
@@ -106,10 +94,6 @@
     "name": "Range Finder",
     "steamId": "1332119637",
     "version": "2.0.1.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualitySurgeon"
   },
   {
     "author": "SirRandoo",
@@ -154,75 +138,91 @@
     "version": "1.2.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils - Testing",
+    "steamId": "",
+    "version": "5.0.1.8"
+  },
+  {
+    "author": "Hatti",
+    "name": "QualitySurgeon"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.644"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.3.7.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "5.0.0.2"
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
   },
   {
-    "author": "aRandomKiwi",
-    "name": "Power++",
-    "steamId": "1771402217",
-    "version": "1.7.11"
-  },
-  {
-    "author": "NanoCE",
-    "name": "Glass+Lights"
-  },
-  {
-    "author": "Neceros",
-    "name": "Coal Expanded"
-  },
-  {
-    "author": "N7Huntsman",
-    "name": "Ceramics"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.8.1583"
-  },
-  {
-    "author": "Neceros",
-    "name": "Metal Don't Burn"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry 1.1",
-    "steamId": "2007576583",
+    "author": "Roolo",
+    "name": "Giddy-up! Battle Mounts",
+    "steamId": "1217001091",
     "version": "1.0.0.0"
   },
   {
-    "author": "GloomyLynx NukaFrog",
-    "name": "GloomyFurniture",
-    "steamId": "1558635181",
-    "version": "1.0.4"
+    "author": "Roolo",
+    "name": "Giddy-up! Caravan"
   },
   {
-    "author": "Sztorno",
-    "name": "Industrialisation Rebuild"
+    "author": "Roolo",
+    "name": "Giddy-up! Ride and Roll"
   },
   {
-    "author": "Haplo",
-    "name": "Misc. Robots"
+    "author": "Epicguru (James B)",
+    "name": "Antimatter Annihilation",
+    "steamId": "2113692574",
+    "version": "1.0.0.0"
   },
   {
-    "author": "leion247",
-    "name": "Misc. Craftable Robots"
+    "author": "jecrell",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.1.1.2"
   },
   {
-    "author": "Vaniat",
-    "name": "Polarisbloc - Mechenemy"
+    "author": "Kiame Vivacity",
+    "name": "[KV] RimFridge",
+    "steamId": "1180721235",
+    "version": "1.2.1.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "1631756268",
+    "version": "1.2.3.2"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Zombieland",
+    "steamId": "928376710",
+    "version": "2.0.9.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitUtils"
+  },
+  {
+    "author": "GarbageDayIsHereToStay",
+    "name": "Heatstroke Can Cause Braindamage"
+  },
+  {
+    "author": "Sam_",
+    "name": "Furnace"
   }
 ]

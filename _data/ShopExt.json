@@ -198,9 +198,7 @@
           "Shoot frenzy inspiration disabled.",
           "+4 melee",
           "-4 shooting",
-          "+4.0 melee hit chance",
-          "+25% melee critical chance",
-          "+25% melee parry chance"
+          "+4.0 melee hit chance"
         ]
       },
       "description": "Timmy likes to fight up close and personal. his accuracy is greatly increased in melee combat, but he'll be very unhappy if asked to carry a ranged weapon.",
@@ -208,9 +206,7 @@
         "Shoot frenzy inspiration disabled.",
         "+4 melee",
         "-4 shooting",
-        "+4.0 melee hit chance",
-        "+25% melee critical chance",
-        "+25% melee parry chance"
+        "+4.0 melee hit chance"
       ],
       "conflicts": [
         "carefulshooter",
@@ -258,13 +254,13 @@
         "customName": false,
         "stats": [
           "+25% aiming time",
-          "x150% weapon handling"
+          "+5.0 shooting accuracy"
         ]
       },
       "description": "Timmy takes more time to aim when shooting. he shoots less often than others, but with more accuracy.",
       "stats": [
         "+25% aiming time",
-        "x150% weapon handling"
+        "+5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -795,13 +791,13 @@
         "conflicts": [],
         "customName": false,
         "stats": [
-          "+50% melee dodge chance",
+          "+15.0 melee dodge chance",
           "x10% trap spring chance"
         ]
       },
       "description": "Timmy has remarkable kinesthetic intelligence. he seems to dance around danger with preternatural grace.",
       "stats": [
-        "+50% melee dodge chance",
+        "+15.0 melee dodge chance",
         "x10% trap spring chance"
       ],
       "conflicts": [],
@@ -1383,13 +1379,13 @@
         "customName": false,
         "stats": [
           "-50% aiming time",
-          "x50% weapon handling"
+          "-5.0 shooting accuracy"
         ]
       },
       "description": "Pew! Pew! Pew! Timmy just likes pulling the trigger. he shoots faster than others, but less accurately.",
       "stats": [
         "-50% aiming time",
-        "x50% weapon handling"
+        "-5.0 shooting accuracy"
       ],
       "conflicts": [
         "brawler"
@@ -1554,75 +1550,6 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": -1,
-      "name": "cowardly",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "+25% suppressability"
-        ]
-      },
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.\n(Combat Extended)",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": 1,
-      "name": "brave",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-50% suppressability"
-        ]
-      },
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.\n(Combat Extended)",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Bravery",
-      "degree": 2,
-      "name": "fearless",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-100% suppressability"
-        ]
-      },
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.\n(Combat Extended)",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
     }
   ],
   "races": [
@@ -1636,10 +1563,100 @@
       }
     },
     {
-      "price": 1,
-      "defName": "Zombie",
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Prince",
       "enabled": true,
-      "name": "Zombie",
+      "name": "hive prince",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Soldier",
+      "enabled": true,
+      "name": "hive soldier drone",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Worker",
+      "enabled": true,
+      "name": "hive worker drone",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Prince_Southern",
+      "enabled": true,
+      "name": "southern hive prince",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Soldier_Southern",
+      "enabled": true,
+      "name": "southern hive soldier drone",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Hiver_Worker_Southern",
+      "enabled": true,
+      "name": "southern hive worker drone",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Fogman_Soldier",
+      "enabled": true,
+      "name": "fogman soldier",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Fogman_Worker",
+      "enabled": true,
+      "name": "fogman",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Fogman_Prince",
+      "enabled": true,
+      "name": "fogman prince",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Kenshi_Skeleton",
+      "enabled": true,
+      "name": "skeleton",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "Kenshi_Shek",
+      "enabled": true,
+      "name": "shek",
       "data": {
         "customName": false
       }

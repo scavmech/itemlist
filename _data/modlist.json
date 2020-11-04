@@ -87,7 +87,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.0.8.0"
+    "version": "3.0.9.0"
   },
   {
     "author": "Andreas Pardeike",
@@ -157,7 +157,7 @@
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
-    "version": "1.3.7.0"
+    "version": "1.4.0.0"
   },
   {
     "author": "jecrell",
@@ -176,39 +176,71 @@
     "name": "ToolkitUtils"
   },
   {
-    "author": "SoulfulPumpkin",
-    "name": "Tabletop Trove - Additional Joy Objects and Decor"
+    "author": "Mehni, XeoNovaDan, Miyuri (ZXfkSIE)",
+    "name": "4M Mehni's Misc Modifications [1.2]",
+    "steamId": "2228765246",
+    "version": "1.2.0.0"
   },
   {
-    "author": "sumghai",
-    "name": "MedPod",
-    "steamId": "2153065191",
-    "version": "1.1.3"
+    "author": "SirRandoo",
+    "name": "IKWID - Caravan Edition"
   },
   {
-    "author": "Sharpedo-Dressed Man",
-    "name": "Kenshi Apparel Pack"
+    "author": "Mehni",
+    "name": "Numbers (patched) 1.2",
+    "steamId": "2255104042",
+    "version": "1.0.4"
   },
   {
-    "author": "Sharpedo-Dressed Man",
-    "name": "Kenshi Hiver Race"
+    "author": "Uuugggg",
+    "name": "Random Research",
+    "steamId": "1374065851",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Sharpedo-Dressed Man",
-    "name": "Kenshi Skeleton Race"
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
   },
   {
-    "author": "Sharpedo-Dressed Man",
-    "name": "Kenshi Shek Race"
+    "author": "Nandonalt (Maintained by McKay)",
+    "name": "Colony Leadership"
   },
   {
-    "author": "fridgeBaron",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
+    "author": "Wilhelm95",
+    "name": "[Ku] A Mod About Meat"
   },
   {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring"
+    "author": "Epicguru (James B)",
+    "name": "Better Transhumanists"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Forgotten Realms",
+    "steamId": "2184183669",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Dragons Not Included"
+  },
+  {
+    "author": "Geminingen",
+    "name": "Kenshi Armory"
+  },
+  {
+    "author": "Crustypeanut",
+    "name": "War Crimes Expanded 2 Core"
   }
 ]

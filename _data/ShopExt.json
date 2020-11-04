@@ -1563,100 +1563,127 @@
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Prince",
+      "price": 2917,
+      "defName": "O21_Alien_Dwarf",
       "enabled": true,
-      "name": "hive prince",
+      "name": "Dwarf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Soldier",
+      "price": 3333,
+      "defName": "O21_Alien_DarkElf",
       "enabled": true,
-      "name": "hive soldier drone",
+      "name": "Dark Elf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Worker",
+      "price": 3333,
+      "defName": "O21_Alien_MoonElf",
       "enabled": true,
-      "name": "hive worker drone",
+      "name": "Moon Elf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Prince_Southern",
+      "price": 3333,
+      "defName": "O21_Alien_SunElf",
       "enabled": true,
-      "name": "southern hive prince",
+      "name": "Sun Elf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Soldier_Southern",
+      "price": 3333,
+      "defName": "O21_Alien_WoodElf",
       "enabled": true,
-      "name": "southern hive soldier drone",
+      "name": "Wood Elf",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Hiver_Worker_Southern",
+      "price": 3333,
+      "defName": "O21_Alien_Gith",
       "enabled": true,
-      "name": "southern hive worker drone",
+      "name": "Gith",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Fogman_Soldier",
+      "price": 3333,
+      "defName": "O21_Alien_Goblin",
       "enabled": true,
-      "name": "fogman soldier",
+      "name": "Goblin",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Fogman_Worker",
+      "price": 3333,
+      "defName": "O21_Alien_Hobgoblin",
       "enabled": true,
-      "name": "fogman",
+      "name": "Hobgoblin",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Fogman_Prince",
+      "price": 3333,
+      "defName": "O21_Alien_Illithid",
       "enabled": true,
-      "name": "fogman prince",
+      "name": "Illithid",
       "data": {
         "customName": false
       }
     },
     {
       "price": 2500,
-      "defName": "Kenshi_Skeleton",
+      "defName": "O21_Alien_Kobold",
       "enabled": true,
-      "name": "skeleton",
+      "name": "Kobold",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "Kenshi_Shek",
+      "price": 3333,
+      "defName": "O21_Alien_Orc",
       "enabled": true,
-      "name": "shek",
+      "name": "Orc",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "O21_Alien_Tiefling",
+      "enabled": true,
+      "name": "Tiefling",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4167,
+      "defName": "O21_Alien_Warforged",
+      "enabled": true,
+      "name": "Warforged",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "O21_Alien_HalfOrc",
+      "enabled": true,
+      "name": "Half-Orc",
       "data": {
         "customName": false
       }

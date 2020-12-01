@@ -1527,7 +1527,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1546,7 +1546,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
@@ -1558,132 +1558,6 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "O21_Alien_Dwarf",
-      "enabled": true,
-      "name": "Dwarf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_DarkElf",
-      "enabled": true,
-      "name": "Dark Elf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_MoonElf",
-      "enabled": true,
-      "name": "Moon Elf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_SunElf",
-      "enabled": true,
-      "name": "Sun Elf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_WoodElf",
-      "enabled": true,
-      "name": "Wood Elf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Gith",
-      "enabled": true,
-      "name": "Gith",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Goblin",
-      "enabled": true,
-      "name": "Goblin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Hobgoblin",
-      "enabled": true,
-      "name": "Hobgoblin",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Illithid",
-      "enabled": true,
-      "name": "Illithid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "O21_Alien_Kobold",
-      "enabled": true,
-      "name": "Kobold",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Orc",
-      "enabled": true,
-      "name": "Orc",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_Tiefling",
-      "enabled": true,
-      "name": "Tiefling",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "O21_Alien_Warforged",
-      "enabled": true,
-      "name": "Warforged",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "O21_Alien_HalfOrc",
-      "enabled": true,
-      "name": "Half-Orc",
       "data": {
         "customName": false
       }

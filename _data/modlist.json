@@ -42,50 +42,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "jecrell",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.1.1.2"
-  },
-  {
-    "author": "Oskar Potocki, Smash Phil",
-    "name": "Vanilla Achievements Expanded",
-    "steamId": "2288125657",
-    "version": "1.0.8.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded"
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
   },
   {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "8.0.1"
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality"
-  },
-  {
-    "author": "Orion",
-    "name": "Gastronomy"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
-    "name": "Vanilla Factions Expanded - Settlers",
-    "steamId": "2052918119",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "tikubonn",
-    "name": "DiceOfDestiny"
   },
   {
     "author": "targhetti",
@@ -262,5 +228,99 @@
     "name": "Progress Renderer",
     "steamId": "2010777010",
     "version": "1.2"
+  },
+  {
+    "author": "YAYO",
+    "name": "Real Faction Guest",
+    "steamId": "2263021260",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "erdelf and Jecrell",
+    "name": "Lord of the Rims - The Third Age (Continued)",
+    "steamId": "2242416385",
+    "version": "1.0.3.0"
+  },
+  {
+    "author": "Jecrell,lbmaian",
+    "name": "Doors Expanded (Dev)",
+    "steamId": "2195733555",
+    "version": "1.3.2.1"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Dwarves (Continued)",
+    "steamId": "2243330771",
+    "version": "1.0.8.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Elves (Continued)",
+    "steamId": "2244183992",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Hobbits (Continued)",
+    "steamId": "2244226597",
+    "version": "1.0.6.0"
+  },
+  {
+    "author": "Saebbi and Napon",
+    "name": "Lord of the Rims - Ents (Continued)"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Lord of the Rims - Wizardry (Continued)"
+  },
+  {
+    "author": "Nolabritt, RadZerp, Sophist88",
+    "name": "RimNauts",
+    "steamId": "2198026141",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Animals Expanded — Cats and Dogs"
+  },
+  {
+    "author": "Kentington and Thain",
+    "name": "Save Our Ship 2"
+  },
+  {
+    "author": "Roo",
+    "name": "Anty the war ant race",
+    "steamId": "2297729625",
+    "version": "1.0.7629.42224"
+  },
+  {
+    "author": "sumghai",
+    "name": "MedPod",
+    "steamId": "2153065191",
+    "version": "1.1.5"
+  },
+  {
+    "author": "ChJees",
+    "name": "Androids",
+    "steamId": "1541064015",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.0.0"
   }
 ]

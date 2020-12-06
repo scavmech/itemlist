@@ -1550,6 +1550,101 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LotRW_Istari",
+      "degree": 0,
+      "name": "istari",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is a manifestation of a Maiar spirit sent to the world to help fight corrupting forces. They possess maximum magic potential and learn new spells quickly.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LotRW_MagicAttuned",
+      "degree": -1,
+      "name": "hedgemage",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is a hedgemage and takes much longer to learn magic spells than other magicly attuned individuals.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LotRW_MagicAttuned",
+      "degree": 0,
+      "name": "mage",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is a rare individual that possesses blessed ability to attune magic. They are somewhat slow to learn spells, however, since they are difficult for non-Istari to master.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "LotRW_MagicAttuned",
+      "degree": 1,
+      "name": "sorcerer",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy is one of perhaps a handful of folk that is a powerful mage capable of learning spells quickly and wielding them with deadly precision.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "VCEF_Fisherman",
+      "degree": 0,
+      "name": "fisherman",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -1558,6 +1653,96 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "LotRD_DwarfStandardRace",
+      "enabled": true,
+      "name": "dwarf",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "LotRE_ElfStandardRace",
+      "enabled": true,
+      "name": "elf",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2083,
+      "defName": "LotRE_ElfStandardRaceHalf",
+      "enabled": true,
+      "name": "half-elf",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "LotRH_HobbitStandardRace",
+      "enabled": true,
+      "name": "hobbit",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1,
+      "defName": "Ent_Race",
+      "enabled": true,
+      "name": "Ent",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2917,
+      "defName": "LotRW_WizardStandardRace",
+      "enabled": true,
+      "name": "wizard",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1333,
+      "defName": "Anty",
+      "enabled": true,
+      "name": "Anty",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "ChjAndroid",
+      "enabled": true,
+      "name": "Android",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1417,
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "Droid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3167,
+      "defName": "ChjBattleDroid",
+      "enabled": true,
+      "name": "Battle droid",
       "data": {
         "customName": false
       }

@@ -1550,101 +1550,6 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "LotRW_Istari",
-      "degree": 0,
-      "name": "istari",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is a manifestation of a Maiar spirit sent to the world to help fight corrupting forces. They possess maximum magic potential and learn new spells quickly.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "LotRW_MagicAttuned",
-      "degree": -1,
-      "name": "hedgemage",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is a hedgemage and takes much longer to learn magic spells than other magicly attuned individuals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "LotRW_MagicAttuned",
-      "degree": 0,
-      "name": "mage",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is a rare individual that possesses blessed ability to attune magic. They are somewhat slow to learn spells, however, since they are difficult for non-Istari to master.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "LotRW_MagicAttuned",
-      "degree": 1,
-      "name": "sorcerer",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy is one of perhaps a handful of folk that is a powerful mage capable of learning spells quickly and wielding them with deadly precision.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "VCEF_Fisherman",
-      "degree": 0,
-      "name": "fisherman",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
     }
   ],
   "races": [
@@ -1658,91 +1563,118 @@
       }
     },
     {
-      "price": 2917,
-      "defName": "LotRD_DwarfStandardRace",
+      "price": 3333,
+      "defName": "Alien_Jaffa",
       "enabled": true,
-      "name": "dwarf",
+      "name": "Jaffa",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
-      "defName": "LotRE_ElfStandardRace",
+      "price": 167,
+      "defName": "Claymanman",
       "enabled": true,
-      "name": "elf",
+      "name": "Clayman",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2083,
-      "defName": "LotRE_ElfStandardRaceHalf",
+      "price": 10833,
+      "defName": "ZRPF_RACE_CACTOID_HYBRID_DEF",
       "enabled": true,
-      "name": "half-elf",
+      "name": "Cactoid Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
-      "defName": "LotRH_HobbitStandardRace",
+      "price": 16667,
+      "defName": "ZRPF_RACE_FORSAKEN_HYBRID_DEF",
       "enabled": true,
-      "name": "hobbit",
+      "name": "Forsaken Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1,
-      "defName": "Ent_Race",
+      "price": 10833,
+      "defName": "ZRPF_RACE_GERZEE_HYBRID_DEF",
       "enabled": true,
-      "name": "Ent",
+      "name": "Gerzee Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
-      "defName": "LotRW_WizardStandardRace",
+      "price": 6667,
+      "defName": "ZRPF_RACE_GIANT_HYBRID_DEF",
       "enabled": true,
-      "name": "wizard",
+      "name": "Giant Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1333,
-      "defName": "Anty",
+      "price": 6667,
+      "defName": "ZRPF_RACE_HUMAN_HYBRID_DEF",
       "enabled": true,
-      "name": "Anty",
+      "name": "Human Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2500,
-      "defName": "ChjAndroid",
+      "price": 7500,
+      "defName": "ZRPF_RACE_MANTIS_HYBRID_DEF",
       "enabled": true,
-      "name": "Android",
+      "name": "Mantis Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1417,
-      "defName": "ChjDroid",
+      "price": 11667,
+      "defName": "ZRPF_RACE_MOYO_HYBRID_DEF",
       "enabled": true,
-      "name": "Droid",
+      "name": "Moyo Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 3167,
-      "defName": "ChjBattleDroid",
+      "price": 10000,
+      "defName": "ZRPF_RACE_SCALEMEN_HYBRID_DEF",
       "enabled": true,
-      "name": "Battle droid",
+      "name": "Scalemen Hybrid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1667,
+      "defName": "ZRPF_RACE_SLIME_HYBRID_DEF",
+      "enabled": true,
+      "name": "Slime Hybrid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 12500,
+      "defName": "ZRPF_RACE_THRUMKIN_HYBRID_DEF",
+      "enabled": true,
+      "name": "Thrumkin Hybrid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 8333,
+      "defName": "ZRPF_RACE_DEF",
+      "enabled": true,
+      "name": "Zeta reticulan",
       "data": {
         "customName": false
       }

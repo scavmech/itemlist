@@ -74,8 +74,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "defName": "Asexual",
       "degree": 0,
       "name": "asexual",
@@ -116,8 +116,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "defName": "Bisexual",
       "degree": 0,
       "name": "bisexual",
@@ -392,8 +392,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "defName": "Gay",
       "degree": 0,
       "name": "gay",
@@ -1563,19 +1563,10 @@
       }
     },
     {
-      "price": 3333,
-      "defName": "Alien_Jaffa",
+      "price": 12500,
+      "defName": "ZRPF_RACE_ASTORIEL_HYBRID_DEF",
       "enabled": true,
-      "name": "Jaffa",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 167,
-      "defName": "Claymanman",
-      "enabled": true,
-      "name": "Clayman",
+      "name": "Astoriel Hybrid",
       "data": {
         "customName": false
       }
@@ -1585,6 +1576,15 @@
       "defName": "ZRPF_RACE_CACTOID_HYBRID_DEF",
       "enabled": true,
       "name": "Cactoid Hybrid",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 8333,
+      "defName": "ZRPF_RACE_DROW_HYBRID_DEF",
+      "enabled": true,
+      "name": "Drow Hybrid",
       "data": {
         "customName": false
       }
@@ -1603,15 +1603,6 @@
       "defName": "ZRPF_RACE_GERZEE_HYBRID_DEF",
       "enabled": true,
       "name": "Gerzee Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 6667,
-      "defName": "ZRPF_RACE_GIANT_HYBRID_DEF",
-      "enabled": true,
-      "name": "Giant Hybrid",
       "data": {
         "customName": false
       }
@@ -1645,18 +1636,18 @@
     },
     {
       "price": 10000,
-      "defName": "ZRPF_RACE_SCALEMEN_HYBRID_DEF",
+      "defName": "ZRPF_RACE_NIGHTELF_HYBRID_DEF",
       "enabled": true,
-      "name": "Scalemen Hybrid",
+      "name": "Night Elf Hybrid",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 1667,
-      "defName": "ZRPF_RACE_SLIME_HYBRID_DEF",
+      "price": 10000,
+      "defName": "ZRPF_RACE_SCALEMEN_HYBRID_DEF",
       "enabled": true,
-      "name": "Slime Hybrid",
+      "name": "Scalemen Hybrid",
       "data": {
         "customName": false
       }
@@ -1675,6 +1666,51 @@
       "defName": "ZRPF_RACE_DEF",
       "enabled": true,
       "name": "Zeta reticulan",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2833,
+      "defName": "Alien_Engi",
+      "enabled": true,
+      "name": "Engi",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3167,
+      "defName": "Alien_Mantis",
+      "enabled": true,
+      "name": "Mantis",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3333,
+      "defName": "Alien_Rockman",
+      "enabled": true,
+      "name": "Rockman",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3000,
+      "defName": "Alien_Slug",
+      "enabled": true,
+      "name": "Slug",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3000,
+      "defName": "Alien_Zoltan",
+      "enabled": true,
+      "name": "Zoltan",
       "data": {
         "customName": false
       }

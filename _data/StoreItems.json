@@ -184,7 +184,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "berries",
@@ -1510,7 +1510,7 @@
       "abr": "medicine",
       "category": "Medicine",
       "defname": "MedicineIndustrial",
-      "price": 30
+      "price": -10
     },
     {
       "abr": "megascarab",
@@ -1756,7 +1756,7 @@
       "abr": "packagedsurvivalmeal",
       "category": "Meals",
       "defname": "MealSurvivalPack",
-      "price": 40
+      "price": -10
     },
     {
       "abr": "painstopper",
@@ -2264,7 +2264,7 @@
     },
     {
       "abr": "shieldbelt",
-      "category": "Utility",
+      "category": "Artifacts",
       "defname": "Apparel_ShieldBelt",
       "price": -10
     },
@@ -2620,7 +2620,7 @@
       "abr": "tribalheaddress",
       "category": "Headgear",
       "defname": "Apparel_TribalHeaddress",
-      "price": 203
+      "price": -10
     },
     {
       "abr": "tribalwear",
@@ -2728,13 +2728,13 @@
       "abr": "warmask",
       "category": "Headgear",
       "defname": "Apparel_WarMask",
-      "price": 101
+      "price": -10
     },
     {
       "abr": "warveil",
       "category": "Headgear",
       "defname": "Apparel_WarVeil",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "warg",
@@ -2912,7 +2912,7 @@
     },
     {
       "abr": "broadshieldpack",
-      "category": "Utility",
+      "category": "Artifacts",
       "defname": "Apparel_PackBroadshield",
       "price": -10
     },
@@ -3040,7 +3040,7 @@
       "abr": "eltexskullcap",
       "category": "Headgear",
       "defname": "Apparel_EltexSkullcap",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "gunlink",
@@ -3133,803 +3133,149 @@
       "price": -10
     },
     {
-      "abr": "advancedbattery",
-      "category": "Power",
-      "defname": "ZoltanT1Battery",
-      "price": -10
-    },
-    {
-      "abr": "anodyneinjector",
-      "category": "Ranged weapons",
-      "defname": "ZRPF_WEAPON_ANODYNE_INJECTOR_DEF",
-      "price": 1667
-    },
-    {
-      "abr": "antisepticcorpse",
-      "category": "Manufactured",
-      "defname": "AntisepticCorpse",
-      "price": 100
-    },
-    {
-      "abr": "astorielhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_ASTORIEL_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "astorielhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_ASTORIEL_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "bionicopticaltentacle",
-      "category": "Bionic",
-      "defname": "LTF_BionicOpticalTentacle",
-      "price": 1717
-    },
-    {
-      "abr": "bionicsensorytentacle",
-      "category": "Bionic",
-      "defname": "LTF_BionicSensoryTentacle",
-      "price": 1717
-    },
-    {
-      "abr": "bionictail",
-      "category": "Bionic",
-      "defname": "LTF_BionicTail",
-      "price": 2242
-    },
-    {
-      "abr": "bloodbag",
-      "category": "Medicine",
-      "defname": "BloodBag",
-      "price": 20
-    },
-    {
-      "abr": "cactoidhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_CACTOID_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "cactoidhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_CACTOID_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "chunkegg",
-      "category": "Eggs (fert.)",
-      "defname": "LTF_ChunkEgg",
-      "price": -10
-    },
-    {
-      "abr": "clothingrack",
+      "abr": "bookshelf",
       "category": "Furniture",
-      "defname": "LWM_Clothing_Rack",
+      "defname": "BookShelf",
       "price": -10
     },
     {
-      "abr": "cooler01",
-      "category": "Bionic",
-      "defname": "LTF_Engi01Cooler",
-      "price": 133
-    },
-    {
-      "abr": "cooler02",
-      "category": "Bionic",
-      "defname": "LTF_Engi02Cooler",
-      "price": 133
-    },
-    {
-      "abr": "cooler04",
-      "category": "Bionic",
-      "defname": "LTF_Engi04Cooler",
-      "price": 133
-    },
-    {
-      "abr": "cooler08",
-      "category": "Bionic",
-      "defname": "LTF_Engi08Cooler",
-      "price": 133
-    },
-    {
-      "abr": "core01vanilla",
-      "category": "Natural",
-      "defname": "LTF_EngiSingleCore",
-      "price": -10
-    },
-    {
-      "abr": "core02dual",
-      "category": "Bionic",
-      "defname": "LTF_Engi02Core",
-      "price": 200
-    },
-    {
-      "abr": "core04quad",
-      "category": "Bionic",
-      "defname": "LTF_Engi04Core",
-      "price": 200
-    },
-    {
-      "abr": "core08octo",
-      "category": "Bionic",
-      "defname": "LTF_Engi08Core",
-      "price": 200
-    },
-    {
-      "abr": "core16hexa",
-      "category": "Bionic",
-      "defname": "LTF_Engi16Core",
-      "price": 200
-    },
-    {
-      "abr": "core32",
-      "category": "Bionic",
-      "defname": "LTF_Engi32Core",
-      "price": 200
-    },
-    {
-      "abr": "core64",
-      "category": "Bionic",
-      "defname": "LTF_Engi64Core",
-      "price": 200
-    },
-    {
-      "abr": "corpsebutcher",
-      "category": "Misc",
-      "defname": "CorpseButcher",
-      "price": -10
-    },
-    {
-      "abr": "corpsefertilizer",
+      "abr": "bronze",
       "category": "Raw resources",
-      "defname": "CorpseFertilizer",
-      "price": 2
-    },
-    {
-      "abr": "crucifix",
-      "category": "Art",
-      "defname": "Crucifix_DCS",
-      "price": 172
-    },
-    {
-      "abr": "deathmonitor",
-      "category": "Misc",
-      "defname": "DeathMonitor",
+      "defname": "VMEu_Bronze",
       "price": -10
     },
     {
-      "abr": "dewegg",
-      "category": "Eggs (fert.)",
-      "defname": "LTF_DewEgg",
-      "price": -10
-    },
-    {
-      "abr": "doubleshelf",
-      "category": "Furniture",
-      "defname": "LWM_BigShelf",
-      "price": -10
-    },
-    {
-      "abr": "drowhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_DROW_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "drowhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_DROW_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "engi",
-      "category": "Animal",
-      "defname": "Alien_Engi",
-      "price": -10
-    },
-    {
-      "abr": "engicraftbench",
-      "category": "Production",
-      "defname": "LTF_EngiBench",
-      "price": -10
-    },
-    {
-      "abr": "fondlingvestigialshell",
-      "category": "Bionic",
-      "defname": "LTF_FondlingVestigialShell",
-      "price": 4950
-    },
-    {
-      "abr": "foodbasket",
-      "category": "Furniture",
-      "defname": "LWM_Food_Basket",
-      "price": -10
-    },
-    {
-      "abr": "forsakenhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_FORSAKEN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "forsakenhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_FORSAKEN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "gerzeehybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_GERZEE_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "gerzeehybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_GERZEE_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "hampers",
-      "category": "Furniture",
-      "defname": "LWM_FabricHamper",
-      "price": -10
-    },
-    {
-      "abr": "handycorpse",
-      "category": "Misc",
-      "defname": "HandyCorpse",
-      "price": -10
-    },
-    {
-      "abr": "hayloft",
-      "category": "Furniture",
-      "defname": "LWM_Hayloft",
-      "price": -10
-    },
-    {
-      "abr": "high-calciumproteinpowder",
-      "category": "Foods",
-      "defname": "ProteinPowder",
-      "price": 47
-    },
-    {
-      "abr": "humanhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_HUMAN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "humanhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_HUMAN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "inspirationbulb",
-      "category": "Misc",
-      "defname": "InspirationBulb",
-      "price": -10
-    },
-    {
-      "abr": "krapken",
-      "category": "Animal",
-      "defname": "LTF_Krapken",
-      "price": -10
-    },
-    {
-      "abr": "krapkenegg",
-      "category": "Eggs (fert.)",
-      "defname": "LTF_KrapkenEgg",
-      "price": -10
-    },
-    {
-      "abr": "krapkenmeat",
-      "category": "Meat",
-      "defname": "Meat_LTF_Krapken",
-      "price": -10
-    },
-    {
-      "abr": "krapskin",
-      "category": "Leathers",
-      "defname": "Leather_Krapken",
-      "price": -10
-    },
-    {
-      "abr": "kraptyl",
+      "abr": "charcoal",
       "category": "Raw resources",
-      "defname": "LTF_Kraptyl",
+      "defname": "VMEu_Charcoal",
       "price": -10
     },
     {
-      "abr": "largemaggots",
-      "category": "Foods",
-      "defname": "LargeMaggots",
+      "abr": "chromium",
+      "category": "Special Metals",
+      "defname": "VMEu_Chromium",
       "price": -10
     },
     {
-      "abr": "mantis",
-      "category": "Animal",
-      "defname": "Alien_Mantis",
+      "abr": "coal",
+      "category": "Raw resources",
+      "defname": "VMEu_Coal",
       "price": -10
     },
     {
-      "abr": "mantishybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_MANTIS_HYBRID_DEF",
+      "abr": "concretemix",
+      "category": "Raw resources",
+      "defname": "VMEu_Concrete",
       "price": -10
     },
     {
-      "abr": "mealtrayrack",
-      "category": "Furniture",
-      "defname": "LWM_MealRack",
+      "abr": "copper",
+      "category": "Special Metals",
+      "defname": "VMEu_Copper",
       "price": -10
     },
     {
-      "abr": "meatgrinder",
-      "category": "Misc",
-      "defname": "MeatGrinderDCS",
-      "price": -10
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "LWM_Meat_Hook",
-      "price": -10
-    },
-    {
-      "abr": "medicinecabinet",
-      "category": "Furniture",
-      "defname": "LWM_Medicine_Cabinet",
-      "price": -10
-    },
-    {
-      "abr": "moyohybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_MOYO_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "moyohybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_MOYO_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "naturalleftmantisclaws",
-      "category": "Melee weapons",
-      "defname": "LTF_MantisLeftClaws",
-      "price": -10
-    },
-    {
-      "abr": "naturalrightmantisclaws",
-      "category": "Melee weapons",
-      "defname": "LTF_MantisRightClaws",
-      "price": -10
-    },
-    {
-      "abr": "nightelfhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_NIGHTELF_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "nightelfhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_NIGHTELF_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "opticaltentacle",
-      "category": "Natural",
-      "defname": "OpticalTentacle",
-      "price": -10
-    },
-    {
-      "abr": "pallet",
-      "category": "Furniture",
-      "defname": "LWM_Pallet",
-      "price": -10
-    },
-    {
-      "abr": "palletwithwrapping",
-      "category": "Furniture",
-      "defname": "LWM_Pallet_Covered",
-      "price": -10
-    },
-    {
-      "abr": "perfectedbattery",
-      "category": "Power",
-      "defname": "ZoltanT2Battery",
-      "price": -10
-    },
-    {
-      "abr": "plasteelclaws(left)",
-      "category": "Bionic",
-      "defname": "LTF_LeftPlasteelClaws",
-      "price": 1517
-    },
-    {
-      "abr": "plasteelclaws(right)",
-      "category": "Bionic",
-      "defname": "LTF_RightPlasteelClaws",
-      "price": 1517
-    },
-    {
-      "abr": "pneumostome",
-      "category": "Natural",
-      "defname": "Pneumostome",
-      "price": -10
-    },
-    {
-      "abr": "programmedmemorydisk",
+      "abr": "darkoil",
       "category": "Manufactured",
-      "defname": "ProgrammedMemoryDisk",
-      "price": 367
-    },
-    {
-      "abr": "prostheticopticaltentacle",
-      "category": "Prosthetic",
-      "defname": "LTF_ProstheticOpticalTentacle",
-      "price": 700
-    },
-    {
-      "abr": "prostheticsensorytentacle",
-      "category": "Prosthetic",
-      "defname": "LTF_ProstheticSensoryTentacle",
-      "price": 276
-    },
-    {
-      "abr": "prosthetictail",
-      "category": "Prosthetic",
-      "defname": "LTF_ProstheticTail",
-      "price": 358
-    },
-    {
-      "abr": "radula",
-      "category": "Natural",
-      "defname": "Radula",
+      "defname": "VMEu_DarkOil",
       "price": -10
     },
     {
-      "abr": "rockman",
-      "category": "Animal",
-      "defname": "Alien_Rockman",
-      "price": -10
-    },
-    {
-      "abr": "rockmanskin",
-      "category": "Leathers",
-      "defname": "Leather_Rockman",
-      "price": -10
-    },
-    {
-      "abr": "romcon1",
-      "category": "Bionic",
-      "defname": "LTF_EngiConstructRom",
-      "price": 167
-    },
-    {
-      "abr": "romcon2",
-      "category": "Bionic",
-      "defname": "LTF_EngiConstruct2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romcon3",
-      "category": "Bionic",
-      "defname": "LTF_EngiConstruct3Rom",
-      "price": 167
-    },
-    {
-      "abr": "romcook1",
-      "category": "Bionic",
-      "defname": "LTF_EngiCookRom",
-      "price": 167
-    },
-    {
-      "abr": "romcook2",
-      "category": "Bionic",
-      "defname": "LTF_EngiCook2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romcook3",
-      "category": "Bionic",
-      "defname": "LTF_EngiCook3Rom",
-      "price": 167
-    },
-    {
-      "abr": "romcra1",
-      "category": "Bionic",
-      "defname": "LTF_EngiCraftRom",
-      "price": 167
-    },
-    {
-      "abr": "romcra2",
-      "category": "Bionic",
-      "defname": "LTF_EngiCraft2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romcra3",
-      "category": "Bionic",
-      "defname": "LTF_EngiCraft3Rom",
-      "price": 167
-    },
-    {
-      "abr": "romgro1",
-      "category": "Bionic",
-      "defname": "LTF_EngiGrowRom",
-      "price": 167
-    },
-    {
-      "abr": "romgro2",
-      "category": "Bionic",
-      "defname": "LTF_EngiGrow2Rom",
-      "price": 167
-    },
-    {
-      "abr": "rommed1",
-      "category": "Bionic",
-      "defname": "LTF_EngiMedicineRom",
-      "price": 167
-    },
-    {
-      "abr": "rommed2",
-      "category": "Bionic",
-      "defname": "LTF_EngiMedicine2Rom",
-      "price": 167
-    },
-    {
-      "abr": "rommed3",
-      "category": "Bionic",
-      "defname": "LTF_EngiMedicine3Rom",
-      "price": 167
-    },
-    {
-      "abr": "rommin1",
-      "category": "Bionic",
-      "defname": "LTF_EngiMiningRom",
-      "price": 167
-    },
-    {
-      "abr": "rommin2",
-      "category": "Bionic",
-      "defname": "LTF_EngiMining2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romres1",
-      "category": "Bionic",
-      "defname": "LTF_EngiResearchRom",
-      "price": 167
-    },
-    {
-      "abr": "romres2",
-      "category": "Bionic",
-      "defname": "LTF_EngiResearch2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romres3",
-      "category": "Bionic",
-      "defname": "LTF_EngiResearch3Rom",
-      "price": 167
-    },
-    {
-      "abr": "romsoc1",
-      "category": "Bionic",
-      "defname": "LTF_EngiSocialRom",
-      "price": 167
-    },
-    {
-      "abr": "romsoc2",
-      "category": "Bionic",
-      "defname": "LTF_EngiSocial2Rom",
-      "price": 167
-    },
-    {
-      "abr": "romtam1",
-      "category": "Bionic",
-      "defname": "LTF_EngiTamingRom",
-      "price": 167
-    },
-    {
-      "abr": "romtam2",
-      "category": "Bionic",
-      "defname": "LTF_EngiTaming2Rom",
-      "price": 167
-    },
-    {
-      "abr": "salivarygland",
-      "category": "Natural",
-      "defname": "SalivaryGland",
-      "price": -10
-    },
-    {
-      "abr": "scalemenhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_SCALEMEN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "scalemenhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_SCALEMEN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "sensorytentacle",
-      "category": "Natural",
-      "defname": "SensoryTentacle",
-      "price": -10
-    },
-    {
-      "abr": "shieldbench",
+      "abr": "electricmetalsmelter",
       "category": "Production",
-      "defname": "LTF_ShieldBench",
+      "defname": "VMEu_ElectricMetalSmelter",
       "price": -10
     },
     {
-      "abr": "shieldmet",
-      "category": "Headgear",
-      "defname": "LTF_shieldmet",
-      "price": 1858
+      "abr": "fossil",
+      "category": "Raw resources",
+      "defname": "VMEu_Fossil",
+      "price": -10
     },
     {
-      "abr": "skip",
+      "abr": "germanium",
+      "category": "Raw resources",
+      "defname": "VMEu_Germanium",
+      "price": -10
+    },
+    {
+      "abr": "iron",
+      "category": "Raw resources",
+      "defname": "VMEu_Iron",
+      "price": -10
+    },
+    {
+      "abr": "lead",
+      "category": "Raw resources",
+      "defname": "VMEu_Lead",
+      "price": -10
+    },
+    {
+      "abr": "lithium",
+      "category": "Special Metals",
+      "defname": "VMEu_Lithium",
+      "price": -10
+    },
+    {
+      "abr": "metalsmelter",
+      "category": "Production",
+      "defname": "VMEu_MetalSmelter",
+      "price": -10
+    },
+    {
+      "abr": "rockpowder",
+      "category": "Raw resources",
+      "defname": "VMEu_RockPowder",
+      "price": -10
+    },
+    {
+      "abr": "stainlesssteel",
+      "category": "Special Metals",
+      "defname": "VMEu_StainlessSteel",
+      "price": -10
+    },
+    {
+      "abr": "studydesk",
+      "category": "Production",
+      "defname": "StudyDesk",
+      "price": -10
+    },
+    {
+      "abr": "targetstand",
       "category": "Furniture",
-      "defname": "LWM_DeepStorage_Skip",
+      "defname": "Target",
       "price": -10
     },
     {
-      "abr": "slug",
-      "category": "Animal",
-      "defname": "Alien_Slug",
+      "abr": "technicalbook",
+      "category": "Items",
+      "defname": "TechBook",
       "price": -10
     },
     {
-      "abr": "slugdew",
-      "category": "Animal products",
-      "defname": "LTF_SlugDew",
+      "abr": "tin",
+      "category": "Special Metals",
+      "defname": "VMEu_Tin",
       "price": -10
     },
     {
-      "abr": "slugdewbeerawecka",
-      "category": "Drugs",
-      "defname": "LTF_SlugDewBeerawecka",
+      "abr": "titanium",
+      "category": "Raw resources",
+      "defname": "VMEu_Titanium",
       "price": -10
     },
     {
-      "abr": "slugsilk",
-      "category": "Textiles",
-      "defname": "LTF_SlugSilk",
-      "price": -10
-    },
-    {
-      "abr": "slugskin",
-      "category": "Leathers",
-      "defname": "Leather_Slug",
-      "price": -10
-    },
-    {
-      "abr": "steelclaws(left)",
-      "category": "Bionic",
-      "defname": "LTF_LeftSteelClaws",
-      "price": 533
-    },
-    {
-      "abr": "steelclaws(right)",
-      "category": "Bionic",
-      "defname": "LTF_RightSteelClaws",
-      "price": 533
-    },
-    {
-      "abr": "stonesawer",
-      "category": "Misc",
-      "defname": "StoneSawerDCS",
-      "price": -10
-    },
-    {
-      "abr": "tallshelves",
+      "abr": "trainingdummy",
       "category": "Furniture",
-      "defname": "LWM_VeryBigShelf",
+      "defname": "MrDummy",
       "price": -10
     },
     {
-      "abr": "thrumkinhybrid",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_THRUMKIN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "thrumkinhybridmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_THRUMKIN_HYBRID_DEF",
-      "price": -10
-    },
-    {
-      "abr": "trainedmechanites",
-      "category": "Manufactured",
-      "defname": "TrainedMechanites",
-      "price": 600
-    },
-    {
-      "abr": "vanillarom",
-      "category": "Natural",
-      "defname": "LTF_EngiRawRom",
-      "price": -10
-    },
-    {
-      "abr": "vestigialshell",
-      "category": "Natural",
-      "defname": "VestigialShell",
-      "price": -10
-    },
-    {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsCabinet",
-      "price": -10
-    },
-    {
-      "abr": "weaponslocker",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsLocker",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulan",
-      "category": "Animal",
-      "defname": "ZRPF_RACE_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulanleather",
-      "category": "Leathers",
-      "defname": "ZRPF_LEATHER_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulanleather",
-      "category": "Leathers",
-      "defname": "ZRPF_LEATHER_GERZEE_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulanleather",
-      "category": "Leathers",
-      "defname": "ZRPF_LEATHER_FORSAKEN_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulanleather",
-      "category": "Leathers",
-      "defname": "ZRPF_LEATHER_THRUMKIN_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zetareticulanmeat",
-      "category": "Meat",
-      "defname": "Meat_ZRPF_RACE_DEF",
-      "price": -10
-    },
-    {
-      "abr": "zoltan",
-      "category": "Animal",
-      "defname": "Alien_Zoltan",
-      "price": -10
-    },
-    {
-      "abr": "zoltanbattery",
-      "category": "Power",
-      "defname": "ZoltanBattery",
+      "abr": "tungsten",
+      "category": "Special Metals",
+      "defname": "VMEu_Tungsten",
       "price": -10
     }
   ],
-  "total": 655
+  "total": 546
 }

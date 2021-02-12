@@ -74,8 +74,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100,
-      "removePrice": 100,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Asexual",
       "degree": 0,
       "name": "asexual",
@@ -116,8 +116,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100,
-      "removePrice": 100,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Bisexual",
       "degree": 0,
       "name": "bisexual",
@@ -392,8 +392,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100,
-      "removePrice": 100,
+      "addPrice": 3500,
+      "removePrice": 5500,
       "defName": "Gay",
       "degree": 0,
       "name": "gay",
@@ -1512,44 +1512,6 @@
         "brawler"
       ],
       "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Xenophobia",
-      "degree": -1,
-      "name": "xenophile",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "defName": "Xenophobia",
-      "degree": 1,
-      "name": "xenophobe",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": []
-      },
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [],
-      "conflicts": [],
-      "bypassLimit": false
     }
   ],
   "races": [
@@ -1558,159 +1520,6 @@
       "defName": "Human",
       "enabled": false,
       "name": "human",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 12500,
-      "defName": "ZRPF_RACE_ASTORIEL_HYBRID_DEF",
-      "enabled": true,
-      "name": "Astoriel Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10833,
-      "defName": "ZRPF_RACE_CACTOID_HYBRID_DEF",
-      "enabled": true,
-      "name": "Cactoid Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8333,
-      "defName": "ZRPF_RACE_DROW_HYBRID_DEF",
-      "enabled": true,
-      "name": "Drow Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 16667,
-      "defName": "ZRPF_RACE_FORSAKEN_HYBRID_DEF",
-      "enabled": true,
-      "name": "Forsaken Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10833,
-      "defName": "ZRPF_RACE_GERZEE_HYBRID_DEF",
-      "enabled": true,
-      "name": "Gerzee Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 6667,
-      "defName": "ZRPF_RACE_HUMAN_HYBRID_DEF",
-      "enabled": true,
-      "name": "Human Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 7500,
-      "defName": "ZRPF_RACE_MANTIS_HYBRID_DEF",
-      "enabled": true,
-      "name": "Mantis Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 11667,
-      "defName": "ZRPF_RACE_MOYO_HYBRID_DEF",
-      "enabled": true,
-      "name": "Moyo Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10000,
-      "defName": "ZRPF_RACE_NIGHTELF_HYBRID_DEF",
-      "enabled": true,
-      "name": "Night Elf Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 10000,
-      "defName": "ZRPF_RACE_SCALEMEN_HYBRID_DEF",
-      "enabled": true,
-      "name": "Scalemen Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 12500,
-      "defName": "ZRPF_RACE_THRUMKIN_HYBRID_DEF",
-      "enabled": true,
-      "name": "Thrumkin Hybrid",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 8333,
-      "defName": "ZRPF_RACE_DEF",
-      "enabled": true,
-      "name": "Zeta reticulan",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2833,
-      "defName": "Alien_Engi",
-      "enabled": true,
-      "name": "Engi",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3167,
-      "defName": "Alien_Mantis",
-      "enabled": true,
-      "name": "Mantis",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Rockman",
-      "enabled": true,
-      "name": "Rockman",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3000,
-      "defName": "Alien_Slug",
-      "enabled": true,
-      "name": "Slug",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3000,
-      "defName": "Alien_Zoltan",
-      "enabled": true,
-      "name": "Zoltan",
       "data": {
         "customName": false
       }

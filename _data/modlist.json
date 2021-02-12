@@ -6,28 +6,10 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "8.0.1"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.1.2.2"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.2.1"
   },
   {
     "author": "hodlhodl",
@@ -36,10 +18,16 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils - Testing",
+    "steamId": "2230192317",
+    "version": "5.0.3.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.0.2.1"
   },
   {
     "author": "swemoney",
@@ -49,8 +37,8 @@
   },
   {
     "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
-    "steamId": "1720021578",
+    "name": "ToolkitCreator",
+    "steamId": "2099493475",
     "version": "1.0.0.0"
   },
   {
@@ -58,12 +46,6 @@
     "name": "Show Draftees Weapon",
     "steamId": "1690978457",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Recipe icons",
-    "steamId": "1616643195",
-    "version": "1.0.379.0018"
   },
   {
     "author": "Kosaro",
@@ -74,44 +56,10 @@
     "name": "Easy Speedup"
   },
   {
-    "author": "PeteTimesSix",
-    "name": "Compact Hediffs",
-    "steamId": "2031734067",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.2.790"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.1.3.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "2218078784",
-    "version": "1.0.0.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "5.0.2.4"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "IKWID - Caravan Edition"
+    "author": "AUTOMATIC",
+    "name": "Recipe icons",
+    "steamId": "1616643195",
+    "version": "1.0.379.0018"
   },
   {
     "author": "Mehni, XeoNovaDan, Miyuri (ZXfkSIE)",
@@ -126,16 +74,46 @@
     "version": "1.0.4"
   },
   {
-    "author": "CaptainPootis",
-    "name": "RuntimeGC",
-    "steamId": "2228430510",
-    "version": "20.0.15.1"
+    "author": "SirRandoo",
+    "name": "BetterSliders",
+    "steamId": "2218078784",
+    "version": "1.0.0.2"
   },
   {
-    "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.9.95"
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.1.3.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "8.0.1"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool"
+  },
+  {
+    "author": "erdelf",
+    "name": "ShowModDesignators"
   },
   {
     "author": "sirrandoo",
@@ -150,34 +128,6 @@
     "version": "1.2.3.0"
   },
   {
-    "author": "Fluffy",
-    "name": "Colony Manager",
-    "steamId": "715565262",
-    "version": "4.33.649"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.3.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Range Finder",
-    "steamId": "1332119637",
-    "version": "2.0.1.0"
-  },
-  {
-    "author": "Hatti",
-    "name": "QualitySurgeon"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Medical Tab",
-    "steamId": "715565817",
-    "version": "3.4.91"
-  },
-  {
     "author": "民火",
     "name": "Where is my weapon?",
     "steamId": "1539028008",
@@ -190,16 +140,26 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "erdelf",
-    "name": "ShowModDesignators"
+    "author": "notfood",
+    "name": "ResearchPal",
+    "steamId": "946390822",
+    "version": "1.1.3.0"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool"
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.2.790"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions"
+    "author": "Peppsen",
+    "name": "P-Music"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
   },
   {
     "author": "Andreas Pardeike",
@@ -208,63 +168,51 @@
     "version": "1.5.1.0"
   },
   {
-    "author": "Neptimus7",
-    "name": "Progress Renderer",
-    "steamId": "2010777010",
-    "version": "1.2"
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
   },
   {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music"
-  },
-  {
-    "author": "GarbageDayIsHereToStay",
-    "name": "Zeta Reticulans [Player Faction]"
-  },
-  {
-    "author": "notfood",
-    "name": "ResearchPal",
-    "steamId": "946390822",
-    "version": "1.1.3.0"
-  },
-  {
-    "author": "gregorycurrie",
-    "name": "Animal Genetics",
-    "steamId": "2226725974",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CapatinSnafu",
-    "name": "Dead Can Serve"
-  },
-  {
-    "author": "Little White Mouse",
-    "name": "LWM's Deep Storage",
-    "steamId": "1617282896",
-    "version": "1.2.0.4"
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "Lighter Than Fast",
-    "steamId": "1240656304",
-    "version": "1.0.7528.25900"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Kill For Me",
-    "steamId": "1629854111",
-    "version": "1.6.0.0"
+    "author": "Fluffy",
+    "name": "Follow Me",
+    "steamId": "715759739",
+    "version": "4.9.95"
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.5"
+    "name": "IKWID - Caravan Edition"
+  },
+  {
+    "author": "Techno Fox",
+    "name": "No More Spacer"
+  },
+  {
+    "author": "Argón",
+    "name": "Expanded Materials - Metals"
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": "935982361",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "jptrrs",
+    "name": "[JPT] Human Resources"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Porohkun",
+    "name": "Concrete Walls"
   }
 ]

@@ -184,22 +184,10 @@
     "name": "IKWID - Caravan Edition"
   },
   {
-    "author": "Techno Fox",
-    "name": "No More Spacer"
-  },
-  {
-    "author": "Argón",
-    "name": "Expanded Materials - Metals"
-  },
-  {
     "author": "Falconne",
     "name": "Better Workbench Management",
     "steamId": "935982361",
     "version": "0.5.0.0"
-  },
-  {
-    "author": "jptrrs",
-    "name": "[JPT] Human Resources"
   },
   {
     "author": "SirRandoo",
@@ -210,9 +198,5 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Porohkun",
-    "name": "Concrete Walls"
   }
 ]

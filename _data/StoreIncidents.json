@@ -101,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -246,6 +241,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -281,6 +281,21 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
@@ -301,6 +316,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
@@ -308,7 +328,7 @@
 	{
 		"abr": "removepassion",
 		"price": 5000,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
@@ -316,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 63
+	"total": 67
 }

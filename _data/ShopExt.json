@@ -122,8 +122,8 @@
       "name": "asexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -182,8 +182,8 @@
       "name": "bisexual",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -554,8 +554,8 @@
       "name": "gay",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 100,
+      "removePrice": 100,
       "degree": 0
     },
     {
@@ -1999,177 +1999,29 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races 2.0",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races 2.0",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": -1
     }
   ],
   "races": [
     {
       "data": {
+        "stats": [
+          "+60.00 Mass",
+          "+70% Flammability",
+          "+$1750 Market value",
+          "+4.60 Move speed",
+          "+28.8F [16.0C] Minimum comfortable temperature",
+          "+46.8F [26.0C] Maximum comfortable temperature",
+          "+50 Leather amount",
+          "+3 Honor value"
+        ],
         "mod": "RimWorld",
         "karmaType": null,
         "customName": false
       },
+      "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Andorian",
-      "enabled": true,
-      "name": "Andorian",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Bajoran",
-      "enabled": true,
-      "name": "Bajoran",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Bolian",
-      "enabled": true,
-      "name": "Bolian",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Cardassian",
-      "enabled": true,
-      "name": "Cardassian",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Klingon",
-      "enabled": true,
-      "name": "Klingon",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Orion",
-      "enabled": true,
-      "name": "Orion",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Romulan",
-      "enabled": true,
-      "name": "Romulan",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Trill",
-      "enabled": true,
-      "name": "Trill",
-      "price": 2917
-    },
-    {
-      "data": {
-        "mod": "[O21] Star Trek",
-        "karmaType": null,
-        "customName": false
-      },
-      "defName": "O21_Alien_Vulcan",
-      "enabled": true,
-      "name": "Vulcan",
       "price": 2917
     }
   ]

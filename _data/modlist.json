@@ -181,12 +181,6 @@
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "6.0.0.0-beta9"
-  },
-  {
-    "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "1.0.1.8"
@@ -250,5 +244,11 @@
     "name": "TwitchToolkit - Lootboxes",
     "steamId": "1720021578",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils - Testing",
+    "steamId": "2230192317",
+    "version": "6.0.0.0-beta13"
   }
 ]

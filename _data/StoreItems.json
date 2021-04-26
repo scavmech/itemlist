@@ -166,7 +166,7 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 155
     },
     {
       "abr": "bedroll",
@@ -646,7 +646,7 @@
       "abr": "doublebed",
       "category": "Furniture",
       "defname": "DoubleBed",
-      "price": -10
+      "price": 292
     },
     {
       "abr": "doublebedroll",
@@ -796,7 +796,7 @@
       "abr": "empshell",
       "category": "Mortar shells",
       "defname": "Shell_EMP",
-      "price": -10
+      "price": 92
     },
     {
       "abr": "emu",
@@ -1126,7 +1126,7 @@
       "abr": "heavysmg",
       "category": "Ranged weapons",
       "defname": "Gun_HeavySMG",
-      "price": -10
+      "price": 592
     },
     {
       "abr": "herbalmedicine",
@@ -1174,7 +1174,7 @@
       "abr": "hospitalbed",
       "category": "Furniture",
       "defname": "HospitalBed",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "humanleather",
@@ -2110,7 +2110,7 @@
       "abr": "pumpshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_PumpShotgun",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "raccoon",
@@ -2182,7 +2182,7 @@
       "abr": "revolver",
       "category": "Ranged weapons",
       "defname": "Gun_Revolver",
-      "price": -10
+      "price": 226
     },
     {
       "abr": "rhinoceros",
@@ -2212,7 +2212,7 @@
       "abr": "royalbed",
       "category": "Furniture",
       "defname": "RoyalBed",
-      "price": -10
+      "price": 1467
     },
     {
       "abr": "royalrobe",
@@ -2266,7 +2266,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": -10
+      "price": 650
     },
     {
       "abr": "shiplandingbeacon",
@@ -3034,7 +3034,7 @@
       "abr": "cape",
       "category": "Noble apparel",
       "defname": "Apparel_Cape",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "eltexskullcap",
@@ -3133,1463 +3133,845 @@
       "price": 317
     },
     {
-      "abr": "ancientcarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBB",
-      "price": 282
+      "abr": "armling",
+      "category": "Animal",
+      "defname": "FungiArmLiving",
+      "price": 500
     },
     {
-      "abr": "ancientcarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBC",
-      "price": 282
+      "abr": "armspear",
+      "category": "Ranged weapons",
+      "defname": "FungiSpear",
+      "price": 149
     },
     {
-      "abr": "ancientcarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBF",
-      "price": 567
-    },
-    {
-      "abr": "ancientcarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBG",
-      "price": 567
-    },
-    {
-      "abr": "ancientcarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBJ",
-      "price": 1267
-    },
-    {
-      "abr": "ancientcarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBK",
-      "price": 1267
-    },
-    {
-      "abr": "archivalcabinet",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeCB",
-      "price": 250
-    },
-    {
-      "abr": "armorystorage1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageEA",
-      "price": 86
-    },
-    {
-      "abr": "armorystorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageEB",
-      "price": 166
-    },
-    {
-      "abr": "armorystorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageEC",
-      "price": 245
-    },
-    {
-      "abr": "badgerbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAU",
-      "price": 94
-    },
-    {
-      "abr": "badgerflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBU",
-      "price": 94
-    },
-    {
-      "abr": "biohazardsign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCD",
-      "price": 74
-    },
-    {
-      "abr": "blackbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAK",
-      "price": 94
-    },
-    {
-      "abr": "blackflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBK",
-      "price": 94
-    },
-    {
-      "abr": "bluefloorlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightAB",
-      "price": 128
-    },
-    {
-      "abr": "bluespotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightBB",
-      "price": 130
-    },
-    {
-      "abr": "bluespotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightCB",
-      "price": 130
-    },
-    {
-      "abr": "bluewalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightDB",
-      "price": 128
-    },
-    {
-      "abr": "bluewalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightEB",
-      "price": 65
-    },
-    {
-      "abr": "blueprinttable",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeCA",
-      "price": 358
-    },
-    {
-      "abr": "bolshvevbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAE",
-      "price": 94
-    },
-    {
-      "abr": "bolshvevflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBE",
-      "price": 94
-    },
-    {
-      "abr": "bulletproofglass",
-      "category": "Manufactured",
-      "defname": "SadjuukGlass",
-      "price": 8
-    },
-    {
-      "abr": "ceramicheater",
-      "category": "Temperature",
-      "defname": "SadjuukTemperatureAB",
-      "price": 150
-    },
-    {
-      "abr": "chemfuelbarrel",
-      "category": "Manufactured",
-      "defname": "SadjuukChemfuelBarrel",
-      "price": 1725
-    },
-    {
-      "abr": "computerinstallation",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeCC",
-      "price": 1925
-    },
-    {
-      "abr": "computerserver",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeCD",
-      "price": 967
-    },
-    {
-      "abr": "concrete",
-      "category": "Manufactured",
-      "defname": "SadjuukConcrete",
-      "price": 2
-    },
-    {
-      "abr": "crossbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAS",
-      "price": 94
-    },
-    {
-      "abr": "crossflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBS",
-      "price": 94
-    },
-    {
-      "abr": "deathdangersign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCB",
-      "price": 74
-    },
-    {
-      "abr": "diktatbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAD",
-      "price": 94
-    },
-    {
-      "abr": "diktatflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBD",
-      "price": 94
-    },
-    {
-      "abr": "doublelogsbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomAB",
-      "price": 169
-    },
-    {
-      "abr": "doublesteelbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomCB",
-      "price": 475
-    },
-    {
-      "abr": "doublewoodenbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomBB",
-      "price": 375
-    },
-    {
-      "abr": "dprkbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAZA",
-      "price": 94
-    },
-    {
-      "abr": "dprkflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBZA",
-      "price": 94
-    },
-    {
-      "abr": "electricdangersign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCE",
-      "price": 74
-    },
-    {
-      "abr": "electricfan",
-      "category": "Temperature",
-      "defname": "SadjuukTemperatureCA",
-      "price": 83
-    },
-    {
-      "abr": "electricheater",
-      "category": "Temperature",
-      "defname": "SadjuukTemperatureAA",
-      "price": 133
-    },
-    {
-      "abr": "emergencystretcher",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalCD",
-      "price": 392
-    },
-    {
-      "abr": "firedangersign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCA",
-      "price": 74
-    },
-    {
-      "abr": "forkliftwarningsign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCF",
-      "price": 74
-    },
-    {
-      "abr": "galliabanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAB",
-      "price": 94
-    },
-    {
-      "abr": "galliaflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBB",
-      "price": 94
-    },
-    {
-      "abr": "gdibanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAO",
-      "price": 94
-    },
-    {
-      "abr": "gdiflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBO",
-      "price": 94
-    },
-    {
-      "abr": "glasstable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableDA",
-      "price": 108
-    },
-    {
-      "abr": "glasstable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableDB",
-      "price": 198
-    },
-    {
-      "abr": "glasstable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableDD",
-      "price": 375
-    },
-    {
-      "abr": "glasstable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableDC",
-      "price": 287
-    },
-    {
-      "abr": "glasstable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableDE",
-      "price": 558
-    },
-    {
-      "abr": "gleamcapsalve",
-      "category": "Medicine",
-      "defname": "ItW_GleamcapSalve",
-      "price": 17
-    },
-    {
-      "abr": "globe",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeBB",
-      "price": 1292
-    },
-    {
-      "abr": "glowbulb",
-      "category": "Vegetarian",
-      "defname": "ItW_RawGlowbulb",
-      "price": 3
-    },
-    {
-      "abr": "greenbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAT",
-      "price": 94
-    },
-    {
-      "abr": "greenflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBT",
-      "price": 94
-    },
-    {
-      "abr": "greenfloorlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightAG",
-      "price": 128
-    },
-    {
-      "abr": "greenspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightBG",
-      "price": 130
-    },
-    {
-      "abr": "greenspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightCG",
-      "price": 130
-    },
-    {
-      "abr": "greenwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightDG",
-      "price": 128
-    },
-    {
-      "abr": "greenwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightEG",
-      "price": 65
-    },
-    {
-      "abr": "greyfieldmushroom",
-      "category": "Vegetarian",
-      "defname": "ItW_RawGreyfields",
-      "price": 3
-    },
-    {
-      "abr": "gryffonbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAW",
-      "price": 94
-    },
-    {
-      "abr": "gryffonflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBW",
-      "price": 94
-    },
-    {
-      "abr": "haycarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAA",
-      "price": 102
-    },
-    {
-      "abr": "haycarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAD",
-      "price": 204
-    },
-    {
-      "abr": "haycarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAG",
-      "price": 458
-    },
-    {
-      "abr": "helghastbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAZ",
-      "price": 94
-    },
-    {
-      "abr": "helghastflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBZ",
-      "price": 94
-    },
-    {
-      "abr": "highpressurehydrogen",
-      "category": "Manufactured",
-      "defname": "SadjuukHydrogen",
+      "abr": "bloodrune",
+      "category": "Artifacts",
+      "defname": "ReviaBloodRune",
       "price": 1000
     },
     {
-      "abr": "imperialbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAC",
-      "price": 94
+      "abr": "bloodrune(inert)",
+      "category": "Artifacts",
+      "defname": "ReviaBloodRuneBlank",
+      "price": 1000
     },
     {
-      "abr": "imperialflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBC",
-      "price": 94
+      "abr": "bloodstone",
+      "category": "Artifacts",
+      "defname": "ReviaRaceBloodstone",
+      "price": 167
     },
     {
-      "abr": "jadecalendar",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeAA",
-      "price": 220
-    },
-    {
-      "abr": "lechbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAN",
-      "price": 94
-    },
-    {
-      "abr": "lechflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBN",
-      "price": 94
-    },
-    {
-      "abr": "logchair",
-      "category": "Furniture",
-      "defname": "SadjuukChairAA",
-      "price": 42
-    },
-    {
-      "abr": "logstool",
-      "category": "Furniture",
-      "defname": "SadjuukChairAB",
-      "price": 42
-    },
-    {
-      "abr": "logstorage1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageAA",
-      "price": 21
-    },
-    {
-      "abr": "logstorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageAB",
-      "price": 41
-    },
-    {
-      "abr": "logstorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageAC",
-      "price": 61
-    },
-    {
-      "abr": "logtable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableAA",
-      "price": 24
-    },
-    {
-      "abr": "logtable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableAB",
-      "price": 44
-    },
-    {
-      "abr": "logtable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableAD",
-      "price": 84
-    },
-    {
-      "abr": "logtable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableAC",
-      "price": 64
-    },
-    {
-      "abr": "logtable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableAE",
-      "price": 124
-    },
-    {
-      "abr": "lysbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAR",
-      "price": 94
-    },
-    {
-      "abr": "lysflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBR",
-      "price": 94
-    },
-    {
-      "abr": "meetingglasstable",
-      "category": "Furniture",
-      "defname": "SadjuukTableDF",
-      "price": 442
-    },
-    {
-      "abr": "meetinglogtable",
-      "category": "Furniture",
-      "defname": "SadjuukTableAF",
-      "price": 101
-    },
-    {
-      "abr": "meetingplasteeltable",
-      "category": "Furniture",
-      "defname": "SadjuukTableEF",
-      "price": 917
-    },
-    {
-      "abr": "meetingplasteeltable",
-      "category": "Furniture",
-      "defname": "SadjuukTableFF",
-      "price": 917
-    },
-    {
-      "abr": "meetingsteeltable",
-      "category": "Furniture",
-      "defname": "SadjuukTableCF",
-      "price": 276
-    },
-    {
-      "abr": "meetingwoodentable",
-      "category": "Furniture",
-      "defname": "SadjuukTableBF",
-      "price": 383
-    },
-    {
-      "abr": "moderncarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCA",
-      "price": 383
-    },
-    {
-      "abr": "moderncarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCB",
-      "price": 383
-    },
-    {
-      "abr": "moderncarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCC",
-      "price": 383
-    },
-    {
-      "abr": "moderncarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCD",
-      "price": 767
-    },
-    {
-      "abr": "moderncarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCE",
-      "price": 767
-    },
-    {
-      "abr": "moderncarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCF",
-      "price": 767
-    },
-    {
-      "abr": "moderncarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCG",
-      "price": 1733
-    },
-    {
-      "abr": "moderncarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCH",
-      "price": 1733
-    },
-    {
-      "abr": "moderncarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetCI",
-      "price": 1733
-    },
-    {
-      "abr": "modernpharmacy",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeCA",
-      "price": 1225
-    },
-    {
-      "abr": "mushroomfermentingbarrel",
-      "category": "Production",
-      "defname": "ItW_MushroomFermentingBarrel",
-      "price": 95
-    },
-    {
-      "abr": "mushroommust",
-      "category": "Manufactured",
-      "defname": "ItW_MushroomMust",
-      "price": 4
-    },
-    {
-      "abr": "mushroomwine",
-      "category": "Drugs",
-      "defname": "ItW_MushroomWine",
-      "price": 33
-    },
-    {
-      "abr": "nodbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAF",
-      "price": 94
-    },
-    {
-      "abr": "nodflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBF",
-      "price": 94
-    },
-    {
-      "abr": "officechair",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeCF",
-      "price": 304
-    },
-    {
-      "abr": "operatingtable",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalCC",
-      "price": 908
-    },
-    {
-      "abr": "plasteelchaira",
-      "category": "Furniture",
-      "defname": "SadjuukChairEA",
-      "price": 733
-    },
-    {
-      "abr": "plasteelchairb",
-      "category": "Furniture",
-      "defname": "SadjuukChairEB",
-      "price": 733
-    },
-    {
-      "abr": "plasteelstorage1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageFA",
-      "price": 232
-    },
-    {
-      "abr": "plasteelstorage1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageGA",
-      "price": 232
-    },
-    {
-      "abr": "plasteelstorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageFB",
-      "price": 458
-    },
-    {
-      "abr": "plasteelstorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageGB",
-      "price": 458
-    },
-    {
-      "abr": "plasteelstorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageFC",
-      "price": 683
-    },
-    {
-      "abr": "plasteelstorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageGC",
-      "price": 683
-    },
-    {
-      "abr": "plasteeltable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableEA",
-      "price": 282
-    },
-    {
-      "abr": "plasteeltable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableFA",
-      "price": 282
-    },
-    {
-      "abr": "plasteeltable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableEB",
-      "price": 550
-    },
-    {
-      "abr": "plasteeltable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableFB",
-      "price": 550
-    },
-    {
-      "abr": "plasteeltable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableED",
-      "price": 1083
-    },
-    {
-      "abr": "plasteeltable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableFD",
-      "price": 1083
-    },
-    {
-      "abr": "plasteeltable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableEC",
-      "price": 817
-    },
-    {
-      "abr": "plasteeltable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableFC",
-      "price": 817
-    },
-    {
-      "abr": "plasteeltable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableEE",
-      "price": 1617
-    },
-    {
-      "abr": "plasteeltable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableFE",
-      "price": 1617
-    },
-    {
-      "abr": "portablecgen01k1kw",
-      "category": "Furniture",
-      "defname": "SadjuukGeneratorPB",
-      "price": 1358
-    },
-    {
-      "abr": "portablefuelcell3kw",
-      "category": "Furniture",
-      "defname": "SadjuukGeneratorPC",
-      "price": 2600
-    },
-    {
-      "abr": "portablegenerator0.5kw",
-      "category": "Furniture",
-      "defname": "SadjuukGeneratorPA",
-      "price": 617
-    },
-    {
-      "abr": "radiationwarningsign",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerCC",
-      "price": 74
-    },
-    {
-      "abr": "ravenbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAX",
-      "price": 94
-    },
-    {
-      "abr": "ravenflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBX",
-      "price": 94
-    },
-    {
-      "abr": "recoverybed",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalBB",
-      "price": 298
-    },
-    {
-      "abr": "redbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAG",
-      "price": 94
-    },
-    {
-      "abr": "redflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBG",
-      "price": 94
-    },
-    {
-      "abr": "redfloorlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightAR",
-      "price": 128
-    },
-    {
-      "abr": "redspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightBR",
-      "price": 130
-    },
-    {
-      "abr": "redspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightCR",
-      "price": 130
-    },
-    {
-      "abr": "redwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightDR",
-      "price": 128
-    },
-    {
-      "abr": "redwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightER",
-      "price": 65
-    },
-    {
-      "abr": "researchdesk",
-      "category": "Production",
-      "defname": "SadjuukResearchBA",
-      "price": 950
-    },
-    {
-      "abr": "researchlibrary",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeBA",
-      "price": 1367
-    },
-    {
-      "abr": "researchspot",
-      "category": "Production",
-      "defname": "SadjuukResearchAA",
-      "price": 36
-    },
-    {
-      "abr": "researchstation",
-      "category": "Production",
-      "defname": "SadjuukResearchCA",
-      "price": 1083
-    },
-    {
-      "abr": "royalbluebanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAH",
-      "price": 94
-    },
-    {
-      "abr": "royalblueflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBH",
-      "price": 94
-    },
-    {
-      "abr": "royalcarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBD",
+      "abr": "braineyeturret",
+      "category": "Security",
+      "defname": "Turret_BrainEyeTurret",
       "price": 967
     },
     {
-      "abr": "royalcarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBH",
-      "price": 1933
+      "abr": "brainturret",
+      "category": "Security",
+      "defname": "Turret_BrainTurret",
+      "price": 967
     },
     {
-      "abr": "royalcarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetBL",
-      "price": 4342
+      "abr": "brainworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Brain_Worms",
+      "price": 750
     },
     {
-      "abr": "rusbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAP",
-      "price": 94
+      "abr": "chickman",
+      "category": "Animal",
+      "defname": "chickman",
+      "price": 83
     },
     {
-      "abr": "rusflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBP",
-      "price": 94
+      "abr": "chickmanegg",
+      "category": "Eggs (fert.)",
+      "defname": "Chickman_Egg",
+      "price": 12
     },
     {
-      "abr": "shimmershroom",
+      "abr": "chickmanmeat",
+      "category": "Meat",
+      "defname": "Meat_chickman",
+      "price": 3
+    },
+    {
+      "abr": "clockaine",
+      "category": "Drugs",
+      "defname": "Clockaine",
+      "price": 23
+    },
+    {
+      "abr": "crimsonblossom",
+      "category": "Melee weapons",
+      "defname": "ReviaBlessedSerratedDagger",
+      "price": 567
+    },
+    {
+      "abr": "dissassemblyworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Dissassembly_Worms",
+      "price": 750
+    },
+    {
+      "abr": "eviscerator",
+      "category": "Melee weapons",
+      "defname": "ReviaSerratedDagger",
+      "price": 289
+    },
+    {
+      "abr": "eyeheartturret",
+      "category": "Security",
+      "defname": "Turret_EyeHeartTurret",
+      "price": 1500
+    },
+    {
+      "abr": "eyesporeturret",
+      "category": "Security",
+      "defname": "Turret_EyeSporeTurret",
+      "price": 800
+    },
+    {
+      "abr": "dragonfruits",
       "category": "Vegetarian",
-      "defname": "ItW_RawShimmershroom",
-      "price": 5
+      "defname": "RG-D_RawDragonFruits",
+      "price": 2
     },
     {
-      "abr": "skybluebanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAI",
-      "price": 94
+      "abr": "eyeworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Eye_Worms",
+      "price": 750
     },
     {
-      "abr": "skyblueflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBI",
-      "price": 94
+      "abr": "eyeling",
+      "category": "Animal",
+      "defname": "FungiEyeLiving",
+      "price": 500
     },
     {
-      "abr": "smallglasstable",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeCD",
-      "price": 202
+      "abr": "failedabominationmeat",
+      "category": "Meat",
+      "defname": "Meat_FungiExperiment",
+      "price": 3
     },
     {
-      "abr": "smalllibrary",
-      "category": "Furniture",
-      "defname": "SadjuukResearchUpgradeBC",
+      "abr": "fingerworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Finger_Worms",
+      "price": 750
+    },
+    {
+      "abr": "fingerling",
+      "category": "Animal",
+      "defname": "FungiFingerLiving",
+      "price": 500
+    },
+    {
+      "abr": "fisthammer",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Fisthammer",
+      "price": 137
+    },
+    {
+      "abr": "fleshforge",
+      "category": "Production",
+      "defname": "Fleshforge",
+      "price": 225
+    },
+    {
+      "abr": "fleshaxe",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Fleshaxe",
+      "price": 190
+    },
+    {
+      "abr": "fleshdagger",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_HumanFleshdagger",
+      "price": 187
+    },
+    {
+      "abr": "fleshsuit",
+      "category": "FungiApparel",
+      "defname": "Fleshsuit",
+      "price": 892
+    },
+    {
+      "abr": "fleshsword",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_HumanFleshsword",
+      "price": 197
+    },
+    {
+      "abr": "fungi",
+      "category": "Animal",
+      "defname": "Alien_Fungi",
+      "price": -10
+    },
+    {
+      "abr": "fungiarm",
+      "category": "Fungi",
+      "defname": "FungiArms",
+      "price": 156
+    },
+    {
+      "abr": "fungibow",
+      "category": "Ranged weapons",
+      "defname": "Bow_Fungi",
+      "price": 137
+    },
+    {
+      "abr": "fungieye",
+      "category": "Fungi",
+      "defname": "FungiEye",
+      "price": 156
+    },
+    {
+      "abr": "fungifinger",
+      "category": "Fungi",
+      "defname": "FungiFinger",
+      "price": 156
+    },
+    {
+      "abr": "fungiheart",
+      "category": "Fungi",
+      "defname": "FungiHeart",
+      "price": 658
+    },
+    {
+      "abr": "fungileg",
+      "category": "Fungi",
+      "defname": "FungiLeg",
+      "price": 156
+    },
+    {
+      "abr": "fungimeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Fungi",
+      "price": 3
+    },
+    {
+      "abr": "funginose",
+      "category": "Fungi",
+      "defname": "FungiNose",
+      "price": 156
+    },
+    {
+      "abr": "fungistomach",
+      "category": "Fungi",
+      "defname": "FungiStomach",
+      "price": 156
+    },
+    {
+      "abr": "fungitoe",
+      "category": "Fungi",
+      "defname": "FungiToe",
+      "price": 156
+    },
+    {
+      "abr": "giantwormthrower",
+      "category": "Ranged weapons",
+      "defname": "GiantWormGuntwo",
+      "price": 15000
+    },
+    {
+      "abr": "giantwormthrower",
+      "category": "Ranged weapons",
+      "defname": "GiantWormGun",
+      "price": 15000
+    },
+    {
+      "abr": "greaterbloodrune",
+      "category": "Artifacts",
+      "defname": "ReviaGreaterBloodRune",
+      "price": 5833
+    },
+    {
+      "abr": "greaterbloodrune(inert)",
+      "category": "Artifacts",
+      "defname": "ReviaGreaterBloodRuneBlank",
+      "price": 5833
+    },
+    {
+      "abr": "harvester",
+      "category": "Melee weapons",
+      "defname": "ReviaSerratedScythe",
       "price": 683
     },
     {
-      "abr": "smalllogtable",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeAC",
-      "price": 95
+      "abr": "headworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Head_Worms",
+      "price": 750
     },
     {
-      "abr": "smallsteeltable",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeCC",
-      "price": 152
+      "abr": "headling",
+      "category": "Animal",
+      "defname": "FungiHeadLiving",
+      "price": 500
     },
     {
-      "abr": "smallwoodentable",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeBC",
-      "price": 1067
+      "abr": "heartgun",
+      "category": "Ranged weapons",
+      "defname": "HeartGun",
+      "price": 161
     },
     {
-      "abr": "snakebanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAV",
-      "price": 94
+      "abr": "heartripper",
+      "category": "Ranged weapons",
+      "defname": "FungiHeartripper",
+      "price": 161
     },
     {
-      "abr": "snakeflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBV",
-      "price": 94
+      "abr": "heartturret",
+      "category": "Security",
+      "defname": "Turret_HeartTurret",
+      "price": 1500
     },
     {
-      "abr": "statesbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAQ",
-      "price": 94
+      "abr": "heartworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Heart_Worms",
+      "price": 750
     },
     {
-      "abr": "statesflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBQ",
-      "price": 94
+      "abr": "heartling",
+      "category": "Animal",
+      "defname": "FungiHeartLiving",
+      "price": 500
     },
     {
-      "abr": "steelbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomCA",
-      "price": 236
+      "abr": "humanegg",
+      "category": "Eggs (fert.)",
+      "defname": "Human_Egg",
+      "price": 12
     },
     {
-      "abr": "steelchair",
-      "category": "Furniture",
-      "defname": "SadjuukChairCA",
-      "price": 120
+      "abr": "humigiant",
+      "category": "Animal",
+      "defname": "Humigiants",
+      "price": 917
     },
     {
-      "abr": "steelchest",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeCA",
-      "price": 199
+      "abr": "humike",
+      "category": "Animal",
+      "defname": "Humike",
+      "price": 167
     },
     {
-      "abr": "steelcrate1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageDA",
-      "price": 51
+      "abr": "humikethrower",
+      "category": "Security",
+      "defname": "Turret_HumikeTurret",
+      "price": 833
     },
     {
-      "abr": "steellockers",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeCB",
-      "price": 392
+      "abr": "humimal",
+      "category": "Animal",
+      "defname": "Humimals",
+      "price": 917
     },
     {
-      "abr": "steelmedicalbed",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalCA",
-      "price": 342
+      "abr": "humimalturret",
+      "category": "Security",
+      "defname": "Turret_HumimalTurret",
+      "price": 833
     },
     {
-      "abr": "steelpallet",
-      "category": "Furniture",
-      "defname": "SadjuukStorageCB",
+      "abr": "infestationturret",
+      "category": "Security",
+      "defname": "Turret_WorminfestorTurret",
+      "price": 500
+    },
+    {
+      "abr": "infestationworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Infestation_Worms",
+      "price": 750
+    },
+    {
+      "abr": "infestator",
+      "category": "Security",
+      "defname": "Turret_WormiTurret",
+      "price": 833
+    },
+    {
+      "abr": "infestorrifle",
+      "category": "Ranged weapons",
+      "defname": "WormHeartGunTwo",
+      "price": 161
+    },
+    {
+      "abr": "infestorspreadgun",
+      "category": "Ranged weapons",
+      "defname": "WormHeartGun",
+      "price": 161
+    },
+    {
+      "abr": "legling",
+      "category": "Animal",
+      "defname": "FungiLegLiving",
+      "price": 500
+    },
+    {
+      "abr": "lesserbloodrune",
+      "category": "Artifacts",
+      "defname": "ReviaLesserBloodRune",
+      "price": 167
+    },
+    {
+      "abr": "lesserbloodrune(inert)",
+      "category": "Artifacts",
+      "defname": "ReviaLesserBloodRuneBlank",
+      "price": 167
+    },
+    {
+      "abr": "limbworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Limb_Worms",
+      "price": 750
+    },
+    {
+      "abr": "moldheartgun",
+      "category": "Ranged weapons",
+      "defname": "MoldHeartGun",
+      "price": 161
+    },
+    {
+      "abr": "moldaxe",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_Moldaxe",
+      "price": 190
+    },
+    {
+      "abr": "moldenbattleaxe",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_MoldaxeBattle",
+      "price": 190
+    },
+    {
+      "abr": "noseworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Nose_Worms",
+      "price": 750
+    },
+    {
+      "abr": "noseling",
+      "category": "Animal",
+      "defname": "FungiNoseLiving",
+      "price": 500
+    },
+    {
+      "abr": "palestone",
+      "category": "Artifacts",
+      "defname": "ReviaRacePalestone",
+      "price": 8
+    },
+    {
+      "abr": "paraspear",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_FungiParaSpear",
+      "price": 137
+    },
+    {
+      "abr": "plaguegun",
+      "category": "Ranged weapons",
+      "defname": "PlagueGun",
+      "price": 161
+    },
+    {
+      "abr": "plaguesword",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_HumanPlaguesword",
+      "price": 197
+    },
+    {
+      "abr": "pregnancyworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Pregnancy_Worms",
+      "price": 750
+    },
+    {
+      "abr": "rawcactus",
+      "category": "Vegetarian",
+      "defname": "RG_RawCactus",
+      "price": 1
+    },
+    {
+      "abr": "redhaze",
+      "category": "Drugs",
+      "defname": "ReviaRaceRedHaze",
+      "price": 133
+    },
+    {
+      "abr": "redinquisitor",
+      "category": "Melee weapons",
+      "defname": "ReviaBlessedSerratedSword",
+      "price": 1775
+    },
+    {
+      "abr": "rejuvenatingshroom",
+      "category": "Items",
+      "defname": "ShroomofRejuvenating",
+      "price": 833
+    },
+    {
+      "abr": "repeatingcrossbow",
+      "category": "Ranged weapons",
+      "defname": "ReviaRepeatingCrossbow",
+      "price": 733
+    },
+    {
+      "abr": "revia",
+      "category": "Animal",
+      "defname": "ReviaRaceAlien",
+      "price": -10
+    },
+    {
+      "abr": "reviameat",
+      "category": "Meat",
+      "defname": "Meat_ReviaRaceAlien",
+      "price": 1
+    },
+    {
+      "abr": "scourge",
+      "category": "Melee weapons",
+      "defname": "ReviaSerratedSword",
+      "price": 500
+    },
+    {
+      "abr": "shardcannon",
+      "category": "Ranged weapons",
+      "defname": "ReviaFlechetteCannon",
+      "price": 2083
+    },
+    {
+      "abr": "shredder",
+      "category": "Melee weapons",
+      "defname": "ReviaChainSword",
+      "price": 2133
+    },
+    {
+      "abr": "shroomofage",
+      "category": "Items",
+      "defname": "ShroomofAging",
+      "price": 333
+    },
+    {
+      "abr": "shroomofgrowth",
+      "category": "Items",
+      "defname": "ShroomofGrowth",
+      "price": 833
+    },
+    {
+      "abr": "shroomofwithering",
+      "category": "Items",
+      "defname": "ShroomofWithering",
+      "price": 833
+    },
+    {
+      "abr": "shroomofyouth",
+      "category": "Items",
+      "defname": "ShroomofYouth",
+      "price": 333
+    },
+    {
+      "abr": "shrooman",
+      "category": "Vegetarian",
+      "defname": "RAW_SHROOMANS_RESOURCE_DEF",
+      "price": 3
+    },
+    {
+      "abr": "shroomangrowth",
+      "category": "Shroomed body parts",
+      "defname": "ShroomanGrowth",
+      "price": 750
+    },
+    {
+      "abr": "shroomigiant",
+      "category": "Animal",
+      "defname": "Shroomigiant",
+      "price": 1417
+    },
+    {
+      "abr": "shroomigiantmeat",
+      "category": "Meat",
+      "defname": "Meat_Shroomigiant",
+      "price": 3
+    },
+    {
+      "abr": "shroomimal",
+      "category": "Animal",
+      "defname": "Shroomimal",
+      "price": 917
+    },
+    {
+      "abr": "shroomimalegg",
+      "category": "Eggs (fert.)",
+      "defname": "Shroomimal_ShroomimalEgg",
+      "price": 12
+    },
+    {
+      "abr": "shroomimalmeat",
+      "category": "Meat",
+      "defname": "Meat_Shroomimal",
+      "price": 3
+    },
+    {
+      "abr": "shroomoidmeat",
+      "category": "Meat",
+      "defname": "Meat_Shroomoid_humigiant",
+      "price": 3
+    },
+    {
+      "abr": "shroomworm",
+      "category": "Animal",
+      "defname": "InfestedWorm",
+      "price": 2
+    },
+    {
+      "abr": "shroomworm",
+      "category": "Animal",
+      "defname": "Shroomworm",
       "price": 17
     },
     {
-      "abr": "steelstool",
-      "category": "Furniture",
-      "defname": "SadjuukChairCB",
-      "price": 120
+      "abr": "shroomwormgrowth",
+      "category": "Shroomed body parts",
+      "defname": "ShroomwormGrowth",
+      "price": 750
     },
     {
-      "abr": "steelstorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageDB",
-      "price": 99
+      "abr": "shroomwormmeat",
+      "category": "Meat",
+      "defname": "Meat_Shroomworm",
+      "price": 3
     },
     {
-      "abr": "steelstorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageDC",
-      "price": 146
+      "abr": "shroomworms",
+      "category": "Vegetarian",
+      "defname": "RAW_SHROOMANSINFESTED_RESOURCE_DEF",
+      "price": 3
     },
     {
-      "abr": "steelsurgerytools",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeCB",
-      "price": 700
+      "abr": "shroop",
+      "category": "Animal",
+      "defname": "FungiShroop",
+      "price": 917
     },
     {
-      "abr": "steeltable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableCA",
-      "price": 57
+      "abr": "shroopmeat",
+      "category": "Meat",
+      "defname": "Meat_FungiShroop",
+      "price": 3
     },
     {
-      "abr": "steeltable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableCB",
-      "price": 104
+      "abr": "skinsuit",
+      "category": "FungiApparel",
+      "defname": "Skinsuit",
+      "price": 101
     },
     {
-      "abr": "steeltable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableCD",
-      "price": 199
+      "abr": "sloosh",
+      "category": "Animal",
+      "defname": "FungiSloosh",
+      "price": 917
     },
     {
-      "abr": "steeltable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableCC",
-      "price": 152
+      "abr": "slooshmeat",
+      "category": "Meat",
+      "defname": "Meat_FungiSloosh",
+      "price": 3
     },
     {
-      "abr": "steeltable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableCE",
-      "price": 294
+      "abr": "sporecapsule",
+      "category": "Grenades",
+      "defname": "SporeBombFungi",
+      "price": 333
     },
     {
-      "abr": "surgerylights",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeCD",
-      "price": 251
+      "abr": "sporeforge",
+      "category": "Production",
+      "defname": "Sporeforge",
+      "price": 291
     },
     {
-      "abr": "templarbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAM",
-      "price": 94
+      "abr": "sporegun",
+      "category": "Ranged weapons",
+      "defname": "SporeGun",
+      "price": 161
     },
     {
-      "abr": "templarflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBM",
-      "price": 94
+      "abr": "sporeplaguecapsule",
+      "category": "Grenades",
+      "defname": "SporeBombInfectionFungi",
+      "price": 333
     },
     {
-      "abr": "tendingtools",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeBB",
-      "price": 517
+      "abr": "sporeturret",
+      "category": "Security",
+      "defname": "Turret_SporeTurret",
+      "price": 800
     },
     {
-      "abr": "tribalcarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAB",
+      "abr": "stomachworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Stomach_Worms",
+      "price": 750
+    },
+    {
+      "abr": "stomachling",
+      "category": "Animal",
+      "defname": "FungiStomachLiving",
+      "price": 500
+    },
+    {
+      "abr": "throwingknife",
+      "category": "Ranged weapons",
+      "defname": "ReviaThrowingKnife",
       "price": 141
     },
     {
-      "abr": "tribalcarpet2x1",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAC",
-      "price": 141
+      "abr": "timeforge",
+      "category": "Production",
+      "defname": "Timeforge",
+      "price": 225
     },
     {
-      "abr": "tribalcarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAE",
-      "price": 282
+      "abr": "timeshroomangrowth",
+      "category": "Shroomed body parts",
+      "defname": "FungiTimeGrowth",
+      "price": 750
     },
     {
-      "abr": "tribalcarpet2x2",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAF",
-      "price": 282
+      "abr": "timeshroomans",
+      "category": "Vegetarian",
+      "defname": "RAW_TIMESHROOM_RESOURCE_DEF",
+      "price": 3
     },
     {
-      "abr": "tribalcarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAH",
-      "price": 633
+      "abr": "timeberry",
+      "category": "Vegetarian",
+      "defname": "Timeberry",
+      "price": 8
     },
     {
-      "abr": "tribalcarpet3x3",
-      "category": "Furniture",
-      "defname": "SadjuukCarpetAI",
-      "price": 633
+      "abr": "toeworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Toe_Worms",
+      "price": 750
     },
     {
-      "abr": "unionjack",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAY",
-      "price": 94
+      "abr": "toeling",
+      "category": "Animal",
+      "defname": "FungiToeLiving",
+      "price": 500
     },
     {
-      "abr": "unionjack",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBY",
-      "price": 94
+      "abr": "toothhammer",
+      "category": "Melee weapons",
+      "defname": "MeleeWeapon_HumanToothhammer",
+      "price": 137
     },
     {
-      "abr": "unscbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAA",
-      "price": 94
+      "abr": "traditional",
+      "category": "FungiApparel",
+      "defname": "Traditional",
+      "price": 358
     },
     {
-      "abr": "unscflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBA",
-      "price": 94
+      "abr": "unstableheartling",
+      "category": "Animal",
+      "defname": "FungiHeartLivingtwo",
+      "price": 500
     },
     {
-      "abr": "wallmonitor",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeCE",
-      "price": 542
+      "abr": "vermilliontide",
+      "category": "Melee weapons",
+      "defname": "ReviaBlessedSerratedScythe",
+      "price": 6575
     },
     {
-      "abr": "whitebanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAL",
-      "price": 94
+      "abr": "wormberry",
+      "category": "Vegetarian",
+      "defname": "Wormberry",
+      "price": 3
     },
     {
-      "abr": "whiteflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBL",
-      "price": 94
+      "abr": "wormskinsuit",
+      "category": "FungiApparel",
+      "defname": "SkinsuitWorm",
+      "price": 101
     },
     {
-      "abr": "whitefloorlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightAW",
-      "price": 128
+      "abr": "wormthrower",
+      "category": "Ranged weapons",
+      "defname": "WormGun",
+      "price": 230
     },
     {
-      "abr": "whitespotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightBW",
-      "price": 130
+      "abr": "wormigiant",
+      "category": "Animal",
+      "defname": "Wormigiant",
+      "price": 167
     },
     {
-      "abr": "whitespotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightCW",
-      "price": 130
+      "abr": "wormoid",
+      "category": "Animal",
+      "defname": "Alien_FungiWormi",
+      "price": -10
     },
     {
-      "abr": "whitestreetlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightFW",
-      "price": 243
+      "abr": "wormoidegg",
+      "category": "Eggs (fert.)",
+      "defname": "Wormi_Egg",
+      "price": 12
     },
     {
-      "abr": "whitestreetlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightGW",
-      "price": 243
+      "abr": "wormoidmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_FungiWormi",
+      "price": 3
     },
     {
-      "abr": "whitewalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightDW",
-      "price": 128
+      "abr": "wormoidworms",
+      "category": "Shroomed body parts",
+      "defname": "Fungi_Item_Wormoid_Worms",
+      "price": 750
     },
     {
-      "abr": "whitewalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightEW",
-      "price": 65
+      "abr": "wormoidtwo",
+      "category": "Animal",
+      "defname": "Alien_FungiWormitwo",
+      "price": 1250
     },
     {
-      "abr": "woodlogsarmchair",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeAF",
-      "price": 64
+      "abr": "wormoidtwomeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_FungiWormitwo",
+      "price": 3
     },
     {
-      "abr": "woodlogsbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedAA",
-      "price": 84
+      "abr": "wormsuit",
+      "category": "FungiApparel",
+      "defname": "Wormsuit",
+      "price": 109
     },
     {
-      "abr": "woodenarmchair",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeBF",
-      "price": 650
+      "abr": "wormsuithelmet",
+      "category": "FungiApparel",
+      "defname": "WormsuitHat",
+      "price": 109
     },
     {
-      "abr": "woodenbed",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomBA",
-      "price": 189
-    },
-    {
-      "abr": "woodenchair",
-      "category": "Furniture",
-      "defname": "SadjuukChairBA",
-      "price": 75
-    },
-    {
-      "abr": "woodenchest",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeAA",
-      "price": 124
-    },
-    {
-      "abr": "woodencrate1x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageBA",
-      "price": 34
-    },
-    {
-      "abr": "woodennightstand",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeBA",
-      "price": 129
-    },
-    {
-      "abr": "woodenpallet",
-      "category": "Furniture",
-      "defname": "SadjuukStorageCA",
-      "price": 11
-    },
-    {
-      "abr": "woodenpharmacy",
-      "category": "Furniture",
-      "defname": "SadjuukHospitalUpgradeBA",
-      "price": 742
-    },
-    {
-      "abr": "woodenstool",
-      "category": "Furniture",
-      "defname": "SadjuukChairBB",
-      "price": 75
-    },
-    {
-      "abr": "woodenstorage",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeAB",
-      "price": 124
-    },
-    {
-      "abr": "woodenstorage2x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageBB",
-      "price": 64
-    },
-    {
-      "abr": "woodenstorage3x1",
-      "category": "Furniture",
-      "defname": "SadjuukStorageBC",
-      "price": 94
-    },
-    {
-      "abr": "woodentable1x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableBA",
-      "price": 35
-    },
-    {
-      "abr": "woodentable2x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableBB",
-      "price": 65
-    },
-    {
-      "abr": "woodentable2x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableBD",
-      "price": 125
-    },
-    {
-      "abr": "woodentable3x1",
-      "category": "Furniture",
-      "defname": "SadjuukTableBC",
-      "price": 95
-    },
-    {
-      "abr": "woodentable3x2",
-      "category": "Furniture",
-      "defname": "SadjuukTableBE",
-      "price": 185
-    },
-    {
-      "abr": "woodenwardrobe",
-      "category": "Furniture",
-      "defname": "SadjuukBedroomUpgradeBB",
-      "price": 249
-    },
-    {
-      "abr": "yellowbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAJ",
-      "price": 94
-    },
-    {
-      "abr": "yellowflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBJ",
-      "price": 94
-    },
-    {
-      "abr": "yellowfloorlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightAY",
-      "price": 128
-    },
-    {
-      "abr": "yellowspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightBY",
-      "price": 130
-    },
-    {
-      "abr": "yellowspotlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightCY",
-      "price": 130
-    },
-    {
-      "abr": "yellowstreetlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightFY",
-      "price": 243
-    },
-    {
-      "abr": "yellowstreetlight",
-      "category": "Furniture",
-      "defname": "SadjuukLightGY",
-      "price": 243
-    },
-    {
-      "abr": "yellowwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightDY",
-      "price": 128
-    },
-    {
-      "abr": "yellowwalllight",
-      "category": "Furniture",
-      "defname": "SadjuukLightEY",
-      "price": 65
-    },
-    {
-      "abr": "czechbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAZD",
-      "price": 94
-    },
-    {
-      "abr": "czechflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBZD",
-      "price": 94
-    },
-    {
-      "abr": "leafbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAZB",
-      "price": 94
-    },
-    {
-      "abr": "leafflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBZB",
-      "price": 94
-    },
-    {
-      "abr": "sverigesbanner",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerAZC",
-      "price": 94
-    },
-    {
-      "abr": "sverigesflag",
-      "category": "Furniture",
-      "defname": "SadjuukHighBannerBZC",
-      "price": 94
+      "abr": "wornine",
+      "category": "Animal",
+      "defname": "Wormimal",
+      "price": 917
     }
   ],
-  "total": 765
+  "total": 662
 }

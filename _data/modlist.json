@@ -141,7 +141,7 @@
     "author": "Dubwise",
     "name": "Dubs Mint Menus",
     "steamId": "1446523594",
-    "version": "1.3.820"
+    "version": "1.3.823"
   },
   {
     "author": "Fluffy",
@@ -177,7 +177,7 @@
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
-    "version": "1.0.0.0"
+    "version": "1.0.0.1"
   },
   {
     "author": "SirRandoo",
@@ -207,31 +207,13 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.5.0"
+    "version": "3.1.6.0"
   },
   {
     "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.5.0"
-  },
-  {
-    "author": "Sadjuuk",
-    "name": "UN-Colony [1.2]",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Rikiki, Mlie, Fluffysminion",
-    "name": "Into the Wild: Caveworld Flora Unleashed",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SalmonToastie, Taranchuk",
-    "name": "Joint Battles",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "hodlhodl",
@@ -249,6 +231,54 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.0.0.0-beta13"
+    "version": "6.0.0.0-beta29"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Storytellers Expanded - Perry Persistent",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.2"
+  },
+  {
+    "author": "Druidefuzi",
+    "name": "Tribal Fungi Core",
+    "steamId": "2137606417",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fox with a Shotgun",
+    "name": "Revia Race",
+    "steamId": "2020041005",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Alastair",
+    "name": "ReGrowth: Core",
+    "steamId": "2260097569",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "ReGrowth: Desert Expansion",
+    "steamId": null,
+    "version": null
   }
 ]

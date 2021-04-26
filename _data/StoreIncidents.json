@@ -206,11 +206,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 3000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "raid",
 		"price": 1500,
 		"karmatype": "Bad"
@@ -249,16 +244,6 @@
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "levelskill",
@@ -301,33 +286,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 45000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 9000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -389,7 +349,17 @@
 		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 78
+	"total": 72
 }

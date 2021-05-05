@@ -2198,8 +2198,8 @@
       },
       "defName": "DragonoidKilhn",
       "name": "dragonattribute",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 1
@@ -2294,8 +2294,8 @@
       },
       "defName": "DragonoidKilhn",
       "name": "ancientdragonaspect",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 3
@@ -2344,8 +2344,8 @@
       },
       "defName": "DragonoidKilhn",
       "name": "ancientelderdragonmanifestation",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 4

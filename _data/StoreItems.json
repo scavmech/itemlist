@@ -4288,13 +4288,13 @@
       "abr": "largecommonchest",
       "category": "Loot boxes",
       "defname": "LootBoxSilverLarge",
-      "price": 583
+      "price": 5830
     },
     {
       "abr": "largegoldenchest",
       "category": "Loot boxes",
       "defname": "LootBoxGoldLarge",
-      "price": 1500
+      "price": 15000
     },
     {
       "abr": "lesserbloodrune",
@@ -4396,7 +4396,7 @@
       "abr": "mysteriousredchest",
       "category": "Production",
       "defname": "LootBoxBench",
-      "price": 175
+      "price": -10
     },
     {
       "abr": "n.p.crifle",
@@ -4474,7 +4474,7 @@
       "abr": "pandorasbox",
       "category": "Loot boxes",
       "defname": "LootBoxPandora",
-      "price": 667
+      "price": 6667
     },
     {
       "abr": "parrotman",
@@ -4684,13 +4684,13 @@
       "abr": "smallcommonchest",
       "category": "Loot boxes",
       "defname": "LootBoxSilverSmall",
-      "price": 133
+      "price": 1330
     },
     {
       "abr": "smallgoldenchest",
       "category": "Loot boxes",
       "defname": "LootBoxGoldSmall",
-      "price": 500
+      "price": 5000
     },
     {
       "abr": "steelhorn",
@@ -7522,7 +7522,7 @@
       "abr": "treasurechest",
       "category": "Loot boxes",
       "defname": "LootBoxTreasure",
-      "price": 200
+      "price": 2000
     },
     {
       "abr": "trenchcoat",
@@ -10937,31 +10937,7 @@
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zweihander",
       "price": -10
-    },
-    {
-      "abr": "commoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Common",
-      "price": -10
-    },
-    {
-      "abr": "uncommoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Uncommon",
-      "price": -10
-    },
-    {
-      "abr": "rareinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Rare",
-      "price": -10
-    },
-    {
-      "abr": "legendaryinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Legendary",
-      "price": -10
     }
   ],
-  "total": 1827
+  "total": 1823
 }

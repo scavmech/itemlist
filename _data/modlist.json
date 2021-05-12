@@ -234,10 +234,28 @@
     "version": "6.0.0.0-beta34"
   },
   {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Storytellers Expanded - Freya Fierce",
+    "author": "fridgeBaron",
+    "name": "Immortals",
+    "steamId": "1984905966",
+    "version": "0.0.2.0"
+  },
+  {
+    "author": "Declinedkilr",
+    "name": "RadWorld",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Toolbox",
+    "steamId": "1660622094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Neronix17",
+    "name": "[O21] Celestials",
+    "steamId": "2483263407",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
@@ -246,32 +264,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "dhultgren",
-    "name": "Bury On The Spot",
-    "steamId": "2180356108",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Mythos",
-    "name": "Diseases Overhauled",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "Fortifications - Neolithic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Tammabanana, Orange_Mushroom, dismar",
-    "name": "Smoked meat",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gunmar(グンマー)",
-    "name": "Tribal Warrior Set!",
+    "author": "Oskar Potocki, Luizi, xrushhha",
+    "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
     "version": null
   }

@@ -268,5 +268,29 @@
     "name": "Vanilla Weapons Expanded - Frontier",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Epicguru (James B)",
+    "name": "Disco!",
+    "steamId": "2436747646",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helldragger",
+    "name": "Combat Training - Forked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Coffee and Tea",
+    "steamId": "1485312620",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
   }
 ]

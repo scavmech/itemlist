@@ -3323,7 +3323,181 @@
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
       "price": -10
+    },
+    {
+      "abr": "combatdummy",
+      "category": "Misc",
+      "defname": "CombatDummy",
+      "price": -10
+    },
+    {
+      "abr": "trainingbbgun",
+      "category": "Ranged training weapons",
+      "defname": "Gun_TrainingBBGun",
+      "price": 131
+    },
+    {
+      "abr": "trainingbow",
+      "category": "Ranged training weapons",
+      "defname": "Bow_TrainingShort",
+      "price": 74
+    },
+    {
+      "abr": "trainingknife",
+      "category": "Melee training weapons",
+      "defname": "MeleeWeapon_TrainingKnife",
+      "price": 55
+    },
+    {
+      "abr": "coffee",
+      "category": "Drugs",
+      "defname": "SyrCoffee",
+      "price": 25
+    },
+    {
+      "abr": "coffeebeans",
+      "category": "Plant matter",
+      "defname": "SyrRawCoffee",
+      "price": -10
+    },
+    {
+      "abr": "hotchocolate",
+      "category": "Drugs",
+      "defname": "SyrHotChocolate",
+      "price": 13
+    },
+    {
+      "abr": "tea",
+      "category": "Drugs",
+      "defname": "SyrTea",
+      "price": 25
+    },
+    {
+      "abr": "tealeaves",
+      "category": "Plant matter",
+      "defname": "SyrRawTea",
+      "price": -10
+    },
+    {
+      "abr": "advancedbattery",
+      "category": "Power",
+      "defname": "VFE_AdvancedBattery",
+      "price": -10
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Special",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": -10
+    },
+    {
+      "abr": "gasfloodlight",
+      "category": "Furniture",
+      "defname": "VPE_GasFloodlight",
+      "price": -10
+    },
+    {
+      "abr": "gasheater",
+      "category": "Temperature",
+      "defname": "VPE_GasHeater",
+      "price": -10
+    },
+    {
+      "abr": "gaspoweredexcavator",
+      "category": "Production",
+      "defname": "VPE_GasDrill",
+      "price": -10
+    },
+    {
+      "abr": "gassunlamp",
+      "category": "Furniture",
+      "defname": "VPE_GasSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "gastank",
+      "category": "Power",
+      "defname": "VPE_GasTank",
+      "price": -10
+    },
+    {
+      "abr": "gaswalllight",
+      "category": "Furniture",
+      "defname": "VPE_GasWallLight",
+      "price": -10
+    },
+    {
+      "abr": "helixiengassmelter",
+      "category": "Production",
+      "defname": "VPE_GasSmelter",
+      "price": -10
+    },
+    {
+      "abr": "helixiengassmithy",
+      "category": "Production",
+      "defname": "VPE_GasSmithy",
+      "price": -10
+    },
+    {
+      "abr": "helixiengasstove",
+      "category": "Production",
+      "defname": "VPE_GasStove",
+      "price": -10
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Power",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": -10
+    },
+    {
+      "abr": "largebattery",
+      "category": "Power",
+      "defname": "VFE_LargeBattery",
+      "price": -10
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "lightningrod",
+      "category": "Special",
+      "defname": "VPE_LightningRod",
+      "price": -10
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Power",
+      "defname": "VFE_SmallBattery",
+      "price": -10
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "standinggaslamp",
+      "category": "Furniture",
+      "defname": "VPE_GasLamp",
+      "price": -10
     }
   ],
-  "total": 554
+  "total": 583
 }

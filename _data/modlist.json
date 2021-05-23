@@ -30,6 +30,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.3"
+  },
+  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
     "steamId": null,
@@ -231,7 +237,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.0.0.0-beta36"
+    "version": "6.0.0.0-beta38"
   },
   {
     "author": "fridgeBaron",
@@ -292,5 +298,35 @@
     "name": "Vanilla Furniture Expanded - Power",
     "steamId": "2062943477",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Twink315",
+    "name": "Vault-Tec - Handy things for your vault!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "firefoxpdm",
+    "name": "[RF] Fishing",
+    "steamId": "2034028432",
+    "version": "1.0.7406.18014"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kiame Vivacity",
+    "name": "[KV] Trading Spot",
+    "steamId": "1180719658",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Xen and Jecrell",
+    "name": "Star Wars - Fully Functional Lightsabers (Continued)",
+    "steamId": "2263225380",
+    "version": "1.0.4.0"
   }
 ]

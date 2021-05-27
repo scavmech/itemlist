@@ -1999,40 +1999,6 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
-    },
-    {
-      "description": "Timmy is a mutant, generations of living in radiation has given them immunity to radiation at the cost of their intelligence and appearance.\n(RadWorld)",
-      "stats": [
-        "+100% radiation resistance",
-        "-50.00% social impact",
-        "+0.15 move speed"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "RadWorld",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+100% radiation resistance",
-          "-50.00% social impact",
-          "+0.15 move speed"
-        ]
-      },
-      "defName": "RW_MutantBlood",
-      "name": "mutantblood",
-      "canAdd": false,
-      "canRemove": false,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 0
     }
   ],
   "races": [
@@ -2056,7 +2022,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 8751
+      "price": 11085
     }
   ]
 }

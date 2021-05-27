@@ -237,79 +237,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.0.0.0-beta38"
-  },
-  {
-    "author": "fridgeBaron",
-    "name": "Immortals",
-    "steamId": "1984905966",
-    "version": "0.0.2.0"
-  },
-  {
-    "author": "Declinedkilr",
-    "name": "RadWorld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Toolbox",
-    "steamId": "1660622094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Neronix17",
-    "name": "[O21] Celestials",
-    "steamId": "2483263407",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Luizi, xrushhha",
-    "name": "Vanilla Weapons Expanded - Frontier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Epicguru (James B)",
-    "name": "Disco!",
-    "steamId": "2436747646",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helldragger",
-    "name": "Combat Training - Forked",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrchalis",
-    "name": "[SYR] Coffee and Tea",
-    "steamId": "1485312620",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Twink315",
-    "name": "Vault-Tec - Handy things for your vault!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "firefoxpdm",
-    "name": "[RF] Fishing",
-    "steamId": "2034028432",
-    "version": "1.0.7406.18014"
+    "version": "6.0.0.0-beta39"
   },
   {
     "author": "bodlosh",
@@ -318,15 +246,33 @@
     "version": null
   },
   {
-    "author": "Kiame Vivacity",
-    "name": "[KV] Trading Spot",
-    "steamId": "1180719658",
+    "author": "碳烤鱿鱼丝",
+    "name": "碳烤鱿鱼丝的攻城坦克/TKYYS's Siege Tank",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "大鳥",
+    "name": "虫娘 Insect girls",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
-    "author": "Xen and Jecrell",
-    "name": "Star Wars - Fully Functional Lightsabers (Continued)",
-    "steamId": "2263225380",
-    "version": "1.0.4.0"
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
+    "version": "1.2.0.0"
   }
 ]

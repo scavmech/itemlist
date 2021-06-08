@@ -237,7 +237,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.0.0.0-beta39"
+    "version": "6.0.0.0-beta40"
   },
   {
     "author": "bodlosh",
@@ -274,5 +274,17 @@
     "name": "Biomes! Islands",
     "steamId": "2038001322",
     "version": "1.2.0.0"
+  },
+  {
+    "author": "Pyrce",
+    "name": "Sharknado",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "1.0.0"
   }
 ]

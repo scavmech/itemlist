@@ -101,11 +101,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -138,11 +133,6 @@
 	{
 		"abr": "rarethrumbos",
 		"price": 500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "shipchunkdrop",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -379,7 +369,12 @@
 		"abr": "randomadulthood",
 		"price": 3000,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "sanctuary",
+		"price": 100000,
+		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 75
 }

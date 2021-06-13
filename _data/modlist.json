@@ -237,7 +237,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils - Testing",
     "steamId": "2230192317",
-    "version": "6.0.0.0-beta40"
+    "version": "6.0.0.0-beta42"
   },
   {
     "author": "bodlosh",
@@ -286,5 +286,29 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "1.0.0"
+  },
+  {
+    "author": "Lanilor",
+    "name": "Simply More Bridges (Continued)",
+    "steamId": "2012484790",
+    "version": "1.0.26.0"
+  },
+  {
+    "author": "Neceros",
+    "name": "SRTS Expanded",
+    "steamId": "1845423808",
+    "version": "1.4.6"
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Simple sidearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Telefonmast, Nephlite",
+    "name": "TiberiumRim",
+    "steamId": "1346865620",
+    "version": "2.0.0.0"
   }
 ]

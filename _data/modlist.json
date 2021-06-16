@@ -60,12 +60,6 @@
     "version": "0.5.0.0"
   },
   {
-    "author": "CaptainPootis",
-    "name": "RuntimeGC",
-    "steamId": "2228430510",
-    "version": "20.0.15.1"
-  },
-  {
     "author": "Mehni",
     "name": "Numbers (patched) 1.2",
     "steamId": "2255104042",
@@ -264,6 +258,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Pyrce",
+    "name": "SwimmingKit",
+    "steamId": "1542399915",
+    "version": "1.2.0.0"
+  },
+  {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Core",
     "steamId": "2038000893",
@@ -272,8 +272,8 @@
   {
     "author": "The Biomes Mod Team",
     "name": "Biomes! Islands",
-    "steamId": "2038001322",
-    "version": "1.2.0.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Pyrce",
@@ -285,7 +285,7 @@
     "author": "Krkr",
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
-    "version": "1.0.0"
+    "version": "0.6.3.2193"
   },
   {
     "author": "Lanilor",
@@ -310,5 +310,29 @@
     "name": "TiberiumRim",
     "steamId": "1346865620",
     "version": "2.0.0.0"
+  },
+  {
+    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
+    "name": "Quarry 1.1",
+    "steamId": "2007576583",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races 2.0",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Fenndragon",
+    "name": "Rim Flood",
+    "steamId": "2348148745",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Gouda quiche",
+    "name": "MoHAR framework",
+    "steamId": "2057001924",
+    "version": "1.0.7543.27830"
   }
 ]

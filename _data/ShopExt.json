@@ -3,7 +3,7 @@
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
       "stats": [
-
+        "+3 melee"
       ],
       "conflicts": [
 
@@ -19,7 +19,7 @@
 
         ],
         "stats": [
-
+          "+3 melee"
         ]
       },
       "defName": "Abrasive",
@@ -33,7 +33,8 @@
     {
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
       "stats": [
-
+        "x110% move speed",
+        "x150% recreation power"
       ],
       "conflicts": [
 
@@ -49,7 +50,8 @@
 
         ],
         "stats": [
-
+          "x110% move speed",
+          "x150% recreation power"
         ]
       },
       "defName": "AnnoyingVoice",
@@ -351,7 +353,8 @@
     {
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
-
+        "+3 medical",
+        "+3 plants"
       ],
       "conflicts": [
 
@@ -367,7 +370,8 @@
 
         ],
         "stats": [
-
+          "+3 medical",
+          "+3 plants"
         ]
       },
       "defName": "DrugDesire",
@@ -381,7 +385,8 @@
     {
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "stats": [
-
+        "+1 medical",
+        "+1 plants"
       ],
       "conflicts": [
 
@@ -397,7 +402,8 @@
 
         ],
         "stats": [
-
+          "+1 medical",
+          "+1 plants"
         ]
       },
       "defName": "DrugDesire",
@@ -441,7 +447,9 @@
     {
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
       "stats": [
-
+        "+3 animals",
+        "x110% tame animal chance",
+        "x115% train animal chance"
       ],
       "conflicts": [
 
@@ -457,7 +465,9 @@
 
         ],
         "stats": [
-
+          "+3 animals",
+          "x110% tame animal chance",
+          "x115% train animal chance"
         ]
       },
       "defName": "NaturalMood",
@@ -623,7 +633,8 @@
     {
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
       "stats": [
-
+        "x133% eating speed",
+        "x150% carrying capacity"
       ],
       "conflicts": [
         "ascetic",
@@ -641,7 +652,8 @@
           "jealous"
         ],
         "stats": [
-
+          "x133% eating speed",
+          "x150% carrying capacity"
         ]
       },
       "defName": "Greedy",
@@ -1143,7 +1155,9 @@
     {
       "description": "Timmy tends to look on the bad side of life.",
       "stats": [
-
+        "+2 animals",
+        "x105% tame animal chance",
+        "x110% train animal chance"
       ],
       "conflicts": [
 
@@ -1159,7 +1173,9 @@
 
         ],
         "stats": [
-
+          "+2 animals",
+          "x105% tame animal chance",
+          "x110% train animal chance"
         ]
       },
       "defName": "NaturalMood",
@@ -2001,7 +2017,7 @@
       "degree": 0
     },
     {
-      "description": "Timmy has survived a Tiberium infection and adapted the substance into his body, living in a sort of symbiosis with the mineral. However, it makes life harder for Timmy as they must avoid most physical contact to others.\n(TiberiumRim)",
+      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2013,7 +2029,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "TiberiumRim",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2022,16 +2038,16 @@
 
         ]
       },
-      "defName": "TiberiumTrait",
-      "name": "tiberiummutant",
+      "defName": "Hygienic",
+      "name": "germaphobe",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
-      "degree": 0
+      "degree": 2
     },
     {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.\n(Humanoid Alien Races 2.0)",
+      "description": "Timmy is very hygienic and will wash more frequently.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2043,7 +2059,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races 2.0",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2052,8 +2068,8 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
+      "defName": "Hygienic",
+      "name": "hygienic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
@@ -2061,7 +2077,7 @@
       "degree": 1
     },
     {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.\n(Humanoid Alien Races 2.0)",
+      "description": "Timmy is very unhygienic and will wash less frequently.\n(Dubs Bad Hygiene)",
       "stats": [
 
       ],
@@ -2073,7 +2089,7 @@
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races 2.0",
+        "mod": "Dubs Bad Hygiene",
         "karmaTypeForAdding": null,
         "conflicts": [
 
@@ -2082,13 +2098,43 @@
 
         ]
       },
-      "defName": "Xenophobia",
-      "name": "xenophile",
+      "defName": "Hygienic",
+      "name": "unhygienic",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.\n(Dubs Bad Hygiene)",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Dubs Bad Hygiene",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Hygienic",
+      "name": "slob",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2
     }
   ],
   "races": [

@@ -12,6 +12,12 @@
     "version": "8.0.1"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools (Unofficial)",
+    "steamId": "2195729899",
+    "version": "1.1.2.3"
+  },
+  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -22,18 +28,6 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools (Unofficial)",
-    "steamId": "2195729899",
-    "version": "1.1.2.3"
   },
   {
     "author": "Kosaro",
@@ -48,34 +42,16 @@
     "version": null
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Recipe icons",
-    "steamId": "1616643195",
-    "version": "1.0.379.0018"
-  },
-  {
     "author": "YAYO",
     "name": "Real Faction Guest",
     "steamId": "2263021260",
     "version": "0.5.0.0"
   },
   {
-    "author": "Mehni",
-    "name": "Numbers (patched) 1.2",
-    "steamId": "2255104042",
-    "version": "1.0.4"
-  },
-  {
     "author": "Mehni, XeoNovaDan, Miyuri (ZXfkSIE)",
     "name": "4M Mehni's Misc Modifications [1.2]",
     "steamId": "2228765246",
     "version": "1.2.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "sirrandoo",
@@ -102,12 +78,6 @@
     "version": null
   },
   {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.0.1.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "Where's My Bed?",
     "steamId": "1919873778",
@@ -126,22 +96,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "notfood",
-    "name": "ResearchPal",
-    "steamId": "946390822",
-    "version": "1.1.3.0"
-  },
-  {
     "author": "Fluffy",
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.3.823"
   },
   {
     "author": "Fluffy",
@@ -205,12 +163,6 @@
   },
   {
     "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.1.7.0"
-  },
-  {
-    "author": "Andreas Pardeike",
     "name": "Puppeteer",
     "steamId": "2057192142",
     "version": "1.5.5.0"
@@ -228,10 +180,34 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils - Testing",
-    "steamId": "2230192317",
-    "version": "6.0.0.0-beta42"
+    "author": "NilchEi",
+    "name": "Darkest Night SK Steam",
+    "steamId": "1840579077",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.1.7.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.4"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "VinaLx",
+    "name": "ResearchPal - Forked",
+    "steamId": "2351393394",
+    "version": "1.2.1.0"
   },
   {
     "author": "bodlosh",
@@ -240,99 +216,27 @@
     "version": null
   },
   {
-    "author": "碳烤鱿鱼丝",
-    "name": "碳烤鱿鱼丝的攻城坦克/TKYYS's Siege Tank",
-    "steamId": null,
-    "version": null
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.9.2051"
   },
   {
-    "author": "大鳥",
-    "name": "虫娘 Insect girls",
-    "steamId": null,
-    "version": null
+    "author": "Dubwise",
+    "name": "Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.2411"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "author": "Dubwise",
+    "name": "Rimefeller",
+    "steamId": "1321849735",
+    "version": "1.2.1111"
   },
   {
-    "author": "Pyrce",
-    "name": "SwimmingKit",
-    "steamId": "1542399915",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "2.0.0-beta"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Islands",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Pyrce",
-    "name": "Sharknado",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.2193"
-  },
-  {
-    "author": "Lanilor",
-    "name": "Simply More Bridges (Continued)",
-    "steamId": "2012484790",
-    "version": "1.0.26.0"
-  },
-  {
-    "author": "Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "1845423808",
-    "version": "1.4.6"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Telefonmast, Nephlite",
-    "name": "TiberiumRim",
-    "steamId": "1346865620",
-    "version": "2.0.0.0"
-  },
-  {
-    "author": "The White Crayon (Updated for 1.1 by Ogliss)",
-    "name": "Quarry 1.1",
-    "steamId": "2007576583",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fenndragon",
-    "name": "Rim Flood",
-    "steamId": "2348148745",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.7543.27830"
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.0.2.0"
   }
 ]

@@ -141,7 +141,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.4.0"
+    "version": "6.1.4.3"
   },
   {
     "author": "SirRandoo",
@@ -243,12 +243,42 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2070"
+    "version": "2.9.2097"
   },
   {
     "author": "Dubwise",
-    "name": "Rimatomics",
+    "name": "Dubs Rimatomics",
     "steamId": "1127530465",
-    "version": "1.7.2439"
+    "version": "1.7.2442"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Factional War",
+    "steamId": "2534328163",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Shadowrabbit",
+    "name": "[SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Faction Wars",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "saschahi",
+    "name": "ToolkitAddon - [SR]Raid Extension",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
   }
 ]

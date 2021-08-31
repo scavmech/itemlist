@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -362,7 +362,7 @@
 	},
 	{
 		"abr": "chemfuel",
-		"price": -10,
+		"price": 4,
 		"category": "Manufactured",
 		"defname": "Chemfuel"
 	},
@@ -458,7 +458,7 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -1970,7 +1970,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": -10,
+		"price": 3,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -3044,7 +3044,7 @@
 	},
 	{
 		"abr": "wood",
-		"price": -10,
+		"price": 2,
 		"category": "Raw resources",
 		"defname": "WoodLog"
 	},
@@ -4009,12 +4009,6 @@
 		"defname": "WashingMachine"
 	},
 	{
-		"abr": "waterbutt",
-		"price": -10,
-		"category": "Hygiene",
-		"defname": "WaterButt"
-	},
-	{
 		"abr": "watertrough",
 		"price": -10,
 		"category": "Hygiene",
@@ -4025,7 +4019,55 @@
 		"price": -10,
 		"category": "Hygiene",
 		"defname": "WashBucket"
+	},
+	{
+		"abr": "bathmat",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "BathMat"
+	},
+	{
+		"abr": "ceilingfan1x1(dark)",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "CeilingFanSDarklight"
+	},
+	{
+		"abr": "ceilingfan2x2(dark)",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "CeilingFanDarklight"
+	},
+	{
+		"abr": "towelrail",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "RadiatorTowelRail"
+	},
+	{
+		"abr": "waterbowl",
+		"price": -10,
+		"category": "Hygiene",
+		"defname": "PetWaterBowl"
+	},
+	{
+		"abr": "bionictongue",
+		"price": 942,
+		"category": "Bionic",
+		"defname": "BionicTongue"
+	},
+	{
+		"abr": "darklightbrazier",
+		"price": -10,
+		"category": "Furniture",
+		"defname": "DarklightBrazier"
+	},
+	{
+		"abr": "gauranlenseed",
+		"price": -10,
+		"category": "Items",
+		"defname": "GauranlenSeed"
 	}
 	],
-	"total": 671
+	"total": 678
 }

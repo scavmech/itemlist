@@ -1,16 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "tornado",
-		"price": 800,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "tornados",
-		"price": 2600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -106,11 +96,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -141,6 +126,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "ambrosiasprout",
 		"price": 150,
 		"karmatype": "Good"
@@ -148,11 +138,6 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "farmanimals",
-		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -181,11 +166,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -204,11 +184,6 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -261,22 +236,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "levelskill",
-		"price": 1500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "trait",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
 	},
@@ -306,43 +266,8 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 500,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "replacetrait",
-		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -361,59 +286,79 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "removepassion",
-		"price": 5000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "backpack",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "settraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "cleartraits",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "use",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "wear",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "equip",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "smite",
-		"price": 2500,
-		"karmatype": "Doom"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "alphaasteroid",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "aeorofleetmigration",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "stalkingarcticlion",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingsnowclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingduneclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "stalkingclutchmother",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaliskwanderin",
+		"price": 700,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "SummitCrabRaid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cactipinedroppod",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "gallatrosswanderin",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "bumbledroneswanderin",
+		"price": 500,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "raidblackhive",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "raidmechanoidsappers",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "fungalhuskwandersin",
+		"price": 600,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "factionwar",
@@ -454,7 +399,97 @@
 		"abr": "hostilecaravan",
 		"price": 700,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "iceage",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "globalwarming",
+		"price": 15000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicrain",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "longnight",
+		"price": 25000,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "psychicbloom",
+		"price": 10000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "veemeteoriteshower",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "animalpodcrash",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "spacebattle",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "earthquake",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cargopodsweapons",
+		"price": 4000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cargopodsapparel",
+		"price": 4000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "caravananimals",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 600,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "battleanimals",
+		"price": 1000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "wildmen",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "bigassmeteor",
+		"price": 40000,
+		"karmatype": "Doom"
 	}
 	],
-	"total": 91
+	"total": 98
 }

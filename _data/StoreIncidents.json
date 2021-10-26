@@ -1,6 +1,16 @@
 {
 	"incitems" : [
 	{
+		"abr": "tornado",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "tornados",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "clearweather",
 		"price": 400,
 		"karmatype": "Good"
@@ -96,6 +106,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
@@ -114,6 +129,11 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 350,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -138,6 +158,11 @@
 	{
 		"abr": "herdmigration",
 		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "farmanimals",
+		"price": 400,
 		"karmatype": "Good"
 	},
 	{
@@ -166,13 +191,18 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "skillincrease",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "alphabeavers",
-		"price": 1000,
+		"price": 600,
 		"karmatype": "Bad"
 	},
 	{
@@ -184,6 +214,11 @@
 		"abr": "shippartpsychic",
 		"price": 2400,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "militaryaid",
+		"price": 700,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "raid",
@@ -236,7 +271,27 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "levelskill",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "trait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
 	},
@@ -244,6 +299,11 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "prisoner",
+		"price": 800,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -258,16 +318,51 @@
 	{
 		"abr": "torytalkervote",
 		"price": 750,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "passionshuffle",
+		"price": 2000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "replacetrait",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -284,6 +379,56 @@
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "use",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "wear",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "equip",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomchildhood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "randomadulthood",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "smite",
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "sanctuary",
@@ -337,7 +482,7 @@
 	},
 	{
 		"abr": "gallatrosswanderin",
-		"price": 800,
+		"price": 1400,
 		"karmatype": "Good"
 	},
 	{
@@ -358,7 +503,7 @@
 	{
 		"abr": "fungalhuskwandersin",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "factionwar",
@@ -442,7 +587,7 @@
 	},
 	{
 		"abr": "spacebattle",
-		"price": 600,
+		"price": 750,
 		"karmatype": "Neutral"
 	},
 	{
@@ -452,12 +597,12 @@
 	},
 	{
 		"abr": "cargopodsweapons",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "cargopodsapparel",
-		"price": 4000,
+		"price": 1000,
 		"karmatype": "Good"
 	},
 	{
@@ -487,9 +632,9 @@
 	},
 	{
 		"abr": "bigassmeteor",
-		"price": 40000,
+		"price": 4000,
 		"karmatype": "Doom"
 	}
 	],
-	"total": 98
+	"total": 127
 }

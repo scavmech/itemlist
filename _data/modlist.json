@@ -90,18 +90,6 @@
     "version": null
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
     "steamId": null,
@@ -139,12 +127,6 @@
   },
   {
     "author": "Fluffy",
-    "name": "Follow Me",
-    "steamId": "715759739",
-    "version": "4.9.95"
-  },
-  {
-    "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
@@ -154,12 +136,6 @@
     "name": "Colony Manager",
     "steamId": "715565262",
     "version": "4.33.649"
-  },
-  {
-    "author": "YAYO",
-    "name": "Real Faction Guest",
-    "steamId": "2263021260",
-    "version": "1.0.0.0"
   },
   {
     "author": "bodlosh",
@@ -174,24 +150,6 @@
     "version": "0.5.0.0"
   },
   {
-    "author": "Mehni,  XeoNovaDan and  Miyuri (ZXfkSIE)",
-    "name": "4M Mehni's Misc Modifications [1.2-1.3]",
-    "steamId": "2228765246",
-    "version": "1.3.0.0"
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Raid Extension",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Ornament",
     "name": "AutoDye",
     "steamId": "2563707717",
@@ -204,52 +162,16 @@
     "version": "1.1.0.0"
   },
   {
-    "author": "fyarn",
-    "name": "Easy Speedup",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "6.1.6.0"
   },
   {
-    "author": "saschahi",
-    "name": "ToolkitAddon - More Stuff",
-    "steamId": "2594931182",
-    "version": "1.1.5"
-  },
-  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.3.1"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg,  AFriend,  milon,  Skullywag and kaptain_kavern",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.3.7862.41411"
-  },
-  {
-    "author": "Oskar Potocki,  Kikohi and  Helixien",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Meteor",
-    "steamId": "2556924961",
-    "version": "1"
   },
   {
     "author": "SirRandoo",

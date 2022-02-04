@@ -3518,7 +3518,7 @@
 	},
 	{
 		"abr": "gauranlenseed",
-		"price": 117,
+		"price": -10,
 		"category": "Items",
 		"defname": "GauranlenSeed"
 	},
@@ -3541,143 +3541,11 @@
 		"defname": "ASReportsPrinter"
 	},
 	{
-		"abr": "boksmasboxes",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "BOKSMAS"
-	},
-	{
-		"abr": "candycane",
-		"price": 42,
-		"category": "Foods",
-		"defname": "Candycane"
-	},
-	{
-		"abr": "eggnog",
-		"price": 42,
-		"category": "Foods",
-		"defname": "Eggnog"
-	},
-	{
-		"abr": "elfhead",
-		"price": 99,
-		"category": "Headgear",
-		"defname": "Apparel_SCElf"
-	},
-	{
-		"abr": "gingerbreadman",
-		"price": 42,
-		"category": "Foods",
-		"defname": "Gingerbreadman"
-	},
-	{
-		"abr": "goldencandycoins",
-		"price": 42,
-		"category": "Foods",
-		"defname": "Goldcoins"
-	},
-	{
-		"abr": "pajamas",
-		"price": 179,
-		"category": "Apparel",
-		"defname": "Apparel_Pjay"
-	},
-	{
-		"abr": "rawholly",
-		"price": 7,
-		"category": "Vegetarian",
-		"defname": "RawHolly"
-	},
-	{
-		"abr": "reindeerhead",
-		"price": 94,
-		"category": "Headgear",
-		"defname": "Apparel_SCReindeer"
-	},
-	{
-		"abr": "rondsteprug",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "RONDSTEP"
-	},
-	{
-		"abr": "santahead",
-		"price": 99,
-		"category": "Headgear",
-		"defname": "Apparel_SCSanta"
-	},
-	{
-		"abr": "shainbowlamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp"
-	},
-	{
-		"abr": "shainbowlamp(blue)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp_Blue"
-	},
-	{
-		"abr": "shainbowlamp(green)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp_Green"
-	},
-	{
-		"abr": "shainbowlamp(red)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp_Red"
-	},
-	{
-		"abr": "shainbowlamp(violet)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp_Violet"
-	},
-	{
-		"abr": "shainbowlamp(yellow)",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINBOWLamp_Yellow"
-	},
-	{
-		"abr": "shainukkahlamp",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SHAINUKKAH"
-	},
-	{
-		"abr": "snöruggrug",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "SNORUGG"
-	},
-	{
-		"abr": "snowman",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "Snowman"
-	},
-	{
-		"abr": "stepolfrug",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "STEPOLF"
-	},
-	{
-		"abr": "treppitree",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "TREPPI"
-	},
-	{
-		"abr": "warmortfireplace",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "WARMORT"
+		"abr": "crashedbattery",
+		"price": 270,
+		"category": "Power",
+		"defname": "Battery_CrashLanded"
 	}
 	],
-	"total": 613
+	"total": 591
 }

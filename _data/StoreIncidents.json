@@ -266,8 +266,23 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "removetrait",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -311,6 +326,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "rescueme",
 		"price": 800,
 		"karmatype": "Neutral"
@@ -327,6 +347,16 @@
 	},
 	{
 		"abr": "backpack",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
@@ -366,5 +396,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 73
+	"total": 79
 }

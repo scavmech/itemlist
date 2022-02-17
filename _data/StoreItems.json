@@ -3550,13 +3550,13 @@
       "abr": "advancedassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_AdvancedAssembler",
-      "price": 8200
+      "price": -10
     },
     {
       "abr": "advancedbattery",
       "category": "Power",
       "defname": "VFE_AdvancedBattery",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "advancedbed",
@@ -3670,7 +3670,7 @@
       "abr": "ambrandydistillery",
       "category": "Production",
       "defname": "VBE_AmbrandyDistillery",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "ambrandymust",
@@ -3742,7 +3742,7 @@
       "abr": "ancientbattery",
       "category": "Power",
       "defname": "VFEA_AncientBattery",
-      "price": 533
+      "price": -10
     },
     {
       "abr": "ancientbed",
@@ -3760,7 +3760,7 @@
       "abr": "ancientbio-batterytank",
       "category": "Power",
       "defname": "VFEA_AncientBioBatteryTank",
-      "price": 1692
+      "price": -10
     },
     {
       "abr": "ancientcentipedeshell",
@@ -3772,7 +3772,7 @@
       "abr": "ancientchemfuelpoweredgenerator",
       "category": "Power",
       "defname": "VFEA_AncientChemfuelPoweredGenerator",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "ancientcontainer",
@@ -3784,7 +3784,7 @@
       "abr": "ancientcookingstation",
       "category": "Production",
       "defname": "VFEA_AncientCookingStation",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "ancientcooler",
@@ -3850,7 +3850,7 @@
       "abr": "ancientgeothermalplant",
       "category": "Power",
       "defname": "VFEA_AncientGeothermalPlant",
-      "price": 2317
+      "price": -10
     },
     {
       "abr": "ancientgiantspider",
@@ -3880,7 +3880,7 @@
       "abr": "ancienthydroponicfarm",
       "category": "Production",
       "defname": "VFEA_AncientHydroponicFarm",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "ancientkitchensink",
@@ -3982,7 +3982,7 @@
       "abr": "ancientpointdefenseturret",
       "category": "Security",
       "defname": "VFEA_Turret_AncientPointDefense",
-      "price": 2117
+      "price": -10
     },
     {
       "abr": "ancientpostbox",
@@ -4006,7 +4006,7 @@
       "abr": "ancientsecurityturret",
       "category": "Security",
       "defname": "VFEA_Turret_AncientSecurityTurret",
-      "price": 392
+      "price": -10
     },
     {
       "abr": "ancientsecurityturret",
@@ -4030,7 +4030,7 @@
       "abr": "ancientsolargenerator",
       "category": "Power",
       "defname": "VFEA_AncientSolarGenerator",
-      "price": 767
+      "price": -10
     },
     {
       "abr": "ancientspacejunk",
@@ -4102,7 +4102,7 @@
       "abr": "ancientworkshop",
       "category": "Production",
       "defname": "VFEA_AncientWorkshop",
-      "price": 1200
+      "price": -10
     },
     {
       "abr": "angelfish",
@@ -4174,7 +4174,7 @@
       "abr": "aquaponicsbasin",
       "category": "Production",
       "defname": "VFEM_AquaponicsBasin",
-      "price": 8825
+      "price": -10
     },
     {
       "abr": "arapaima(adeptcatch)",
@@ -4186,13 +4186,13 @@
       "abr": "arcademachine",
       "category": "Recreation",
       "defname": "Joy_Arcade",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "archerytarget",
       "category": "Recreation",
       "defname": "VFEM_ArcheryTarget",
-      "price": 41
+      "price": -10
     },
     {
       "abr": "archotecheraser",
@@ -4216,7 +4216,7 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechteleporter",
@@ -4228,7 +4228,7 @@
       "abr": "archotechviolencegenerator",
       "category": "Special",
       "defname": "VPE_ArchotechViolenceGenerator",
-      "price": 5667
+      "price": -10
     },
     {
       "abr": "arcticcoyote",
@@ -4246,25 +4246,25 @@
       "abr": "artillery",
       "category": "Security",
       "defname": "VFES_Turret_Artillery",
-      "price": 1408
+      "price": -10
     },
     {
       "abr": "artilleryfoundry",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry",
-      "price": 7700
+      "price": -10
     },
     {
       "abr": "autoloom",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_AutoLoom",
-      "price": 3458
+      "price": -10
     },
     {
       "abr": "autobroadcasterchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutobroadcasterBase",
-      "price": 1650
+      "price": -10
     },
     {
       "abr": "autocannon",
@@ -4276,25 +4276,25 @@
       "abr": "autocleanerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutocleanerBase",
-      "price": 1650
+      "price": -10
     },
     {
       "abr": "autocrane",
       "category": "Production",
       "defname": "VFEM_Autocrane",
-      "price": 4750
+      "price": -10
     },
     {
       "abr": "autohaulerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutohaulerBase",
-      "price": 1367
+      "price": -10
     },
     {
       "abr": "automaticdrill",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_AutomaticDrill",
-      "price": 3808
+      "price": -10
     },
     {
       "abr": "automaticpistol",
@@ -4306,25 +4306,25 @@
       "abr": "auto-medicchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutoMedicBase",
-      "price": 1850
+      "price": -10
     },
     {
       "abr": "autominerchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutominerBase",
-      "price": 1400
+      "price": -10
     },
     {
       "abr": "auto-mortar",
       "category": "Security",
       "defname": "VFE_Turret_AutoMortar",
-      "price": 1317
+      "price": -10
     },
     {
       "abr": "autostriderchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_AutostriderBase",
-      "price": 1850
+      "price": -10
     },
     {
       "abr": "awakenedbarkskindryad",
@@ -4438,7 +4438,7 @@
       "abr": "bar",
       "category": "Production",
       "defname": "VBE_Bar",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "barstool",
@@ -4510,7 +4510,7 @@
       "abr": "beartrap",
       "category": "Security",
       "defname": "VFES_BearTrap",
-      "price": 236
+      "price": -10
     },
     {
       "abr": "bearberries",
@@ -4804,7 +4804,7 @@
       "abr": "cannery",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_Cannery",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "cannibalcoffee",
@@ -4816,13 +4816,13 @@
       "abr": "canningmachine",
       "category": "Production",
       "defname": "VCE_CanningMachine",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "cannon",
       "category": "Security",
       "defname": "VFEP_Turret_Cannon",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "carbine",
@@ -4888,13 +4888,13 @@
       "abr": "chargeblasterturret",
       "category": "Security",
       "defname": "VFE_Turret_AutoChargeBlaster",
-      "price": 1525
+      "price": -10
     },
     {
       "abr": "chargelanceturret",
       "category": "Security",
       "defname": "VFE_Turret_AutoChargeLance",
-      "price": 1525
+      "price": -10
     },
     {
       "abr": "chargelmg",
@@ -4942,7 +4942,7 @@
       "abr": "chargeturret",
       "category": "Security",
       "defname": "VFES_Turret_ChargeTurret",
-      "price": 1358
+      "price": -10
     },
     {
       "abr": "cheese",
@@ -4954,7 +4954,7 @@
       "abr": "cheesepress",
       "category": "Production",
       "defname": "VCE_CheesePress",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "cheetah",
@@ -4990,13 +4990,13 @@
       "abr": "chemfuelbarrel",
       "category": "Security",
       "defname": "VFES_ChemfuelBarrel",
-      "price": 296
+      "price": -10
     },
     {
       "abr": "chemfuelclarifier",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier",
-      "price": 4175
+      "price": -10
     },
     {
       "abr": "chemlamp",
@@ -5020,7 +5020,7 @@
       "abr": "chemshinebarrel",
       "category": "Production",
       "defname": "Building_ChemshineBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "cherries",
@@ -5152,7 +5152,7 @@
       "abr": "combatmechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_CombatBase",
-      "price": 2042
+      "price": -10
     },
     {
       "abr": "commissarhat",
@@ -5164,7 +5164,7 @@
       "abr": "componentassembler",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_ComponentAssembler",
-      "price": 5650
+      "price": -10
     },
     {
       "abr": "compoundbow",
@@ -5182,7 +5182,7 @@
       "abr": "condimentpreptable",
       "category": "Production",
       "defname": "VCE_CondimentPrepTable",
-      "price": 259
+      "price": -10
     },
     {
       "abr": "conduitpylon",
@@ -5200,7 +5200,7 @@
       "abr": "conveyoroven",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_ConveyorOven",
-      "price": 3925
+      "price": -10
     },
     {
       "abr": "cookingbook",
@@ -5386,7 +5386,7 @@
       "abr": "decoy",
       "category": "Security",
       "defname": "VFES_Turret_Decoy",
-      "price": 140
+      "price": -10
     },
     {
       "abr": "deepfriedfish",
@@ -5416,7 +5416,7 @@
       "abr": "deepfryer",
       "category": "Production",
       "defname": "VCE_DeepFrier",
-      "price": 323
+      "price": -10
     },
     {
       "abr": "deerskull",
@@ -5428,7 +5428,7 @@
       "abr": "deployableturret",
       "category": "Security",
       "defname": "VFES_Turret_FloorTurret",
-      "price": 983
+      "price": -10
     },
     {
       "abr": "derringer",
@@ -5518,7 +5518,7 @@
       "abr": "drugpowderizer",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_DrugPowderizer",
-      "price": 8533
+      "price": -10
     },
     {
       "abr": "dryadnest",
@@ -5572,31 +5572,31 @@
       "abr": "electricbutcher",
       "category": "Production",
       "defname": "VFE_TableButcherElectric",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "electricdruglab",
       "category": "Production",
       "defname": "VFE_TableDrugLabElectric",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "electricmendingstation",
       "category": "Production",
       "defname": "VFEA_ElectricMendingStation",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "electricpot",
       "category": "Production",
       "defname": "VCE_ElectricPot",
-      "price": 216
+      "price": -10
     },
     {
       "abr": "electricstonecutter'stable",
       "category": "Production",
       "defname": "VFE_TableStonecutterElectric",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "empgrenadebelt",
@@ -5656,7 +5656,7 @@
       "abr": "espressomachine",
       "category": "Production",
       "defname": "VBE_EspressoMachineBuilding",
-      "price": 201
+      "price": -10
     },
     {
       "abr": "espressoromano",
@@ -5692,7 +5692,7 @@
       "abr": "factoryhopper",
       "category": "Production",
       "defname": "VFEM_HeavyHopper",
-      "price": 138
+      "price": -10
     },
     {
       "abr": "farotable",
@@ -5734,7 +5734,7 @@
       "abr": "fieldgun",
       "category": "Security",
       "defname": "VFEP_Turret_FieldGun",
-      "price": 1058
+      "price": -10
     },
     {
       "abr": "filecabinet",
@@ -5806,7 +5806,7 @@
       "abr": "flameturret",
       "category": "Security",
       "defname": "VFES_Turret_Flame",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "flamethrower",
@@ -5986,13 +5986,13 @@
       "abr": "fueledmendingstation",
       "category": "Production",
       "defname": "VFEA_FueledMendingStation",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "fueledsmelter",
       "category": "Production",
       "defname": "VFE_FueledSmelter",
-      "price": 550
+      "price": -10
     },
     {
       "abr": "furbed",
@@ -6034,7 +6034,7 @@
       "abr": "gaspoweredexcavator",
       "category": "Production",
       "defname": "VPE_GasDrill",
-      "price": 483
+      "price": -10
     },
     {
       "abr": "gassunlamp",
@@ -6046,7 +6046,7 @@
       "abr": "gastank",
       "category": "Power",
       "defname": "VPE_GasTank",
-      "price": 321
+      "price": -10
     },
     {
       "abr": "gaswalldarklight",
@@ -6064,7 +6064,7 @@
       "abr": "gatlinggunturret",
       "category": "Security",
       "defname": "Turret_GatlingGun",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "gauntlet",
@@ -6208,7 +6208,7 @@
       "abr": "ginstill",
       "category": "Production",
       "defname": "VBE_GinStill",
-      "price": 183
+      "price": -10
     },
     {
       "abr": "giraffe",
@@ -6340,7 +6340,7 @@
       "abr": "grill",
       "category": "Production",
       "defname": "VCE_Grill",
-      "price": 282
+      "price": -10
     },
     {
       "abr": "growingbook",
@@ -6532,19 +6532,19 @@
       "abr": "helixiengassmelter",
       "category": "Production",
       "defname": "VPE_GasSmelter",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "helixiengassmithy",
       "category": "Production",
       "defname": "VPE_GasSmithy",
-      "price": 492
+      "price": -10
     },
     {
       "abr": "helixiengasstove",
       "category": "Production",
       "defname": "VPE_GasStove",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "herring",
@@ -6682,37 +6682,37 @@
       "abr": "industrialapiary",
       "category": "Production",
       "defname": "VFE_IndustrialApiary",
-      "price": 2250
+      "price": -10
     },
     {
       "abr": "industrialcheesepress",
       "category": "Production",
       "defname": "VFEM_IndustrialCheesePress",
-      "price": 4558
+      "price": -10
     },
     {
       "abr": "industrialcoffeeroaster",
       "category": "Production",
       "defname": "VFEM_IndustrialCoffeeRoaster",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "industrialradio",
       "category": "Recreation",
       "defname": "Radio_Industrial",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "industrialsoupvat",
       "category": "Production",
       "defname": "VFEM_IndustrialSoupVat",
-      "price": 3692
+      "price": -10
     },
     {
       "abr": "infernocannonturret",
       "category": "Security",
       "defname": "VFE_Turret_AutoInfernoCannon",
-      "price": 1675
+      "price": -10
     },
     {
       "abr": "infernospewer",
@@ -6952,19 +6952,19 @@
       "abr": "landmine",
       "category": "Security",
       "defname": "VFES_Landmine",
-      "price": 261
+      "price": -10
     },
     {
       "abr": "largeadvancedbattery",
       "category": "Power",
       "defname": "VFE_LargeAdvancedBattery",
-      "price": 1467
+      "price": -10
     },
     {
       "abr": "largebattery",
       "category": "Power",
       "defname": "VFE_LargeBattery",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "largebin",
@@ -6976,7 +6976,7 @@
       "abr": "largefishingtrap",
       "category": "Production",
       "defname": "VME_LargeFishingTrap",
-      "price": 281
+      "price": -10
     },
     {
       "abr": "largerug",
@@ -6994,7 +6994,7 @@
       "abr": "largevanometricpowercell",
       "category": "Special",
       "defname": "VFE_LargeVanometricPowerCell",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "larvae",
@@ -7162,7 +7162,7 @@
       "abr": "lightningrod",
       "category": "Special",
       "defname": "VPE_LightningRod",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "lion",
@@ -7186,7 +7186,7 @@
       "abr": "liquormixer",
       "category": "Production",
       "defname": "VFE_LiquorMixer",
-      "price": 4117
+      "price": -10
     },
     {
       "abr": "lobster",
@@ -7204,7 +7204,7 @@
       "abr": "longwaveradio",
       "category": "Recreation",
       "defname": "Radio_Spacer",
-      "price": 1033
+      "price": -10
     },
     {
       "abr": "lothurr",
@@ -7330,7 +7330,7 @@
       "abr": "masonrysaw",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_MasonrySaw",
-      "price": 3383
+      "price": -10
     },
     {
       "abr": "mayo",
@@ -7348,13 +7348,13 @@
       "abr": "meadfermentingbarrel",
       "category": "Production",
       "defname": "VFEV_MeadFermentingBarrel",
-      "price": 94
+      "price": -10
     },
     {
       "abr": "meatgrinder",
       "category": "Production",
       "defname": "VFEM_ProvisionsPackagingFactory_MeatGrinder",
-      "price": 3608
+      "price": -10
     },
     {
       "abr": "mechanitepants",
@@ -7372,7 +7372,7 @@
       "abr": "mechanizedweaponsmith",
       "category": "Production",
       "defname": "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith",
-      "price": 3617
+      "price": -10
     },
     {
       "abr": "mechanoidcomponent",
@@ -7384,7 +7384,7 @@
       "abr": "mechanoideffigy",
       "category": "Security",
       "defname": "VME_MechanoidEffigy",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "mechanoidhead",
@@ -7414,13 +7414,13 @@
       "abr": "medicinegranulator",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_MedicineGranulator",
-      "price": 6275
+      "price": -10
     },
     {
       "abr": "mediumfishingtrap",
       "category": "Production",
       "defname": "VME_MediumFishingTrap",
-      "price": 206
+      "price": -10
     },
     {
       "abr": "megapede",
@@ -7474,7 +7474,7 @@
       "abr": "militaryturret",
       "category": "Security",
       "defname": "VFES_Turret_MilitaryTurret",
-      "price": 842
+      "price": -10
     },
     {
       "abr": "militaryuniform",
@@ -7540,7 +7540,7 @@
       "abr": "mobileturretchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_TurretBase",
-      "price": 2108
+      "price": -10
     },
     {
       "abr": "mochacoffee",
@@ -7552,7 +7552,7 @@
       "abr": "moderncomputer",
       "category": "Recreation",
       "defname": "Joy_ModernComputer",
-      "price": 1100
+      "price": -10
     },
     {
       "abr": "modernlamp",
@@ -7642,7 +7642,7 @@
       "abr": "neutroamineinfuser",
       "category": "Production",
       "defname": "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser",
-      "price": 4692
+      "price": -10
     },
     {
       "abr": "newspaper",
@@ -7714,7 +7714,7 @@
       "abr": "oldcomputer",
       "category": "Recreation",
       "defname": "Joy_InudstrialComputer",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "ominousobelisk",
@@ -7924,7 +7924,7 @@
       "abr": "plasteelforge",
       "category": "Production",
       "defname": "VFEM_MasonryAndMetallicsFactory_PlasteelForge",
-      "price": 13058
+      "price": -10
     },
     {
       "abr": "plateboots",
@@ -8020,13 +8020,13 @@
       "abr": "portablechemfuelpoweredgenerator",
       "category": "Power",
       "defname": "VFE_PortableChemfuelPoweredGenerator",
-      "price": 242
+      "price": -10
     },
     {
       "abr": "portablewood-firedgenerator",
       "category": "Power",
       "defname": "VFE_PortableWoodFiredGenerator",
-      "price": 189
+      "price": -10
     },
     {
       "abr": "pottery",
@@ -8116,7 +8116,7 @@
       "abr": "psychicpylon",
       "category": "Special",
       "defname": "VFES_PsychicPylon",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "pufferfish",
@@ -8158,7 +8158,7 @@
       "abr": "pyromechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_PyroBase",
-      "price": 2467
+      "price": -10
     },
     {
       "abr": "quagga",
@@ -8188,7 +8188,7 @@
       "abr": "raidermechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_RaiderBase",
-      "price": 2925
+      "price": -10
     },
     {
       "abr": "rangedshieldbelt",
@@ -8296,7 +8296,7 @@
       "abr": "riotmechanoidchargingstation",
       "category": "Production",
       "defname": "VFE_Mechanoids_RiotBase",
-      "price": 2108
+      "price": -10
     },
     {
       "abr": "riotshield",
@@ -8560,7 +8560,7 @@
       "abr": "searchlight",
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
-      "price": 475
+      "price": -10
     },
     {
       "abr": "seax",
@@ -8578,7 +8578,7 @@
       "abr": "sentrygun",
       "category": "Security",
       "defname": "VFES_Turret_SentryGun",
-      "price": 1058
+      "price": -10
     },
     {
       "abr": "servicerifle",
@@ -8776,7 +8776,7 @@
       "abr": "smallbattery",
       "category": "Power",
       "defname": "VFE_SmallBattery",
-      "price": 182
+      "price": -10
     },
     {
       "abr": "smallbin",
@@ -8788,7 +8788,7 @@
       "abr": "smallfishingtrap",
       "category": "Production",
       "defname": "VME_SmallFishingTrap",
-      "price": 131
+      "price": -10
     },
     {
       "abr": "smallinfernospewer",
@@ -8806,7 +8806,7 @@
       "abr": "smallshieldgenerator",
       "category": "Security",
       "defname": "VFES_ShieldGenerator_Small",
-      "price": 3983
+      "price": -10
     },
     {
       "abr": "smallstatue",
@@ -8818,7 +8818,7 @@
       "abr": "smallvanometricpowercell",
       "category": "Special",
       "defname": "VFE_SmallVanometricPowerCell",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "smg",
@@ -8878,7 +8878,7 @@
       "abr": "sodafountain",
       "category": "Production",
       "defname": "VBE_SodaFountain",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "sodasyrup",
@@ -8914,7 +8914,7 @@
       "abr": "soysaucefermenter",
       "category": "Production",
       "defname": "VCE_SoyFermenter",
-      "price": 119
+      "price": -10
     },
     {
       "abr": "soybeans",
@@ -8998,7 +8998,7 @@
       "abr": "steelextractor",
       "category": "Production",
       "defname": "VFEM_ElectronicsFabricationFactory_SteelExtractor",
-      "price": 3800
+      "price": -10
     },
     {
       "abr": "stonewarmask",
@@ -9040,7 +9040,7 @@
       "abr": "supercomputer",
       "category": "Production",
       "defname": "VFE_Supercomputer",
-      "price": 2267
+      "price": -10
     },
     {
       "abr": "super-nanitecentrifuge",
@@ -9082,7 +9082,7 @@
       "abr": "sushipreptable",
       "category": "Production",
       "defname": "VCE_SushiPrepTable",
-      "price": 165
+      "price": -10
     },
     {
       "abr": "swarmmissilelauncher",
@@ -9112,7 +9112,7 @@
       "abr": "synthreadsynthesizer",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer",
-      "price": 11592
+      "price": -10
     },
     {
       "abr": "tabard",
@@ -9220,7 +9220,7 @@
       "abr": "tequilabarrel",
       "category": "Production",
       "defname": "VBE_TequilaBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "tequilamust",
@@ -9238,7 +9238,7 @@
       "abr": "textilerecycler",
       "category": "Production",
       "defname": "VFEM_WearablesAndTextileFactory_TextileRecycler",
-      "price": 2658
+      "price": -10
     },
     {
       "abr": "throwabletorchbelt",
@@ -9346,7 +9346,7 @@
       "abr": "trainingdummy",
       "category": "Recreation",
       "defname": "VFEV_TrainingDummy",
-      "price": 80
+      "price": -10
     },
     {
       "abr": "trapperhat",
@@ -9412,13 +9412,13 @@
       "abr": "typewritertable",
       "category": "Production",
       "defname": "VBE_TypewritersTable",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "ultrascreentelevision",
       "category": "Recreation",
       "defname": "UltrascreenTV",
-      "price": 4100
+      "price": -10
     },
     {
       "abr": "uncookedfinesoup",
@@ -9472,7 +9472,7 @@
       "abr": "uprightpiano",
       "category": "Recreation",
       "defname": "Joy_Piano",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "uramaki(fine)",
@@ -9616,7 +9616,7 @@
       "abr": "versatileassembler",
       "category": "Production",
       "defname": "VFEM_VersatileAssembler",
-      "price": 7908
+      "price": -10
     },
     {
       "abr": "vest",
@@ -9640,7 +9640,7 @@
       "abr": "vodkadrum",
       "category": "Production",
       "defname": "VBE_VodkaDrum",
-      "price": 82
+      "price": -10
     },
     {
       "abr": "vodkamash",
@@ -9844,7 +9844,7 @@
       "abr": "whiskeycask",
       "category": "Production",
       "defname": "VBE_WhiskeyCask",
-      "price": 725
+      "price": -10
     },
     {
       "abr": "whiskeymash",
@@ -9904,7 +9904,7 @@
       "abr": "winebarrel",
       "category": "Production",
       "defname": "VFEM_WineBarrel",
-      "price": 95
+      "price": -10
     },
     {
       "abr": "wolfhound",
@@ -9940,7 +9940,7 @@
       "abr": "writerstable",
       "category": "Production",
       "defname": "VBE_WritersTable",
-      "price": 252
+      "price": -10
     },
     {
       "abr": "wyrm",
@@ -9965,7 +9965,61 @@
       "category": "Animals",
       "defname": "AEXP_Zebra",
       "price": 1000
+    },
+    {
+      "abr": "darkcandle",
+      "category": "Furniture",
+      "defname": "VFEM_DarkCandle",
+      "price": 1
+    },
+    {
+      "abr": "darkilluminateddresser",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedDresser",
+      "price": 367
+    },
+    {
+      "abr": "darkilluminatedendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkIlluminatedEndTable",
+      "price": 286
+    },
+    {
+      "abr": "darklampendtable",
+      "category": "Furniture",
+      "defname": "Table_DarkLightEndTable",
+      "price": 169
+    },
+    {
+      "abr": "moderndarklamp",
+      "category": "Furniture",
+      "defname": "Light_ModernDarkLamp",
+      "price": 129
+    },
+    {
+      "abr": "outdoorlamp",
+      "category": "Furniture",
+      "defname": "Light_OutdoorDarkLamp",
+      "price": 128
+    },
+    {
+      "abr": "outdoorsolardarklamp",
+      "category": "Furniture",
+      "defname": "Spacer_OutdoorDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "spacerdarklamp",
+      "category": "Furniture",
+      "defname": "Light_SpacerDarkLamp",
+      "price": 184
+    },
+    {
+      "abr": "walllamp",
+      "category": "Furniture",
+      "defname": "VFEA_WallDarkLamp",
+      "price": 65
     }
   ],
-  "total": 1661
+  "total": 1670
 }

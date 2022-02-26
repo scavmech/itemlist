@@ -280,6 +280,40 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": null,
+    "name": "All commands",
+    "usage": "!allcommands",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Shows you the complete list of installed mods.",
+    "name": "Installed mods",
+    "usage": "!installedmods",
+    "userLevel": "Anyone",
+    "shortcut": false
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
       "mod": "ToolkitUtils"
     },
     "description": "Sets the user's pawn's favorite color to the color specified. The color can be a name or a hexcode.",
@@ -880,7 +914,7 @@
     "description": null,
     "name": "Unstick",
     "usage": "!unstick",
-    "userLevel": "Anyone",
+    "userLevel": "Moderator",
     "shortcut": false
   },
   {
@@ -898,23 +932,6 @@
     "name": "Toggle store",
     "usage": "!togglestore",
     "userLevel": "Moderator",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitUtils"
-    },
-    "description": "Makes your pawn insult a random viewer. If a viewer is specified, you'll insult them instead.",
-    "name": "Insult",
-    "usage": "!insult [target]",
-    "userLevel": "Anyone",
     "shortcut": false
   },
   {
@@ -982,23 +999,6 @@
     "description": null,
     "name": "Unstick me",
     "usage": "!imstuck",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false,
-      "isBuy": false,
-      "isBalance": false,
-      "hasGlobalCooldown": false,
-      "globalCooldown": 0,
-      "hasLocalCooldown": false,
-      "localCooldown": 0,
-      "mod": "ToolkitAddon - More Stuff"
-    },
-    "description": null,
-    "name": "Clean the Map",
-    "usage": "!cleanup",
     "userLevel": "Anyone",
     "shortcut": false
   },

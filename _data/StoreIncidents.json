@@ -127,8 +127,8 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 600,
-		"karmatype": "Neutral"
+		"price": 2000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "madanimal",
@@ -216,31 +216,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "siegeraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
@@ -274,11 +249,6 @@
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -331,20 +301,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "smite",
 		"price": 2500,
 		"karmatype": "Doom"
 	}
 	],
-	"total": 69
+	"total": 61
 }

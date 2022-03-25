@@ -542,7 +542,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -2108,7 +2108,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -3540,6 +3540,306 @@
 		"category": "Misc",
 		"defname": "ASReportsPrinter"
 	},
+	{
+		"abr": "almonds",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAlmonds"
+	},
+	{
+		"abr": "apples",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawApple"
+	},
+	{
+		"abr": "avocados",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawAvocado"
+	},
+	{
+		"abr": "bananas",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawBanana"
+	},
+	{
+		"abr": "bearberries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_Bearberry"
+	},
+	{
+		"abr": "beets",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeets"
+	},
+	{
+		"abr": "brusselssprouts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBrusselsSprouts"
+	},
+	{
+		"abr": "buckwheat",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBuckwheat"
+	},
+	{
+		"abr": "butternutsquashes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawButternutSquash"
+	},
+	{
+		"abr": "cabbages",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCabbage"
+	},
+	{
+		"abr": "canolaflowers",
+		"price": 3,
+		"category": "Plant matter",
+		"defname": "VCE_RawCanola"
+	},
+	{
+		"abr": "carrots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCarrot"
+	},
+	{
+		"abr": "cassavas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCassava"
+	},
+	{
+		"abr": "cavemoss",
+		"price": 1,
+		"category": "Foods",
+		"defname": "VCE_RawMoss"
+	},
+	{
+		"abr": "celery",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCelery"
+	},
+	{
+		"abr": "cherries",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCherry"
+	},
+	{
+		"abr": "chickpeas",
+		"price": 0,
+		"category": "Vegetarian",
+		"defname": "VCE_RawChickpeas"
+	},
+	{
+		"abr": "coconuts",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawCoconut"
+	},
+	{
+		"abr": "cucumbers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawCucumber"
+	},
+	{
+		"abr": "eggplants",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawEggplant"
+	},
+	{
+		"abr": "garliccloves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawGarlic"
+	},
+	{
+		"abr": "greenbeans",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBeans"
+	},
+	{
+		"abr": "lettuce",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLettuce"
+	},
+	{
+		"abr": "lotusseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawLotus"
+	},
+	{
+		"abr": "mangoes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_Mangoes"
+	},
+	{
+		"abr": "melons",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawMelon"
+	},
+	{
+		"abr": "okra",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOkra"
+	},
+	{
+		"abr": "olives",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOlives"
+	},
+	{
+		"abr": "onions",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawOnion"
+	},
+	{
+		"abr": "oranges",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawOrange"
+	},
+	{
+		"abr": "peaches",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPeach"
+	},
+	{
+		"abr": "peanuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPeanut"
+	},
+	{
+		"abr": "pears",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPear"
+	},
+	{
+		"abr": "peas",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPeas"
+	},
+	{
+		"abr": "peppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPepper"
+	},
+	{
+		"abr": "pineapples",
+		"price": 7,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPineapple"
+	},
+	{
+		"abr": "plums",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPlum"
+	},
+	{
+		"abr": "pricklypears",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPricklyPear"
+	},
+	{
+		"abr": "prunes",
+		"price": 2,
+		"category": "Raw fruits",
+		"defname": "VCE_RawPrunes"
+	},
+	{
+		"abr": "pumpkins",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawPumpkin"
+	},
+	{
+		"abr": "radishes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawRadish"
+	},
+	{
+		"abr": "rawalgae",
+		"price": 1,
+		"category": "Vegetarian",
+		"defname": "AC_RawAlgae"
+	},
+	{
+		"abr": "redbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawBellPeppers"
+	},
+	{
+		"abr": "sunflowerseeds",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSunflower"
+	},
+	{
+		"abr": "sweetpotatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawSweetPotatoes"
+	},
+	{
+		"abr": "taroroots",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTaro"
+	},
+	{
+		"abr": "tomatoes",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawTomatoes"
+	},
+	{
+		"abr": "waterchestnuts",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWaterChestnut"
+	},
+	{
+		"abr": "watercressleaves",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawWatercress"
+	},
+	{
+		"abr": "yellowbellpeppers",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "VCE_RawYellowBellPeppers"
+	}
 	],
-	"total": 1130
+	"total": 640
 }

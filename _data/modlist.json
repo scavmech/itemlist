@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.2.0.0"
+    "version": "1.3.0.0"
   },
   {
     "author": "民火",
@@ -45,7 +45,7 @@
     "author": "SirRandoo",
     "name": "BetterSliders",
     "steamId": "2218078784",
-    "version": "1.0.3.4"
+    "version": "1.0.3.5"
   },
   {
     "author": "targhetti",
@@ -174,24 +174,6 @@
     "version": "1.0.15"
   },
   {
-    "author": "legodude17,  Oskar Potocki,  Chowder and  Kikohi",
-    "name": "Vanilla Outposts Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "legodude17",
-    "name": "Smarter Deconstruction and Mining",
-    "steamId": "2398365712",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "m00nl1ght-dev",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "hodlhodl",
     "name": "ToolkitCore",
     "steamId": "2018368654",
@@ -207,13 +189,13 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.1.6.0"
+    "version": "6.2.0.5"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitPolls",
     "steamId": "2435838514",
-    "version": "1.1.1.3"
+    "version": "1.1.1.6"
   },
   {
     "author": "swemoney",
@@ -252,33 +234,45 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
-    "name": "Vanilla Plants Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sarg Bjornson and  Oskar Potocki",
-    "name": "Vanilla Plants Expanded - More Plants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "none",
-    "name": "Simple Algae - 'VPE More Plants' Addon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shadowrabbit",
-    "name": "[SR]Factional War",
-    "steamId": "2534328163",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andreas Pardeike,  BleuSquid and  Saschahi",
     "name": "Puppeteer - Scuff Version",
     "steamId": "2781467856",
-    "version": "1.6.1.0"
+    "version": "1.620.6.1"
+  },
+  {
+    "author": "Mlie",
+    "name": "Stuff Mass Matters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "✯KStrudel✯™ and ChickenPlucker",
+    "name": "Starship Troopers - Weapons (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TrahsPanda and  Seagullible",
+    "name": "Breakfast Meals - Unofficial Vanilla Cooking Expanded Addon",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki,  Sarg Bjornson and  Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": "2134308519",
+    "version": "1.3.7862.41411"
+  },
+  {
+    "author": "Oskar Potocki,  Kikohi and  Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.3.1"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Sacred WhiteFox",
+    "steamId": null,
+    "version": null
   }
 ]

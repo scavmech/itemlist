@@ -28,7 +28,7 @@
 	{
 		"abr": "foggyrain",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "rainythunderstorm",
@@ -53,7 +53,7 @@
 	{
 		"abr": "fog",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "heatwave",
@@ -106,18 +106,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "animaltame",
-		"price": 150,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "resourcepodcrash",
 		"price": 300,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "tradercaravan",
-		"price": 275,
 		"karmatype": "Good"
 	},
 	{
@@ -141,11 +131,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "ambrosiasprout",
 		"price": 150,
 		"karmatype": "Good"
@@ -163,11 +148,6 @@
 	{
 		"abr": "travelergroup",
 		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "visitorgroup",
-		"price": 200,
 		"karmatype": "Good"
 	},
 	{
@@ -261,11 +241,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "visitcolony",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -316,5 +291,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 63
+	"total": 58
 }

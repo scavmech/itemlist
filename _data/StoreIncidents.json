@@ -136,11 +136,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
@@ -291,5 +286,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 58
+	"total": 57
 }

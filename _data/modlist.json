@@ -186,6 +186,12 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.5.7.6"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -240,27 +246,21 @@
     "version": "1.620.6.1"
   },
   {
-    "author": "JangoD'soul",
-    "name": "Darkest Dungeon - Commandant and Slayer",
+    "author": "[KOR]Bichang",
+    "name": "Sacred WhiteFox",
     "steamId": null,
     "version": null
   },
   {
-    "author": "MrKociak",
-    "name": "Yet another prosthetic expansion mod - Core",
-    "steamId": null,
-    "version": null
+    "author": "Ouroboros226 and  Taranchuk",
+    "name": "Voice-Acted Radio Chatter",
+    "steamId": "2819334265",
+    "version": "1.0.0.0"
   },
   {
-    "author": "MarvinKosh",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.7895.35757"
-  },
-  {
-    "author": "TrahsPanda and  Noobert",
-    "name": "Noobert's Fox Overhaul",
-    "steamId": "2631652491",
+    "author": "Helixien,  Taranchuk,  OskarPotocki,  Luizi,  IcingWithCheeseCake,  Sir Van and  Reann_Shepard",
+    "name": "Reinforced Mechanoids: Tyrikan-Line",
+    "steamId": "2798710610",
     "version": "1.0.0.0"
   }
 ]

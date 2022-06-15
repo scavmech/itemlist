@@ -4498,8 +4498,8 @@
       },
       "defName": "Priest",
       "name": "priest",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -10220,8 +10220,8 @@
       },
       "defName": "TM_Psionic",
       "name": "psionic",
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0

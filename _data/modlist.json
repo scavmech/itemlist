@@ -220,29 +220,5 @@
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki,  xrushha and  legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mooloh",
-    "name": "Mooloh's Mythic Framework",
-    "steamId": "2819828894",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "WolfgangPolska/ Nero the Fam",
-    "name": "Simple Mining Extension (Continued)",
-    "steamId": "2819002574",
-    "version": "1.3.0"
   }
 ]

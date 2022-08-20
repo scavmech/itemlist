@@ -388,7 +388,7 @@
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "chickenmeat",
@@ -598,7 +598,7 @@
       "abr": "duckegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggDuckUnfertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "duckmeat",
@@ -688,7 +688,7 @@
       "abr": "emu",
       "category": "Animals",
       "defname": "Emu",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "emuegg(fert.)",
@@ -874,7 +874,7 @@
       "abr": "gooseegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggGooseUnfertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "grandsculpture",
@@ -3586,25 +3586,25 @@
       "abr": "giantstartortoise",
       "category": "Animals",
       "defname": "ZTT_GiantStarTortoise",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "giantstartortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggGiantStarTortoiseFertilized",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "greenspiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdGreen",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "greenspiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggGreenFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "greenspiribirdpollen",
@@ -3622,19 +3622,19 @@
       "abr": "bloodrune",
       "category": "Artifacts",
       "defname": "ReviaBloodRune",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "bloodrune(inert)",
       "category": "Artifacts",
       "defname": "ReviaBloodRuneBlank",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "bloodstone",
       "category": "Artifacts",
       "defname": "ReviaRaceBloodstone",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "crimsonblossom",
@@ -3652,13 +3652,13 @@
       "abr": "greaterbloodrune",
       "category": "Artifacts",
       "defname": "ReviaGreaterBloodRune",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "greaterbloodrune(inert)",
       "category": "Artifacts",
       "defname": "ReviaGreaterBloodRuneBlank",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "harvester",
@@ -3670,13 +3670,13 @@
       "abr": "lesserbloodrune",
       "category": "Artifacts",
       "defname": "ReviaLesserBloodRune",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "lesserbloodrune(inert)",
       "category": "Artifacts",
       "defname": "ReviaLesserBloodRuneBlank",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "mh-6mlittlebird(transport)",
@@ -3688,25 +3688,25 @@
       "abr": "mudturtle",
       "category": "Animals",
       "defname": "ZTT_MudTurtle",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "mudturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggMudTurtleFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "orangespiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdOrange",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "orangespiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggOrangeFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "orangespiribirdpollen",
@@ -3718,19 +3718,19 @@
       "abr": "paintedsnapvineturtle",
       "category": "Animals",
       "defname": "ZTT_PaintedSnapvine",
-      "price": 400
+      "price": -10
     },
     {
       "abr": "paintedsnapvineturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggPaintedSnapvineFertilized",
-      "price": 38
+      "price": -10
     },
     {
       "abr": "palestone",
       "category": "Artifacts",
       "defname": "ReviaRacePalestone",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "petalace(basic)",
@@ -4090,13 +4090,13 @@
       "abr": "pinkspiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdPink",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "pinkspiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggPinkFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "pinkspiribirdpollen",
@@ -4108,13 +4108,13 @@
       "abr": "plasturtle",
       "category": "Animals",
       "defname": "ZTT_Plasturtle",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "plasturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggPlasturtleFertilized",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "primitiveequium",
@@ -4132,13 +4132,13 @@
       "abr": "prismspiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdPrism",
-      "price": 208
+      "price": -10
     },
     {
       "abr": "prismspiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggPrismFertilized",
-      "price": 23
+      "price": -10
     },
     {
       "abr": "prismspiribirdpollen",
@@ -4162,13 +4162,13 @@
       "abr": "redspiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdRed",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "redspiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggRedFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "redspiribirdpollen",
@@ -4198,13 +4198,13 @@
       "abr": "sandshellturtle",
       "category": "Animals",
       "defname": "ZTT_SandshellTurtle",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "sandshellturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggSandshellTurtleFertilized",
-      "price": 45
+      "price": -10
     },
     {
       "abr": "scaleman",
@@ -4354,13 +4354,13 @@
       "abr": "steelshell",
       "category": "Animals",
       "defname": "ZTT_Steelshell",
-      "price": 1133
+      "price": -10
     },
     {
       "abr": "steelshellegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggSteelshellFertilized",
-      "price": 45
+      "price": -10
     },
     {
       "abr": "superpod",
@@ -4384,13 +4384,13 @@
       "abr": "toughback",
       "category": "Animals",
       "defname": "ZTT_Toughback",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "toughbackegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggToughbackFertilized",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "uh-1yvenom(attack)",
@@ -4426,13 +4426,13 @@
       "abr": "wiggleneckturtle",
       "category": "Animals",
       "defname": "ZTT_WiggleneckTurtle",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "wiggleneckturtleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "ZTT_EggWiggleneckTurtleFertilized",
-      "price": 52
+      "price": -10
     },
     {
       "abr": "wolfman",
@@ -4450,13 +4450,13 @@
       "abr": "yellowspiribird",
       "category": "Animals",
       "defname": "Mashed_Spiribird_SpiribirdYellow",
-      "price": 125
+      "price": -10
     },
     {
       "abr": "yellowspiribirdegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "Mashed_Spiribird_EggYellowFertilized",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "yellowspiribirdpollen",

@@ -2075,6 +2075,46 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": -1
+    },
+    {
+      "description": "Timmy is gives a strange impression to the opponent.",
+      "stats": [
+        "+2 social",
+        "-4% mental break threshold",
+        "+15.00% train animal chance",
+        "+15.00% tame animal chance",
+        "+15.00% trade price improvement",
+        "+15.00% social impact"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": true,
+      "data": {
+        "canBypassLimit": true,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Ferian Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2 social",
+          "-4% mental break threshold",
+          "+15.00% train animal chance",
+          "+15.00% tame animal chance",
+          "+15.00% trade price improvement",
+          "+15.00% social impact"
+        ]
+      },
+      "defName": "Miraculous",
+      "name": "mysteriousenergy",
+      "canAdd": false,
+      "canRemove": false,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -2098,263 +2138,38 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 8751
+      "price": 5834
     },
     {
       "data": {
         "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+120% Psychic sensitivity",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+28.8F [16.0C] Minimum comfortable temperature",
-          "+46.8F [26.0C] Maximum comfortable temperature",
-          "+50 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "Designer mates are genetically engineered on glitterworlds to be the perfect mate. This is a decendant of one of them that still inherits most of the traits.",
-      "defName": "DesignerMatesXH",
-      "enabled": true,
-      "name": "designer mate",
-      "price": 8751
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+150% Toxic sensitivity",
-          "+$1750 Market value",
-          "+4.20 Move speed",
-          "+54.0F [30.0C] Minimum comfortable temperature",
-          "+82.8F [46.0C] Maximum comfortable temperature",
-          "+60 Leather amount",
-          "+6.0% Armor - Blunt",
-          "+12.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A genetically modified human. Either through gene therapy or environmental pressure this kind of human has developed a think leathery skin. Scalemen are slightly slower and tire quicker than normal humans but they are highly adapted to hot biomes, need less food and have some natural armor.",
-      "defName": "ScaleManXH",
-      "enabled": true,
-      "name": "Scaleman",
-      "price": 8751
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "+28.8F [16.0C] Minimum comfortable temperature",
-          "+46.8F [26.0C] Maximum comfortable temperature",
-          "+50 Leather amount"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A genetically altered human usually breed for combat. Soldiermorphs feel less pain, are tougher and need less food. However they have a very low life expectancy and learn new things slower than an average human.",
-      "defName": "SoldiermorphXH",
-      "enabled": true,
-      "name": "soldiermorph",
-      "price": 8751
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$1750 Market value",
-          "+4.60 Move speed",
-          "-25.2F [-14.0C] Minimum comfortable temperature",
-          "+39.6F [22.0C] Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+8.0% Armor - Blunt",
-          "+6.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A genetically altered version of the baseline human. This wolflike human has altered hands with retractable claws capable of inflicting serious damage. Animallike instincts are more present in this person and wolfmen often have a short fuse and are easy to anger.",
-      "defName": "WolfManXH",
-      "enabled": true,
-      "name": "wolfman",
-      "price": 8751
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+100% Flammability",
-          "+$3500 Market value",
-          "+5.25 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+64.8F [36.0C] Maximum comfortable temperature",
-          "+45 Leather amount",
-          "+3 Honor value",
-          "+90% Research speed",
-          "+125% Mining speed",
-          "+95.00% Social impact",
-          "+1.3 Melee dodge chance"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A bloodthirsty vulpine near-human.",
-      "defName": "ReviaRaceAlien",
-      "enabled": true,
-      "name": "Revia",
-      "price": 17499
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+30% Flammability",
-          "+$2500 Market value",
-          "+6.62 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+63.0F [35.0C] Maximum comfortable temperature",
-          "+2.0 Melee hit chance",
-          "+115% Immunity gain speed",
-          "+80 Meat amount",
-          "+80 Leather amount",
+          "+50.00 Mass",
+          "+$2000 Market value",
+          "+6.24 Move speed",
+          "+50% Flammability",
+          "-16.2F [-9.0C] Minimum comfortable temperature",
+          "+43.2F [24.0C] Maximum comfortable temperature",
+          "+25 Leather amount",
+          "+120% Research speed",
+          "+75% Mining speed",
           "+120.00% Social impact",
-          "+1.3 Melee dodge chance",
-          "+1.3 Shooting accuracy",
-          "+133 Carrying capacity",
-          "+100% Psychic sensitivity",
-          "+130% Mining speed",
-          "+150% Rest rate multiplier",
-          "+80% Pain shock threshold",
-          "+30.0% Armor - Sharp",
-          "+25.0% Armor - Blunt",
-          "+15.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A strange horse like race.",
-      "defName": "Alien_Equium",
-      "enabled": true,
-      "name": "equium",
-      "price": 12501
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+30% Flammability",
-          "+$2500 Market value",
-          "+6.62 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+63.0F [35.0C] Maximum comfortable temperature",
-          "+2.0 Melee hit chance",
+          "+75% Construction speed",
+          "+120% Animal gather speed",
+          "+120% Animal gather yield",
           "+115% Immunity gain speed",
-          "+80 Meat amount",
-          "+80 Leather amount",
-          "+120.00% Social impact",
-          "+1.3 Melee dodge chance",
-          "+1.3 Shooting accuracy",
-          "+133 Carrying capacity",
-          "+100% Psychic sensitivity",
-          "+130% Mining speed",
-          "+150% Rest rate multiplier",
-          "+80% Pain shock threshold",
-          "+30.0% Armor - Sharp",
-          "+25.0% Armor - Blunt",
-          "+15.0% Armor - Heat"
+          "+150% Psychic sensitivity",
+          "+4.0 Shooting accuracy",
+          "+4 Honor value"
         ],
         "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
-      "description": "A strange horse like race.",
-      "defName": "Alien_PEquium",
+      "description": "Ferian is Developed by advanced genetic engineering. They have fast speed and high intelligence, and their lives are a little longer. However, there is a downside that it is not suitable for physical labor. They don't care whether they eat raw food or sleep in a cold place or sleep on the floor.",
+      "defName": "AFerian",
       "enabled": true,
-      "name": "primitive equium",
-      "price": 12501
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+30% Flammability",
-          "+$2500 Market value",
-          "+6.62 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+63.0F [35.0C] Maximum comfortable temperature",
-          "+2.0 Melee hit chance",
-          "+115% Immunity gain speed",
-          "+80 Meat amount",
-          "+80 Leather amount",
-          "+120.00% Social impact",
-          "+1.3 Melee dodge chance",
-          "+1.3 Shooting accuracy",
-          "+133 Carrying capacity",
-          "+100% Psychic sensitivity",
-          "+130% Mining speed",
-          "+150% Rest rate multiplier",
-          "+80% Pain shock threshold",
-          "+30.0% Armor - Sharp",
-          "+25.0% Armor - Blunt",
-          "+15.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A strange horse like race.",
-      "defName": "Alien_SMaleEquium",
-      "enabled": true,
-      "name": "equium",
-      "price": 12501
-    },
-    {
-      "data": {
-        "stats": [
-          "+70.00 Mass",
-          "+30% Flammability",
-          "+$2500 Market value",
-          "+6.62 Move speed",
-          "+0.0F [0.0C] Minimum comfortable temperature",
-          "+63.0F [35.0C] Maximum comfortable temperature",
-          "+2.0 Melee hit chance",
-          "+115% Immunity gain speed",
-          "+80 Meat amount",
-          "+80 Leather amount",
-          "+120.00% Social impact",
-          "+1.3 Melee dodge chance",
-          "+1.3 Shooting accuracy",
-          "+133 Carrying capacity",
-          "+100% Psychic sensitivity",
-          "+130% Mining speed",
-          "+150% Rest rate multiplier",
-          "+80% Pain shock threshold",
-          "+30.0% Armor - Sharp",
-          "+25.0% Armor - Blunt",
-          "+15.0% Armor - Heat"
-        ],
-        "mod": "Unknown",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A strange horse like race.",
-      "defName": "Alien_KEquium",
-      "enabled": true,
-      "name": "equium",
-      "price": 12501
+      "name": "ferian",
+      "price": 6666
     }
   ]
 }

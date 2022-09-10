@@ -1840,7 +1840,7 @@
       "abr": "shieldbelt",
       "category": "Utility",
       "defname": "Apparel_ShieldBelt",
-      "price": 650
+      "price": -10
     },
     {
       "abr": "shortbow",
@@ -1900,7 +1900,7 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": 277
+      "price": -10
     },
     {
       "abr": "sniperrifle",
@@ -2482,7 +2482,7 @@
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
-      "price": 1075
+      "price": -10
     },
     {
       "abr": "kneespike",
@@ -2524,7 +2524,7 @@
       "abr": "low-shieldpack",
       "category": "Utility",
       "defname": "Apparel_PackBroadshield",
-      "price": 717
+      "price": -10
     },
     {
       "abr": "meditationthrone",
@@ -3592,13 +3592,13 @@
       "abr": "allosaurus",
       "category": "Animals",
       "defname": "Allosaurus",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "allosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggAllosaurusFertilized",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "allosaurusmeat",
@@ -3610,13 +3610,13 @@
       "abr": "ankylosaurus",
       "category": "Animals",
       "defname": "Ankylosaurus",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "ankylosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggAnkylosaurusFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "ankylosaurusmeat",
@@ -3634,19 +3634,19 @@
       "abr": "auto-turret",
       "category": "Buildings",
       "defname": "AutoTurret",
-      "price": 3125
+      "price": -10
     },
     {
       "abr": "baryonyx",
       "category": "Animals",
       "defname": "Baryonyx",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "baryonyxegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBaryonyxFertilized",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "baryonyxmeat",
@@ -3664,13 +3664,13 @@
       "abr": "brachiosaurus",
       "category": "Animals",
       "defname": "Brachiosaurus",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "brachiosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBrachiosaurusFertilized",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "brachiosaurusmeat",
@@ -3682,13 +3682,13 @@
       "abr": "brontosaurus",
       "category": "Animals",
       "defname": "Brontosaurus",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "brontosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggBrontosaurusFertilized",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "brontosaurusmeat",
@@ -3700,13 +3700,13 @@
       "abr": "carnotaurus",
       "category": "Animals",
       "defname": "Carnotaurus",
-      "price": 4000
+      "price": -10
     },
     {
       "abr": "carnotaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCarnotaurusFertilized",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "carnotaurusmeat",
@@ -3772,13 +3772,13 @@
       "abr": "compsognathus",
       "category": "Animals",
       "defname": "Compsognathus",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "compsognathusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCompsognathusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "compsognathusmeat",
@@ -3790,13 +3790,13 @@
       "abr": "corythosaurus",
       "category": "Animals",
       "defname": "Corythosaurus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "corythosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggCorythosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "corythosaurusmeat",
@@ -3808,13 +3808,13 @@
       "abr": "dakotaraptor",
       "category": "Animals",
       "defname": "Dakotaraptor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "dakotaraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDakotaraptorFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "dakotaraptormeat",
@@ -3826,13 +3826,13 @@
       "abr": "deinocheirus",
       "category": "Animals",
       "defname": "Deinocheirus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "deinocheirusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDeinocheirusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "deinocheirusmeat",
@@ -3844,13 +3844,13 @@
       "abr": "dilophosaurus",
       "category": "Animals",
       "defname": "Dilophosaurus",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "dilophosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDilophosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "dilophosaurusmeat",
@@ -3880,13 +3880,13 @@
       "abr": "diplodocus",
       "category": "Animals",
       "defname": "Diplodocus",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "diplodocusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDiplodocusFertilized",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "diplodocusmeat",
@@ -3898,13 +3898,13 @@
       "abr": "dryosaurus",
       "category": "Animals",
       "defname": "Dryosaurus",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "dryosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggDryosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "dryosaurusegg(unfert.)",
@@ -3922,25 +3922,25 @@
       "abr": "electricglassworks",
       "category": "Production",
       "defname": "GlassworkTable",
-      "price": 255
+      "price": -10
     },
     {
       "abr": "fueledglassworks",
       "category": "Production",
       "defname": "FueledGlassworkTable",
-      "price": 268
+      "price": -10
     },
     {
       "abr": "gallimimus",
       "category": "Animals",
       "defname": "Gallimimus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "gallimimusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGallimimusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "gallimimusmeat",
@@ -3952,13 +3952,13 @@
       "abr": "gigantoraptor",
       "category": "Animals",
       "defname": "Gigantoraptor",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "gigantoraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggGigantoraptorFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "gigantoraptormeat",
@@ -3982,19 +3982,19 @@
       "abr": "glassworkstv",
       "category": "Recreation",
       "defname": "GlassMonitorLarge",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "iguanodon",
       "category": "Animals",
       "defname": "Iguanodon",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "iguanodonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggIguanodonFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "iguanodonmeat",
@@ -4012,13 +4012,13 @@
       "abr": "magyarosaurus",
       "category": "Animals",
       "defname": "Magyarosaurus",
-      "price": 2833
+      "price": -10
     },
     {
       "abr": "magyarosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggMagyarosaurusFertilized",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "magyarosaurusmeat",
@@ -4030,13 +4030,13 @@
       "abr": "minmi",
       "category": "Animals",
       "defname": "Minmi",
-      "price": 1167
+      "price": -10
     },
     {
       "abr": "minmiegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggMinmiFertilized",
-      "price": 67
+      "price": -10
     },
     {
       "abr": "minmimeat",
@@ -4054,13 +4054,13 @@
       "abr": "pachycephalosaurus",
       "category": "Animals",
       "defname": "Pachycephalosaurus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "pachycephalosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggPachycephalosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "pachycephalosaurusmeat",
@@ -4072,13 +4072,13 @@
       "abr": "parasaur",
       "category": "Animals",
       "defname": "Parasaur",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "parasauregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggParasaurFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "parasaurmeat",
@@ -4090,19 +4090,19 @@
       "abr": "planetaryfortress",
       "category": "Buildings",
       "defname": "PlanetaryFortress",
-      "price": 26200
+      "price": -10
     },
     {
       "abr": "protoceratops",
       "category": "Animals",
       "defname": "Protoceratops",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "protoceratopsegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggProtoceratopsFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "protoceratopsmeat",
@@ -4114,13 +4114,13 @@
       "abr": "pteranodon",
       "category": "Animals",
       "defname": "Pteranodon",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "pteranodonegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggPteranodonFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "pteranodonegg(unfert.)",
@@ -4144,13 +4144,13 @@
       "abr": "quetzalcoatlus",
       "category": "Animals",
       "defname": "Quetzalcoatlus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "quetzalcoatlusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggQuetzalcoatlusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "quetzalcoatlusmeat",
@@ -4180,7 +4180,7 @@
       "abr": "reinforcedglassworks",
       "category": "Production",
       "defname": "ReinforcedGlassworkTable",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "sauropodleather",
@@ -4192,13 +4192,13 @@
       "abr": "spinosaurus",
       "category": "Animals",
       "defname": "Spinosaurus",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "spinosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggSpinosaurusFertilized",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "spinosaurusleather",
@@ -4216,13 +4216,13 @@
       "abr": "stegosaurus",
       "category": "Animals",
       "defname": "Stegosaurus",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "stegosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggStegosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "stegosaurusmeat",
@@ -4234,13 +4234,13 @@
       "abr": "stygimoloch",
       "category": "Animals",
       "defname": "Stygimoloch",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "stygimolochegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggStygimolochFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "stygimolochmeat",
@@ -4258,13 +4258,13 @@
       "abr": "therizinosaurus",
       "category": "Animals",
       "defname": "Therizinosaurus",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "therizinosaurusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTherizinosaurusFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "therizinosaurusmeat",
@@ -4282,19 +4282,19 @@
       "abr": "triceratops",
       "category": "Animals",
       "defname": "Triceratops",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "triceratopsegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTriceratopsFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "triceratopshorn",
       "category": "Items",
       "defname": "TriceratopsHorn",
-      "price": 1917
+      "price": -10
     },
     {
       "abr": "triceratopsmeat",
@@ -4312,13 +4312,13 @@
       "abr": "tyrannosaurusrex",
       "category": "Animals",
       "defname": "TyrannosaurusRex",
-      "price": 6000
+      "price": -10
     },
     {
       "abr": "tyrannosaurusrexegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggTyrannosaurusRexFertilized",
-      "price": 233
+      "price": -10
     },
     {
       "abr": "tyrannosaurusrexmeat",
@@ -4330,19 +4330,19 @@
       "abr": "tyrannosaurusrexskull",
       "category": "Items",
       "defname": "TyrannosaurusRexSkull",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "utahraptor",
       "category": "Animals",
       "defname": "Utahraptor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "utahraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggUtahraptorFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "utahraptormeat",
@@ -4354,13 +4354,13 @@
       "abr": "velociraptor",
       "category": "Animals",
       "defname": "Velociraptor",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "velociraptoregg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggVelociraptorFertilized",
-      "price": 50
+      "price": -10
     },
     {
       "abr": "velociraptormeat",
@@ -4420,13 +4420,13 @@
       "abr": "yutyrannus",
       "category": "Animals",
       "defname": "Yutyrannus",
-      "price": 4500
+      "price": -10
     },
     {
       "abr": "yutyrannusegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggYutyrannusFertilized",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "yutyrannusmeat",

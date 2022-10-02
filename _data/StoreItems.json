@@ -466,7 +466,7 @@
       "abr": "corn",
       "category": "Vegetarian",
       "defname": "RawCorn",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "cougar",
@@ -1648,7 +1648,7 @@
       "abr": "potatoes",
       "category": "Vegetarian",
       "defname": "RawPotatoes",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "powerclaw",
@@ -1798,7 +1798,7 @@
       "abr": "rice",
       "category": "Vegetarian",
       "defname": "RawRice",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "royalbed",
@@ -2689,180 +2689,6 @@
       "price": -10
     },
     {
-      "abr": "psytrainer(beckon)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Beckon",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(berserkpulse)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_BerserkPulse",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(berserk)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Berserk",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(blindingpulse)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_BlindingPulse",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(burden)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Burden",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(chaosskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_ChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(chunkskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Chunkskip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(farskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Farskip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(flashstorm)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Flashstorm",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(focus)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Focus",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(invisibility)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Invisibility",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(manhunterpulse)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_ManhunterPulse",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(masschaosskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_MassChaosSkip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(neuralheatdump)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_EntropyDump",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(neuroquake)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Neuroquake",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(painblock)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Painblock",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(skip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Skip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(skipshield)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_BulletShield",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(smokepop)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Smokepop",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(solarpinhole)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_SolarPinhole",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(stun)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Stun",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(vertigopulse)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_VertigoPulse",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wallraise)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Wallraise",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(waterskip)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_Waterskip",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wordofinspiration)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_WordOfInspiration",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wordofjoy)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_WordOfJoy",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wordoflove)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_WordOfLove",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wordofserenity)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_WordOfSerenity",
-      "price": -10
-    },
-    {
-      "abr": "psytrainer(wordoftrust)",
-      "category": "Psytrainers",
-      "defname": "Psytrainer_WordOfTrust",
-      "price": -10
-    },
-    {
       "abr": "reprocessorstomach",
       "category": "Bionic",
       "defname": "ReprocessorStomach",
@@ -3541,899 +3367,2993 @@
       "price": -10
     },
     {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Red",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Blue",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Green",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Violet",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Yellow",
-      "price": 49
-    },
-    {
-      "abr": "(old)ceilinglamp",
-      "category": "Furniture",
-      "defname": "CeilingLamp_Orange",
-      "price": 49
-    },
-    {
-      "abr": "(old)walllamp",
-      "category": "Furniture",
-      "defname": "WallLamp",
-      "price": 45
+      "abr": "advancedbattery",
+      "category": "Power",
+      "defname": "VFE_AdvancedBattery",
+      "price": -10
     },
     {
       "abr": "allosaurus",
       "category": "Animals",
-      "defname": "Allosaurus",
+      "defname": "BMT_Allosaurus",
       "price": -10
     },
     {
       "abr": "allosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggAllosaurusFertilized",
+      "defname": "BMT_AllosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "allosaurusmeat",
+      "abr": "amargasaurus",
+      "category": "Animals",
+      "defname": "BMT_Amargasaurus",
+      "price": -10
+    },
+    {
+      "abr": "amargasaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_AmargasaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "amphibianmeat",
       "category": "Meat",
-      "defname": "Meat_Allosaurus",
+      "defname": "Meat_BMT_Diplocaulus",
       "price": 3
     },
     {
       "abr": "ankylosaurus",
       "category": "Animals",
-      "defname": "Ankylosaurus",
+      "defname": "BMT_Ankylosaurus",
       "price": -10
     },
     {
       "abr": "ankylosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggAnkylosaurusFertilized",
+      "defname": "BMT_AnkylosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "ankylosaurusmeat",
+      "abr": "ankylosidmeat",
       "category": "Meat",
-      "defname": "Meat_Ankylosaurus",
+      "defname": "Meat_BMT_Ankylosaurus",
       "price": 3
+    },
+    {
+      "abr": "apatosaurus",
+      "category": "Animals",
+      "defname": "BMT_Apatosaurus",
+      "price": -10
+    },
+    {
+      "abr": "apatosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_ApatosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "archerytarget",
+      "category": "Recreation",
+      "defname": "ArcheryTarget",
+      "price": -10
+    },
+    {
+      "abr": "archotechviolencegenerator",
+      "category": "Special",
+      "defname": "VPE_ArchotechViolenceGenerator",
+      "price": -10
+    },
+    {
+      "abr": "arkelstorp",
+      "category": "Furniture",
+      "defname": "LTS_Arkelstorp",
+      "price": -10
     },
     {
       "abr": "armoreddinosaurhide",
       "category": "Leathers",
-      "defname": "Leather_ArmoredDino",
+      "defname": "BMT_DinoHideArmored",
       "price": 17
     },
     {
-      "abr": "auto-turret",
-      "category": "Buildings",
-      "defname": "AutoTurret",
+      "abr": "arthropleura",
+      "category": "Animals",
+      "defname": "BMT_Arthropleura",
+      "price": -10
+    },
+    {
+      "abr": "arthropleuraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_ArthropleuraEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "askholmen",
+      "category": "Furniture",
+      "defname": "LTS_Askholmen",
+      "price": -10
+    },
+    {
+      "abr": "astrid",
+      "category": "Furniture",
+      "defname": "LTS_Astrid",
       "price": -10
     },
     {
       "abr": "baryonyx",
       "category": "Animals",
-      "defname": "Baryonyx",
+      "defname": "BMT_Baryonyx",
       "price": -10
     },
     {
       "abr": "baryonyxegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggBaryonyxFertilized",
+      "defname": "BMT_BaryonyxEggFertilized",
       "price": -10
     },
     {
-      "abr": "baryonyxmeat",
-      "category": "Meat",
-      "defname": "Meat_Baryonyx",
-      "price": 3
+      "abr": "bearrug",
+      "category": "Misc",
+      "defname": "LTS_BearRug",
+      "price": -10
     },
     {
-      "abr": "bluefuzz",
-      "category": "Leathers",
-      "defname": "Leather_Bluefuzz",
-      "price": 12
+      "abr": "boomasaurolophus",
+      "category": "Animals",
+      "defname": "BMT_Boomasaur",
+      "price": -10
+    },
+    {
+      "abr": "boomasaurolophusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_BoomasaurEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "borealopelta",
+      "category": "Animals",
+      "defname": "BMT_Borealopelta",
+      "price": -10
+    },
+    {
+      "abr": "borealopeltaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_BorealopeltaEggFertilized",
+      "price": -10
     },
     {
       "abr": "brachiosaurus",
       "category": "Animals",
-      "defname": "Brachiosaurus",
+      "defname": "BMT_Brachiosaurus",
       "price": -10
     },
     {
       "abr": "brachiosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggBrachiosaurusFertilized",
+      "defname": "BMT_BrachiosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "brachiosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Brachiosaurus",
-      "price": 3
-    },
-    {
-      "abr": "brontosaurus",
+      "abr": "camarasaurus",
       "category": "Animals",
-      "defname": "Brontosaurus",
+      "defname": "BMT_Camarasaurus",
       "price": -10
     },
     {
-      "abr": "brontosaurusegg(fert.)",
+      "abr": "camarasaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggBrontosaurusFertilized",
+      "defname": "BMT_CamarasaurusEggFertilized",
       "price": -10
-    },
-    {
-      "abr": "brontosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Brontosaurus",
-      "price": 3
     },
     {
       "abr": "carnotaurus",
       "category": "Animals",
-      "defname": "Carnotaurus",
+      "defname": "BMT_Carnotaurus",
       "price": -10
     },
     {
       "abr": "carnotaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggCarnotaurusFertilized",
+      "defname": "BMT_CarnotaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "carnotaurusmeat",
+      "abr": "centrosaurus",
+      "category": "Animals",
+      "defname": "BMT_Centrosaurus",
+      "price": -10
+    },
+    {
+      "abr": "centrosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_CentrosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "ceratopsidhorn",
+      "category": "Trophy",
+      "defname": "BMT_CeratopsidHorn",
+      "price": -10
+    },
+    {
+      "abr": "ceratopsidmeat",
       "category": "Meat",
-      "defname": "Meat_Carnotaurus",
+      "defname": "Meat_BMT_Triceratops",
       "price": 3
     },
     {
-      "abr": "ceilingdarklamp",
-      "category": "Furniture",
-      "defname": "GLCeilingLampDark",
-      "price": 50
+      "abr": "chasmosaurus",
+      "category": "Animals",
+      "defname": "BMT_Chasmosaurus",
+      "price": -10
     },
     {
-      "abr": "ceilinglamp",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp",
-      "price": 50
+      "abr": "chasmosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_ChasmosaurusEggFertilized",
+      "price": -10
     },
     {
-      "abr": "ceilinglamp(blue)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Blue",
-      "price": 50
+      "abr": "chthonianchitin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Chthonian",
+      "price": 13
     },
     {
-      "abr": "ceilinglamp(green)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Green",
-      "price": 50
+      "abr": "chthonianstrips",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ChthonianMeat",
+      "price": 3
     },
     {
-      "abr": "ceilinglamp(orange)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Orange",
-      "price": 50
+      "abr": "chungkingosaurus",
+      "category": "Animals",
+      "defname": "BMT_Chungkingosaurus",
+      "price": -10
     },
     {
-      "abr": "ceilinglamp(red)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Red",
-      "price": 50
+      "abr": "chungkingosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_ChungkingosaurusEggFertilized",
+      "price": -10
     },
     {
-      "abr": "ceilinglamp(violet)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Violet",
-      "price": 50
-    },
-    {
-      "abr": "ceilinglamp(yellow)",
-      "category": "Furniture",
-      "defname": "GLCeilingLamp_Yellow",
-      "price": 50
-    },
-    {
-      "abr": "chem-gas",
-      "category": "Manufactured",
-      "defname": "ChemGas",
-      "price": 1
+      "abr": "circlecarpet",
+      "category": "Misc",
+      "defname": "LTS_CircleCarpet",
+      "price": -10
     },
     {
       "abr": "compsognathus",
       "category": "Animals",
-      "defname": "Compsognathus",
+      "defname": "BMT_Compsognathus",
       "price": -10
     },
     {
       "abr": "compsognathusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggCompsognathusFertilized",
+      "defname": "BMT_CompsognathusEggFertilized",
       "price": -10
     },
     {
-      "abr": "compsognathusmeat",
-      "category": "Meat",
-      "defname": "Meat_Compsognathus",
-      "price": 3
+      "abr": "compsognathusegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "BMT_EggCompsognathusUnfertilized",
+      "price": 25
     },
     {
-      "abr": "corythosaurus",
+      "abr": "coralcoconuts",
+      "category": "Vegetarian",
+      "defname": "BiomesIslands_Coconuts",
+      "price": 7
+    },
+    {
+      "abr": "counter-black",
+      "category": "Furniture",
+      "defname": "LTS_CounterB",
+      "price": -10
+    },
+    {
+      "abr": "counter-blue",
+      "category": "Furniture",
+      "defname": "LTS_CounterS",
+      "price": -10
+    },
+    {
+      "abr": "counter-gray",
+      "category": "Furniture",
+      "defname": "LTS_CounterG",
+      "price": -10
+    },
+    {
+      "abr": "counter-white",
+      "category": "Furniture",
+      "defname": "LTS_Counter",
+      "price": -10
+    },
+    {
+      "abr": "crabshell",
+      "category": "Leathers",
+      "defname": "BiomesCore_CrabShell",
+      "price": 6
+    },
+    {
+      "abr": "crossbuck",
+      "category": "Misc",
+      "defname": "CAT_DRP_Sign_C_Cross",
+      "price": -10
+    },
+    {
+      "abr": "crossbuck",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Sign_C_Cross",
+      "price": -10
+    },
+    {
+      "abr": "cthulhidmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_CthulhidMeat",
+      "price": 2
+    },
+    {
+      "abr": "cycadnuts",
+      "category": "Vegetarian",
+      "defname": "BMT_RawCycadNuts",
+      "price": 2
+    },
+    {
+      "abr": "darkastrid",
+      "category": "Furniture",
+      "defname": "LTS_DarkAstrid",
+      "price": -10
+    },
+    {
+      "abr": "darkelectriclantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkElectricLantern",
+      "price": -10
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkLantern",
+      "price": -10
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkTableLantern",
+      "price": -10
+    },
+    {
+      "abr": "darklantern",
+      "category": "Furniture",
+      "defname": "LTS_DarkElectricTableLantern",
+      "price": -10
+    },
+    {
+      "abr": "darklanternpost",
+      "category": "Furniture",
+      "defname": "LTS_DarkLightpost",
+      "price": -10
+    },
+    {
+      "abr": "darkoillamp",
+      "category": "Furniture",
+      "defname": "LTS_DarkOilLamp",
+      "price": -10
+    },
+    {
+      "abr": "darkvidja",
+      "category": "Furniture",
+      "defname": "LTS_DarkVidja",
+      "price": -10
+    },
+    {
+      "abr": "darkyoungmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DarkYoungMeat",
+      "price": 2
+    },
+    {
+      "abr": "darkyoungsap",
+      "category": "Animal products",
+      "defname": "ROM_DarkYoungSap",
+      "price": 5
+    },
+    {
+      "abr": "darklightfirepit",
+      "category": "Temperature",
+      "defname": "LTS_DarkFirepitRound",
+      "price": -10
+    },
+    {
+      "abr": "darklightfireplace",
+      "category": "Temperature",
+      "defname": "LTS_DarkFireplace",
+      "price": -10
+    },
+    {
+      "abr": "darkligtfirepit",
+      "category": "Temperature",
+      "defname": "LTS_DarkFirepit",
+      "price": -10
+    },
+    {
+      "abr": "darkligtlanternpost",
+      "category": "Furniture",
+      "defname": "LTS_DarkLanternpost",
+      "price": -10
+    },
+    {
+      "abr": "dark-youngbark",
+      "category": "Leathers",
+      "defname": "CH_Leather_DarkYoung",
+      "price": 12
+    },
+    {
+      "abr": "deeponemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DeepOneMeat",
+      "price": 2
+    },
+    {
+      "abr": "deephide",
+      "category": "Leathers",
+      "defname": "CH_Leather_DeepOne",
+      "price": 12
+    },
+    {
+      "abr": "deinonychus",
       "category": "Animals",
-      "defname": "Corythosaurus",
+      "defname": "BMT_Deinonychus",
       "price": -10
     },
     {
-      "abr": "corythosaurusegg(fert.)",
+      "abr": "deinonychusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggCorythosaurusFertilized",
+      "defname": "BMT_DeinonychusEggFertilized",
       "price": -10
     },
     {
-      "abr": "corythosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Corythosaurus",
-      "price": 3
-    },
-    {
-      "abr": "dakotaraptor",
-      "category": "Animals",
-      "defname": "Dakotaraptor",
-      "price": -10
-    },
-    {
-      "abr": "dakotaraptoregg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggDakotaraptorFertilized",
-      "price": -10
-    },
-    {
-      "abr": "dakotaraptormeat",
-      "category": "Meat",
-      "defname": "Meat_Dakotaraptor",
-      "price": 3
-    },
-    {
-      "abr": "deinocheirus",
-      "category": "Animals",
-      "defname": "Deinocheirus",
-      "price": -10
-    },
-    {
-      "abr": "deinocheirusegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggDeinocheirusFertilized",
-      "price": -10
-    },
-    {
-      "abr": "deinocheirusmeat",
-      "category": "Meat",
-      "defname": "Meat_Deinocheirus",
-      "price": 3
+      "abr": "devilheadmask",
+      "category": "Headgear",
+      "defname": "Apparel_SCDevilHead",
+      "price": 47
     },
     {
       "abr": "dilophosaurus",
       "category": "Animals",
-      "defname": "Dilophosaurus",
+      "defname": "BMT_Dilophosaurus",
       "price": -10
     },
     {
       "abr": "dilophosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggDilophosaurusFertilized",
+      "defname": "BMT_DilophosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "dilophosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Dilophosaurus",
-      "price": 3
+      "abr": "dilophosaurusskull",
+      "category": "Trophy",
+      "defname": "BMT_DilophosaurusSkull",
+      "price": -10
     },
     {
-      "abr": "dinosaurfuzz",
-      "category": "Leathers",
-      "defname": "Leather_DinosaurFuzz",
-      "price": 5
-    },
-    {
-      "abr": "dinosaurhide",
-      "category": "Leathers",
-      "defname": "Leather_DinosaurHide",
-      "price": 5
-    },
-    {
-      "abr": "dinosaurskin",
-      "category": "Leathers",
-      "defname": "Leather_DinosaurSkin",
-      "price": 3
-    },
-    {
-      "abr": "diplodocus",
+      "abr": "dimetrodon",
       "category": "Animals",
-      "defname": "Diplodocus",
+      "defname": "BMT_Dimetrodon",
       "price": -10
     },
     {
-      "abr": "diplodocusegg(fert.)",
+      "abr": "dimetrodonegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggDiplodocusFertilized",
+      "defname": "BMT_DimetrodonEggFertilized",
       "price": -10
     },
     {
-      "abr": "diplodocusmeat",
-      "category": "Meat",
-      "defname": "Meat_Diplodocus",
-      "price": 3
+      "abr": "diplocaulus",
+      "category": "Animals",
+      "defname": "BMT_Diplocaulus",
+      "price": -10
+    },
+    {
+      "abr": "diplocaulusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_DiplocaulusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "downyhide",
+      "category": "Leathers",
+      "defname": "BMT_DinoHideFeathery",
+      "price": 4
+    },
+    {
+      "abr": "drugcabinet",
+      "category": "Misc",
+      "defname": "VFE_DrugCabinet",
+      "price": -10
     },
     {
       "abr": "dryosaurus",
       "category": "Animals",
-      "defname": "Dryosaurus",
+      "defname": "BMT_Dryosaurus",
       "price": -10
     },
     {
       "abr": "dryosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggDryosaurusFertilized",
+      "defname": "BMT_DryosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "dryosaurusegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "EggDryosaurusUnfertilized",
-      "price": 17
+      "abr": "dualflasher",
+      "category": "Misc",
+      "defname": "CAT_DRP_Sign_C_Dual_Flasher",
+      "price": -10
     },
     {
-      "abr": "dryosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Dryosaurus",
+      "abr": "dualflasher",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Sign_C_Dual_Flasher",
+      "price": -10
+    },
+    {
+      "abr": "edmontosaurus",
+      "category": "Animals",
+      "defname": "BMT_Edmontosaurus",
+      "price": -10
+    },
+    {
+      "abr": "edmontosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_EdmontosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "electricbutcher",
+      "category": "Production",
+      "defname": "VFE_TableButcherElectric",
+      "price": -10
+    },
+    {
+      "abr": "electricdruglab",
+      "category": "Production",
+      "defname": "VFE_TableDrugLabElectric",
+      "price": -10
+    },
+    {
+      "abr": "electriclantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricLantern",
+      "price": -10
+    },
+    {
+      "abr": "electricstonecutter'stable",
+      "category": "Production",
+      "defname": "VFE_TableStonecutterElectric",
+      "price": -10
+    },
+    {
+      "abr": "eltex",
+      "category": "Manufactured",
+      "defname": "VPE_Eltex",
+      "price": 278
+    },
+    {
+      "abr": "eltexcape",
+      "category": "Apparel",
+      "defname": "VPE_Apparel_EltexCape",
+      "price": 1333
+    },
+    {
+      "abr": "eltexdagger",
+      "category": "Melee weapons",
+      "defname": "VPE_MeleeWeapon_EltexDagger",
+      "price": 1225
+    },
+    {
+      "abr": "eltexmace",
+      "category": "Melee weapons",
+      "defname": "VPE_MeleeWeapon_EltexMace",
+      "price": 1333
+    },
+    {
+      "abr": "eltexmask",
+      "category": "Headgear",
+      "defname": "VPE_Apparel_EltexMask",
+      "price": 833
+    },
+    {
+      "abr": "eltexsword",
+      "category": "Melee weapons",
+      "defname": "VPE_MeleeWeapon_EltexSword",
+      "price": 1383
+    },
+    {
+      "abr": "emmarksmanrifle",
+      "category": "Ranged weapons",
+      "defname": "MOW_Gun_EMMarksmanRifle",
+      "price": 2333
+    },
+    {
+      "abr": "emdsd40-2",
+      "category": "Misc",
+      "defname": "CAT_DRP_EMD_SD40_Loco",
+      "price": -10
+    },
+    {
+      "abr": "ephedraleaves",
+      "category": "Drugs",
+      "defname": "BMT_EphedraLeaves",
       "price": 3
     },
     {
-      "abr": "electricglassworks",
-      "category": "Production",
-      "defname": "GlassworkTable",
+      "abr": "fabricationcabinet",
+      "category": "Misc",
+      "defname": "VFE_FabricationCabinet",
       "price": -10
     },
     {
-      "abr": "fueledglassworks",
+      "abr": "fellbear",
+      "category": "Animal",
+      "defname": "Alien_Bear",
+      "price": -10
+    },
+    {
+      "abr": "fellbearmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Bear",
+      "price": 2
+    },
+    {
+      "abr": "fellfox",
+      "category": "Animal",
+      "defname": "Alien_Fox",
+      "price": -10
+    },
+    {
+      "abr": "fellfoxmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Fox",
+      "price": 2
+    },
+    {
+      "abr": "felllynx",
+      "category": "Animal",
+      "defname": "Alien_Lynx",
+      "price": -10
+    },
+    {
+      "abr": "felllynxmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Lynx",
+      "price": 2
+    },
+    {
+      "abr": "fellserval",
+      "category": "Animal",
+      "defname": "Alien_Serval",
+      "price": -10
+    },
+    {
+      "abr": "fellservalmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Serval",
+      "price": 2
+    },
+    {
+      "abr": "fellwolf",
+      "category": "Animal",
+      "defname": "Alien_Wolf",
+      "price": -10
+    },
+    {
+      "abr": "fellwolfmeat",
+      "category": "Meat",
+      "defname": "Meat_Alien_Wolf",
+      "price": 2
+    },
+    {
+      "abr": "fernspores",
+      "category": "Vegetarian",
+      "defname": "BMT_RawSporophylls",
+      "price": 1
+    },
+    {
+      "abr": "fieldresearchanalyzer-kit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitMultiAnalyzer",
+      "price": 417
+    },
+    {
+      "abr": "fieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitHiTech",
+      "price": 129
+    },
+    {
+      "abr": "firepit",
+      "category": "Temperature",
+      "defname": "LTS_Firepit",
+      "price": -10
+    },
+    {
+      "abr": "firepit",
+      "category": "Temperature",
+      "defname": "LTS_FirepitRound",
+      "price": -10
+    },
+    {
+      "abr": "fireplace",
+      "category": "Temperature",
+      "defname": "LTS_Fireplace",
+      "price": -10
+    },
+    {
+      "abr": "flamingo",
+      "category": "Animals",
+      "defname": "BiomesIslands_Flamingo",
+      "price": -10
+    },
+    {
+      "abr": "flamingoegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BiomesIslands_EggFlamingoFertilized",
+      "price": -10
+    },
+    {
+      "abr": "flamingoleather",
+      "category": "Leathers",
+      "defname": "BiomesIslands_Leather_Flamingo",
+      "price": 5
+    },
+    {
+      "abr": "flapragrug",
+      "category": "Furniture",
+      "defname": "SCFLAPRAG",
+      "price": -10
+    },
+    {
+      "abr": "flatcar",
+      "category": "Misc",
+      "defname": "CAT_DRP_Flatcar",
+      "price": -10
+    },
+    {
+      "abr": "flatcar",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Flatcar",
+      "price": -10
+    },
+    {
+      "abr": "flatcarcargo(pipes)",
+      "category": "Misc",
+      "defname": "CAT_DRP_Flatcar_C_Pipes",
+      "price": -10
+    },
+    {
+      "abr": "flatcarcargo(pipes)",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Flatcar_C_Pipes",
+      "price": -10
+    },
+    {
+      "abr": "flatscreentv",
+      "category": "Recreation",
+      "defname": "LTS_TableTelevision",
+      "price": -10
+    },
+    {
+      "abr": "freddymask",
+      "category": "Headgear",
+      "defname": "Apparel_SCFreddyHead",
+      "price": 47
+    },
+    {
+      "abr": "frisco1503",
+      "category": "Misc",
+      "defname": "CAT_DRP_Frisco_1503_Loco",
+      "price": -10
+    },
+    {
+      "abr": "frisco1503",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Frisco_1503_Loco",
+      "price": -10
+    },
+    {
+      "abr": "frisco1503tender",
+      "category": "Misc",
+      "defname": "CAT_DRP_Frisco_1503_Coal",
+      "price": -10
+    },
+    {
+      "abr": "fueledsmelter",
       "category": "Production",
-      "defname": "FueledGlassworkTable",
+      "defname": "VFE_FueledSmelter",
       "price": -10
     },
     {
       "abr": "gallimimus",
       "category": "Animals",
-      "defname": "Gallimimus",
+      "defname": "BMT_Gallimimus",
       "price": -10
     },
     {
       "abr": "gallimimusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggGallimimusFertilized",
+      "defname": "BMT_GallimimusEggFertilized",
       "price": -10
     },
     {
-      "abr": "gallimimusmeat",
-      "category": "Meat",
-      "defname": "Meat_Gallimimus",
+      "abr": "gamlared",
+      "category": "Furniture",
+      "defname": "LTS_Gamlared",
+      "price": -10
+    },
+    {
+      "abr": "gasfloodlight",
+      "category": "Furniture",
+      "defname": "VPE_GasFloodlight",
+      "price": -10
+    },
+    {
+      "abr": "gasheater",
+      "category": "Temperature",
+      "defname": "VPE_GasHeater",
+      "price": -10
+    },
+    {
+      "abr": "gaspoweredexcavator",
+      "category": "Production",
+      "defname": "VPE_GasDrill",
+      "price": -10
+    },
+    {
+      "abr": "gassunlamp",
+      "category": "Furniture",
+      "defname": "VPE_GasSunLamp",
+      "price": -10
+    },
+    {
+      "abr": "gastank",
+      "category": "Power",
+      "defname": "VPE_GasTank",
+      "price": -10
+    },
+    {
+      "abr": "gaswalldarklight",
+      "category": "Furniture",
+      "defname": "VPE_GasWallDarkLight",
+      "price": -10
+    },
+    {
+      "abr": "gaswalllight",
+      "category": "Furniture",
+      "defname": "VPE_GasWallLight",
+      "price": -10
+    },
+    {
+      "abr": "gastropodskin",
+      "category": "Leathers",
+      "defname": "BMT_Leather_Gastropoda",
       "price": 3
     },
     {
-      "abr": "gigantoraptor",
+      "abr": "grayshell",
+      "category": "Leathers",
+      "defname": "BMT_GrayChitin",
+      "price": 4
+    },
+    {
+      "abr": "greenshell",
+      "category": "Leathers",
+      "defname": "BiomesCore_GreenChitin",
+      "price": 7
+    },
+    {
+      "abr": "handcar",
+      "category": "Misc",
+      "defname": "CAT_DRP_Handcar",
+      "price": -10
+    },
+    {
+      "abr": "handcar",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Handcar",
+      "price": -10
+    },
+    {
+      "abr": "hangingbed",
+      "category": "Furniture",
+      "defname": "LTS_HangingBed",
+      "price": -10
+    },
+    {
+      "abr": "havsta",
+      "category": "Furniture",
+      "defname": "LTS_Havsta",
+      "price": -10
+    },
+    {
+      "abr": "heatpearls",
+      "category": "Utility",
+      "defname": "VPE_HeatPearls",
+      "price": 100
+    },
+    {
+      "abr": "heavydinosaurhide",
+      "category": "Leathers",
+      "defname": "BMT_DinoHideHeavy",
+      "price": 6
+    },
+    {
+      "abr": "helixiengassmelter",
+      "category": "Production",
+      "defname": "VPE_GasSmelter",
+      "price": -10
+    },
+    {
+      "abr": "helixiengassmithy",
+      "category": "Production",
+      "defname": "VPE_GasSmithy",
+      "price": -10
+    },
+    {
+      "abr": "helixiengasstove",
+      "category": "Production",
+      "defname": "VPE_GasStove",
+      "price": -10
+    },
+    {
+      "abr": "hemnesbed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesSingle",
+      "price": -10
+    },
+    {
+      "abr": "hemnesdoublebed",
+      "category": "Furniture",
+      "defname": "LTS_HemnesDouble",
+      "price": -10
+    },
+    {
+      "abr": "homalocephale",
       "category": "Animals",
-      "defname": "Gigantoraptor",
+      "defname": "BMT_Homalocephale",
       "price": -10
     },
     {
-      "abr": "gigantoraptoregg(fert.)",
+      "abr": "homalocephaleegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggGigantoraptorFertilized",
+      "defname": "BMT_HomalocephaleEggFertilized",
       "price": -10
     },
     {
-      "abr": "gigantoraptormeat",
-      "category": "Meat",
-      "defname": "Meat_Gigantoraptor",
-      "price": 3
-    },
-    {
-      "abr": "ferian",
-      "category": "Animal",
-      "defname": "AFerian",
+      "abr": "hypsilophodon",
+      "category": "Animals",
+      "defname": "BMT_Hypsilophodon",
       "price": -10
     },
     {
-      "abr": "glass",
-      "category": "Manufactured",
-      "defname": "Glass",
-      "price": 12
+      "abr": "hypsilophodonegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_HypsilophodonEggFertilized",
+      "price": -10
     },
     {
-      "abr": "glassworkstv",
-      "category": "Recreation",
-      "defname": "GlassMonitorLarge",
+      "abr": "idanas",
+      "category": "Furniture",
+      "defname": "LTS_IdanasN",
+      "price": -10
+    },
+    {
+      "abr": "idanas",
+      "category": "Furniture",
+      "defname": "LTS_IdanasD",
       "price": -10
     },
     {
       "abr": "iguanodon",
       "category": "Animals",
-      "defname": "Iguanodon",
+      "defname": "BMT_Iguanodon",
       "price": -10
     },
     {
       "abr": "iguanodonegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggIguanodonFertilized",
+      "defname": "BMT_IguanodonEggFertilized",
       "price": -10
     },
     {
-      "abr": "iguanodonmeat",
-      "category": "Meat",
-      "defname": "Meat_Iguanodon",
-      "price": 3
-    },
-    {
-      "abr": "largecircularglass",
-      "category": "Manufactured",
-      "defname": "LargeCircularGlass",
-      "price": 17
-    },
-    {
-      "abr": "magyarosaurus",
+      "abr": "inostrancevia",
       "category": "Animals",
-      "defname": "Magyarosaurus",
+      "defname": "BMT_Inostrancevia",
       "price": -10
     },
     {
-      "abr": "magyarosaurusegg(fert.)",
+      "abr": "inostranceviaegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggMagyarosaurusFertilized",
+      "defname": "BMT_InostranceviaEggFertilized",
       "price": -10
     },
     {
-      "abr": "magyarosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Magyarosaurus",
+      "abr": "jasonmask",
+      "category": "Headgear",
+      "defname": "Apparel_SCJasonHead",
+      "price": 47
+    },
+    {
+      "abr": "kaprosuchus",
+      "category": "Animals",
+      "defname": "BMT_Kaprosuchus",
+      "price": -10
+    },
+    {
+      "abr": "kaprosuchusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_KaprosuchusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "kentrosaurus",
+      "category": "Animals",
+      "defname": "BMT_Kentrosaurus",
+      "price": -10
+    },
+    {
+      "abr": "kentrosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_KentrosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "kitchensinkcabinet",
+      "category": "Misc",
+      "defname": "VFE_KitchenSinkCabinet",
+      "price": -10
+    },
+    {
+      "abr": "kivik",
+      "category": "Furniture",
+      "defname": "LTS_KivikS",
+      "price": -10
+    },
+    {
+      "abr": "kivik",
+      "category": "Furniture",
+      "defname": "LTS_Kivik",
+      "price": -10
+    },
+    {
+      "abr": "klimpfjäll",
+      "category": "Furniture",
+      "defname": "LTS_Klimpfjall",
+      "price": -10
+    },
+    {
+      "abr": "koppang",
+      "category": "Furniture",
+      "defname": "LTS_KoppangD",
+      "price": -10
+    },
+    {
+      "abr": "kriepflatttable",
+      "category": "Furniture",
+      "defname": "SCKRIEPFLATT",
+      "price": -10
+    },
+    {
+      "abr": "kriepneppcoffinbed",
+      "category": "Furniture",
+      "defname": "SCKRIEPNEPP",
+      "price": -10
+    },
+    {
+      "abr": "krieprestchair",
+      "category": "Furniture",
+      "defname": "SCKRIEPREST",
+      "price": -10
+    },
+    {
+      "abr": "kyrre",
+      "category": "Furniture",
+      "defname": "LTS_Kyrre",
+      "price": -10
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_Lantern",
+      "price": -10
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_TableLantern",
+      "price": -10
+    },
+    {
+      "abr": "lantern",
+      "category": "Furniture",
+      "defname": "LTS_ElectricTableLantern",
+      "price": -10
+    },
+    {
+      "abr": "lanternpost",
+      "category": "Furniture",
+      "defname": "LTS_Lanternpost",
+      "price": -10
+    },
+    {
+      "abr": "lanternpost",
+      "category": "Furniture",
+      "defname": "LTS_Lightpost",
+      "price": -10
+    },
+    {
+      "abr": "laptop",
+      "category": "Recreation",
+      "defname": "LTS_laptop",
+      "price": -10
+    },
+    {
+      "abr": "largeadvancedbattery",
+      "category": "Power",
+      "defname": "VFE_LargeAdvancedBattery",
+      "price": -10
+    },
+    {
+      "abr": "largebattery",
+      "category": "Power",
+      "defname": "VFE_LargeBattery",
+      "price": -10
+    },
+    {
+      "abr": "largevanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_LargeVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "leaellynasaura",
+      "category": "Animals",
+      "defname": "BMT_Leaellynasaura",
+      "price": -10
+    },
+    {
+      "abr": "leaellynasauraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_LeaellynasauraEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "lectermask",
+      "category": "Headgear",
+      "defname": "Apparel_SCLecterHead",
+      "price": 34
+    },
+    {
+      "abr": "lightdinosaurhide",
+      "category": "Leathers",
+      "defname": "BMT_DinoHideThin",
       "price": 3
+    },
+    {
+      "abr": "lightningrod",
+      "category": "Special",
+      "defname": "VPE_LightningRod",
+      "price": -10
+    },
+    {
+      "abr": "lizardmeat",
+      "category": "Meat",
+      "defname": "Meat_BMT_Kaprosuchus",
+      "price": 3
+    },
+    {
+      "abr": "lystrosauregg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_LystrosaurEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "lystrosaurus",
+      "category": "Animals",
+      "defname": "BMT_Lystrosaur",
+      "price": -10
+    },
+    {
+      "abr": "machiningcabinet",
+      "category": "Misc",
+      "defname": "VFE_MachiningCabinet",
+      "price": -10
+    },
+    {
+      "abr": "maiasaura",
+      "category": "Animals",
+      "defname": "BMT_Maiasaura",
+      "price": -10
+    },
+    {
+      "abr": "maiasauraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_MaiasauraEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "malsjo",
+      "category": "Furniture",
+      "defname": "LTS_Malsjo",
+      "price": -10
+    },
+    {
+      "abr": "martialartstarget",
+      "category": "Recreation",
+      "defname": "MartialArtsTarget",
+      "price": -10
+    },
+    {
+      "abr": "mediumdinosaurhide",
+      "category": "Leathers",
+      "defname": "BMT_DinoHideMedium",
+      "price": 4
+    },
+    {
+      "abr": "meganeura",
+      "category": "Animals",
+      "defname": "BMT_Meganeura",
+      "price": -10
+    },
+    {
+      "abr": "meganeuraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_MeganeuraEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "migomatter",
+      "category": "Leathers",
+      "defname": "CH_Leather_MiGo",
+      "price": 3
+    },
+    {
+      "abr": "migomeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_MiGoMeat",
+      "price": 2
     },
     {
       "abr": "minmi",
       "category": "Animals",
-      "defname": "Minmi",
+      "defname": "BMT_Minmi",
       "price": -10
     },
     {
       "abr": "minmiegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggMinmiFertilized",
+      "defname": "BMT_MinmiEggFertilized",
       "price": -10
     },
     {
-      "abr": "minmimeat",
+      "abr": "molluskshell",
+      "category": "Leathers",
+      "defname": "BMT_Molluskshell",
+      "price": 6
+    },
+    {
+      "abr": "mullfjället",
+      "category": "Furniture",
+      "defname": "LTS_Mullfjallet",
+      "price": -10
+    },
+    {
+      "abr": "nanosaurus",
+      "category": "Animals",
+      "defname": "BMT_Nanosaurus",
+      "price": -10
+    },
+    {
+      "abr": "nanosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_NanosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenB",
+      "price": -10
+    },
+    {
+      "abr": "nordviken",
+      "category": "Furniture",
+      "defname": "LTS_NordvikenW",
+      "price": -10
+    },
+    {
+      "abr": "norraryd",
+      "category": "Furniture",
+      "defname": "LTS_Norraryd",
+      "price": -10
+    },
+    {
+      "abr": "nypaleafs",
+      "category": "Plant matter",
+      "defname": "BMT_RawNypa",
+      "price": 2
+    },
+    {
+      "abr": "oillamp",
+      "category": "Furniture",
+      "defname": "LTS_OilLamp",
+      "price": -10
+    },
+    {
+      "abr": "olorotitan",
+      "category": "Animals",
+      "defname": "BMT_Olorotitan",
+      "price": -10
+    },
+    {
+      "abr": "olorotitanegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_OlorotitanEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "onchiodon",
+      "category": "Animals",
+      "defname": "BMT_Onchiodon",
+      "price": -10
+    },
+    {
+      "abr": "onchiodonegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_OnchiodonEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "ornithopodmeat",
       "category": "Meat",
-      "defname": "Meat_Minmi",
+      "defname": "Meat_BMT_Iguanodon",
       "price": 3
     },
     {
-      "abr": "outdoorgroundlamp",
-      "category": "Furniture",
-      "defname": "OutdoorGroundLamp",
-      "price": 36
+      "abr": "ouranosaurus",
+      "category": "Animals",
+      "defname": "BMT_Ouranosaurus",
+      "price": -10
+    },
+    {
+      "abr": "ouranosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_OuranosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "oviraptor",
+      "category": "Animals",
+      "defname": "BMT_Oviraptor",
+      "price": -10
+    },
+    {
+      "abr": "oviraptoregg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_OviraptorEggFertilized",
+      "price": -10
     },
     {
       "abr": "pachycephalosaurus",
       "category": "Animals",
-      "defname": "Pachycephalosaurus",
+      "defname": "BMT_Pachycephalosaurus",
       "price": -10
     },
     {
       "abr": "pachycephalosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggPachycephalosaurusFertilized",
+      "defname": "BMT_PachycephalosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "pachycephalosaurusmeat",
+      "abr": "pachycesidmeat",
       "category": "Meat",
-      "defname": "Meat_Pachycephalosaurus",
+      "defname": "Meat_BMT_Pachycephalosaurus",
       "price": 3
     },
     {
-      "abr": "parasaur",
+      "abr": "pachyrhinosaurus",
       "category": "Animals",
-      "defname": "Parasaur",
+      "defname": "BMT_Pachyrhinosaurus",
       "price": -10
     },
     {
-      "abr": "parasauregg(fert.)",
+      "abr": "pachyrhinosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggParasaurFertilized",
+      "defname": "BMT_PachyrhinosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "parasaurmeat",
-      "category": "Meat",
-      "defname": "Meat_Parasaur",
-      "price": 3
+      "abr": "panphagia",
+      "category": "Animals",
+      "defname": "BMT_Panphagia",
+      "price": -10
     },
     {
-      "abr": "planetaryfortress",
-      "category": "Buildings",
-      "defname": "PlanetaryFortress",
+      "abr": "panphagiaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_PanphagiaEggFertilized",
       "price": -10
+    },
+    {
+      "abr": "parasaurolophus",
+      "category": "Animals",
+      "defname": "BMT_Parasaur",
+      "price": -10
+    },
+    {
+      "abr": "parasaurolophusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_ParasaurEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "pennywisemask",
+      "category": "Headgear",
+      "defname": "Apparel_SCPennyHead",
+      "price": 47
+    },
+    {
+      "abr": "pinenuts",
+      "category": "Vegetarian",
+      "defname": "BMT_RawPineNuts",
+      "price": 2
+    },
+    {
+      "abr": "pinheadmask",
+      "category": "Headgear",
+      "defname": "Apparel_SCPinHead",
+      "price": 54
+    },
+    {
+      "abr": "plankpath",
+      "category": "Misc",
+      "defname": "LTS_PathC",
+      "price": -10
+    },
+    {
+      "abr": "polacanthus",
+      "category": "Animals",
+      "defname": "BMT_Polacanthus",
+      "price": -10
+    },
+    {
+      "abr": "polacanthusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_PolacanthusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "portablechemfuelpoweredgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableChemfuelPoweredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "portablewood-firedgenerator",
+      "category": "Power",
+      "defname": "VFE_PortableWoodFiredGenerator",
+      "price": -10
+    },
+    {
+      "abr": "prestigeplatearmor",
+      "category": "Armor",
+      "defname": "VPE_Apparel_PlateArmorPrestige",
+      "price": 1400
+    },
+    {
+      "abr": "primordialchitin",
+      "category": "Leathers",
+      "defname": "BMT_PrimordialChitin",
+      "price": 6
+    },
+    {
+      "abr": "protofeathers",
+      "category": "Wools",
+      "defname": "BMT_DinoFeather",
+      "price": 4
     },
     {
       "abr": "protoceratops",
       "category": "Animals",
-      "defname": "Protoceratops",
+      "defname": "BMT_Protoceratops",
       "price": -10
     },
     {
       "abr": "protoceratopsegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggProtoceratopsFertilized",
+      "defname": "BMT_ProtoceratopsEggFertilized",
       "price": -10
     },
     {
-      "abr": "protoceratopsmeat",
-      "category": "Meat",
-      "defname": "Meat_Protoceratops",
-      "price": 3
-    },
-    {
-      "abr": "pteranodon",
+      "abr": "psittacosaurus",
       "category": "Animals",
-      "defname": "Pteranodon",
+      "defname": "BMT_Psittacosaurus",
       "price": -10
     },
     {
-      "abr": "pteranodonegg(fert.)",
+      "abr": "psittacosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggPteranodonFertilized",
+      "defname": "BMT_PsittacosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "pteranodonegg(unfert.)",
+      "abr": "psittacosaurusegg(unfert.)",
       "category": "Eggs (unfert.)",
-      "defname": "EggPteranodonUnfertilized",
-      "price": 17
+      "defname": "BMT_EggPsittacosaurusUnfertilized",
+      "price": 25
     },
     {
-      "abr": "pteranodonmeat",
-      "category": "Meat",
-      "defname": "Meat_Pteranodon",
-      "price": 3
+      "abr": "psyring",
+      "category": "Utility",
+      "defname": "VPE_Psyring",
+      "price": 2000
     },
     {
-      "abr": "pterosaurskin",
-      "category": "Leathers",
-      "defname": "Leather_PterosaurSkin",
-      "price": 3
+      "abr": "psytrainer(adrenalinerush)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_AdrenalineRush",
+      "price": -10
     },
     {
-      "abr": "quetzalcoatlus",
+      "abr": "psytrainer(age)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Age",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(aggressiveheatdump)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_AggressiveHeatDump",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(animalallies)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_AnimalAllies",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(assassinate)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Assassinate",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(balllightning)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BallLightning",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(beckon)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Beckon",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(bendprobability)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BendProbability",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(berserk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Berserk",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(berskerkpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BerserkPulse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(bladefocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BladeFocus",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(blindingpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BlindingPulse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(bliss)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Bliss",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(blizzard)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Blizzard",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(bolt)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Bolt",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(bramblemaze)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BrambleMaze",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(breatheflame)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_BreatheFlame",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(breatheice)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceBreath",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(burden)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Burden",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(chainbolt)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ChainBolt",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(chaosskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ChaosSkip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(chunkskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Chunkskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(coldzone)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ColdZone",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(conjureheatpearls)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ConjureHeatPearls",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(consumebodies)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ConsumeBodies",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(controlledfrenzy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ControlledFrenzy",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(corpsetalk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Corpsetalk",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(craftpsyring)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_CraftPsyRing",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(crafttimeskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_CraftTimeskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(cropburst)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_CropBurst",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(darkness)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Darkness",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(darkvision)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Darkvision",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(deathshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Deathshield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(decoy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Decoy",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(drainpsyessence)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_DrainPsyessence",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(eclipse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Eclipse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(enchantquality)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_EnchantQuality",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(energydump)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_EnergyDump",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(enthrall)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Enthrall",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(essencetransfer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_EssenceTransfer",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(explosion)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Explosion",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(extinguishflames)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_QuenchFlames",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(eyeblast)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_EyeBlast",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(farskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Farskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(firebeam)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FireBeam",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(fireshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FireShield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(firetornado)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FlameTornado",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(firingfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FiringFocus",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(flameball)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Flameball",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(flashstorm)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Flashstorm",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(focus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Focus",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(frostray)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_FrostRay",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(ghostwalk)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Ghostwalk",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(grouplink)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GroupLink",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(guardianskipbarrier)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GuardianSkipbarrier",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(guidedshot)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_GuidedShot",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(haywire)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Haywire",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(healthswap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_HealthSwap",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(heatfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_HeatFocus",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(hurricane)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Hurricane",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(iceblock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceBlock",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(icecrystal)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceCrystal",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(iceshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceShield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(icespike)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceSpike",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(icewall)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IceWall",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(intensifyshadows)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_IntensifyShadows",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(invisibility)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Invisibility",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(killskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Killskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(liferot)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Liferot",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(locationswap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_LocationSwap",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(lucktransfer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_LuckTransfer",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(manhunterpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ManhunterPulse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(massbeckon)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassBeckon",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(masschaosskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassChaosSkip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(masshallucination)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MassHallucination",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(mend)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Mend",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(meteorshower)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MeteorShower",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(mindbreak)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MindBreak",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(mindcontrol)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Mindcontrol",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(mindwipe)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_MindWipe",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(neuralheatdetonation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_NeuralHeatDetonation",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(neuralheatdump)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_NeuralHeatDump",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(neuroquake)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Neuroquake",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(nightstep)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Nightstep",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(obscure)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Obscure",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(overshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Overshield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(painblock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Painblock",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(paralysispulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ParalysisPulse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(planttimeskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PlantTimeskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(powerleap)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PowerLeap",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(power)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Power",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(psychicdrone)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicDrone",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(psychicguidance)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicGuidance",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(psychicshock)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_PsychicShock",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(psychicsooth(female))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SootheFemale",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(psychicsooth(male))",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SootheMale",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(raidpause)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RaidPause",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(recharge)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Recharge",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(regrowlimbs)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RegrowLimbs",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(resurrect)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Resurrect",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(reunionfarskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ReunionFarskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(reverseengineer)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ReverseEngineer",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(rockconstruct)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_RockConstruct",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(seasontimeskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SeasonTimeskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(selfexplosion)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SelfExplosion",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(shadowfocus)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ShadowFocus",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(shadowskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Shadowskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(shieldanimals)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_ShieldAnimals",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(shrineshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Shrineshield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(skillroll)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SkillRoll",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(skip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(skipdoor)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skipdoor",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(skipshield)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Skipshield",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(smokepop)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Smokepop",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(snapfreeze)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SnapFreeze",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(solarpinhole)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SolarPinhole",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(speedboost)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SpeedBoost",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(stabilize)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Stabilize",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(staticaura)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StaticAura",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(staticpulse)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StaticPulse",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(stealvitality)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_StealVitality",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(steelconstruct)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SteelConstruct",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(stun)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Stun",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(summonpack)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_SummonPack",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(thunderbolt)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Thunderbolt",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(timereversal)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeReversal",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(timesphere)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeSphere",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(timequake)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Timequake",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(timeskipmeditation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TimeskipMeditation",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(transmutation)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Transmutation",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(transmutestone)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TransmuteStone",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(treesprout)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_TreeSprout",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(vortex)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Vortex",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wallraise)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Wallraise",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(waterskip)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_Waterskip",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofalliance)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofAlliance",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofanimals)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofAnimals",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordoffear)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofFear",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofforetelling)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofForetelling",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofhealing)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofHealing",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofimmunity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofImmunity",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofinspiration)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofInspiration",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofjoy)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofJoy",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordoflove)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofLove",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofpain)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofPain",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofproductivity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProductivity",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofprogress)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProgress",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofprotection)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofProtection",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordofserenity)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofSerenity",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(wordoftrust)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_VPE_WordofTrust",
+      "price": -10
+    },
+    {
+      "abr": "pulmonoscorpius",
       "category": "Animals",
-      "defname": "Quetzalcoatlus",
+      "defname": "BMT_Pulmonoscorpius",
       "price": -10
     },
     {
-      "abr": "quetzalcoatlusegg(fert.)",
+      "abr": "pulmonoscorpiusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggQuetzalcoatlusFertilized",
+      "defname": "BMT_EggPulmonoscorpiusFertilized",
       "price": -10
     },
     {
-      "abr": "quetzalcoatlusmeat",
+      "abr": "pumpkinhead",
+      "category": "Headgear",
+      "defname": "Apparel_SCPumpkinHead",
+      "price": 47
+    },
+    {
+      "abr": "regalcarpet",
+      "category": "Misc",
+      "defname": "LTS_RoyalCarpet",
+      "price": -10
+    },
+    {
+      "abr": "remotefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitRemote",
+      "price": 642
+    },
+    {
+      "abr": "rhombohedralenergyweapon",
+      "category": "Ranged weapons",
+      "defname": "ROM_MiGoCastingWeapon",
+      "price": 417
+    },
+    {
+      "abr": "rockconstruct",
+      "category": "Animals",
+      "defname": "VPE_RockConstruct",
+      "price": -10
+    },
+    {
+      "abr": "rockpath",
+      "category": "Misc",
+      "defname": "LTS_PathB",
+      "price": -10
+    },
+    {
+      "abr": "roundpath",
+      "category": "Misc",
+      "defname": "LTS_PathA",
+      "price": -10
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_RugCarpet",
+      "price": -10
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_WoolViscouseS",
+      "price": -10
+    },
+    {
+      "abr": "rugcarpet",
+      "category": "Misc",
+      "defname": "LTS_WoolViscouseLCarpet",
+      "price": -10
+    },
+    {
+      "abr": "sauropodmeat",
       "category": "Meat",
-      "defname": "Meat_Quetzalcoatlus",
+      "defname": "Meat_BMT_Brachiosaurus",
       "price": 3
     },
     {
-      "abr": "raptorleather",
-      "category": "Leathers",
-      "defname": "Leather_Raptor",
-      "price": 5
-    },
-    {
-      "abr": "redhide",
-      "category": "Leathers",
-      "defname": "Leather_Redhide",
-      "price": 7
-    },
-    {
-      "abr": "reinforcedglass",
-      "category": "Manufactured",
-      "defname": "ReinforcedGlass",
-      "price": 30
-    },
-    {
-      "abr": "reinforcedglassworks",
-      "category": "Production",
-      "defname": "ReinforcedGlassworkTable",
+      "abr": "saurumbo",
+      "category": "Animals",
+      "defname": "BMT_Saurumbo",
       "price": -10
     },
     {
-      "abr": "sauropodleather",
-      "category": "Leathers",
-      "defname": "Leather_Sauropod",
-      "price": 6
+      "abr": "saurumbobladefeather",
+      "category": "Trophy",
+      "defname": "BMT_BladeFeather",
+      "price": -10
+    },
+    {
+      "abr": "saurumboegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_SaurumboEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "screammask",
+      "category": "Headgear",
+      "defname": "Apparel_SCScreamHead",
+      "price": 47
+    },
+    {
+      "abr": "shoggothmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ShoggothMeat",
+      "price": 2
+    },
+    {
+      "abr": "shootingtarget",
+      "category": "Recreation",
+      "defname": "ShootingRangeTarget",
+      "price": -10
+    },
+    {
+      "abr": "sickleclaw",
+      "category": "Trophy",
+      "defname": "BMT_RaptorClaw",
+      "price": -10
+    },
+    {
+      "abr": "signpost",
+      "category": "Misc",
+      "defname": "CAT_DRP_Signpost",
+      "price": -10
+    },
+    {
+      "abr": "signpost",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Signpost",
+      "price": -10
+    },
+    {
+      "abr": "simplefieldresearchkit",
+      "category": "Utility",
+      "defname": "RR_FieldResearchKitSimple",
+      "price": 58
+    },
+    {
+      "abr": "skeleton",
+      "category": "Animals",
+      "defname": "VPE_SummonedSkeleton",
+      "price": -10
+    },
+    {
+      "abr": "skellordecor",
+      "category": "Furniture",
+      "defname": "SCSKELLOR",
+      "price": -10
+    },
+    {
+      "abr": "skogsta",
+      "category": "Furniture",
+      "defname": "LTS_Skogsta",
+      "price": -10
+    },
+    {
+      "abr": "skulbraitlamp",
+      "category": "Furniture",
+      "defname": "SCSKULBRAIT",
+      "price": -10
+    },
+    {
+      "abr": "skullmask",
+      "category": "Headgear",
+      "defname": "Apparel_SCSkullHead",
+      "price": 47
+    },
+    {
+      "abr": "smallbattery",
+      "category": "Power",
+      "defname": "VFE_SmallBattery",
+      "price": -10
+    },
+    {
+      "abr": "smallvanometricpowercell",
+      "category": "Special",
+      "defname": "VFE_SmallVanometricPowerCell",
+      "price": -10
+    },
+    {
+      "abr": "smithingcabinet",
+      "category": "Misc",
+      "defname": "VFE_SmithyCabinet",
+      "price": -10
     },
     {
       "abr": "spinosaurus",
       "category": "Animals",
-      "defname": "Spinosaurus",
+      "defname": "BMT_Spinosaurus",
       "price": -10
     },
     {
       "abr": "spinosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggSpinosaurusFertilized",
+      "defname": "BMT_SpinosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "spinosaurusleather",
-      "category": "Leathers",
-      "defname": "Leather_Spinosaurus",
-      "price": 13
+      "abr": "spinosaurussail",
+      "category": "Trophy",
+      "defname": "BMT_SpinoSail",
+      "price": -10
     },
     {
-      "abr": "spinosaurusmeat",
-      "category": "Meat",
-      "defname": "Meat_Spinosaurus",
-      "price": 3
+      "abr": "standinggaslamp",
+      "category": "Furniture",
+      "defname": "VPE_GasLamp",
+      "price": -10
+    },
+    {
+      "abr": "starvampiremeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_StarVampireMeat",
+      "price": 2
+    },
+    {
+      "abr": "star-spawnskin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Cthulhid",
+      "price": 6
+    },
+    {
+      "abr": "star-vampireleather",
+      "category": "Leathers",
+      "defname": "CH_Leather_StarVampire",
+      "price": 8
+    },
+    {
+      "abr": "statkinstatue",
+      "category": "Furniture",
+      "defname": "SCSTATKIN",
+      "price": -10
+    },
+    {
+      "abr": "steelconstruct",
+      "category": "Animals",
+      "defname": "VPE_SteelConstruct",
+      "price": -10
+    },
+    {
+      "abr": "stegoceras",
+      "category": "Animals",
+      "defname": "BMT_Stegoceras",
+      "price": -10
+    },
+    {
+      "abr": "stegocerasegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_StegocerasEggFertilized",
+      "price": -10
     },
     {
       "abr": "stegosaurus",
       "category": "Animals",
-      "defname": "Stegosaurus",
+      "defname": "BMT_Stegosaurus",
       "price": -10
     },
     {
       "abr": "stegosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggStegosaurusFertilized",
+      "defname": "BMT_StegosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "stegosaurusmeat",
+      "abr": "stegosidmeat",
       "category": "Meat",
-      "defname": "Meat_Stegosaurus",
+      "defname": "Meat_BMT_Stegosaurus",
       "price": 3
+    },
+    {
+      "abr": "stockholm",
+      "category": "Furniture",
+      "defname": "LTS_StockholmSofa",
+      "price": -10
+    },
+    {
+      "abr": "stockholm",
+      "category": "Furniture",
+      "defname": "LTS_Stockholm",
+      "price": -10
+    },
+    {
+      "abr": "strangefinemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealFine",
+      "price": 47
+    },
+    {
+      "abr": "strangekibble",
+      "category": "Foods",
+      "defname": "ROM_StrangeKibble",
+      "price": 2
+    },
+    {
+      "abr": "strangelavishmeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealLavish",
+      "price": 67
+    },
+    {
+      "abr": "strangesimplemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealSimple",
+      "price": 42
+    },
+    {
+      "abr": "struthiomimus",
+      "category": "Animals",
+      "defname": "BMT_Struthiomimus",
+      "price": -10
+    },
+    {
+      "abr": "struthiomimusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_StruthiomimusEggFertilized",
+      "price": -10
     },
     {
       "abr": "stygimoloch",
       "category": "Animals",
-      "defname": "Stygimoloch",
+      "defname": "BMT_Stygimoloch",
       "price": -10
     },
     {
       "abr": "stygimolochegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggStygimolochFertilized",
+      "defname": "BMT_StygimolochEggFertilized",
       "price": -10
     },
     {
-      "abr": "stygimolochmeat",
+      "abr": "styracosaurus",
+      "category": "Animals",
+      "defname": "BMT_Styracosaurus",
+      "price": -10
+    },
+    {
+      "abr": "styracosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_StyracosaurusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "synapsidmeat",
       "category": "Meat",
-      "defname": "Meat_Stygimoloch",
+      "defname": "Meat_BMT_Dimetrodon",
       "price": 3
     },
     {
-      "abr": "table",
-      "category": "Furniture",
-      "defname": "GlassTableShort",
-      "price": 62
+      "abr": "tailorcabinet",
+      "category": "Misc",
+      "defname": "VFE_TailorCabinet",
+      "price": -10
     },
     {
       "abr": "therizinosaurus",
       "category": "Animals",
-      "defname": "Therizinosaurus",
+      "defname": "BMT_Therizinosaurus",
       "price": -10
     },
     {
       "abr": "therizinosaurusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggTherizinosaurusFertilized",
+      "defname": "BMT_TherizinosaurusEggFertilized",
       "price": -10
     },
     {
-      "abr": "therizinosaurusmeat",
+      "abr": "theropodmeat",
       "category": "Meat",
-      "defname": "Meat_Therizinosaurus",
+      "defname": "Meat_BMT_Velociraptor",
       "price": 3
     },
     {
-      "abr": "theropodleather",
-      "category": "Leathers",
-      "defname": "Leather_Theropod",
-      "price": 6
+      "abr": "timimus",
+      "category": "Animals",
+      "defname": "BMT_Timimus",
+      "price": -10
+    },
+    {
+      "abr": "timimusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_TimimusEggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "titanoboa",
+      "category": "Animals",
+      "defname": "BMT_Titanoboa",
+      "price": -10
+    },
+    {
+      "abr": "titanoboaegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_TitanoboaEggFertilized",
+      "price": -10
     },
     {
       "abr": "triceratops",
       "category": "Animals",
-      "defname": "Triceratops",
+      "defname": "BMT_Triceratops",
       "price": -10
     },
     {
       "abr": "triceratopsegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggTriceratopsFertilized",
+      "defname": "BMT_TriceratopsEggFertilized",
       "price": -10
     },
     {
-      "abr": "triceratopshorn",
-      "category": "Items",
-      "defname": "TriceratopsHorn",
+      "abr": "tripleflasher",
+      "category": "Misc",
+      "defname": "CAT_DRP_Sign_C_Triple_Flasher",
       "price": -10
     },
     {
-      "abr": "triceratopsmeat",
-      "category": "Meat",
-      "defname": "Meat_Triceratops",
-      "price": 3
+      "abr": "tripleflasher",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Sign_C_Triple_Flasher",
+      "price": -10
     },
     {
-      "abr": "tyrannosaurusleather",
-      "category": "Leathers",
-      "defname": "Leather_Tyrannosaurus",
-      "price": 13
-    },
-    {
-      "abr": "tyrannosaurusrex",
+      "abr": "troodon",
       "category": "Animals",
-      "defname": "TyrannosaurusRex",
+      "defname": "BMT_Troodon",
       "price": -10
     },
     {
-      "abr": "tyrannosaurusrexegg(fert.)",
+      "abr": "troodonegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggTyrannosaurusRexFertilized",
+      "defname": "BMT_TroodonEggFertilized",
       "price": -10
     },
     {
-      "abr": "tyrannosaurusrexmeat",
-      "category": "Meat",
-      "defname": "Meat_TyrannosaurusRex",
-      "price": 3
+      "abr": "tyrannosaurus",
+      "category": "Animals",
+      "defname": "BMT_TRex",
+      "price": -10
     },
     {
-      "abr": "tyrannosaurusrexskull",
-      "category": "Items",
-      "defname": "TyrannosaurusRexSkull",
+      "abr": "tyrannosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_TRexEggFertilized",
       "price": -10
+    },
+    {
+      "abr": "tyrannosaurusskull",
+      "category": "Trophy",
+      "defname": "BMT_TyrannoSkull",
+      "price": -10
+    },
+    {
+      "abr": "ukflasher",
+      "category": "Misc",
+      "defname": "CAT_DRP_Sign_C_UK_Flasher",
+      "price": -10
+    },
+    {
+      "abr": "ukflasher",
+      "category": "Misc",
+      "defname": "5LCAT_DRP_Sign_C_UK_Flasher",
+      "price": -10
+    },
+    {
+      "abr": "untouchablemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_Meat",
+      "price": 2
     },
     {
       "abr": "utahraptor",
       "category": "Animals",
-      "defname": "Utahraptor",
+      "defname": "BMT_Utahraptor",
       "price": -10
     },
     {
       "abr": "utahraptoregg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggUtahraptorFertilized",
+      "defname": "BMT_UtahraptorEggFertilized",
       "price": -10
-    },
-    {
-      "abr": "utahraptormeat",
-      "category": "Meat",
-      "defname": "Meat_Utahraptor",
-      "price": 3
     },
     {
       "abr": "velociraptor",
       "category": "Animals",
-      "defname": "Velociraptor",
+      "defname": "BMT_Velociraptor",
       "price": -10
     },
     {
       "abr": "velociraptoregg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggVelociraptorFertilized",
+      "defname": "BMT_VelociraptorEggFertilized",
       "price": -10
     },
     {
-      "abr": "velociraptormeat",
-      "category": "Meat",
-      "defname": "Meat_Velociraptor",
-      "price": 3
+      "abr": "vidja",
+      "category": "Furniture",
+      "defname": "LTS_Vidja",
+      "price": -10
     },
     {
-      "abr": "walldarklight",
-      "category": "Furniture",
-      "defname": "GLWallLampDark",
-      "price": 64
+      "abr": "walmartcarpet",
+      "category": "Misc",
+      "defname": "LTS_WalmartCarpet",
+      "price": -10
     },
     {
-      "abr": "walllight",
-      "category": "Furniture",
-      "defname": "GLWallLamp",
-      "price": 64
+      "abr": "wannanosaurus",
+      "category": "Animals",
+      "defname": "BMT_Wannanosaurus",
+      "price": -10
     },
     {
-      "abr": "walllight(blue)",
-      "category": "Furniture",
-      "defname": "GLWallLamp_Blue",
-      "price": 64
+      "abr": "wannanosaurusegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_WannanosaurusEggFertilized",
+      "price": -10
     },
     {
-      "abr": "walllight(green)",
+      "abr": "wbstentrug",
       "category": "Furniture",
-      "defname": "GLWallLamp_Green",
-      "price": 64
+      "defname": "SCWEBSTENT",
+      "price": -10
     },
     {
-      "abr": "walllight(orange)",
-      "category": "Furniture",
-      "defname": "GLWallLamp_Orange",
-      "price": 64
+      "abr": "witchmask",
+      "category": "Headgear",
+      "defname": "Apparel_SCWitchHead",
+      "price": 47
     },
     {
-      "abr": "walllight(red)",
-      "category": "Furniture",
-      "defname": "GLWallLamp_Red",
-      "price": 64
+      "abr": "yinlong",
+      "category": "Animals",
+      "defname": "BMT_Yinlong",
+      "price": -10
     },
     {
-      "abr": "walllight(violet)",
-      "category": "Furniture",
-      "defname": "GLWallLamp_Violet",
-      "price": 64
-    },
-    {
-      "abr": "walllight(yellow)",
-      "category": "Furniture",
-      "defname": "GLWallLamp_Yellow",
-      "price": 64
+      "abr": "yinlongegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "BMT_YinlongEggFertilized",
+      "price": -10
     },
     {
       "abr": "yutyrannus",
       "category": "Animals",
-      "defname": "Yutyrannus",
+      "defname": "BMT_Yutyrannus",
       "price": -10
     },
     {
       "abr": "yutyrannusegg(fert.)",
       "category": "Eggs (fert.)",
-      "defname": "EggYutyrannusFertilized",
+      "defname": "BMT_YutyrannusEggFertilized",
       "price": -10
-    },
-    {
-      "abr": "yutyrannusmeat",
-      "category": "Meat",
-      "defname": "Meat_Yutyrannus",
-      "price": 3
     }
   ],
-  "total": 739
+  "total": 1059
 }

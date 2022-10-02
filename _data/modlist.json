@@ -189,7 +189,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.1.2"
+    "version": "6.2.1.3"
   },
   {
     "author": "SirRandoo",
@@ -228,8 +228,152 @@
     "version": "1.1.1.3"
   },
   {
-    "author": "NanoCE",
-    "name": "Glass+Lights",
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors",
+    "steamId": "765890823",
+    "version": "1.3.0.2"
+  },
+  {
+    "author": "Elseud",
+    "name": "Cosmic Horrors Retexture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pentalimbedcat",
+    "name": "Decorative Railway Prop",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Buildings",
+    "steamId": "2594383552",
+    "version": "2.2"
+  },
+  {
+    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": "2062943477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and  Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CiXwOw",
+    "name": "Helixien Gas Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "iFlash",
+    "name": "Clean Textures",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Prehistoric",
+    "steamId": "2860715703",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Erin",
+    "name": "Erin's Hairstyles 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Custom Prisoner Interactions",
+    "steamId": "2841231775",
+    "version": "1.3.7"
+  },
+  {
+    "author": "Dyrewulfe",
+    "name": "Food Poisoning Stack Fix (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kikohi and Oskar Potocki",
+    "name": "Vanilla Base Generation Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirVan",
+    "name": "Van's Retexture : Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haplo",
+    "name": "Misc. Training",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Systems",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DownByLaw",
+    "name": "[LTS]Furnishing - Arches/Doorways Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Elseud",
+    "name": "Machines of War",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Research Reinvented",
+    "steamId": "2868392160",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's HD Royalty Hairstyles",
     "steamId": null,
     "version": null
   },
@@ -240,32 +384,20 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Tr.Vi",
-    "name": "Terran's Security Buildings",
-    "steamId": "2509993687",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Spincrus",
-    "name": "Dinosauria",
+    "author": "Butterfish",
+    "name": "Hair Modding Plus",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Outland - Terrain",
-    "steamId": "2850840457",
-    "version": "1.0.0.0"
+    "author": "Ottersholdhands",
+    "name": "Fell Tribes",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Usagirei",
-    "name": "Pocket Sand",
-    "steamId": "2226330302",
-    "version": "1.0-20210719-030003"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race",
+    "author": "spoonshortage",
+    "name": "Halloween Special Edition",
     "steamId": null,
     "version": null
   }

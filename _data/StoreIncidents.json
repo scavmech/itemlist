@@ -56,16 +56,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -166,5 +156,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 33
+	"total": 31
 }

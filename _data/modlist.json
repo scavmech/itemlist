@@ -3,157 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "1.4.0.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "9.0.1"
-  },
-  {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.3.0.4"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.3.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.2.3.0"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.0.1.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "DebugList Optimizer",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "2218078784",
-    "version": "1.0.3.5"
-  },
-  {
-    "author": "民火",
-    "name": "Where is my weapon?",
-    "steamId": "1539028008",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Kosaro",
-    "name": "Fahrenheit and Celsius",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
-    "steamId": "935982361",
-    "version": "0.5.0.0"
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "targhetti",
-    "name": "Show Draftees Weapon",
-    "steamId": "1690978457",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "IKWID - Caravan Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Ornament",
-    "name": "AutoDye",
-    "steamId": "2563707717",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "VinaLx",
-    "name": "ResearchPal - Forked",
-    "steamId": "2351393394",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Allow Tool",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "QualityBuilder",
-    "steamId": "754637870",
-    "version": "1.0.15"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "Defensive Positions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Supes",
-    "name": "Auto Seller",
-    "steamId": "1440321094",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Achtung!",
-    "steamId": "730936602",
-    "version": "3.4.4.0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Syrus",
-    "name": "Light Map",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Range Finder",
-    "steamId": "1332119637",
-    "version": "2.2.1.0"
+    "version": "1.5.0.0"
   },
   {
     "author": "Fluffy",
@@ -162,242 +12,116 @@
     "version": "4.33.649"
   },
   {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Supes",
+    "name": "Auto Seller",
+    "steamId": "1440321094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Fluffy",
     "name": "Medical Tab",
     "steamId": "715565817",
     "version": "3.4.91"
   },
   {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hatti",
+    "name": "QualityBuilder",
+    "steamId": "754637870",
+    "version": "1.0.17"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Range Finder",
+    "steamId": "1332119637",
+    "version": "2.3.0.0"
+  },
+  {
+    "author": "民火",
+    "name": "Where is my weapon?",
+    "steamId": "1539028008",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.5.1.0"
+  },
+  {
     "author": "hodlhodl",
-    "name": "ToolkitCore",
+    "name": "ToolkitCore (Unofficial)",
     "steamId": "2018368654",
     "version": "1.0.0.0"
   },
   {
     "author": "hodlhodl",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "hodlhodl",
-    "name": "Twitch Toolkit",
+    "name": "Twitch Toolkit (Unofficial)",
     "steamId": "1718525787",
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.2.1.3"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitPolls",
-    "steamId": "2435838514",
-    "version": "1.1.1.7"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.0.5.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.3.2"
-  },
-  {
     "author": "hodlhodl",
-    "name": "TwitchToolkit - Lootboxes",
+    "name": "TwitchToolkit - Lootboxes (Unofficial)",
     "steamId": "1720021578",
     "version": "1.0.0.0"
   },
   {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.3.1"
-  },
-  {
-    "author": "SirRandoo, Hodlhodl and Saschahi",
+    "author": "Hodlhodl and Saschahi",
     "name": "ToolkitExt",
     "steamId": "2824222570",
     "version": "1.1.1.3"
   },
   {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors",
-    "steamId": "765890823",
-    "version": "1.3.0.2"
-  },
-  {
-    "author": "Elseud",
-    "name": "Cosmic Horrors Retexture",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pentalimbedcat",
-    "name": "Decorative Railway Prop",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Buildings",
-    "steamId": "2594383552",
-    "version": "2.2"
-  },
-  {
-    "author": "Oskar Potocki,  XeoNovaDan,  Orion,  Kikohi,  Taranchuk,  Sarg Bjornson and  Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
+    "author": "hodlhodl",
+    "name": "ToolkitCreator (Unofficial)",
+    "steamId": "2099493475",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Sarg Bjornson",
-    "name": "Vanilla Furniture Expanded - Power",
-    "steamId": "2062943477",
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.B2"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Animation (Continued)",
+    "steamId": "2877292196",
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki and  Trunken",
-    "name": "Vanilla Furniture Expanded - Production",
+    "author": "Chevreau",
+    "name": "Diagonal Walls 2",
     "steamId": null,
     "version": null
   },
   {
-    "author": "CiXwOw",
-    "name": "Helixien Gas Production",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "iFlash",
-    "name": "Clean Textures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Prehistoric",
-    "steamId": "2860715703",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Hairstyles 2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Custom Prisoner Interactions",
-    "steamId": "2841231775",
-    "version": "1.3.7"
-  },
-  {
-    "author": "Dyrewulfe",
-    "name": "Food Poisoning Stack Fix (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf,  Oskar Potocki,  legodude17,  Taranchuk,  xrushha,  Sarg Bjornson,  Sir Van and  Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Mlie",
-    "name": "Just Put It Over There",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kikohi and Oskar Potocki",
-    "name": "Vanilla Base Generation Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirVan",
-    "name": "Van's Retexture : Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Haplo",
-    "name": "Misc. Training",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Systems",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Furnishing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DownByLaw",
-    "name": "[LTS]Furnishing - Arches/Doorways Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Elseud",
-    "name": "Machines of War",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Research Reinvented",
-    "steamId": "2868392160",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's HD Royalty Hairstyles",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Butterfish",
-    "name": "Hair Modding Plus",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ottersholdhands",
-    "name": "Fell Tribes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "spoonshortage",
-    "name": "Halloween Special Edition",
+    "author": "Udon",
+    "name": "Child Birth Prayer",
     "steamId": null,
     "version": null
   }

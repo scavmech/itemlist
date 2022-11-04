@@ -472,7 +472,7 @@
       "abr": "burka",
       "category": "Misc",
       "defName": "Apparel_Burka",
-      "price": -10
+      "price": 224
     },
     {
       "abr": "burnbong",
@@ -490,7 +490,7 @@
       "abr": "button-downshirt",
       "category": "Misc",
       "defName": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "camelhide",
@@ -1426,7 +1426,7 @@
       "abr": "grandsculpture",
       "category": "Art",
       "defName": "SculptureGrand",
-      "price": -10
+      "price": 1967
     },
     {
       "abr": "graniteblocks",
@@ -1552,7 +1552,7 @@
       "abr": "heavybandolier",
       "category": "Misc",
       "defName": "Apparel_Bandolier",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "heavyfur",
@@ -1930,7 +1930,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defName": "SculptureLarge",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "lavishmeal",
@@ -2308,19 +2308,19 @@
       "abr": "orbitalbombardmenttargeter",
       "category": "Utility",
       "defName": "OrbitalTargeterBombardment",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "orbitalmechclustertargeter",
       "category": "Utility",
       "defName": "OrbitalTargeterMechCluster",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "orbitalpowerbeamtargeter",
       "category": "Utility",
       "defName": "OrbitalTargeterPowerBeam",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "orbitaltradebeacon",
@@ -2380,13 +2380,13 @@
       "abr": "pants",
       "category": "Misc",
       "defName": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "parka",
       "category": "Misc",
       "defName": "Apparel_Parka",
-      "price": -10
+      "price": 315
     },
     {
       "abr": "patchleather",
@@ -2626,7 +2626,7 @@
       "abr": "psychicfoilhelmet",
       "category": "Headgear",
       "defName": "Apparel_PsychicFoilHelmet",
-      "price": 417
+      "price": -10
     },
     {
       "abr": "psychicharmonizer",
@@ -2638,7 +2638,7 @@
       "abr": "psychicinsanitylance",
       "category": "Utility",
       "defName": "Apparel_PsychicInsanityLance",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "psychicreader",
@@ -2656,7 +2656,7 @@
       "abr": "psychicshocklance",
       "category": "Utility",
       "defName": "Apparel_PsychicShockLance",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "psychicsoothepulser",
@@ -2998,7 +2998,7 @@
       "abr": "robe",
       "category": "Misc",
       "defName": "Apparel_Robe",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "royalbed",
@@ -3034,7 +3034,7 @@
       "abr": "sash",
       "category": "Misc",
       "defName": "Apparel_Sash",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "schooldesk",
@@ -3232,7 +3232,7 @@
       "abr": "slavebodystrap",
       "category": "Misc",
       "defName": "Apparel_BodyStrap",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "slavecollar",
@@ -3262,7 +3262,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defName": "SculptureSmall",
-      "price": -10
+      "price": 275
     },
     {
       "abr": "smallshelf",
@@ -3556,7 +3556,7 @@
       "abr": "terrorsculpture",
       "category": "Art",
       "defName": "SculptureTerror",
-      "price": -10
+      "price": 517
     },
     {
       "abr": "thrumbo",
@@ -3718,7 +3718,7 @@
       "abr": "tribalwear",
       "category": "Misc",
       "defName": "Apparel_TribalA",
-      "price": -10
+      "price": 211
     },
     {
       "abr": "triplerocketlauncher",
@@ -3730,7 +3730,7 @@
       "abr": "t-shirt",
       "category": "Misc",
       "defName": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "tubetelevision",

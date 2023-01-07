@@ -1592,7 +1592,7 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": 525,
+		"price": -10,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
@@ -2060,7 +2060,7 @@
 	},
 	{
 		"abr": "grandsculpture",
-		"price": 1967,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
@@ -2618,7 +2618,7 @@
 	},
 	{
 		"abr": "largesculpture",
-		"price": 517,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
@@ -4148,7 +4148,7 @@
 	},
 	{
 		"abr": "smallsculpture",
-		"price": 275,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -4472,7 +4472,7 @@
 	},
 	{
 		"abr": "terrorsculpture",
-		"price": 517,
+		"price": -10,
 		"category": "Art",
 		"defname": "SculptureTerror"
 	},
@@ -5048,7 +5048,7 @@
 	},
 	{
 		"abr": "adrenalsecretor",
-		"price": 2000,
+		"price": -10,
 		"category": "Insect",
 		"defname": "VFEI_AdrenalSecretor"
 	},
@@ -5075,7 +5075,31 @@
 		"price": 191,
 		"category": "Headgear",
 		"defname": "DevDesigner_WoodElves_MaskedHood"
+	},
+	{
+		"abr": "stagknightpauldrons(t,m,f)",
+		"price": 209,
+		"category": "Apparel",
+		"defname": "DevDesigner_WoodElves_StagKnightPauldrons"
+	},
+	{
+		"abr": "elvengreatbow",
+		"price": 375,
+		"category": "Ranged weapons",
+		"defname": "DevDesigner_WoodElves_Greatbow"
+	},
+	{
+		"abr": "ancientdeerwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "DevDesigner_AncientDeerWool"
+	},
+	{
+		"abr": "elvenrecurvebow",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "DevDesigner_WoodElves_RecurveBow"
 	}
 	],
-	"total": 847
+	"total": 850
 }

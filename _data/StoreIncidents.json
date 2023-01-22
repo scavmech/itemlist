@@ -61,11 +61,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -96,23 +91,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "passion",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -156,5 +136,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 31
+	"total": 27
 }

@@ -2,7 +2,7 @@
 	"items" : [
 	{
 		"abr": "advancedcomponent",
-		"price": -10,
+		"price": 333,
 		"category": "Manufactured",
 		"defname": "ComponentSpacer"
 	},
@@ -697,30 +697,6 @@
 		"defname": "DevDesigner_WoodElves_BladeDancerHelmetA"
 	},
 	{
-		"abr": "bladedancerhelmet",
-		"price": 358,
-		"category": "Headgear",
-		"defname": "DevDesigner_WoodElves_BladeDancerHelmetB"
-	},
-	{
-		"abr": "bladedancerhelmet",
-		"price": 358,
-		"category": "Headgear",
-		"defname": "DevDesigner_WoodElves_BladeDancerHelmetC"
-	},
-	{
-		"abr": "bladedancerhelmet",
-		"price": 358,
-		"category": "Headgear",
-		"defname": "DevDesigner_WoodElves_BladeDancerHelmetD"
-	},
-	{
-		"abr": "bladedancerhelmet",
-		"price": 358,
-		"category": "Headgear",
-		"defname": "DevDesigner_WoodElves_BladeDancerHelmetE"
-	},
-	{
 		"abr": "blindfold",
 		"price": 74,
 		"category": "Headgear",
@@ -1094,7 +1070,7 @@
 	},
 	{
 		"abr": "component",
-		"price": -10,
+		"price": 53,
 		"category": "Manufactured",
 		"defname": "ComponentIndustrial"
 	},
@@ -1592,7 +1568,7 @@
 	},
 	{
 		"abr": "empgrenades",
-		"price": -10,
+		"price": 525,
 		"category": "Grenades",
 		"defname": "Weapon_GrenadeEMP"
 	},
@@ -2024,7 +2000,7 @@
 	},
 	{
 		"abr": "go-juice",
-		"price": 88,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "GoJuice"
 	},
@@ -4898,7 +4874,7 @@
 	},
 	{
 		"abr": "wake-up",
-		"price": 58,
+		"price": -10,
 		"category": "Drugs",
 		"defname": "WakeUp"
 	},
@@ -5099,7 +5075,391 @@
 		"price": 467,
 		"category": "Ranged weapons",
 		"defname": "DevDesigner_WoodElves_RecurveBow"
+	},
+	{
+		"abr": "alariellearmor(f)",
+		"price": 908,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_AlarielleArmor"
+	},
+	{
+		"abr": "alariellecrown",
+		"price": 1133,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_AlarielleHelmet"
+	},
+	{
+		"abr": "alariellerobe(f)",
+		"price": 207,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_AlarielleRobe"
+	},
+	{
+		"abr": "alariellestaff",
+		"price": 1233,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_WoodElves_AlarielleStaff"
+	},
+	{
+		"abr": "arrowquiver",
+		"price": 238,
+		"category": "Utility",
+		"defname": "DevDesigner_HighElves_Quiver"
+	},
+	{
+		"abr": "blackguardarmor(t,m,f)",
+		"price": 942,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_BlackGuardArmor"
+	},
+	{
+		"abr": "blackguardcloak(t,m,f)",
+		"price": 692,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_BlackGuardCloak"
+	},
+	{
+		"abr": "blackguardhelmet",
+		"price": 900,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_BlackGuardHelmet"
+	},
+	{
+		"abr": "blackguardpauldrons(t,m,f)",
+		"price": 725,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_BlackGuardPauldrons"
+	},
+	{
+		"abr": "boltquiver",
+		"price": 238,
+		"category": "Utility",
+		"defname": "DevDesigner_DarkElves_Quiver"
+	},
+	{
+		"abr": "coldone",
+		"price": 2083,
+		"category": "Animals",
+		"defname": "DevDesigner_ColdOne"
+	},
+	{
+		"abr": "coldoneegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "DevDesigner_EggColdOneFertilized"
+	},
+	{
+		"abr": "coldoneknightarmor(t,m,f)",
+		"price": 933,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_ColdOneKnightArmor"
+	},
+	{
+		"abr": "coldoneknightcloak(t,m,f)",
+		"price": 692,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_ColdOneKnightCloak"
+	},
+	{
+		"abr": "coldoneknighthelmet",
+		"price": 733,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_ColdOneKnightHelmet"
+	},
+	{
+		"abr": "coldonemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_DevDesigner_ColdOne"
+	},
+	{
+		"abr": "darkelvengreatsword",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_DarkElves_Greatsword"
+	},
+	{
+		"abr": "dragonprincearmor(t,m,f)",
+		"price": 933,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_DragonPrinceArmor"
+	},
+	{
+		"abr": "dragonprincehelmet",
+		"price": 900,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_DragonPrinceHelmet"
+	},
+	{
+		"abr": "dragonprincepauldrons(t,m,f)",
+		"price": 725,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_DragonPrincePauldrons"
+	},
+	{
+		"abr": "dragonshield",
+		"price": 321,
+		"category": "Elven shields",
+		"defname": "DevDesigner_HighElves_DragonPrinceShield"
+	},
+	{
+		"abr": "dreadspeararmor(t,m,f)",
+		"price": 908,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_DreadspearArmor"
+	},
+	{
+		"abr": "dreadspearhelmet",
+		"price": 533,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_DreadspearHelmet"
+	},
+	{
+		"abr": "elvencape(t,m,f)",
+		"price": 124,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_Cape"
+	},
+	{
+		"abr": "elvenchainmail(t,m,f)",
+		"price": 263,
+		"category": "Apparel",
+		"defname": "DevDesigner_Elves_Chainmail"
+	},
+	{
+		"abr": "elvencloak(t,m,f)",
+		"price": 124,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_Cloak"
+	},
+	{
+		"abr": "elvendagger",
+		"price": 221,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_DarkElves_Dagger"
+	},
+	{
+		"abr": "elvengambeson(t,m,f)",
+		"price": 263,
+		"category": "Apparel",
+		"defname": "DevDesigner_Elves_Gambeson"
+	},
+	{
+		"abr": "elvengreataxe",
+		"price": 558,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_HighElves_Greataxe"
+	},
+	{
+		"abr": "elvengreatsword",
+		"price": 642,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_HighElves_Greatsword"
+	},
+	{
+		"abr": "elvenhalberd",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_DarkElves_Halberd"
+	},
+	{
+		"abr": "elvenleatherarmor(t,m,f)",
+		"price": 230,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_LeatherArmor"
+	},
+	{
+		"abr": "elvenlongbow",
+		"price": 400,
+		"category": "Ranged weapons",
+		"defname": "DevDesigner_HighElves_Longbow"
+	},
+	{
+		"abr": "elvenlongsword",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_HighElves_Longsword"
+	},
+	{
+		"abr": "elvenlordarmor(t,m,f)",
+		"price": 1833,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_LordArmor"
+	},
+	{
+		"abr": "elvenlordcloak(t,m,f)",
+		"price": 700,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_LordCloak"
+	},
+	{
+		"abr": "elvenlordhelmet",
+		"price": 1242,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_LordHelmet"
+	},
+	{
+		"abr": "elvenlordpauldrons(t,m,f)",
+		"price": 742,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_LordPauldrons"
+	},
+	{
+		"abr": "elvenshield",
+		"price": 321,
+		"category": "Elven shields",
+		"defname": "DevDesigner_HighElves_Shield"
+	},
+	{
+		"abr": "elvenshield",
+		"price": 321,
+		"category": "Elven shields",
+		"defname": "DevDesigner_DarkElves_Shield"
+	},
+	{
+		"abr": "elvenspear",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_DarkElves_Spear"
+	},
+	{
+		"abr": "elvenspear",
+		"price": 383,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_HighElves_Spear"
+	},
+	{
+		"abr": "elvensword",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_DarkElves_Sword"
+	},
+	{
+		"abr": "elvensword",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "DevDesigner_HighElves_Sword"
+	},
+	{
+		"abr": "maskedhood",
+		"price": 191,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_MaskedHoodA"
+	},
+	{
+		"abr": "maskedhood",
+		"price": 191,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_MaskedHoodB"
+	},
+	{
+		"abr": "morathiarmor(f)",
+		"price": 908,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_MorathiArmor"
+	},
+	{
+		"abr": "morathicrown",
+		"price": 1133,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_MorathiHelmet"
+	},
+	{
+		"abr": "morathipauldrons(f)",
+		"price": 725,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_MorathiPauldrons"
+	},
+	{
+		"abr": "morathirobe(f)",
+		"price": 207,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_MorathiRobe"
+	},
+	{
+		"abr": "shadowwarriorarmor(t,m,f)",
+		"price": 908,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_ShadowWarriorArmor"
+	},
+	{
+		"abr": "shadowwarriorhelmet",
+		"price": 433,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_ShadowWarriorHelmet"
+	},
+	{
+		"abr": "shadowwarriorpauldrons(t,m,f)",
+		"price": 209,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_ShadowWarriorPauldrons"
+	},
+	{
+		"abr": "shamancrown",
+		"price": 230,
+		"category": "Headgear",
+		"defname": "DevDesigner_WoodElves_ShamanCrownB"
+	},
+	{
+		"abr": "sorceresscrown",
+		"price": 1367,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_SorceressHelmet"
+	},
+	{
+		"abr": "sorceressrobe(f)",
+		"price": 458,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_SorceressRobe"
+	},
+	{
+		"abr": "spearmanarmor(t,m,f)",
+		"price": 908,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_SpearmanArmor"
+	},
+	{
+		"abr": "spearmanhelmet",
+		"price": 533,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_SpearmanHelmet"
+	},
+	{
+		"abr": "whitelionarmor(t,m,f)",
+		"price": 933,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_WhiteLionArmor"
+	},
+	{
+		"abr": "whitelionhelmet",
+		"price": 733,
+		"category": "Headgear",
+		"defname": "DevDesigner_HighElves_WhiteLionHelmet"
+	},
+	{
+		"abr": "whitelionpelt(t,m,f)",
+		"price": 124,
+		"category": "Apparel",
+		"defname": "DevDesigner_HighElves_WhiteLionPelt"
+	},
+	{
+		"abr": "witcharmor(f)",
+		"price": 408,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_WitchArmor"
+	},
+	{
+		"abr": "witchelfcrown",
+		"price": 867,
+		"category": "Headgear",
+		"defname": "DevDesigner_DarkElves_WitchHelmet"
+	},
+	{
+		"abr": "witchundergarment(f)",
+		"price": 207,
+		"category": "Apparel",
+		"defname": "DevDesigner_DarkElves_WitchBikini"
 	}
 	],
-	"total": 850
+	"total": 910
 }

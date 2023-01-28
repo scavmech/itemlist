@@ -2026,7 +2026,7 @@
       "abr": "luciferium",
       "category": "Drugs",
       "defname": "Luciferium",
-      "price": 117
+      "price": -10
     },
     {
       "abr": "lung",
@@ -2230,7 +2230,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "morbidslab(broad)",
@@ -2278,7 +2278,7 @@
       "abr": "nanostructuringchip",
       "category": "Manufactured",
       "defname": "NanostructuringChip",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "neuralsupercharger",
@@ -2500,7 +2500,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "plasteel",
@@ -2560,7 +2560,7 @@
       "abr": "powerfocuschip",
       "category": "Manufactured",
       "defname": "PowerfocusChip",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "prestigecataphractarmor",
@@ -3112,7 +3112,7 @@
       "abr": "signalchip",
       "category": "Manufactured",
       "defname": "SignalChip",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "silver",
@@ -3958,7 +3958,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "affixsix",
@@ -4420,7 +4420,7 @@
       "abr": "yuranmonokatana",
       "category": "Melee weapons",
       "defname": "YR_WP_monokatana",
-      "price": 1942
+      "price": -10
     },
     {
       "abr": "yuranmyeong-wol",

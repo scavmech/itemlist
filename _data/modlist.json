@@ -192,33 +192,183 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "SoulfulPumpkin",
-    "name": "Tabletop Trove - Additional Joy Objects and Decor",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Erin",
-    "name": "Erin's Valheim Creatures",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Alias",
-    "name": "De-generalize Work",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gewen and Swenzi",
-    "name": "Additional Traits (Heroes + Gods Optional)",
-    "steamId": "1621571024",
+    "author": "Kiame Vivacity and Taranchuk",
+    "name": "[KV] Call Trade Ships [1.4]",
+    "steamId": "",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Telkir and Rain",
+    "name": "[T] MoreFloors 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Creeper",
+    "name": "BetterInfoCard",
+    "steamId": "2890920739",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lennoxicon",
+    "name": "Biotech Expansion - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShadowX99",
+    "name": "Blood Color Genes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Completely Clueless",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Eagle0600",
+    "name": "Dress Patients (1.4)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "dickmosi",
+    "name": "Firefoam Things",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Tials",
+    "name": "Floordrawings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Obi Vayne Kenobi",
+    "name": "Gene Ripper",
+    "steamId": "2885485814",
+    "version": "0.3.0"
+  },
+  {
+    "author": "Khorbos",
+    "name": "Go the F*** to Sleep - Forked",
+    "steamId": "2880337287",
+    "version": "1.0.2"
+  },
+  {
+    "author": "DoctorStupid",
+    "name": "Literally just a sofa",
+    "steamId": "2894560149",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Pal 5k",
+    "name": "Logistics_Mechanoid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Issac Zhuang",
+    "name": "Muzzle Flash",
+    "steamId": "2917732219",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Ores",
+    "steamId": "2923871543",
+    "version": "1.4"
+  },
+  {
+    "author": "Scherub",
+    "name": "Planning Extended",
+    "steamId": "2877392159",
+    "version": "1.6.1"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "Universum",
+    "steamId": "2920558019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "sindre0830",
+    "name": "RimNauts 2",
+    "steamId": "2880599514",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid",
+    "name": "Roo's Painting Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Splashes",
+    "steamId": "2889330414",
+    "version": "1.4"
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple FX: Vapor",
+    "steamId": "2886571275",
+    "version": "1.4"
+  },
+  {
+    "author": "Superniquito",
+    "name": "Trait and Backstory Icons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nejellen",
+    "name": "Tribal Crib",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MrHydralisk",
+    "name": "Vanilla Outposts Expanded: Additional Outposts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Victor and wilki24",
+    "name": "Walls are solid",
+    "steamId": null,
+    "version": null
   }
 ]

@@ -181,9 +181,9 @@
   },
   {
     "author": "swemoney",
-    "name": "Toolkit - Channel Points",
+    "name": "Toolkit - Channel Points (Unofficial)",
     "steamId": "1916651243",
-    "version": "1.2.0"
+    "version": "1.3.1"
   },
   {
     "author": "SirRandoo",
@@ -300,10 +300,10 @@
     "version": "1.6.1"
   },
   {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0"
+    "author": "Augurr",
+    "name": "RimFridge Updated",
+    "steamId": "2878183338",
+    "version": "1.2.1.0"
   },
   {
     "author": "sindre0830",
@@ -370,5 +370,17 @@
     "name": "Walls are solid",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.4.1240.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   }
 ]

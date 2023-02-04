@@ -100,7 +100,7 @@
       "abr": "animusstone",
       "category": "Misc",
       "defname": "AnimusStone",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "antigrainwarhead",
@@ -1366,7 +1366,7 @@
       "abr": "glowpod",
       "category": "Special",
       "defname": "GlowPod",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "glucosoidpump",
@@ -1792,7 +1792,7 @@
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "insectjelly",
@@ -2104,7 +2104,7 @@
       "abr": "mechnode",
       "category": "Special",
       "defname": "Gloomlight",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "mechanoidtransponder",
@@ -2632,7 +2632,7 @@
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": 2167
+      "price": -10
     },
     {
       "abr": "psychicfoilhelmet",
@@ -3778,7 +3778,7 @@
       "abr": "unstablepowercell",
       "category": "Special",
       "defname": "UnstablePowerCell",
-      "price": 667
+      "price": -10
     },
     {
       "abr": "uranium",
@@ -3796,7 +3796,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "vegetarianfinemeal",
@@ -3970,7 +3970,7 @@
       "abr": "bigcherry",
       "category": "Manufactured",
       "defname": "YR_yedoensisBerries_Big",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "cherry",
@@ -4090,7 +4090,7 @@
       "abr": "yuranbigcherrybox",
       "category": "Manufactured",
       "defname": "YR_TreeBox",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "yuranbigribbon",
@@ -4120,7 +4120,7 @@
       "abr": "yuranblackskirt/capebox",
       "category": "Manufactured",
       "defname": "YR_ClothBox_AddonBlackSkirt",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "yuranbow",
@@ -4240,7 +4240,7 @@
       "abr": "yuranlotuslantern",
       "category": "Manufactured",
       "defname": "YR_Random_lantern",
-      "price": 75
+      "price": -10
     },
     {
       "abr": "yuranmeat",
@@ -4348,25 +4348,25 @@
       "abr": "yuranstaff",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "yuranstaff(bondage)",
       "category": "Ranged weapons",
       "defname": "YR_WP_StaffB",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "yuranstaff(cooldown)",
       "category": "Ranged weapons",
       "defname": "YR_WP_Staff_Cooldown",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "yuranstaff(disturbing)",
       "category": "Ranged weapons",
       "defname": "YR_WP_StaffC",
-      "price": 263
+      "price": -10
     },
     {
       "abr": "yurantalismanoftheearth",
@@ -4402,7 +4402,7 @@
       "abr": "yuranwhitedressbox",
       "category": "Manufactured",
       "defname": "YR_ClothBox_AddonWhite",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "yuranwhitedressforornaments",
@@ -4546,7 +4546,7 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     }
   ],
   "total": 758

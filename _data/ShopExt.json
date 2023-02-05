@@ -33,12 +33,18 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy's voice has a particularly grating, nasal quality to it, and he tends to talk in barked, garbled phrases. This predisposes others to dislike him.",
-      "stats": [],
+      "stats": [
+        "x110% move speed",
+        "x150% recreation power"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "x110% move speed",
+          "x150% recreation power"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -313,12 +319,18 @@
       "removePrice": 5500,
       "degree": 2,
       "description": "Timmy is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+3 medical",
+        "+3 plants"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+3 medical",
+          "+3 plants"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -335,12 +347,18 @@
       "removePrice": 5500,
       "degree": 1,
       "description": "Timmy has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. he will ignore directives to not use recreational drugs, and will consume more than a normal person.",
-      "stats": [],
+      "stats": [
+        "+1 medical",
+        "+1 plants"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+1 medical",
+          "+1 plants"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -379,12 +397,20 @@
       "removePrice": 5500,
       "degree": -2,
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
-      "stats": [],
+      "stats": [
+        "+3 animals",
+        "x110% tame animal chance",
+        "x115% train animal chance"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+3 animals",
+          "x110% tame animal chance",
+          "x115% train animal chance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -529,7 +555,10 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy needs a really impressive bedroom. he gets a mood loss if he doesn't get what he wants.",
-      "stats": [],
+      "stats": [
+        "x133% eating speed",
+        "x150% carrying capacity"
+      ],
       "conflicts": [
         "ascetic",
         "jealous"
@@ -540,7 +569,10 @@
           "ascetic",
           "jealous"
         ],
-        "stats": [],
+        "stats": [
+          "x133% eating speed",
+          "x150% carrying capacity"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -977,12 +1009,20 @@
       "removePrice": 5500,
       "degree": -1,
       "description": "Timmy tends to look on the bad side of life.",
-      "stats": [],
+      "stats": [
+        "+2 animals",
+        "x105% tame animal chance",
+        "x110% train animal chance"
+      ],
       "conflicts": [],
       "bypassLimit": false,
       "data": {
         "conflicts": [],
-        "stats": [],
+        "stats": [
+          "+2 animals",
+          "x105% tame animal chance",
+          "x110% train animal chance"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1831,6 +1871,58 @@
       },
       "defName": "Xenophobia",
       "name": "xenophile"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 2,
+      "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
+      "stats": [
+        "+3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "angelicbeauty"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -2,
+      "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
+      "stats": [
+        "-3.0 beauty"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-3.0 beauty"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Alpha Genes",
+        "karmaTypeForAdding": null
+      },
+      "defName": "AG_Beauty",
+      "name": "repulsive"
     }
   ],
   "races": [
@@ -1855,122 +1947,6 @@
       "enabled": true,
       "name": "human",
       "price": 2917
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+60.00 Mass",
-          "+150% Flammability",
-          "+$1200 Market value",
-          "+4.70 Move speed",
-          "+45.0F Maximum comfortable temperature",
-          "-9.0F Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+35 Meat amount",
-          "+45 Leather amount",
-          "+75% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+40% Mental break threshold",
-          "+50% Toxic resistance",
-          "+50% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+115.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+125.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.3 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+100% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+90% Mining speed",
-          "+110% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Yuran is an Ain race with the appearance of a rabbit, and its origin is not known precisely.\nAs a minority race with a small population, there are genetic problems and males do not exist. It continues.\nCentering on the Miko with special abilities that are passed on through blood lineage, they live in a small village-sized village and have faith in the large cherry tree in their hometown.",
-      "defName": "Yuran_Race",
-      "enabled": true,
-      "name": "yuran",
-      "price": 2000
-    },
-    {
-      "data": {
-        "customName": false,
-        "stats": [
-          "+52.00 Mass",
-          "+150% Flammability",
-          "+$2800 Market value",
-          "+4.75 Move speed",
-          "+45.0F Maximum comfortable temperature",
-          "+18.0F Minimum comfortable temperature",
-          "+100% Rest rate multiplier",
-          "+100% Eating speed",
-          "+75 Carrying capacity",
-          "+5 Meat amount",
-          "+5 Leather amount",
-          "+80% Pain shock threshold",
-          "+135% Psychic sensitivity",
-          "+30% Mental break threshold",
-          "+100% Toxic resistance",
-          "+100% Toxic environment resistance",
-          "+1.2 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+100% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+125.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+150.00% Social impact",
-          "+115.00% Trade price improvement",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Construction speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+110.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+125% Plant work speed",
-          "+100% Global learning factor",
-          "+100% Research speed",
-          "+120% Medical tend quality",
-          "+150% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+105% Immunity gain speed",
-          "+50% Mining speed",
-          "+100% Mining yield",
-          "+0.0% Armor - Blunt",
-          "+0.0% Armor - Sharp"
-        ],
-        "mod": "Unknown",
-        "karmaType": null
-      },
-      "description": "Miko serves and manages the village as a kind of duty for Yuran belonging to a family of special lineage.",
-      "defName": "Yuran_Race_Miko",
-      "enabled": true,
-      "name": "yuranmiko",
-      "price": 2000
     }
   ]
 }

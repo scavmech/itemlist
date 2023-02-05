@@ -6,11 +6,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "rain",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "aurora",
 		"price": 200,
 		"karmatype": "Good"
@@ -21,63 +16,18 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "tradercaravan",
-		"price": 275,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "orbitaltraderarrival",
 		"price": 350,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 1000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "psychicsoothe",
-		"price": 250,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "ambrosiasprout",
 		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "herdmigration",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "rarethrumbos",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "shipchunkdrop",
-		"price": 300,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "skillincrease",
 		"price": 200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "party",
-		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -101,63 +51,13 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randominspire",
-		"price": 450,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveall",
-		"price": 22664,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 2833,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healanypawn",
-		"price": 2000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healme",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "passionshuffle",
-		"price": 2000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "passion",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "removepassion",
-		"price": 5000,
 		"karmatype": "Neutral"
 	},
 	{
@@ -189,17 +89,7 @@
 		"abr": "equip",
 		"price": 1,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 40
+	"total": 18
 }

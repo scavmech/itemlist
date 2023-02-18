@@ -980,7 +980,7 @@
 	},
 	{
 		"abr": "duster",
-		"price": -10,
+		"price": 327,
 		"category": "Misc",
 		"defname": "Apparel_Duster"
 	},
@@ -1874,7 +1874,7 @@
 	},
 	{
 		"abr": "kidtribalwear",
-		"price": -10,
+		"price": 108,
 		"category": "Misc",
 		"defname": "Apparel_KidTribal"
 	},
@@ -3554,7 +3554,7 @@
 	},
 	{
 		"abr": "tribalwear",
-		"price": -10,
+		"price": 211,
 		"category": "Misc",
 		"defname": "Apparel_TribalA"
 	},
@@ -5282,25 +5282,25 @@
 	},
 	{
 		"abr": "duracrete",
-		"price": 2,
+		"price": -10,
 		"category": "Stone blocks",
 		"defname": "OuterRim_Duracrete"
 	},
 	{
 		"abr": "durafiber",
-		"price": 2,
+		"price": -10,
 		"category": "Textiles",
 		"defname": "OuterRim_Durafiber"
 	},
 	{
 		"abr": "durafiberbodysuit",
-		"price": 198,
+		"price": -10,
 		"category": "Apparel",
 		"defname": "OuterRim_Bodysuit"
 	},
 	{
 		"abr": "durasteel",
-		"price": 8,
+		"price": -10,
 		"category": "Raw resources",
 		"defname": "OuterRim_Durasteel"
 	},
@@ -9905,7 +9905,37 @@
 		"price": 833,
 		"category": "Apparel",
 		"defname": "WORK_Apparel_Pants"
+	},
+	{
+		"abr": "boilerpot",
+		"price": 17,
+		"category": "Hygiene",
+		"defname": "ES_Kettle"
+	},
+	{
+		"abr": "filterdevice",
+		"price": 392,
+		"category": "Hygiene",
+		"defname": "ES_FilterDevice"
+	},
+	{
+		"abr": "washingkit",
+		"price": 37,
+		"category": "Hygiene",
+		"defname": "ES_WashingKit"
+	},
+	{
+		"abr": "deathsuperacidifier",
+		"price": 1500,
+		"category": "Bionic",
+		"defname": "VESWW_DeathSuperAcidifier"
+	},
+	{
+		"abr": "nutritionblock",
+		"price": 17,
+		"category": "Animal products",
+		"defname": "ATR_NutritionBlock"
 	}
 	],
-	"total": 1651
+	"total": 1656
 }

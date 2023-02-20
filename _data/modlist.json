@@ -192,16 +192,16 @@
     "version": null
   },
   {
-    "author": "AlexisPopcorn",
-    "name": "[AP] Slaveholding",
-    "steamId": "2928105773",
-    "version": "1.0.0.0"
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.5.2.0"
   },
   {
-    "author": "Diamond.J, Frolg and GLONASS",
-    "name": "[SZ]WNA Military Armor Expanded",
-    "steamId": null,
-    "version": null
+    "author": "leboeuf",
+    "name": "Litters for Biotech",
+    "steamId": "2918194748",
+    "version": "1.0.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -210,225 +210,9 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Sarg Bjornson and Ben Lubar",
-    "name": "Alpha Bees",
-    "steamId": "1558161673",
-    "version": "1.4.8315.17730"
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Killathon",
-    "name": "Android Tiers Reforged",
-    "steamId": "2917948202",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "aRandomKiwi and CrackaJack",
-    "name": "Android tiers - TX Series (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "laura7z",
-    "name": "Androids Don't Breathe",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Timuttie",
-    "name": "Atelier",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrKociak",
-    "name": "Biotech Mech Stuff Elongated - Mechanoid Upgrades V2",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Kopp",
-    "name": "Caravan Formation Improvements",
-    "steamId": "2927335733",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "miyamiya and twsta",
-    "name": "Compressed Raid",
-    "steamId": "2927368319",
-    "version": "1.4"
-  },
-  {
-    "author": "ElderSign",
-    "name": "DBH for Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Issac Zhuang",
-    "name": "Muzzle Flash",
-    "steamId": "2917732219",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "空曜",
-    "name": "Earthsplitter Ordnance",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Topodic",
-    "name": "Forgettable Pumps",
-    "steamId": "2927123901",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Sarg Bjornson and AFriend",
-    "name": "Alpha Animals",
-    "steamId": "1541721856",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "BotchJob",
-    "name": "Gallatross and Friends Retextured",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.5.2.0"
-  },
-  {
-    "author": "Roolo and Owlchemist",
-    "name": "Giddy-Up 2 (temporary beta)",
-    "steamId": "2925824994",
-    "version": "1.4"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.0.8421.18257"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Core",
-    "steamId": "2919227155",
-    "version": "1.0.8419.34540"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Old Republic",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Jelheb",
-    "name": "Outer Rim Imperial Remnant",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MZMGOW",
-    "name": "Owl's Colonist Bar_zh",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Nuff",
-    "name": "Pets Are Safe",
-    "steamId": "2926693606",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "DARKkai",
-    "name": "Ratkin Ranged Weapon Expanded New",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Gouda quiche",
-    "name": "MoHAR framework",
-    "steamId": "2057001924",
-    "version": "1.0.8331.27653"
-  },
-  {
-    "author": "Troopersmith1",
-    "name": "Rimeffect Races (Continued)",
-    "steamId": "2926557428",
-    "version": "1.4.1"
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's Minotaur Xenotype",
-    "steamId": "2927812651",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid",
-    "name": "Roo's Minotaur Xenotype Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "FlashPoint55",
-    "name": "Self reloading traps",
-    "steamId": "1820959221",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "gomi",
-    "name": "SimpleStairs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma",
-    "name": "StylePack - Combined Logistics Command",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Leon The Hero",
-    "name": "The Best Loading Screen Tip",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Aranmaho",
-    "name": "VPE - Ranger",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Galactic Empire",
-    "steamId": "2919248699",
-    "version": "1.0.8416.41904"
   }
 ]

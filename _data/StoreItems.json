@@ -490,7 +490,7 @@
       "abr": "button-downshirt",
       "category": "Misc",
       "defname": "Apparel_CollarShirt",
-      "price": -10
+      "price": 166
     },
     {
       "abr": "camelhide",
@@ -1180,7 +1180,7 @@
       "abr": "firefoampoppack",
       "category": "Utility",
       "defname": "Apparel_FirefoampopPack",
-      "price": -10
+      "price": 239
     },
     {
       "abr": "firefoampopper",
@@ -1192,7 +1192,7 @@
       "abr": "firefoamshell",
       "category": "Mortar shells",
       "defname": "Shell_Firefoam",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "flakhelmet",
@@ -1834,7 +1834,7 @@
       "abr": "jumppack",
       "category": "Utility",
       "defname": "Apparel_PackJump",
-      "price": -10
+      "price": 1075
     },
     {
       "abr": "kibble",
@@ -1852,7 +1852,7 @@
       "abr": "kidpants",
       "category": "Misc",
       "defname": "Apparel_KidPants",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidparka",
@@ -1870,7 +1870,7 @@
       "abr": "kidshirt",
       "category": "Misc",
       "defname": "Apparel_KidShirt",
-      "price": -10
+      "price": 74
     },
     {
       "abr": "kidtribalwear",
@@ -2386,7 +2386,7 @@
       "abr": "pants",
       "category": "Misc",
       "defname": "Apparel_Pants",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "parka",
@@ -3136,7 +3136,7 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": -10
+      "price": 277
     },
     {
       "abr": "sniperrifle",
@@ -3496,7 +3496,7 @@
       "abr": "toxpack",
       "category": "Utility",
       "defname": "Apparel_PackTox",
-      "price": -10
+      "price": 219
     },
     {
       "abr": "toxshell",
@@ -3568,7 +3568,7 @@
       "abr": "t-shirt",
       "category": "Misc",
       "defname": "Apparel_BasicShirt",
-      "price": -10
+      "price": 143
     },
     {
       "abr": "tubetelevision",

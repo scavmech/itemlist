@@ -138,12 +138,6 @@
     "version": null
   },
   {
-    "author": "user19990313 and Trinity",
-    "name": "RuntimeGC [1.4]",
-    "steamId": "2559582557",
-    "version": "0.1.0.0"
-  },
-  {
     "author": "Nibato",
     "name": "AutoExtractGenes",
     "steamId": "2882834449",
@@ -214,5 +208,11 @@
     "name": "Vanilla Races Expanded - Phytokin",
     "steamId": "2927323805",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   }
 ]

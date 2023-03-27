@@ -70,7 +70,7 @@
       "abr": "ambrosia",
       "category": "Drugs",
       "defname": "Ambrosia",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "animalbed",
@@ -898,7 +898,7 @@
       "abr": "doomsdayrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_DoomsdayRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "doublebed",
@@ -1552,7 +1552,7 @@
       "abr": "heavybandolier",
       "category": "Misc",
       "defname": "Apparel_Bandolier",
-      "price": -10
+      "price": 271
     },
     {
       "abr": "heavyfur",
@@ -3562,7 +3562,7 @@
       "abr": "triplerocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_TripleRocket",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "t-shirt",
@@ -3787,12 +3787,6 @@
       "price": -10
     },
     {
-      "abr": "companiondryad",
-      "category": "Animals",
-      "defname": "VRE_CompanionDryad",
-      "price": 417
-    },
-    {
       "abr": "psytrainer(beckon)",
       "category": "Psytrainers",
       "defname": "Psytrainer_Beckon",
@@ -3965,7 +3959,1363 @@
       "category": "Psytrainers",
       "defname": "Psytrainer_WordOfTrust",
       "price": -10
+    },
+    {
+      "abr": "advancedautopistol",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_AdvancedAutopistol",
+      "price": 442
+    },
+    {
+      "abr": "advancedflakvest",
+      "category": "Armor",
+      "defname": "K4G_Apparel_AdvancedFlakVest",
+      "price": 792
+    },
+    {
+      "abr": "advancedoutlanderhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_AdvancedOutlanderHelmet",
+      "price": 567
+    },
+    {
+      "abr": "aegis-i",
+      "category": "Drugs",
+      "defname": "AOTC_DrugImmune_GenI",
+      "price": 42
+    },
+    {
+      "abr": "air-conindoorunit",
+      "category": "Hygiene",
+      "defname": "AirconIndoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "air-conoutdoorunit",
+      "category": "Hygiene",
+      "defname": "AirConOutdoorUnit",
+      "price": -10
+    },
+    {
+      "abr": "alphapack",
+      "category": "Misc",
+      "defname": "AG_Alphapack",
+      "price": -10
+    },
+    {
+      "abr": "anchovy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnchovy",
+      "price": -10
+    },
+    {
+      "abr": "angelfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAngelfish",
+      "price": -10
+    },
+    {
+      "abr": "anglerfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawAnglerfish",
+      "price": -10
+    },
+    {
+      "abr": "basin",
+      "category": "Hygiene",
+      "defname": "BasinStuff",
+      "price": -10
+    },
+    {
+      "abr": "bass",
+      "category": "Raw fish",
+      "defname": "VCEF_RawBass",
+      "price": -10
+    },
+    {
+      "abr": "bathmat",
+      "category": "Furniture",
+      "defname": "BathMat",
+      "price": -10
+    },
+    {
+      "abr": "bathtub",
+      "category": "Hygiene",
+      "defname": "BathtubStuff",
+      "price": -10
+    },
+    {
+      "abr": "battlerifle",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_BattleRifle",
+      "price": 833
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "biosolids",
+      "category": "Waste",
+      "defname": "Biosolids",
+      "price": -10
+    },
+    {
+      "abr": "biosolidscomposter",
+      "category": "Hygiene",
+      "defname": "BiosolidsComposter",
+      "price": -10
+    },
+    {
+      "abr": "bliss-i",
+      "category": "Drugs",
+      "defname": "AOTC_DrugMood_GenI",
+      "price": 42
+    },
+    {
+      "abr": "bolter",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_Bolter",
+      "price": 110
+    },
+    {
+      "abr": "broots",
+      "category": "Plant matter",
+      "defname": "TM_Broots",
+      "price": -10
+    },
+    {
+      "abr": "carbiner",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_Carbiner",
+      "price": 567
+    },
+    {
+      "abr": "catfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCatfish",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan1x1",
+      "category": "Hygiene",
+      "defname": "CeilingFanS",
+      "price": -10
+    },
+    {
+      "abr": "ceilingfan2x2",
+      "category": "Hygiene",
+      "defname": "CeilingFan",
+      "price": -10
+    },
+    {
+      "abr": "chemfueldrain",
+      "category": "Furniture",
+      "defname": "VCHE_ChemfuelDrain",
+      "price": -10
+    },
+    {
+      "abr": "chemfueltap",
+      "category": "Furniture",
+      "defname": "VCHE_ChemfuelTap",
+      "price": -10
+    },
+    {
+      "abr": "circulatorytea",
+      "category": "Drugs",
+      "defname": "TM_PurpleTea",
+      "price": 583
+    },
+    {
+      "abr": "cleaver",
+      "category": "Melee weapons",
+      "defname": "K4G_MeleeWeapon_Cleaver",
+      "price": 367
+    },
+    {
+      "abr": "clownfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawClownfish",
+      "price": -10
+    },
+    {
+      "abr": "cod",
+      "category": "Raw fish",
+      "defname": "VCEF_RawCod",
+      "price": -10
+    },
+    {
+      "abr": "compactrifle",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_CompactRifle",
+      "price": 700
+    },
+    {
+      "abr": "conehat",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_ConeHat",
+      "price": 92
+    },
+    {
+      "abr": "cookingstation",
+      "category": "Production",
+      "defname": "CookingStation",
+      "price": -10
+    },
+    {
+      "abr": "coveralls",
+      "category": "Misc",
+      "defname": "K4G_Apparel_Coveralls",
+      "price": 188
+    },
+    {
+      "abr": "darkberries",
+      "category": "Plant matter",
+      "defname": "TM_DarkBerries",
+      "price": -10
+    },
+    {
+      "abr": "decorativerooflargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_Masked",
+      "price": -10
+    },
+    {
+      "abr": "decorativeroofmediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_Masked",
+      "price": -10
+    },
+    {
+      "abr": "decorativeroofsmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_Masked",
+      "price": -10
+    },
+    {
+      "abr": "deepfryer",
+      "category": "Production",
+      "defname": "DeepFryer",
+      "price": -10
+    },
+    {
+      "abr": "deepchem",
+      "category": "Manufactured",
+      "defname": "VCHE_Deepchem",
+      "price": -10
+    },
+    {
+      "abr": "deepchemdrain",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemDrain",
+      "price": -10
+    },
+    {
+      "abr": "deepchempumpjack",
+      "category": "Production",
+      "defname": "VCHE_DeepchemPumpjack",
+      "price": -10
+    },
+    {
+      "abr": "deepchemtap",
+      "category": "Furniture",
+      "defname": "VCHE_DeepchemTap",
+      "price": -10
+    },
+    {
+      "abr": "digestivetea",
+      "category": "Drugs",
+      "defname": "TM_GreenTea",
+      "price": 200
+    },
+    {
+      "abr": "dynastycrown",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_DynastyCrown",
+      "price": 239
+    },
+    {
+      "abr": "eel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawEel",
+      "price": -10
+    },
+    {
+      "abr": "electricboiler",
+      "category": "Hygiene",
+      "defname": "ElectricBoiler",
+      "price": -10
+    },
+    {
+      "abr": "electricpump",
+      "category": "Hygiene",
+      "defname": "ElectricPump",
+      "price": -10
+    },
+    {
+      "abr": "electricsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterElec",
+      "price": -10
+    },
+    {
+      "abr": "embroideredovercoat",
+      "category": "Misc",
+      "defname": "K4G_Apparel_EmbroideredOvercoat",
+      "price": 433
+    },
+    {
+      "abr": "endogenefier",
+      "category": "Gene tools",
+      "defname": "AG_Endogenefier",
+      "price": -10
+    },
+    {
+      "abr": "firesprinkler",
+      "category": "Hygiene",
+      "defname": "FireSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "flawedstarsteel",
+      "category": "Raw resources",
+      "defname": "AOTC_MaterialToughBad_GenI",
+      "price": -10
+    },
+    {
+      "abr": "fountain",
+      "category": "Hygiene",
+      "defname": "Fountain",
+      "price": -10
+    },
+    {
+      "abr": "fueledsaunaheater",
+      "category": "Hygiene",
+      "defname": "DBHSaunaHeaterLog",
+      "price": 675
+    },
+    {
+      "abr": "gasboiler",
+      "category": "Hygiene",
+      "defname": "GasBoiler",
+      "price": -10
+    },
+    {
+      "abr": "generemover",
+      "category": "Gene tools",
+      "defname": "AG_GeneRemover",
+      "price": -10
+    },
+    {
+      "abr": "genepackdisruptor",
+      "category": "Gene tools",
+      "defname": "AG_GenepackDisruptor",
+      "price": -10
+    },
+    {
+      "abr": "genepacktweaker",
+      "category": "Gene tools",
+      "defname": "AG_GenepackTweaker",
+      "price": -10
+    },
+    {
+      "abr": "germlinemutator",
+      "category": "Gene tools",
+      "defname": "AG_GermlineMutator",
+      "price": -10
+    },
+    {
+      "abr": "glaive",
+      "category": "Melee weapons",
+      "defname": "K4G_MeleeWeapon_Glaive",
+      "price": 333
+    },
+    {
+      "abr": "goggledhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_GoggledHelmet",
+      "price": 492
+    },
+    {
+      "abr": "goggles",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_Goggles",
+      "price": 72
+    },
+    {
+      "abr": "goldfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGoldfish",
+      "price": -10
+    },
+    {
+      "abr": "grillstation",
+      "category": "Production",
+      "defname": "GrillStation",
+      "price": -10
+    },
+    {
+      "abr": "guppy",
+      "category": "Raw fish",
+      "defname": "VCEF_RawGuppy",
+      "price": -10
+    },
+    {
+      "abr": "haddock",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHaddock",
+      "price": -10
+    },
+    {
+      "abr": "halibut",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHalibut",
+      "price": -10
+    },
+    {
+      "abr": "healthtea",
+      "category": "Drugs",
+      "defname": "TM_RedTea",
+      "price": 250
+    },
+    {
+      "abr": "heavyshotgun",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_HeavyShotgun",
+      "price": 842
+    },
+    {
+      "abr": "herring",
+      "category": "Raw fish",
+      "defname": "VCEF_RawHerring",
+      "price": -10
+    },
+    {
+      "abr": "hibernationtea",
+      "category": "Drugs",
+      "defname": "TM_OrangeTea",
+      "price": 200
+    },
+    {
+      "abr": "hoodedmask",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_HoodedMask",
+      "price": 259
+    },
+    {
+      "abr": "hottub",
+      "category": "Hygiene",
+      "defname": "HotTub",
+      "price": -10
+    },
+    {
+      "abr": "hotwatertank",
+      "category": "Hygiene",
+      "defname": "HotWaterTank",
+      "price": -10
+    },
+    {
+      "abr": "hotdog",
+      "category": "Meals",
+      "defname": "HotDog",
+      "price": 33
+    },
+    {
+      "abr": "humanegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AG_HumanEgg",
+      "price": -10
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "i-flail",
+      "category": "Melee weapons",
+      "defname": "AOTC_FastBlunt_GenI",
+      "price": 6775
+    },
+    {
+      "abr": "immunitytea",
+      "category": "Drugs",
+      "defname": "TM_BlackTea",
+      "price": 200
+    },
+    {
+      "abr": "imperialhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_ImperialHelmet",
+      "price": 170
+    },
+    {
+      "abr": "irrigationsprinkler",
+      "category": "Hygiene",
+      "defname": "IrrigationSprinkler",
+      "price": -10
+    },
+    {
+      "abr": "katana",
+      "category": "Melee weapons",
+      "defname": "K4G_MeleeWeapon_Katana",
+      "price": 442
+    },
+    {
+      "abr": "kidcoveralls",
+      "category": "Misc",
+      "defname": "K4G_Apparel_KidCoveralls",
+      "price": 94
+    },
+    {
+      "abr": "kidkimono",
+      "category": "Misc",
+      "defname": "K4G_Apparel_KidKimono",
+      "price": 88
+    },
+    {
+      "abr": "kimono",
+      "category": "Misc",
+      "defname": "K4G_Apparel_Kimono",
+      "price": 177
+    },
+    {
+      "abr": "kitchensink",
+      "category": "Hygiene",
+      "defname": "KitchenSink",
+      "price": -10
+    },
+    {
+      "abr": "koi",
+      "category": "Raw fish",
+      "defname": "VCEF_RawKoi",
+      "price": -10
+    },
+    {
+      "abr": "labcoat",
+      "category": "Misc",
+      "defname": "K4G_Apparel_LabCoat",
+      "price": 315
+    },
+    {
+      "abr": "largeradiator",
+      "category": "Hygiene",
+      "defname": "RadiatorLarge",
+      "price": -10
+    },
+    {
+      "abr": "latrine",
+      "category": "Hygiene",
+      "defname": "PitLatrine",
+      "price": -10
+    },
+    {
+      "abr": "legionaryhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_LegionaryHelmet",
+      "price": 442
+    },
+    {
+      "abr": "lightsmg",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_LightSMG",
+      "price": 483
+    },
+    {
+      "abr": "litterbox",
+      "category": "Hygiene",
+      "defname": "LitterBox",
+      "price": -10
+    },
+    {
+      "abr": "lobster",
+      "category": "Raw fish",
+      "defname": "VCEF_RawLobster",
+      "price": -10
+    },
+    {
+      "abr": "logboiler",
+      "category": "Hygiene",
+      "defname": "LogBoiler",
+      "price": -10
+    },
+    {
+      "abr": "longgun",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_LongGun",
+      "price": 483
+    },
+    {
+      "abr": "mackerel",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMackerel",
+      "price": -10
+    },
+    {
+      "abr": "minnow",
+      "category": "Raw fish",
+      "defname": "VCEF_RawMinnow",
+      "price": -10
+    },
+    {
+      "abr": "mixedpack",
+      "category": "Misc",
+      "defname": "AG_Mixedpack",
+      "price": -10
+    },
+    {
+      "abr": "monoatomicsword",
+      "category": "Melee weapons",
+      "defname": "AOTC_SlowSharp_GenI",
+      "price": 6775
+    },
+    {
+      "abr": "opulentstarsteel",
+      "category": "Raw resources",
+      "defname": "AOTC_MaterialBeauty_GenI",
+      "price": 100
+    },
+    {
+      "abr": "outlanderhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_OutlanderHelmet",
+      "price": 188
+    },
+    {
+      "abr": "overcoat",
+      "category": "Misc",
+      "defname": "K4G_Apparel_Overcoat",
+      "price": 315
+    },
+    {
+      "abr": "pastelbluelargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_PastelBlue",
+      "price": -10
+    },
+    {
+      "abr": "pastelbluemediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_PastelBlue",
+      "price": -10
+    },
+    {
+      "abr": "pastelbluesmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_PastelBlue",
+      "price": -10
+    },
+    {
+      "abr": "pastelpinklargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_PastelPink",
+      "price": -10
+    },
+    {
+      "abr": "pastelpinkmediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_PastelPink",
+      "price": -10
+    },
+    {
+      "abr": "pastelpinksmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_PastelPink",
+      "price": -10
+    },
+    {
+      "abr": "perch",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPerch",
+      "price": -10
+    },
+    {
+      "abr": "perpetualturbinemotor",
+      "category": "Power",
+      "defname": "AOTC_PowerGeneratorFree_GenI",
+      "price": -10
+    },
+    {
+      "abr": "piranha",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPiranha",
+      "price": -10
+    },
+    {
+      "abr": "plumbingvalve",
+      "category": "Hygiene",
+      "defname": "plumbingValve",
+      "price": -10
+    },
+    {
+      "abr": "portableadvancedfissionreactor",
+      "category": "Power",
+      "defname": "AOTC_PowerGeneratorFueledPortable_GenI",
+      "price": -10
+    },
+    {
+      "abr": "powershower",
+      "category": "Hygiene",
+      "defname": "ShowerAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "prestigeadvancedflakvest",
+      "category": "Armor",
+      "defname": "K4G_Apparel_PrestigeAdvancedFlakVest",
+      "price": 967
+    },
+    {
+      "abr": "prestigeimperialhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_PrestigeImperialHelmet",
+      "price": 358
+    },
+    {
+      "abr": "prestigelegionaryhelmet",
+      "category": "Headgear",
+      "defname": "K4G_Apparel_PrestigeLegionaryHelmet",
+      "price": 617
+    },
+    {
+      "abr": "proto-cosmicanalyzer",
+      "category": "Misc",
+      "defname": "AOTC_Linkable_ResearchUnlockerGenI",
+      "price": -10
+    },
+    {
+      "abr": "proto-cosmiccapacitor",
+      "category": "Manufactured",
+      "defname": "AOTC_ResourceIngedientUnfilled_GenI",
+      "price": 417
+    },
+    {
+      "abr": "proto-cosmiccharge",
+      "category": "Manufactured",
+      "defname": "AOTC_ResourceIngedientFilled_GenI",
+      "price": 583
+    },
+    {
+      "abr": "psion-i",
+      "category": "Drugs",
+      "defname": "AOTC_DrugPsychicBoost_GenI",
+      "price": 83
+    },
+    {
+      "abr": "psychictea",
+      "category": "Drugs",
+      "defname": "TM_AnimaTea",
+      "price": 400
+    },
+    {
+      "abr": "pufferfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawPufferfish",
+      "price": -10
+    },
+    {
+      "abr": "purifyingtea",
+      "category": "Drugs",
+      "defname": "TM_YellowTea",
+      "price": 200
+    },
+    {
+      "abr": "radiator",
+      "category": "Hygiene",
+      "defname": "RadiatorStuffed",
+      "price": -10
+    },
+    {
+      "abr": "ragetea",
+      "category": "Drugs",
+      "defname": "TM_LilacTea",
+      "price": 200
+    },
+    {
+      "abr": "redpetals",
+      "category": "Plant matter",
+      "defname": "TM_RedPetals",
+      "price": -10
+    },
+    {
+      "abr": "r-flail",
+      "category": "Melee weapons",
+      "defname": "AOTC_FastSharp_GenI",
+      "price": 6775
+    },
+    {
+      "abr": "rimnreels",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineRed",
+      "price": -10
+    },
+    {
+      "abr": "rimoffortune",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineBlue",
+      "price": -10
+    },
+    {
+      "abr": "rimamoolah",
+      "category": "Recreation",
+      "defname": "HC_SlotMachineGreen",
+      "price": -10
+    },
+    {
+      "abr": "royalkidkimono",
+      "category": "Misc",
+      "defname": "K4G_Apparel_RoyalKidKimono",
+      "price": 135
+    },
+    {
+      "abr": "royalkimono",
+      "category": "Misc",
+      "defname": "K4G_Apparel_RoyalKimono",
+      "price": 253
+    },
+    {
+      "abr": "sabre",
+      "category": "Melee weapons",
+      "defname": "K4G_MeleeWeapon_Sabre",
+      "price": 367
+    },
+    {
+      "abr": "salmon",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSalmon",
+      "price": -10
+    },
+    {
+      "abr": "saunaseating",
+      "category": "Furniture",
+      "defname": "DBHSaunaSeating",
+      "price": -10
+    },
+    {
+      "abr": "shower",
+      "category": "Hygiene",
+      "defname": "ShowerStuff",
+      "price": -10
+    },
+    {
+      "abr": "shrooms",
+      "category": "Plant matter",
+      "defname": "TM_Shrooms",
+      "price": -10
+    },
+    {
+      "abr": "simpleshower",
+      "category": "Hygiene",
+      "defname": "ShowerSimple",
+      "price": -10
+    },
+    {
+      "abr": "smarttoilet",
+      "category": "Hygiene",
+      "defname": "ToiletAdvStuff",
+      "price": -10
+    },
+    {
+      "abr": "snubgun",
+      "category": "Ranged weapons",
+      "defname": "K4G_Gun_Snubgun",
+      "price": 154
+    },
+    {
+      "abr": "sprat",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSprat",
+      "price": -10
+    },
+    {
+      "abr": "starguardarmor",
+      "category": "Armor",
+      "defname": "AOTC_ArmorBody_GenI",
+      "price": 15167
+    },
+    {
+      "abr": "starguardhelmet",
+      "category": "Armor",
+      "defname": "AOTC_ArmorHead_GenI",
+      "price": 4000
+    },
+    {
+      "abr": "starsteel",
+      "category": "Raw resources",
+      "defname": "AOTC_MaterialTough_GenI",
+      "price": -10
+    },
+    {
+      "abr": "starsteelcomponent",
+      "category": "Manufactured",
+      "defname": "AOTC_Component_GenI",
+      "price": 667
+    },
+    {
+      "abr": "stellaranimalsentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingAnimals_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellararm",
+      "category": "Bionic",
+      "defname": "AOTC_BionicArm_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarartisticentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingArtistic_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarbattery",
+      "category": "Power",
+      "defname": "AOTC_Battery_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarconstructionentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingConstruction_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarcookingentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingCooking_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarcraftingentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingCrafting_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarear",
+      "category": "Bionic",
+      "defname": "AOTC_BionicEar_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellareye",
+      "category": "Bionic",
+      "defname": "AOTC_BionicEye_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarforgetoolcabinet",
+      "category": "Misc",
+      "defname": "AOTC_CraftingMainLinkable_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarheadarmor",
+      "category": "Bionic",
+      "defname": "AOTC_BionicHead_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarheart",
+      "category": "Bionic",
+      "defname": "AOTC_BionicHeart_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarintellegenceentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingIntellectual_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarjaw",
+      "category": "Bionic",
+      "defname": "AOTC_BionicJaw_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarkidney",
+      "category": "Bionic",
+      "defname": "AOTC_BionicKidney_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarleg",
+      "category": "Bionic",
+      "defname": "AOTC_BionicLeg_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarliver",
+      "category": "Bionic",
+      "defname": "AOTC_BionicLiver_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarlung",
+      "category": "Bionic",
+      "defname": "AOTC_BionicLung_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarmedicalentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingMedical_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarmedicine",
+      "category": "Medicine",
+      "defname": "AOTC_Medicine_GenI",
+      "price": 83
+    },
+    {
+      "abr": "stellarmeleeentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingMelee_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarminingentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingMining_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarneckarmor",
+      "category": "Bionic",
+      "defname": "AOTC_BionicNeck_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarneuralenchanter",
+      "category": "Bionic",
+      "defname": "AOTC_BionicBrain_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarnose",
+      "category": "Bionic",
+      "defname": "AOTC_BionicNose_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarpistol",
+      "category": "Ranged weapons",
+      "defname": "AOTC_Pistol_GenI",
+      "price": 2450
+    },
+    {
+      "abr": "stellarplantsentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingPlants_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarrifle",
+      "category": "Ranged weapons",
+      "defname": "AOTC_Rifle_GenI",
+      "price": 4933
+    },
+    {
+      "abr": "stellarshootingentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingShooting_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarsniper",
+      "category": "Ranged weapons",
+      "defname": "AOTC_Sniper_GenI",
+      "price": 4933
+    },
+    {
+      "abr": "stellarsocialentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingSocial_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarspine",
+      "category": "Bionic",
+      "defname": "AOTC_BionicSpine_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarstargazingentertainmentstation",
+      "category": "Furniture",
+      "defname": "AOTC_GamingTelescope_GenI",
+      "price": -10
+    },
+    {
+      "abr": "stellarstomach",
+      "category": "Bionic",
+      "defname": "AOTC_BionicStomach_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellartongue",
+      "category": "Bionic",
+      "defname": "AOTC_BionicTongue_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellartorsoarmor",
+      "category": "Bionic",
+      "defname": "AOTC_BionicTorso_GenI",
+      "price": 3700
+    },
+    {
+      "abr": "stellarutilitypack",
+      "category": "Utility",
+      "defname": "AOTC_UtilityBelt_GenI",
+      "price": 8417
+    },
+    {
+      "abr": "stellarwavegun",
+      "category": "Ranged weapons",
+      "defname": "AOTC_Shotgun_GenI",
+      "price": 4933
+    },
+    {
+      "abr": "stim-i",
+      "category": "Drugs",
+      "defname": "AOTC_DrugSleep_GenI",
+      "price": 83
+    },
+    {
+      "abr": "surge-i",
+      "category": "Drugs",
+      "defname": "AOTC_DrugTemporaryBionics_GenI",
+      "price": 1000
+    },
+    {
+      "abr": "swordfish",
+      "category": "Raw fish",
+      "defname": "VCEF_RawSwordfish",
+      "price": -10
+    },
+    {
+      "abr": "theblock",
+      "category": "Melee weapons",
+      "defname": "AOTC_SlowBlunt_GenI",
+      "price": 6775
+    },
+    {
+      "abr": "thermostat",
+      "category": "Hygiene",
+      "defname": "Thermostat",
+      "price": -10
+    },
+    {
+      "abr": "toilet",
+      "category": "Hygiene",
+      "defname": "ToiletStuff",
+      "price": -10
+    },
+    {
+      "abr": "towelrail",
+      "category": "Hygiene",
+      "defname": "RadiatorTowelRail",
+      "price": -10
+    },
+    {
+      "abr": "tribalmedicine",
+      "category": "Medicine",
+      "defname": "TM_MedicineTribal",
+      "price": 17
+    },
+    {
+      "abr": "trout",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTrout",
+      "price": -10
+    },
+    {
+      "abr": "tuna",
+      "category": "Raw fish",
+      "defname": "VCEF_RawTuna",
+      "price": -10
+    },
+    {
+      "abr": "walk-infreezerunit",
+      "category": "Hygiene",
+      "defname": "FreezerUnit",
+      "price": -10
+    },
+    {
+      "abr": "warmthtea",
+      "category": "Drugs",
+      "defname": "TM_RedYellowTea",
+      "price": 200
+    },
+    {
+      "abr": "washingmachine",
+      "category": "Hygiene",
+      "defname": "WashingMachine",
+      "price": -10
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": -10
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": -10
+    },
+    {
+      "abr": "watertub",
+      "category": "Hygiene",
+      "defname": "WashBucket",
+      "price": -10
+    },
+    {
+      "abr": "wheatgrain",
+      "category": "Vegetarian",
+      "defname": "WheatGrain",
+      "price": -10
+    },
+    {
+      "abr": "xenogenefier",
+      "category": "Gene tools",
+      "defname": "AG_Xenogenefier",
+      "price": -10
+    },
+    {
+      "abr": "xenotypeinjector",
+      "category": "Gene tools",
+      "defname": "AG_XenotypeInjector",
+      "price": -10
+    },
+    {
+      "abr": "xenotypenullifier",
+      "category": "Gene tools",
+      "defname": "AG_XenotypeNullifier",
+      "price": -10
+    },
+    {
+      "abr": "guestbed",
+      "category": "Furniture",
+      "defname": "BedGuest",
+      "price": 155
+    },
+    {
+      "abr": "guestdoublebed",
+      "category": "Furniture",
+      "defname": "DoubleBedGuest",
+      "price": 292
+    },
+    {
+      "abr": "guestroyalbed",
+      "category": "Furniture",
+      "defname": "RoyalBedGuest",
+      "price": 1467
+    },
+    {
+      "abr": "guesthospitalbed",
+      "category": "Furniture",
+      "defname": "HospitalBedGuest",
+      "price": 667
+    },
+    {
+      "abr": "guestbedroll",
+      "category": "Furniture",
+      "defname": "BedrollGuest",
+      "price": 137
+    },
+    {
+      "abr": "guestdoublebedroll",
+      "category": "Furniture",
+      "defname": "BedrollDoubleGuest",
+      "price": 290
+    },
+    {
+      "abr": "guestslabbed",
+      "category": "Furniture",
+      "defname": "SlabBedGuest",
+      "price": 102
+    },
+    {
+      "abr": "guestslabdoublebed",
+      "category": "Furniture",
+      "defname": "SlabDoubleBedGuest",
+      "price": 288
+    },
+    {
+      "abr": "guestdeathrestcasket",
+      "category": "Misc",
+      "defname": "DeathrestCasketGuest",
+      "price": 492
+    },
+    {
+      "abr": "guestcrib",
+      "category": "Furniture",
+      "defname": "CribGuest",
+      "price": 86
+    },
+    {
+      "abr": "guestdecorativeroofsmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_MaskedGuest",
+      "price": 2150
+    },
+    {
+      "abr": "guestdecorativeroofmediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_MaskedGuest",
+      "price": 2883
+    },
+    {
+      "abr": "guestdecorativerooflargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_MaskedGuest",
+      "price": 4233
+    },
+    {
+      "abr": "guestpastelbluesmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_PastelBlueGuest",
+      "price": 2150
+    },
+    {
+      "abr": "guestpastelbluemediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_PastelBlueGuest",
+      "price": 2883
+    },
+    {
+      "abr": "guestpastelbluelargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_PastelBlueGuest",
+      "price": 4233
+    },
+    {
+      "abr": "guestpastelpinksmallhome",
+      "category": "Furniture",
+      "defname": "Village_SmallHouse_PastelPinkGuest",
+      "price": 2150
+    },
+    {
+      "abr": "guestpastelpinkmediumhome",
+      "category": "Furniture",
+      "defname": "Village_MediumHouse_PastelPinkGuest",
+      "price": 2883
+    },
+    {
+      "abr": "guestpastelpinklargehome",
+      "category": "Furniture",
+      "defname": "Village_LargeHouse_PastelPinkGuest",
+      "price": 4233
     }
   ],
-  "total": 661
+  "total": 886
 }

@@ -96,12 +96,6 @@
     "version": "1.0.0"
   },
   {
-    "author": "Mlie",
-    "name": "Zone To Schedule",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "QualityBuilder",
     "steamId": "754637870",
@@ -174,28 +168,214 @@
     "version": "6.3.0.0.biotech.b6"
   },
   {
-    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
-    "name": "Music Expanded Framework",
-    "steamId": "2891663812",
-    "version": "1.0.1.0"
-  },
-  {
-    "author": "JME, Caaz, Odeum, Pphhyy the great and Zylle",
-    "name": "Music Expanded Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "m00nl1ght",
     "name": "Geological Landforms",
     "steamId": "2773943594",
     "version": "1.5.2.0"
   },
   {
-    "author": "leboeuf",
-    "name": "Litters for Biotech",
-    "steamId": "2918194748",
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Casino",
+    "steamId": "2939292644",
+    "version": "1.4.0.0"
+  },
+  {
+    "author": "Pizzacat OttersHoldHands iforgotmysocks AobaKuma",
+    "name": "Villages:Homes",
+    "steamId": "2941977041",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.0"
+  },
+  {
+    "author": "Victor and wilki24",
+    "name": "Walls are solid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HannahBug",
+    "name": "[HB] Insect Meat Reskin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HannahBug",
+    "name": "[HB] Pemmican Reskin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "HannahBug",
+    "name": "[HB] Subbox Xenotype",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krazy4Games",
+    "name": "[K4G] Empires of Old - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krazy4Games",
+    "name": "[K4G] Empires of Old - The Engineers Institute",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Krazy4Games",
+    "name": "[K4G] Empires of Old - The Polluted Legion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Allie and Sarg",
+    "name": "Alpha Genes",
+    "steamId": "2891845502",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic v3.0 Testing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Argonic Core",
+    "steamId": "2944251509",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SkillerDankOP",
+    "name": "Cooking Stations 1.4",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NightmareCorporation",
+    "name": "DBH & VFEC/Hot Spring Compatibility",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "legodude17, komandor bobek and bill doors",
+    "name": "Fire Control Computers",
+    "steamId": "2950703921",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SkillerDankOP",
+    "name": "Hot Dogs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "explodoboy",
+    "name": "I Have The Cure! [Framework]",
+    "steamId": "2672103801",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Yorbil",
+    "name": "Missing Fabrication Recipes",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morphium",
+    "name": "Morphs Assorted Biotech Retex",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CyrusJazzberry",
+    "name": "Nonviolent Fishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outland - Genetics",
+    "steamId": "2910172297",
+    "version": "1.0.8445.14336"
+  },
+  {
+    "author": "Nales",
+    "name": "Overcapped Accuracy (Continued)",
+    "steamId": "2893452938",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Compilatron and Owlchemist",
+    "name": "Power Tab 2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8466.10205"
+  },
+  {
+    "author": "Vulnific",
+    "name": "Tox Recipe",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Argón",
+    "name": "Tribal Medicicne 2.0",
+    "steamId": "2950258180",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Grimm",
+    "name": "Un-Limited",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Chemfuel Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "NomadRw",
+    "name": "Vanilla Chemfuel Expanded Retexture and Restyle",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -204,15 +384,15 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, Allie, Erin, Sir Van and Reann Shepard",
-    "name": "Vanilla Races Expanded - Phytokin",
-    "steamId": "2927323805",
-    "version": "1.0.0.0"
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.4.8315.17730"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
+    "author": "AlleyBalley",
+    "name": "Xenotype: Pillux",
+    "steamId": null,
+    "version": null
   }
 ]

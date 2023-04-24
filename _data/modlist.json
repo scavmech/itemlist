@@ -186,26 +186,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "空曜",
-    "name": "Aerocraft Framework",
-    "steamId": "2959802157",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Chaingunfighter1 / Slippin' Jimmy",
-    "name": "(Beta) Half-Life RW - Combine Synths",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Zaljerem",
     "name": "[SS]GhostArmy (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HalituisAmaricanous",
-    "name": "Aerocraft Framework - Retexture",
     "steamId": null,
     "version": null
   },
@@ -334,5 +316,11 @@
     "name": "VFE - Empire : Royal Palaces",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
   }
 ]

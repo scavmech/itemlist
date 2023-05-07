@@ -144,6 +144,12 @@
     "version": "1.0.0"
   },
   {
+    "author": "Mlie",
+    "name": "Zone To Schedule",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "bodlosh",
     "name": "WeaponStats",
     "steamId": null,
@@ -156,26 +162,56 @@
     "version": "1.4.3"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.4.1.1"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.0.7"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "6.3.0.0.biotech.b12"
+  },
+  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points (Unofficial)",
     "steamId": "1916651243",
     "version": "1.3.1"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "6.3.0.0.biotech.b6"
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "1.3.60.5"
   },
   {
-    "author": "Albion",
-    "name": "Go Explore!",
-    "steamId": "1814100216",
-    "version": "1.1.0"
+    "author": "m00nl1ght",
+    "name": "Geological Landforms",
+    "steamId": "2773943594",
+    "version": "1.6.4.0"
   },
   {
-    "author": "Mlie",
-    "name": "Zone To Schedule",
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Caverns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
+  },
+  {
+    "author": "TrahsPanda and Noobert",
+    "name": "Noobert's Fox Overhaul",
     "steamId": null,
     "version": null
   },
@@ -186,141 +222,117 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Zaljerem",
-    "name": "[SS]GhostArmy (Continued)",
+    "author": "Neronix17",
+    "name": "Tabula Rasa",
+    "steamId": "1660622094",
+    "version": "1.0.8512.17733"
+  },
+  {
+    "author": "Neronix17",
+    "name": "Outer Rim - Core",
+    "steamId": "2919227155",
+    "version": "1.0.8512.17743"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Faun Xenotype",
+    "steamId": "2971801826",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr Xenotype",
+    "steamId": "2971803439",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rooboid and Zelan",
+    "name": "Roo's Satyr and Faun Xenotypes Expanded",
     "steamId": null,
     "version": null
   },
   {
-    "author": "3HST Limited",
-    "name": "Bill Doors' Framework",
-    "steamId": "2897160312",
-    "version": "1.0.0.0"
+    "author": "Rihlsul",
+    "name": "BigFluffies",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "3HST Limited",
-    "name": "Bill Doors' Satisrimtory",
-    "steamId": "2960910943",
-    "version": "1.0.0.0"
+    "author": "Krazy4Games",
+    "name": "[K4G] Empires of Old - Core",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Darknote",
-    "name": "Bunk Beds",
-    "steamId": "2961752749",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "void",
-    "name": "Deep Stack",
+    "author": "Krazy4Games",
+    "name": "[K4G] Empires of Old - The Faceless Sultanate",
     "steamId": null,
     "version": null
   },
   {
     "author": "Dubwise",
-    "name": "Dubs Apparel Tweaks",
-    "steamId": "2296697286",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.7.7366"
+  },
+  {
+    "author": "Thumb",
+    "name": "Epic Siege(rimworld ver)",
+    "steamId": "2970832115",
     "version": "1.0.0.0"
   },
   {
-    "author": "WalterHawkwood",
-    "name": "Floors Are (Almost) Worthless",
+    "author": "Argón and Moxie",
+    "name": "Fast Meals",
     "steamId": null,
     "version": null
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "Guns Galore - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chaingunfighter1 / Slippin' Jimmy",
+    "name": "Guns Galore - Cold War (Germany & Austria)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospitality: Spa",
+    "steamId": "",
     "version": "1.0.0.0"
   },
   {
-    "author": "Roo",
-    "name": "Gloomy Dragonian race",
+    "author": "Virstag",
+    "name": "I Don't Care",
     "steamId": null,
     "version": null
   },
   {
-    "author": "zed_0xff",
-    "name": "Loft Bed",
-    "steamId": "2961708299",
-    "version": "1.0.0"
-  },
-  {
-    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
-    "name": "Vanilla Psycasts Expanded",
-    "steamId": "2842502659",
-    "version": "1.1.0.0"
-  },
-  {
-    "author": "Aranmaho",
-    "name": "MakaiTech - Psycast",
+    "author": "WexMan",
+    "name": "Mines",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Gloomylynx Nukafrog",
-    "name": "NewRatkinPlus",
+    "author": "DimonSever000",
+    "name": "Satellite",
     "steamId": null,
     "version": null
   },
   {
-    "author": "divineDerivative",
-    "name": "Paintable Sheets",
+    "author": "Romyashi",
+    "name": "Treasures",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "legodude17",
-    "name": "Quality Colors",
-    "steamId": "2420141361",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Feng Xinzi",
-    "name": "Ratkin Vehicles+",
-    "steamId": "2959924062",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "Substance Abuse",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson and Sir Van",
-    "name": "Vanilla Animals Expanded — Waste Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha, legodude17 and Allie",
-    "name": "Vanilla Factions Expanded - Empire",
-    "steamId": "2938820380",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Mr.Whiskers",
-    "name": "VFE - Empire : Royal Palaces",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
   }
 ]

@@ -186,34 +186,10 @@
     "version": "1.3.1"
   },
   {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Core",
-    "steamId": "2038000893",
-    "version": "1.3.60.5"
-  },
-  {
-    "author": "m00nl1ght",
-    "name": "Geological Landforms",
-    "steamId": "2773943594",
-    "version": "1.6.4.0"
-  },
-  {
-    "author": "The Biomes Mod Team",
-    "name": "Biomes! Caverns",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
-  },
-  {
-    "author": "TrahsPanda and Noobert",
-    "name": "Noobert's Fox Overhaul",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
@@ -222,98 +198,8 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Neronix17",
-    "name": "Tabula Rasa",
-    "steamId": "1660622094",
-    "version": "1.0.8512.17733"
-  },
-  {
-    "author": "Neronix17",
-    "name": "Outer Rim - Core",
-    "steamId": "2919227155",
-    "version": "1.0.8512.17743"
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Faun Xenotype",
-    "steamId": "2971801826",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr Xenotype",
-    "steamId": "2971803439",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rooboid and Zelan",
-    "name": "Roo's Satyr and Faun Xenotypes Expanded",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Rihlsul",
     "name": "BigFluffies",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Krazy4Games",
-    "name": "[K4G] Empires of Old - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Krazy4Games",
-    "name": "[K4G] Empires of Old - The Faceless Sultanate",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Bad Hygiene",
-    "steamId": "836308268",
-    "version": "2.7.7366"
-  },
-  {
-    "author": "Thumb",
-    "name": "Epic Siege(rimworld ver)",
-    "steamId": "2970832115",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Argón and Moxie",
-    "name": "Fast Meals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chaingunfighter1 / Slippin' Jimmy",
-    "name": "Guns Galore - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Chaingunfighter1 / Slippin' Jimmy",
-    "name": "Guns Galore - Cold War (Germany & Austria)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospitality: Spa",
-    "steamId": "",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Virstag",
-    "name": "I Don't Care",
     "steamId": null,
     "version": null
   },
@@ -324,15 +210,21 @@
     "version": null
   },
   {
-    "author": "DimonSever000",
-    "name": "Satellite",
+    "author": "explodoboy",
+    "name": "Ambition of the Cosmic",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Romyashi",
-    "name": "Treasures",
-    "steamId": null,
-    "version": null
+    "author": "Roolo and Owlchemist",
+    "name": "Giddy-Up 2",
+    "steamId": "2934245647",
+    "version": "1.4"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
   }
 ]

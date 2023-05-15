@@ -1360,7 +1360,7 @@
       "abr": "glitterworldmedicine",
       "category": "Medicine",
       "defname": "MedicineUltratech",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "glowpod",
@@ -1390,7 +1390,7 @@
       "abr": "go-juice",
       "category": "Drugs",
       "defname": "GoJuice",
-      "price": 88
+      "price": -10
     },
     {
       "abr": "gold",
@@ -2149,12 +2149,6 @@
       "price": -10
     },
     {
-      "abr": "megascarab",
-      "category": "Animals",
-      "defname": "Megascarab",
-      "price": -10
-    },
-    {
       "abr": "megascreentelevision",
       "category": "Recreation",
       "defname": "MegascreenTelevision",
@@ -2296,7 +2290,7 @@
       "abr": "neutroamine",
       "category": "Manufactured",
       "defname": "Neutroamine",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "nuclearstomach",
@@ -3676,7 +3670,7 @@
       "abr": "wake-up",
       "category": "Drugs",
       "defname": "WakeUp",
-      "price": 58
+      "price": -10
     },
     {
       "abr": "warmask",
@@ -5452,7 +5446,7 @@
       "abr": "aeterno",
       "category": "Drugs",
       "defname": "SNS_Aeterno",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "amplifierofambition(cosmiccomponent#5/5)",
@@ -5506,7 +5500,7 @@
       "abr": "cosmicalloy",
       "category": "Raw resources",
       "defname": "SNS_CosmicAlloy",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "cosmicarm",
@@ -5542,13 +5536,13 @@
       "abr": "cosmiccatalystfuelcell",
       "category": "Manufactured",
       "defname": "SNS_Unobtainium_Fuel",
-      "price": 87
+      "price": -10
     },
     {
       "abr": "cosmiccomponent",
       "category": "Manufactured",
       "defname": "SNS_Component_GenII",
-      "price": 2708
+      "price": -10
     },
     {
       "abr": "cosmiccomputer",
@@ -5572,7 +5566,7 @@
       "abr": "cosmicempgrenade",
       "category": "Grenades",
       "defname": "SNS_EMPGrenade",
-      "price": 8292
+      "price": -10
     },
     {
       "abr": "cosmiceye",
@@ -5590,7 +5584,7 @@
       "abr": "cosmicfraggrenade",
       "category": "Grenades",
       "defname": "SNS_FragGrenade",
-      "price": 6125
+      "price": -10
     },
     {
       "abr": "cosmicheadshroud",
@@ -5644,13 +5638,13 @@
       "abr": "cosmicmatter",
       "category": "Raw resources",
       "defname": "SNS_CosmicMatter",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "cosmicmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenII",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "cosmicneckshroud",
@@ -5680,37 +5674,37 @@
       "abr": "cosmicpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenII",
-      "price": 11475
+      "price": -10
     },
     {
       "abr": "cosmicpowerarmor",
       "category": "Armor",
       "defname": "SNS_Apparel_CosmicPowerArmor",
-      "price": 121217
+      "price": -10
     },
     {
       "abr": "cosmicpowerarmorhelmet",
       "category": "Headgear",
       "defname": "SNS_Apparel_CosmicPowerArmorHelmet",
-      "price": 59258
+      "price": -10
     },
     {
       "abr": "cosmicrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenII",
-      "price": 36075
+      "price": -10
     },
     {
       "abr": "cosmicshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenII",
-      "price": 46283
+      "price": -10
     },
     {
       "abr": "cosmicsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenII",
-      "price": 68367
+      "price": -10
     },
     {
       "abr": "cosmicspine",
@@ -5728,7 +5722,7 @@
       "abr": "cosmicweave",
       "category": "Manufactured",
       "defname": "SNS_CosmicAlloyWeave",
-      "price": 188
+      "price": -10
     },
     {
       "abr": "decadentmeal",
@@ -5860,25 +5854,25 @@
       "abr": "eternalpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenIII",
-      "price": 13592
+      "price": -10
     },
     {
       "abr": "eternalrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenIII",
-      "price": 29450
+      "price": -10
     },
     {
       "abr": "eternalshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenIII",
-      "price": 46750
+      "price": -10
     },
     {
       "abr": "eternalsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenIII",
-      "price": 75300
+      "price": -10
     },
     {
       "abr": "eternitycell",
@@ -5890,7 +5884,7 @@
       "abr": "eternium",
       "category": "Raw resources",
       "defname": "SNS_Eternium",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "forbiddenknowledge(cosmiccomponent#2/5)",
@@ -5914,7 +5908,7 @@
       "abr": "handheldcosmiclance",
       "category": "Ranged weapons",
       "defname": "SNS_CosmicLance",
-      "price": 109675
+      "price": -10
     },
     {
       "abr": "hedonia",
@@ -6322,7 +6316,7 @@
       "abr": "theexarch",
       "category": "Ranged weapons",
       "defname": "SNS_EterniumLance",
-      "price": 422717
+      "price": -10
     },
     {
       "abr": "theutopiadevice",
@@ -6334,19 +6328,19 @@
       "abr": "thrumbow",
       "category": "Ranged",
       "defname": "TM_ThrumBow",
-      "price": 7467
+      "price": -10
     },
     {
       "abr": "thrumboaxe",
       "category": "Melee",
       "defname": "TM_ThrumboAxe",
-      "price": 7750
+      "price": -10
     },
     {
       "abr": "thrumbosaber",
       "category": "Melee",
       "defname": "TM_ThrumboSaber",
-      "price": 5833
+      "price": -10
     },
     {
       "abr": "tornscript:bard",
@@ -6557,6 +6551,12 @@
       "category": "Bionic",
       "defname": "VESWW_DeathSuperAcidifier",
       "price": 1500
+    },
+    {
+      "abr": "megascarab",
+      "category": "Animals",
+      "defname": "Megascarab",
+      "price": 167
     }
   ],
   "total": 1093

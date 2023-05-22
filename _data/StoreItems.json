@@ -3208,7 +3208,7 @@
       "abr": "stelliccrown",
       "category": "Headgear",
       "defname": "Apparel_CrownStellic",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "sterilizingstomach",
@@ -6154,7 +6154,7 @@
       "abr": "stellarmedicine",
       "category": "Medicine",
       "defname": "SNS_Medicine_GenI",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "stellarneckshroud",
@@ -6178,25 +6178,25 @@
       "abr": "stellarpistol",
       "category": "Ranged weapons",
       "defname": "SNS_Pistol_GenI",
-      "price": 2417
+      "price": -10
     },
     {
       "abr": "stellarrifle",
       "category": "Ranged weapons",
       "defname": "SNS_Rifle_GenI",
-      "price": 5117
+      "price": -10
     },
     {
       "abr": "stellarshotgun",
       "category": "Ranged weapons",
       "defname": "SNS_Shotgun_GenI",
-      "price": 3775
+      "price": -10
     },
     {
       "abr": "stellarsniper",
       "category": "Ranged weapons",
       "defname": "SNS_Sniper_GenI",
-      "price": 6475
+      "price": -10
     },
     {
       "abr": "stellarspine",

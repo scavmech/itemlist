@@ -106,7 +106,7 @@
       "abr": "antigrainwarhead",
       "category": "Mortar shells",
       "defname": "Shell_AntigrainWarhead",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "architecapsule",

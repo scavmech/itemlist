@@ -6,12 +6,6 @@
     "version": "1.5.0.0"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore (Unofficial)",
-    "steamId": "2018368654",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -19,7 +13,13 @@
   },
   {
     "author": "hodlhodl",
-    "name": "Twitch Toolkit (Unofficial)",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
   },
@@ -156,6 +156,12 @@
     "version": null
   },
   {
+    "author": "Kami Katze",
+    "name": "Material Filter",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Mlie",
     "name": "Custom Prisoner Interactions",
     "steamId": "2841231775",
@@ -180,10 +186,16 @@
     "version": "1.3.1"
   },
   {
-    "author": "Kami Katze",
-    "name": "Material Filter",
-    "steamId": null,
-    "version": null
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Alpha Mythology",
+    "steamId": "1821617793",
+    "version": "1.4.8315.17730"
   },
   {
     "author": "Rihlsul",
@@ -192,51 +204,21 @@
     "version": null
   },
   {
-    "author": "Erin",
-    "name": "Erin's Fox Squirrel",
+    "author": "Sepphoris",
+    "name": "Cryoweapons",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson, erdelf, Roolo, Smash Phil, Taranchuk, xrushha, Kikohi and legodude17",
-    "name": "Vanilla Factions Expanded - Pirates",
-    "steamId": "2723801948",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Уверен?",
-    "name": "Royal Warcaskets",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk, ISOREX and Sarg Bjornson",
-    "name": "Vanilla Races Expanded - Android",
-    "steamId": "2975771801",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "Smash Phil and Neceros",
-    "name": "SRTS Expanded",
-    "steamId": "2878587061",
-    "version": "1.4.7"
-  },
-  {
-    "author": "PrinceOfPluto",
-    "name": "SRTS Trains",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "WarCasket Expanded",
-    "steamId": null,
-    "version": null
+    "author": "Vesper",
+    "name": "EGI Holograms and Projectors",
+    "steamId": "2979598490",
+    "version": "1.0.0"
   }
 ]

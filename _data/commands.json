@@ -1556,7 +1556,7 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitCore (Unofficial)"
+      "mod": "ToolkitCore"
     },
     "description": null,
     "name": "hello",

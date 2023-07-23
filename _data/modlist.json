@@ -220,5 +220,17 @@
     "name": "EGI Holograms and Projectors",
     "steamId": "2979598490",
     "version": "1.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Winston Waves - Pawnless",
+    "steamId": null,
+    "version": null
   }
 ]

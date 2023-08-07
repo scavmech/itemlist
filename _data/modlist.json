@@ -186,51 +186,45 @@
     "version": "1.3.1"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Alpha Mythology",
-    "steamId": "1821617793",
-    "version": "1.4.8315.17730"
-  },
-  {
     "author": "Rihlsul",
     "name": "BigFluffies",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sepphoris",
-    "name": "Cryoweapons",
+    "author": "Chicken Plucker",
+    "name": "[RH2] V.O.I.D. Storyteller",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
+    "author": "pelador",
+    "name": "Apothecary (Continued)",
+    "steamId": "2195469123",
+    "version": "1.4.2"
   },
   {
-    "author": "Vesper",
-    "name": "EGI Holograms and Projectors",
-    "steamId": "2979598490",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Winston Waves - Pawnless",
+    "author": "Zaljerem",
+    "name": "Fox Expansion (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "battlemage64",
+    "name": "People Can Change",
+    "steamId": "1257561308",
+    "version": "1.0.8585.29176"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.7.9"
+  },
+  {
+    "author": "Scurvyez",
+    "name": "Random Chance",
+    "steamId": "3011412382",
+    "version": "1.0.0.0"
   }
 ]

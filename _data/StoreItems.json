@@ -25,12 +25,6 @@
       "price": 2
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": -10
-    },
-    {
       "abr": "airwireheadset",
       "category": "Headgear",
       "defname": "Apparel_AirwireHeadset",
@@ -214,12 +208,6 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": -10
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
       "price": -10
     },
     {
@@ -2062,12 +2050,6 @@
       "abr": "machiningtable",
       "category": "Production",
       "defname": "TableMachining",
-      "price": -10
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
       "price": -10
     },
     {
@@ -3961,1205 +3943,785 @@
       "price": -10
     },
     {
-      "abr": "bigfluffyleather",
-      "category": "Leathers",
-      "defname": "Leather_BigFluffy",
-      "price": -10
-    },
-    {
-      "abr": "bigfluffywool",
-      "category": "Wools",
-      "defname": "Wool_BigFluffy",
-      "price": -10
-    },
-    {
-      "abr": "bigfluffy",
-      "category": "Animals",
-      "defname": "BigFluffy",
-      "price": -10
-    },
-    {
-      "abr": "16kbattery",
-      "category": "Automation",
-      "defname": "PRF_16k_Battery",
-      "price": -10
-    },
-    {
-      "abr": "256kbattery",
-      "category": "Automation",
-      "defname": "PRF_256k_Battery",
-      "price": -10
-    },
-    {
-      "abr": "4kbattery",
-      "category": "Automation",
-      "defname": "PRF_4k_Battery",
-      "price": -10
-    },
-    {
-      "abr": "64kbattery",
-      "category": "Automation",
-      "defname": "PRF_64k_Battery",
-      "price": -10
-    },
-    {
-      "abr": "absinthe",
-      "category": "Alcohol",
-      "defname": "AYAbsinthe",
-      "price": -10
-    },
-    {
-      "abr": "absinthemash",
-      "category": "Apothecary products",
-      "defname": "AYAbsintheMash",
-      "price": -10
-    },
-    {
-      "abr": "adaptiveassembler",
-      "category": "Automation",
-      "defname": "PRF_TypeTwoAssembler_I",
-      "price": -10
-    },
-    {
-      "abr": "adv.i/oport",
-      "category": "Automation",
-      "defname": "PRF_IOPort_II",
-      "price": -10
-    },
-    {
-      "abr": "advancedaicore",
-      "category": "Manufactured",
-      "defname": "PRF_ElectronicChip_II",
-      "price": -10
-    },
-    {
-      "abr": "advancedfurnace",
-      "category": "Automation",
-      "defname": "PRF_FurnaceIII",
-      "price": -10
-    },
-    {
-      "abr": "advancedmachineframe",
-      "category": "Manufactured",
-      "defname": "PRF_MachineFrame_III",
-      "price": -10
-    },
-    {
-      "abr": "advancedslaughterhouse",
-      "category": "Automation",
-      "defname": "PRF_Slaughterhouse",
-      "price": -10
-    },
-    {
-      "abr": "aloecream",
-      "category": "Ointments",
-      "defname": "AYAloeCream",
-      "price": -10
-    },
-    {
-      "abr": "aloeleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYAloeLeaves",
-      "price": -10
-    },
-    {
-      "abr": "aloeoil",
-      "category": "Oil Extracts",
-      "defname": "AYAloeOil",
-      "price": -10
-    },
-    {
-      "abr": "ammoniawater",
-      "category": "Apothecary products",
-      "defname": "AYAmmoniaWater",
-      "price": -10
-    },
-    {
-      "abr": "apothecaryhat",
-      "category": "Headgear",
-      "defname": "AYapothecaryhat",
-      "price": -10
-    },
-    {
-      "abr": "apothecaryrobe",
-      "category": "Apparel",
-      "defname": "AYapothecaryOutfit",
-      "price": -10
-    },
-    {
-      "abr": "apothecarytable",
-      "category": "Production",
-      "defname": "AYApothecaryTable",
-      "price": -10
-    },
-    {
-      "abr": "archivalstorageunit",
-      "category": "Automation",
-      "defname": "PRF_ColdStorageUnit_I",
-      "price": -10
-    },
-    {
-      "abr": "assembler",
-      "category": "Automation",
-      "defname": "PRF_TypeOneAssembler_I",
-      "price": -10
-    },
-    {
-      "abr": "audiotapereel",
-      "category": "Manufactured",
-      "defname": "PRF_DataDisk",
-      "price": -10
-    },
-    {
-      "abr": "augerdrill",
-      "category": "Automation",
-      "defname": "PRF_DeepQuarry_mkI",
-      "price": -10
-    },
-    {
-      "abr": "barrel(saltedmeat)",
-      "category": "Apothecary products",
-      "defname": "AYBarrelSaltedMeat",
-      "price": -10
-    },
-    {
-      "abr": "basicaichip",
-      "category": "Manufactured",
-      "defname": "PRF_ElectronicChip_I",
-      "price": -10
-    },
-    {
-      "abr": "basicassembler",
-      "category": "Automation",
-      "defname": "PRF_PartAssembler",
-      "price": -10
-    },
-    {
-      "abr": "batsculpture",
-      "category": "Lime plaster art",
-      "defname": "AYPlasterBat",
-      "price": -10
-    },
-    {
-      "abr": "belladonnaberries",
-      "category": "Apothecary plant matter",
-      "defname": "AYBelladonnaBerries",
-      "price": -10
-    },
-    {
-      "abr": "birdbath",
-      "category": "Lime plaster art",
-      "defname": "AYPlasterBirdBath",
-      "price": -10
-    },
-    {
-      "abr": "blackfox",
-      "category": "Animals",
-      "defname": "Fox_black",
-      "price": -10
-    },
-    {
-      "abr": "blastfurnace",
-      "category": "Automation",
-      "defname": "PRF_FurnaceI",
-      "price": -10
-    },
-    {
-      "abr": "bucket(rocksalt)",
-      "category": "Apothecary products",
-      "defname": "AYSalt_Bucket",
-      "price": -10
-    },
-    {
-      "abr": "bucket(woodash)",
-      "category": "Apothecary products",
-      "defname": "AYWoodAsh_Bucket",
-      "price": -10
-    },
-    {
-      "abr": "calciumcarbonate",
-      "category": "Apothecary products",
-      "defname": "AYCalciumCarbonate",
-      "price": -10
-    },
-    {
-      "abr": "candle",
+      "abr": "ammobox",
       "category": "Furniture",
-      "defname": "AYCandle",
+      "defname": "JDSAmmo_BoxA",
       "price": -10
     },
     {
-      "abr": "castingtable",
-      "category": "Production",
-      "defname": "AYCastArtTable",
+      "abr": "ammobox",
+      "category": "Furniture",
+      "defname": "JDSAmmo_BoxB",
       "price": -10
     },
     {
-      "abr": "charcoal",
-      "category": "Apothecary products",
-      "defname": "AYCharcoal",
+      "abr": "ammobox",
+      "category": "Furniture",
+      "defname": "JDSAmmo_BoxC",
       "price": -10
     },
     {
-      "abr": "charcoal(ammoniatreated)",
-      "category": "Apothecary products",
-      "defname": "AYAmmoniaCharcoal",
+      "abr": "ammocrate",
+      "category": "Furniture",
+      "defname": "JDSAmmo_Crate",
       "price": -10
     },
     {
-      "abr": "charcoalbrazier",
-      "category": "Production",
-      "defname": "AYBrazier",
+      "abr": "ammocratepiles",
+      "category": "Furniture",
+      "defname": "JDSAmmo_Crate_Piles",
       "price": -10
     },
     {
-      "abr": "charcoalsmithy",
-      "category": "Production",
-      "defname": "AYCharcoalSmithy",
+      "abr": "ammopack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_AmmoPack",
       "price": -10
     },
     {
-      "abr": "charcoalstove",
-      "category": "Production",
-      "defname": "AYCharcoalStove",
+      "abr": "angel'sgrace",
+      "category": "Drugs",
+      "defname": "GS_Grace",
       "price": -10
     },
     {
-      "abr": "cinchonabark",
-      "category": "Apothecary plant matter",
-      "defname": "AYCinchonaBark",
+      "abr": "backpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Backpack",
       "price": -10
     },
     {
-      "abr": "cinchonapowder",
-      "category": "Powders",
-      "defname": "AYCinchonaPowder",
+      "abr": "bankvault",
+      "category": "Furniture",
+      "defname": "JDSBank_Vault",
       "price": -10
     },
     {
-      "abr": "clotheswashingtub",
-      "category": "Production",
-      "defname": "AYApparelWashingTub",
+      "abr": "barrel",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Barrel",
       "price": -10
     },
     {
-      "abr": "coarserocksalt",
-      "category": "Apothecary products",
-      "defname": "AYSalt",
+      "abr": "barrelpile",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Barrel_Pile",
       "price": -10
     },
     {
-      "abr": "conveyorbelt",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Simple_I",
+      "abr": "basket",
+      "category": "Furniture",
+      "defname": "JDS_Basket",
       "price": -10
     },
     {
-      "abr": "conveyorsplitter",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Splitter_I",
+      "abr": "battlebanner",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_BattleBanner",
       "price": -10
     },
     {
-      "abr": "digitalstorageunit",
-      "category": "Automation",
-      "defname": "PRF_DigitalStorageUnit_I",
+      "abr": "beercrate",
+      "category": "Furniture",
+      "defname": "JDSBeer_Crate",
       "price": -10
     },
     {
-      "abr": "dronecolumn",
-      "category": "Automation",
-      "defname": "PRF_MiniDroneColumn",
+      "abr": "bigshelf",
+      "category": "Furniture",
+      "defname": "LWM_BigShelf",
       "price": -10
     },
     {
-      "abr": "dronecultivator",
-      "category": "Automation",
-      "defname": "PRF_DroneCultivator_I",
+      "abr": "bulkwater",
+      "category": "Furniture",
+      "defname": "JDS_Bulk_Water",
       "price": -10
     },
     {
-      "abr": "dronecultivatormk.ii",
-      "category": "Automation",
-      "defname": "PRF_DroneCultivator_II",
+      "abr": "bundleswrap",
+      "category": "Furniture",
+      "defname": "JDS_Bundles_Wrap",
       "price": -10
     },
     {
-      "abr": "dronecultivatormk.ii(sunlamp)",
-      "category": "Automation",
-      "defname": "PRF_DroneCultivator_II_sun",
+      "abr": "bundleswrapbig",
+      "category": "Furniture",
+      "defname": "JDS_Bundles_Wrap_Big",
       "price": -10
     },
     {
-      "abr": "dronecultivatormk.iii",
-      "category": "Automation",
-      "defname": "PRF_DroneCultivator_III",
+      "abr": "bundleswrappile",
+      "category": "Furniture",
+      "defname": "JDS_Bundles_Wrap_Pile",
       "price": -10
     },
     {
-      "abr": "elixirofcalming",
-      "category": "Elixirs",
-      "defname": "AYElixirCalming",
+      "abr": "castingmold",
+      "category": "Unfinished",
+      "defname": "ComponentCastingmold",
       "price": -10
     },
     {
-      "abr": "elixirofinciting",
-      "category": "Elixirs",
-      "defname": "AYElixirInciting",
+      "abr": "chemfuelpump",
+      "category": "Furniture",
+      "defname": "JDS_ChemfuelPump",
       "price": -10
     },
     {
-      "abr": "elixiroflucidity",
-      "category": "Elixirs",
-      "defname": "AYElixirLucidity",
+      "abr": "chemfuelstorage",
+      "category": "Furniture",
+      "defname": "JDS_Chemfuel_Storage",
       "price": -10
     },
     {
-      "abr": "elixirofsoothing",
-      "category": "Elixirs",
-      "defname": "AYElixirSoothing",
+      "abr": "chemfuelstoragelarge",
+      "category": "Furniture",
+      "defname": "JDS_Large_Chemfuel_Storage",
       "price": -10
     },
     {
-      "abr": "expressconveyorbelt",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Simple_III",
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "LWM_Clothing_Rack",
       "price": -10
     },
     {
-      "abr": "factoryresearchterminal",
-      "category": "Production",
-      "defname": "PRF_ResearchTerminal",
+      "abr": "commandtower",
+      "category": "Utility",
+      "defname": "SGC_Apparel_CommandTower",
       "price": -10
     },
     {
-      "abr": "fastconveyorbelt",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Simple_II",
+      "abr": "cratea",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate",
       "price": -10
     },
     {
-      "abr": "fermentingtank",
-      "category": "Automation",
-      "defname": "PRF_FermentingBarrel",
+      "abr": "cratea2",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_Two",
       "price": -10
     },
     {
-      "abr": "floorspotlight",
-      "category": "Automation",
-      "defname": "PRF_Floorspotlight",
+      "abr": "cratea3",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_Three",
       "price": -10
     },
     {
-      "abr": "flutonic",
-      "category": "Tonics",
-      "defname": "AYFluTonic",
+      "abr": "cratea4",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_four",
       "price": -10
     },
     {
-      "abr": "fuelingdispenser",
-      "category": "Automation",
-      "defname": "PRF_FuelingMachine",
+      "abr": "crateb",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_B",
       "price": -10
     },
     {
-      "abr": "garlicbulbs",
-      "category": "Apothecary plant matter",
-      "defname": "AYGarlicBulb",
+      "abr": "cratec",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_C",
       "price": -10
     },
     {
-      "abr": "garlicpowder",
-      "category": "Powders",
-      "defname": "AYGarlicPowder",
+      "abr": "cratelarge",
+      "category": "Furniture",
+      "defname": "JDS_Wooden_Crate_Large",
       "price": -10
     },
     {
-      "abr": "genericanimalharvester",
-      "category": "Automation",
-      "defname": "PRF_GenericAnimalHarvester",
+      "abr": "creepermeat",
+      "category": "Meat",
+      "defname": "Meat_Creepers_Creeper",
       "price": -10
     },
     {
-      "abr": "gingerpowder",
-      "category": "Powders",
-      "defname": "AYGingerPowder",
+      "abr": "engine",
+      "category": "Engine",
+      "defname": "EngineMedium",
       "price": -10
     },
     {
-      "abr": "gingerroot",
-      "category": "Apothecary plant matter",
-      "defname": "AYGingerRoot",
+      "abr": "explosivebelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ExplosiveBelt",
       "price": -10
     },
     {
-      "abr": "gingertea",
-      "category": "Herbal Teas",
-      "defname": "AYGingerTea",
+      "abr": "fieldmortar",
+      "category": "Utility",
+      "defname": "SGC_Apparel_FieldMortar",
       "price": -10
     },
     {
-      "abr": "ginkgoleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYGinkgoLeaves",
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "LWM_Food_Basket",
       "price": -10
     },
     {
-      "abr": "ginkgopowder",
-      "category": "Powders",
-      "defname": "AYGinkgoPowder",
+      "abr": "grandprojector",
+      "category": "Art",
+      "defname": "GrandProjector",
       "price": -10
     },
     {
-      "abr": "ginkgoseeds",
-      "category": "Apothecary plant matter",
-      "defname": "AYGinkgoSeeds",
+      "abr": "grandprojectorthrone",
+      "category": "Furniture",
+      "defname": "GrandProjectorThrone",
       "price": -10
     },
     {
-      "abr": "ginsengpowder",
-      "category": "Powders",
-      "defname": "AYGinsengPowder",
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "LWM_FabricHamper",
       "price": -10
     },
     {
-      "abr": "ginsengroot",
-      "category": "Apothecary plant matter",
-      "defname": "AYGinsengRoot",
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "LWM_Hayloft",
       "price": -10
     },
     {
-      "abr": "ginsengtea",
-      "category": "Herbal Teas",
-      "defname": "AYGinsengTea",
-      "price": -10
-    },
-    {
-      "abr": "greyfox",
-      "category": "Animals",
-      "defname": "Fox_grey",
-      "price": -10
-    },
-    {
-      "abr": "growzonepuller",
-      "category": "Automation",
-      "defname": "PRF_GrowzonePuller_I",
-      "price": -10
-    },
-    {
-      "abr": "hay(ammoniatreated)",
-      "category": "Foods",
-      "defname": "AYAmmoniaHay",
-      "price": -10
-    },
-    {
-      "abr": "henbanejoint",
-      "category": "Smokes",
-      "defname": "AYHenbaneJoint",
-      "price": -10
-    },
-    {
-      "abr": "henbaneleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYHenbaneLeaves",
-      "price": -10
-    },
-    {
-      "abr": "henbaneoil",
-      "category": "Oil Extracts",
-      "defname": "AYHenbaneOil",
-      "price": -10
-    },
-    {
-      "abr": "henbanepowder",
-      "category": "Powders",
-      "defname": "AYHenbanePowder",
-      "price": -10
-    },
-    {
-      "abr": "henbanetea",
-      "category": "Herbal Teas",
-      "defname": "AYHenbaneTea",
-      "price": -10
-    },
-    {
-      "abr": "herbalisthat",
-      "category": "Headgear",
-      "defname": "AYHerbalistHat",
-      "price": -10
-    },
-    {
-      "abr": "herbalistrobe",
-      "category": "Apparel",
-      "defname": "AYHerbalistOutfit",
-      "price": -10
-    },
-    {
-      "abr": "i/oport",
-      "category": "Automation",
-      "defname": "PRF_IOPort_I",
-      "price": -10
-    },
-    {
-      "abr": "i/opusher",
-      "category": "Automation",
-      "defname": "PRF_IOPPusher_I",
-      "price": -10
-    },
-    {
-      "abr": "industrialautomaticmason",
-      "category": "Automation",
-      "defname": "PRF_StoneWorks",
-      "price": -10
-    },
-    {
-      "abr": "industrialcooker",
-      "category": "Automation",
-      "defname": "PRF_SelfCookerI",
-      "price": -10
-    },
-    {
-      "abr": "industrialfoodprocessor",
-      "category": "Automation",
-      "defname": "PRF_SelfPrepper",
-      "price": -10
-    },
-    {
-      "abr": "industrialfurnace",
-      "category": "Automation",
-      "defname": "PRF_FurnaceII",
-      "price": -10
-    },
-    {
-      "abr": "industriallamp",
-      "category": "Automation",
-      "defname": "PRF_IndustrialLamp",
-      "price": -10
-    },
-    {
-      "abr": "itemanglepuller",
-      "category": "Automation",
-      "defname": "PRF_SimplePuller_II_Side",
-      "price": -10
-    },
-    {
-      "abr": "itemchute",
-      "category": "Automation",
-      "defname": "PRF_ItemSlide",
-      "price": -10
-    },
-    {
-      "abr": "itempullermki",
-      "category": "Automation",
-      "defname": "PRF_SimplePuller_I",
-      "price": -10
-    },
-    {
-      "abr": "itempullermkii",
-      "category": "Automation",
-      "defname": "PRF_SimplePuller_II",
-      "price": -10
-    },
-    {
-      "abr": "kaleleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYKaleLeaves",
-      "price": -10
-    },
-    {
-      "abr": "kalepowder",
-      "category": "Powders",
-      "defname": "AYKalePowder",
-      "price": -10
-    },
-    {
-      "abr": "kaletea",
-      "category": "Herbal Teas",
-      "defname": "AYKaleTea",
-      "price": -10
-    },
-    {
-      "abr": "largecastingtable",
-      "category": "Production",
-      "defname": "AYLargeCastArtTable",
-      "price": -10
-    },
-    {
-      "abr": "largeedgysculpture",
-      "category": "Lime plaster art",
-      "defname": "AYPlasterLargeEdgy",
-      "price": -10
-    },
-    {
-      "abr": "largeowlysculpture",
-      "category": "Lime plaster art",
-      "defname": "AYPlasterLargeOwly",
-      "price": -10
-    },
-    {
-      "abr": "lavenderbalm",
-      "category": "Ointments",
-      "defname": "AYLavenderBalm",
-      "price": -10
-    },
-    {
-      "abr": "lavenderflowers",
-      "category": "Apothecary plant matter",
-      "defname": "AYLavenderFlowers",
-      "price": -10
-    },
-    {
-      "abr": "lavenderoil",
-      "category": "Oil Extracts",
-      "defname": "AYLavenderOil",
-      "price": -10
-    },
-    {
-      "abr": "lavendersoap",
-      "category": "Ointments",
-      "defname": "AYLavenderSoap",
-      "price": -10
-    },
-    {
-      "abr": "limeplasterblocks",
-      "category": "Stone blocks",
-      "defname": "BlocksAYLimePlaster",
-      "price": -10
-    },
-    {
-      "abr": "limewater",
-      "category": "Apothecary products",
-      "defname": "AYLimewater",
-      "price": -10
-    },
-    {
-      "abr": "lucifoxx",
-      "category": "Animals",
-      "defname": "Fox_luci",
-      "price": -10
-    },
-    {
-      "abr": "meatgrinder",
-      "category": "Automation",
-      "defname": "PRF_MeatGrinder",
-      "price": -10
-    },
-    {
-      "abr": "mediummachineframe",
+      "abr": "heavycasting",
       "category": "Manufactured",
-      "defname": "PRF_MachineFrame_II",
+      "defname": "ComponentHeavyCasting",
       "price": -10
     },
     {
-      "abr": "metalrefinery",
-      "category": "Automation",
-      "defname": "PRF_MetalRefinery",
+      "abr": "heavyengine",
+      "category": "Engine",
+      "defname": "EngineHeavy",
       "price": -10
     },
     {
-      "abr": "milker",
-      "category": "Automation",
-      "defname": "PRF_Milker",
+      "abr": "hollillypowder",
+      "category": "Plant matter",
+      "defname": "HolyPowder",
       "price": -10
     },
     {
-      "abr": "mineshaft",
-      "category": "Production",
-      "defname": "PRF_MineShaft",
+      "abr": "industrialdumpster",
+      "category": "Furniture",
+      "defname": "JDSIndustrial_Dumpster",
       "price": -10
     },
     {
-      "abr": "modernautocooker",
-      "category": "Automation",
-      "defname": "PRF_SelfCookerII",
+      "abr": "industrialdumpster(chunk)",
+      "category": "Furniture",
+      "defname": "JDS_Industrial_Dumpster_Chunk",
       "price": -10
     },
     {
-      "abr": "nanocultivator",
-      "category": "Automation",
-      "defname": "PRF_OldTypeCultivator_I",
+      "abr": "industrialdumpster(slag)",
+      "category": "Furniture",
+      "defname": "JDS_Industrial_Dumpster_Slag",
       "price": -10
     },
     {
-      "abr": "nanocultivator(sunlamp)",
-      "category": "Automation",
-      "defname": "PRF_OldTypeCultivator_Sun",
+      "abr": "industrialshelf(empty)",
+      "category": "Furniture",
+      "defname": "JDSIndustrial_shelf_empty",
       "price": -10
     },
     {
-      "abr": "nanocultivatormk.ii",
-      "category": "Automation",
-      "defname": "PRF_OldTypeCultivator_Xl",
+      "abr": "industrialshelf(full)",
+      "category": "Furniture",
+      "defname": "JDSIndustrial_shelf",
       "price": -10
     },
     {
-      "abr": "nettlehemp",
-      "category": "Textiles",
-      "defname": "AYNettleHemp",
+      "abr": "largecanpallet",
+      "category": "Furniture",
+      "defname": "JDS_Large_Can_Pallet",
       "price": -10
     },
     {
-      "abr": "nettleleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYNettleLeaves",
+      "abr": "largelocker",
+      "category": "Furniture",
+      "defname": "JDSLarge_locker",
       "price": -10
     },
     {
-      "abr": "nettlepowder",
-      "category": "Powders",
-      "defname": "AYNettlePowder",
+      "abr": "largepallet",
+      "category": "Furniture",
+      "defname": "JDS_Large_Pallet",
       "price": -10
     },
     {
-      "abr": "nettletea",
-      "category": "Herbal Teas",
-      "defname": "AYNettleTea",
+      "abr": "largepalleta",
+      "category": "Furniture",
+      "defname": "JDS_Large_A_Pallet",
       "price": -10
     },
     {
-      "abr": "planter",
-      "category": "Lime plaster art",
-      "defname": "AYPlasterPlanter",
+      "abr": "largepalletb",
+      "category": "Furniture",
+      "defname": "JDS_Large_B_Pallet",
       "price": -10
     },
     {
-      "abr": "plasmadrill",
-      "category": "Automation",
-      "defname": "PRF_BillTypeMiner_I",
+      "abr": "largepalletc",
+      "category": "Furniture",
+      "defname": "JDS_Large_C_Pallet",
       "price": -10
     },
     {
-      "abr": "portablerecipedatabase",
-      "category": "Automation",
-      "defname": "PRF_RecipeDatabase",
+      "abr": "largepalletd",
+      "category": "Furniture",
+      "defname": "JDS_Large_D_Pallet",
       "price": -10
     },
     {
-      "abr": "potash",
-      "category": "Apothecary products",
-      "defname": "AYPotash",
+      "abr": "largepallete",
+      "category": "Furniture",
+      "defname": "JDS_Large_E_Pallet",
       "price": -10
     },
     {
-      "abr": "pottingcompost",
-      "category": "Apothecary products",
-      "defname": "AYCompost",
+      "abr": "largepostbox",
+      "category": "Furniture",
+      "defname": "JDS_Large_Post_Box",
       "price": -10
     },
     {
-      "abr": "pottingmix",
-      "category": "Apothecary products",
-      "defname": "AYPottingMix",
+      "abr": "largeprojector",
+      "category": "Art",
+      "defname": "LargeProjector",
       "price": -10
     },
     {
-      "abr": "preservemix",
-      "category": "Apothecary products",
-      "defname": "AYPreserveMix",
+      "abr": "lightengine",
+      "category": "Engine",
+      "defname": "EngineLight",
       "price": -10
     },
     {
-      "abr": "preservingbarrel",
-      "category": "Production",
-      "defname": "AYPreserveBarrel",
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "LWM_MealRack",
       "price": -10
     },
     {
-      "abr": "pulsedrillmk.2",
-      "category": "Automation",
-      "defname": "PRF_DeepQuarry_mkIII",
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "LWM_Meat_Hook",
       "price": -10
     },
     {
-      "abr": "pulsedrillmk.i",
-      "category": "Automation",
-      "defname": "PRF_DeepQuarry_mkII",
+      "abr": "medstorage",
+      "category": "Furniture",
+      "defname": "JDS_Med_Storage",
       "price": -10
     },
     {
-      "abr": "quantumassembler(overclocked)",
-      "category": "Automation",
-      "defname": "PRF_TypeTwoAssembler_III",
+      "abr": "medicbag",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MedicBag",
       "price": -10
     },
     {
-      "abr": "quantumassembler(prime)",
-      "category": "Automation",
-      "defname": "PRF_TypeTwoAssembler_II",
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "LWM_Medicine_Cabinet",
       "price": -10
     },
     {
-      "abr": "qubitprocessor",
+      "abr": "metalcrate",
+      "category": "Furniture",
+      "defname": "JDS_Metal_Crate",
+      "price": -10
+    },
+    {
+      "abr": "metalcratebiggerpile",
+      "category": "Furniture",
+      "defname": "JDS_Metal_Crate_Bigger_Pile",
+      "price": -10
+    },
+    {
+      "abr": "metalcratepile",
+      "category": "Furniture",
+      "defname": "JDS_Metal_Crate_Pile",
+      "price": -10
+    },
+    {
+      "abr": "metalcratesmallpile",
+      "category": "Furniture",
+      "defname": "JDS_Metal_Crate_Small_Pile",
+      "price": -10
+    },
+    {
+      "abr": "metalshelfa(empty)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_A",
+      "price": -10
+    },
+    {
+      "abr": "metalshelfa(full)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_A_Full",
+      "price": -10
+    },
+    {
+      "abr": "metalshelfb(empty)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_B",
+      "price": -10
+    },
+    {
+      "abr": "metalshelfb(full)",
+      "category": "Furniture",
+      "defname": "JDSMetal_Shelf_B_Full",
+      "price": -10
+    },
+    {
+      "abr": "militarygradecratelarge",
+      "category": "Furniture",
+      "defname": "JDSMilitary_Grade_crate_Large",
+      "price": -10
+    },
+    {
+      "abr": "militarygradecratelong",
+      "category": "Furniture",
+      "defname": "JDSMilitary_Grade_Crate_Long",
+      "price": -10
+    },
+    {
+      "abr": "militarygradecratesmall",
+      "category": "Furniture",
+      "defname": "JDSMilitaryGradeCrateSmall",
+      "price": -10
+    },
+    {
+      "abr": "militarygradecratesmallpile",
+      "category": "Furniture",
+      "defname": "JDSMilitary_Grade_Crate_Small_Pile",
+      "price": -10
+    },
+    {
+      "abr": "mini-turretpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MiniTurretPack",
+      "price": -10
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "LWM_Pallet",
+      "price": -10
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "JDSPallet",
+      "price": -10
+    },
+    {
+      "abr": "palletbox",
+      "category": "Furniture",
+      "defname": "JDSPallet_Box",
+      "price": -10
+    },
+    {
+      "abr": "palletcan",
+      "category": "Furniture",
+      "defname": "JDSPallet_Can",
+      "price": -10
+    },
+    {
+      "abr": "palletcontainer",
+      "category": "Furniture",
+      "defname": "JDSPallet_Container",
+      "price": -10
+    },
+    {
+      "abr": "palletcrate",
+      "category": "Furniture",
+      "defname": "JDSPallet_Crate",
+      "price": -10
+    },
+    {
+      "abr": "palletwithwrapping",
+      "category": "Furniture",
+      "defname": "LWM_Pallet_Covered",
+      "price": -10
+    },
+    {
+      "abr": "projectorthrone",
+      "category": "Furniture",
+      "defname": "ProjectorThrone",
+      "price": -10
+    },
+    {
+      "abr": "quiver",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Quiver",
+      "price": -10
+    },
+    {
+      "abr": "rangedshieldbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RangedShieldBelt",
+      "price": -10
+    },
+    {
+      "abr": "rescueframe",
+      "category": "Utility",
+      "defname": "SGC_Apparel_RescueFrame",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate1",
+      "category": "Furniture",
+      "defname": "JDS_1ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate10",
+      "category": "Furniture",
+      "defname": "JDS_10ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate2",
+      "category": "Furniture",
+      "defname": "JDS_2ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate3",
+      "category": "Furniture",
+      "defname": "JDS_3ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate4",
+      "category": "Furniture",
+      "defname": "JDS_4ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate5",
+      "category": "Furniture",
+      "defname": "JDS_5ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate6",
+      "category": "Furniture",
+      "defname": "JDS_6ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate7",
+      "category": "Furniture",
+      "defname": "JDS_7ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate8",
+      "category": "Furniture",
+      "defname": "JDS_8ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "resourcescrate9",
+      "category": "Furniture",
+      "defname": "JDS_9ResourcesCrate",
+      "price": -10
+    },
+    {
+      "abr": "ressurectorbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RessurectorBelt",
+      "price": -10
+    },
+    {
+      "abr": "roadwheel",
       "category": "Manufactured",
-      "defname": "PRF_ElectronicChip_III",
+      "defname": "ComponentWheelRoad",
       "price": -10
     },
     {
-      "abr": "quininetea",
-      "category": "Herbal Teas",
-      "defname": "AYQuinineTea",
+      "abr": "roboticrig",
+      "category": "Utility",
+      "defname": "SGC_Apparel_RoboticRig",
       "price": -10
     },
     {
-      "abr": "roboticarm",
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "LWM_Safe",
+      "price": -10
+    },
+    {
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "JDSSafe",
+      "price": -10
+    },
+    {
+      "abr": "shelfa(empty)",
+      "category": "Furniture",
+      "defname": "JDSShelf_A_Empty",
+      "price": -10
+    },
+    {
+      "abr": "shelfa(full)",
+      "category": "Furniture",
+      "defname": "JDSShelf_A_Full",
+      "price": -10
+    },
+    {
+      "abr": "shippingcontainerblue",
+      "category": "Furniture",
+      "defname": "JDSShippingContainerBlue",
+      "price": -10
+    },
+    {
+      "abr": "shippingcontainergreen",
+      "category": "Furniture",
+      "defname": "JDSShippingContainerGreen",
+      "price": -10
+    },
+    {
+      "abr": "shippingcontainerred",
+      "category": "Furniture",
+      "defname": "JDSShippingContainerRed",
+      "price": -10
+    },
+    {
+      "abr": "silo",
+      "category": "Furniture",
+      "defname": "JDSSilo",
+      "price": -10
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": -10
+    },
+    {
+      "abr": "smallprojector",
+      "category": "Art",
+      "defname": "SmallProjector",
+      "price": -10
+    },
+    {
+      "abr": "smallerlocker",
+      "category": "Furniture",
+      "defname": "JDSmaller_locker",
+      "price": -10
+    },
+    {
+      "abr": "steamengine",
+      "category": "Engine",
+      "defname": "EngineSteam",
+      "price": -10
+    },
+    {
+      "abr": "survivalpack",
+      "category": "Utility",
+      "defname": "SGC_Apparel_SurvivalPack",
+      "price": -10
+    },
+    {
+      "abr": "toolbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ToolBelt",
+      "price": -10
+    },
+    {
+      "abr": "toolbox",
+      "category": "Furniture",
+      "defname": "JDSTool_Box",
+      "price": -10
+    },
+    {
+      "abr": "traumakit",
+      "category": "Utility",
+      "defname": "SGC_Apparel_TraumaKit",
+      "price": -10
+    },
+    {
+      "abr": "turbineengine",
+      "category": "Engine",
+      "defname": "EngineTurbine",
+      "price": -10
+    },
+    {
+      "abr": "turbojet",
+      "category": "Engine",
+      "defname": "EngineJet",
+      "price": -10
+    },
+    {
+      "abr": "tyre",
       "category": "Manufactured",
-      "defname": "PRF_RoboticArm",
+      "defname": "ComponentWheelTire",
       "price": -10
     },
     {
-      "abr": "roboticmachiningtable",
-      "category": "Automation",
-      "defname": "TableRoboticMachining",
+      "abr": "vanometricgrav-pack",
+      "category": "Utility",
+      "defname": "SGC_Apparel_Jetpack",
       "price": -10
     },
     {
-      "abr": "s.a.lartmachinemk.i",
-      "category": "Automation",
-      "defname": "PRF_TheArtMachine",
+      "abr": "vendingmachinea",
+      "category": "Furniture",
+      "defname": "JDSVending_Machine",
       "price": -10
     },
     {
-      "abr": "s.a.lartmachinemk.ii",
-      "category": "Automation",
-      "defname": "PRF_TheArtMaster",
+      "abr": "vendingmachineb",
+      "category": "Furniture",
+      "defname": "JDSVending_Machine_two",
       "price": -10
     },
     {
-      "abr": "s.a.lassemblermk.i",
-      "category": "Automation",
-      "defname": "PRF_AutoCrafterSimple",
+      "abr": "verybigshelves",
+      "category": "Furniture",
+      "defname": "LWM_VeryBigShelf",
       "price": -10
     },
     {
-      "abr": "s.a.lassemblermk.ii",
-      "category": "Automation",
-      "defname": "PRF_AutoCrafter",
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
       "price": -10
     },
     {
-      "abr": "s.a.lautomatedcooker",
-      "category": "Automation",
-      "defname": "PRF_SALAutoCooker",
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
       "price": -10
     },
     {
-      "abr": "s.a.lautomatedminer",
-      "category": "Automation",
-      "defname": "PRF_SALAutoMinerI",
+      "abr": "wearableforklift",
+      "category": "Utility",
+      "defname": "SGC_Apparel_Forklift",
       "price": -10
     },
     {
-      "abr": "s.a.loverclockedassembler",
-      "category": "Automation",
-      "defname": "PRF_OverclockedAutoAssembler",
+      "abr": "wheelbarrow",
+      "category": "Furniture",
+      "defname": "JDSwheelbarrow",
       "price": -10
     },
     {
-      "abr": "s.a.loverclockedassemblermk.ii",
-      "category": "Automation",
-      "defname": "PRF_OverclockedAutoAssemblerII",
-      "price": -10
-    },
-    {
-      "abr": "s.a.lprimecrafter",
-      "category": "Automation",
-      "defname": "PRF_GodlyCrafter",
-      "price": -10
-    },
-    {
-      "abr": "salammoniac",
-      "category": "Apothecary products",
-      "defname": "AYSalAmmoniac",
-      "price": -10
-    },
-    {
-      "abr": "saltedmeat",
-      "category": "Apothecary products",
-      "defname": "AYSaltedMeat",
-      "price": -10
-    },
-    {
-      "abr": "scarcream",
-      "category": "Ointments",
-      "defname": "AYScarCream",
-      "price": -10
-    },
-    {
-      "abr": "shearer",
-      "category": "Automation",
-      "defname": "PRF_Shearer",
-      "price": -10
-    },
-    {
-      "abr": "smallmachineframe",
+      "abr": "woodenwheel",
       "category": "Manufactured",
-      "defname": "PRF_MachineFrame_I",
-      "price": -10
-    },
-    {
-      "abr": "smallsteelcrate",
-      "category": "Automation",
-      "defname": "PRF_SteelCrate_I",
-      "price": -10
-    },
-    {
-      "abr": "smallwoodencrate",
-      "category": "Automation",
-      "defname": "PRF_WoodCrate_I",
-      "price": -10
-    },
-    {
-      "abr": "smarthopper",
-      "category": "Automation",
-      "defname": "PRF_SmartHopper",
-      "price": -10
-    },
-    {
-      "abr": "smartrecycler",
-      "category": "Automation",
-      "defname": "PRF_Recycler",
-      "price": -10
-    },
-    {
-      "abr": "smellingsalts",
-      "category": "Salts",
-      "defname": "AYSmellingSalts",
-      "price": -10
-    },
-    {
-      "abr": "spaceranimalharvester",
-      "category": "Automation",
-      "defname": "PRF_GenericAnimalHarvester_II",
-      "price": -10
-    },
-    {
-      "abr": "spacercooker",
-      "category": "Automation",
-      "defname": "PRF_SelfCookerIII",
-      "price": -10
-    },
-    {
-      "abr": "sprinkler",
-      "category": "Automation",
-      "defname": "PRF_Sprinkler_I",
-      "price": -10
-    },
-    {
-      "abr": "sprinklermk.ii",
-      "category": "Automation",
-      "defname": "PRF_Sprinkler_II",
-      "price": -10
-    },
-    {
-      "abr": "stjohnswortflowers",
-      "category": "Apothecary plant matter",
-      "defname": "AYStJohnsWortFlowers",
-      "price": -10
-    },
-    {
-      "abr": "stjohnswortoil",
-      "category": "Oil Extracts",
-      "defname": "AYStJohnsWortOil",
-      "price": -10
-    },
-    {
-      "abr": "staraniseflowers",
-      "category": "Apothecary plant matter",
-      "defname": "AYStarAniseFlowers",
-      "price": -10
-    },
-    {
-      "abr": "staraniseoil",
-      "category": "Oil Extracts",
-      "defname": "AYStarAniseOil",
-      "price": -10
-    },
-    {
-      "abr": "steelcrate",
-      "category": "Automation",
-      "defname": "PRF_SteelCrate_II",
-      "price": -10
-    },
-    {
-      "abr": "stomachsalts",
-      "category": "Salts",
-      "defname": "AYStomachSalts",
-      "price": -10
-    },
-    {
-      "abr": "sunwalllamp",
-      "category": "Automation",
-      "defname": "PRF_SunWallLight",
-      "price": -10
-    },
-    {
-      "abr": "tallow",
-      "category": "Apothecary products",
-      "defname": "AYTallow",
-      "price": -10
-    },
-    {
-      "abr": "thornsworth'sartmachine",
-      "category": "Automation",
-      "defname": "PRF_MrTsArtMachine",
-      "price": -10
-    },
-    {
-      "abr": "treatedherbalmedicine",
-      "category": "Medicine",
-      "defname": "AYTreatedMedHerb",
-      "price": -10
-    },
-    {
-      "abr": "turmericpowder",
-      "category": "Powders",
-      "defname": "AYTurmericPowder",
-      "price": -10
-    },
-    {
-      "abr": "turmericroots",
-      "category": "Apothecary plant matter",
-      "defname": "AYTurmericRoot",
-      "price": -10
-    },
-    {
-      "abr": "turmerictea",
-      "category": "Herbal Teas",
-      "defname": "AYTurmericTea",
-      "price": -10
-    },
-    {
-      "abr": "uav(packed)",
-      "category": "Manufactured",
-      "defname": "PRF_DroneModule",
-      "price": -10
-    },
-    {
-      "abr": "undergroundbelt",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_UG_I",
-      "price": -10
-    },
-    {
-      "abr": "undergroundbeltentrance",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Connector_To_UG",
-      "price": -10
-    },
-    {
-      "abr": "undergroundbeltexit",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Connector_To_Floor",
-      "price": -10
-    },
-    {
-      "abr": "undergroundsplitter",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Splitter_UG",
-      "price": -10
-    },
-    {
-      "abr": "wallbelt",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Wall_I",
-      "price": -10
-    },
-    {
-      "abr": "wallitempuller",
-      "category": "Automation",
-      "defname": "PRF_SimplePuller_II_Wall",
-      "price": -10
-    },
-    {
-      "abr": "walllamp",
-      "category": "Automation",
-      "defname": "PRF_WallLight",
-      "price": -10
-    },
-    {
-      "abr": "wallsplitter",
-      "category": "Automation",
-      "defname": "PRF_Conveyor_Splitter_Wall",
-      "price": -10
-    },
-    {
-      "abr": "whitewillowbark",
-      "category": "Apothecary plant matter",
-      "defname": "AYWhiteWillowBark",
-      "price": -10
-    },
-    {
-      "abr": "whitewillowpowder",
-      "category": "Powders",
-      "defname": "AYWhiteWillowPowder",
-      "price": -10
-    },
-    {
-      "abr": "willowtonic",
-      "category": "Tonics",
-      "defname": "AYWillowTonic",
-      "price": -10
-    },
-    {
-      "abr": "woodashes",
-      "category": "Apothecary products",
-      "defname": "AYWoodAshes",
-      "price": -10
-    },
-    {
-      "abr": "woodencrate",
-      "category": "Automation",
-      "defname": "PRF_WoodCrate_II",
-      "price": -10
-    },
-    {
-      "abr": "workshopdronestation",
-      "category": "Automation",
-      "defname": "PRF_MiniHelper",
-      "price": -10
-    },
-    {
-      "abr": "wormwoodleaves",
-      "category": "Apothecary plant matter",
-      "defname": "AYWormwoodLeaves",
-      "price": -10
-    },
-    {
-      "abr": "wormwoodoil",
-      "category": "Oil Extracts",
-      "defname": "AYWormwoodOil",
-      "price": -10
-    },
-    {
-      "abr": "wormwoodtonic",
-      "category": "Tonics",
-      "defname": "AYWormwoodTonic",
-      "price": -10
-    },
-    {
-      "abr": "yarrowbandages",
-      "category": "Medicine",
-      "defname": "AYYarrowBandage",
-      "price": -10
-    },
-    {
-      "abr": "yarrowcream",
-      "category": "Ointments",
-      "defname": "AYYarrowCream",
-      "price": -10
-    },
-    {
-      "abr": "yarrowmaterial",
-      "category": "Apothecary plant matter",
-      "defname": "AYYarrowMaterial",
-      "price": -10
-    },
-    {
-      "abr": "yarrowoil",
-      "category": "Oil Extracts",
-      "defname": "AYYarrowOil",
+      "defname": "ComponentWheelWooden",
       "price": -10
     }
   ],
-  "total": 860
+  "total": 787
 }

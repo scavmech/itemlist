@@ -108,20 +108,8 @@
     "version": "1.0.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.5.1381"
-  },
-  {
-    "author": "AOBA",
-    "name": "Engine Industries",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MO",
-    "name": "Technical Vehicles",
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
     "steamId": null,
     "version": null
   },
@@ -130,12 +118,6 @@
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and SmashPhil",
-    "name": "Vanilla Apparel Expanded — Accessories",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SGC",
@@ -148,6 +130,12 @@
     "name": "EGI Holograms and Projectors",
     "steamId": "2979598490",
     "version": "1.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "10.0.1"
   },
   {
     "author": "Caaz and ShoujoDev",
@@ -172,5 +160,71 @@
     "name": "ToolkitPolls",
     "steamId": "2435838514",
     "version": "1.1.1.7"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Colony Manager",
+    "steamId": "715565262",
+    "version": "4.33.649"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0"
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Custom Prisoner Interactions",
+    "steamId": "2841231775",
+    "version": "1.4.4"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Where's My Bed?",
+    "steamId": "1919873778",
+    "version": "1.2.3.0"
+  },
+  {
+    "author": "Mlie",
+    "name": "Zone To Schedule",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.3.0"
+  },
+  {
+    "author": "Fluffy",
+    "name": "Medical Tab",
+    "steamId": "715565817",
+    "version": "3.4.91"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Winston Waves - Pawnless",
+    "steamId": null,
+    "version": null
   }
 ]

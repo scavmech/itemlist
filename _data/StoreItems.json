@@ -1105,12 +1105,6 @@
       "price": 525
     },
     {
-      "abr": "emplauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_EmpLauncher",
-      "price": 842
-    },
-    {
       "abr": "empshell",
       "category": "Mortar shells",
       "defname": "Shell_EMP",
@@ -1211,12 +1205,6 @@
       "category": "Drugs",
       "defname": "Flake",
       "price": 23
-    },
-    {
-      "abr": "flamebow",
-      "category": "Ranged weapons",
-      "defname": "Flamebow",
-      "price": 75
     },
     {
       "abr": "flatscreentelevision",
@@ -1654,7 +1642,7 @@
       "abr": "husky",
       "category": "Animals",
       "defname": "Husky",
-      "price": -10
+      "price": 4170
     },
     {
       "abr": "huskymeat",
@@ -3085,12 +3073,6 @@
       "price": -10
     },
     {
-      "abr": "smokelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmokeLauncher",
-      "price": 633
-    },
-    {
       "abr": "smokeshell",
       "category": "Mortar shells",
       "defname": "Shell_Smoke",
@@ -3493,12 +3475,6 @@
       "price": 3
     },
     {
-      "abr": "toxbomblauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_ToxbombLauncher",
-      "price": 633
-    },
-    {
       "abr": "toxipotatoes",
       "category": "Vegetarian",
       "defname": "RawToxipotato",
@@ -3508,18 +3484,6 @@
       "abr": "toybox",
       "category": "Furniture",
       "defname": "ToyBox",
-      "price": -10
-    },
-    {
-      "abr": "tradereportslog",
-      "category": "Misc",
-      "defname": "ASReportsLog",
-      "price": -10
-    },
-    {
-      "abr": "tradereportsprinter",
-      "category": "Misc",
-      "defname": "ASReportsPrinter",
       "price": -10
     },
     {
@@ -3943,6 +3907,162 @@
       "price": -10
     },
     {
+      "abr": "ammopack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_AmmoPack",
+      "price": -10
+    },
+    {
+      "abr": "backpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Backpack",
+      "price": -10
+    },
+    {
+      "abr": "battlebanner",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_BattleBanner",
+      "price": -10
+    },
+    {
+      "abr": "bigshelf",
+      "category": "Furniture",
+      "defname": "LWM_BigShelf",
+      "price": -10
+    },
+    {
+      "abr": "clothingrack",
+      "category": "Furniture",
+      "defname": "LWM_Clothing_Rack",
+      "price": -10
+    },
+    {
+      "abr": "explosivebelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ExplosiveBelt",
+      "price": -10
+    },
+    {
+      "abr": "foodbasket",
+      "category": "Furniture",
+      "defname": "LWM_Food_Basket",
+      "price": -10
+    },
+    {
+      "abr": "hampers",
+      "category": "Furniture",
+      "defname": "LWM_FabricHamper",
+      "price": -10
+    },
+    {
+      "abr": "hayloft",
+      "category": "Furniture",
+      "defname": "LWM_Hayloft",
+      "price": -10
+    },
+    {
+      "abr": "mealtrayrack",
+      "category": "Furniture",
+      "defname": "LWM_MealRack",
+      "price": -10
+    },
+    {
+      "abr": "meathook",
+      "category": "Furniture",
+      "defname": "LWM_Meat_Hook",
+      "price": -10
+    },
+    {
+      "abr": "medicbag",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MedicBag",
+      "price": -10
+    },
+    {
+      "abr": "medicinecabinet",
+      "category": "Furniture",
+      "defname": "LWM_Medicine_Cabinet",
+      "price": -10
+    },
+    {
+      "abr": "mini-turretpack",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_MiniTurretPack",
+      "price": -10
+    },
+    {
+      "abr": "pallet",
+      "category": "Furniture",
+      "defname": "LWM_Pallet",
+      "price": -10
+    },
+    {
+      "abr": "palletwithwrapping",
+      "category": "Furniture",
+      "defname": "LWM_Pallet_Covered",
+      "price": -10
+    },
+    {
+      "abr": "quiver",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_Quiver",
+      "price": -10
+    },
+    {
+      "abr": "rangedshieldbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RangedShieldBelt",
+      "price": -10
+    },
+    {
+      "abr": "ressurectorbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_RessurectorBelt",
+      "price": -10
+    },
+    {
+      "abr": "safe",
+      "category": "Furniture",
+      "defname": "LWM_Safe",
+      "price": -10
+    },
+    {
+      "abr": "skip",
+      "category": "Furniture",
+      "defname": "LWM_DeepStorage_Skip",
+      "price": -10
+    },
+    {
+      "abr": "toolbelt",
+      "category": "Utility",
+      "defname": "VAEA_Apparel_ToolBelt",
+      "price": -10
+    },
+    {
+      "abr": "verybigshelves",
+      "category": "Furniture",
+      "defname": "LWM_VeryBigShelf",
+      "price": -10
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
+      "price": -10
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
+      "price": -10
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "FM_AIManager",
+      "price": -10
+    },
+    {
       "abr": "ammobox",
       "category": "Furniture",
       "defname": "JDSAmmo_BoxA",
@@ -3973,21 +4093,9 @@
       "price": -10
     },
     {
-      "abr": "ammopack",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_AmmoPack",
-      "price": -10
-    },
-    {
       "abr": "angel'sgrace",
       "category": "Drugs",
       "defname": "GS_Grace",
-      "price": -10
-    },
-    {
-      "abr": "backpack",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_Backpack",
       "price": -10
     },
     {
@@ -4009,27 +4117,21 @@
       "price": -10
     },
     {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "FM_BasicManagerStation",
+      "price": -10
+    },
+    {
       "abr": "basket",
       "category": "Furniture",
       "defname": "JDS_Basket",
       "price": -10
     },
     {
-      "abr": "battlebanner",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_BattleBanner",
-      "price": -10
-    },
-    {
       "abr": "beercrate",
       "category": "Furniture",
       "defname": "JDSBeer_Crate",
-      "price": -10
-    },
-    {
-      "abr": "bigshelf",
-      "category": "Furniture",
-      "defname": "LWM_BigShelf",
       "price": -10
     },
     {
@@ -4057,12 +4159,6 @@
       "price": -10
     },
     {
-      "abr": "castingmold",
-      "category": "Unfinished",
-      "defname": "ComponentCastingmold",
-      "price": -10
-    },
-    {
       "abr": "chemfuelpump",
       "category": "Furniture",
       "defname": "JDS_ChemfuelPump",
@@ -4078,12 +4174,6 @@
       "abr": "chemfuelstoragelarge",
       "category": "Furniture",
       "defname": "JDS_Large_Chemfuel_Storage",
-      "price": -10
-    },
-    {
-      "abr": "clothingrack",
-      "category": "Furniture",
-      "defname": "LWM_Clothing_Rack",
       "price": -10
     },
     {
@@ -4141,16 +4231,16 @@
       "price": -10
     },
     {
-      "abr": "engine",
-      "category": "Engine",
-      "defname": "EngineMedium",
+      "abr": "deathsuperacidifier",
+      "category": "Bionic",
+      "defname": "VESWW_DeathSuperAcidifier",
       "price": -10
     },
     {
-      "abr": "explosivebelt",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_ExplosiveBelt",
-      "price": -10
+      "abr": "emplauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_EmpLauncher",
+      "price": 842
     },
     {
       "abr": "fieldmortar",
@@ -4159,10 +4249,10 @@
       "price": -10
     },
     {
-      "abr": "foodbasket",
-      "category": "Furniture",
-      "defname": "LWM_Food_Basket",
-      "price": -10
+      "abr": "flamebow",
+      "category": "Ranged weapons",
+      "defname": "Flamebow",
+      "price": 75
     },
     {
       "abr": "grandprojector",
@@ -4174,30 +4264,6 @@
       "abr": "grandprojectorthrone",
       "category": "Furniture",
       "defname": "GrandProjectorThrone",
-      "price": -10
-    },
-    {
-      "abr": "hampers",
-      "category": "Furniture",
-      "defname": "LWM_FabricHamper",
-      "price": -10
-    },
-    {
-      "abr": "hayloft",
-      "category": "Furniture",
-      "defname": "LWM_Hayloft",
-      "price": -10
-    },
-    {
-      "abr": "heavycasting",
-      "category": "Manufactured",
-      "defname": "ComponentHeavyCasting",
-      "price": -10
-    },
-    {
-      "abr": "heavyengine",
-      "category": "Engine",
-      "defname": "EngineHeavy",
       "price": -10
     },
     {
@@ -4297,39 +4363,15 @@
       "price": -10
     },
     {
-      "abr": "lightengine",
-      "category": "Engine",
-      "defname": "EngineLight",
-      "price": -10
-    },
-    {
-      "abr": "mealtrayrack",
-      "category": "Furniture",
-      "defname": "LWM_MealRack",
-      "price": -10
-    },
-    {
-      "abr": "meathook",
-      "category": "Furniture",
-      "defname": "LWM_Meat_Hook",
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "FM_ManagerStation",
       "price": -10
     },
     {
       "abr": "medstorage",
       "category": "Furniture",
       "defname": "JDS_Med_Storage",
-      "price": -10
-    },
-    {
-      "abr": "medicbag",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_MedicBag",
-      "price": -10
-    },
-    {
-      "abr": "medicinecabinet",
-      "category": "Furniture",
-      "defname": "LWM_Medicine_Cabinet",
       "price": -10
     },
     {
@@ -4405,18 +4447,6 @@
       "price": -10
     },
     {
-      "abr": "mini-turretpack",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_MiniTurretPack",
-      "price": -10
-    },
-    {
-      "abr": "pallet",
-      "category": "Furniture",
-      "defname": "LWM_Pallet",
-      "price": -10
-    },
-    {
       "abr": "pallet",
       "category": "Furniture",
       "defname": "JDSPallet",
@@ -4447,27 +4477,9 @@
       "price": -10
     },
     {
-      "abr": "palletwithwrapping",
-      "category": "Furniture",
-      "defname": "LWM_Pallet_Covered",
-      "price": -10
-    },
-    {
       "abr": "projectorthrone",
       "category": "Furniture",
       "defname": "ProjectorThrone",
-      "price": -10
-    },
-    {
-      "abr": "quiver",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_Quiver",
-      "price": -10
-    },
-    {
-      "abr": "rangedshieldbelt",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_RangedShieldBelt",
       "price": -10
     },
     {
@@ -4537,27 +4549,9 @@
       "price": -10
     },
     {
-      "abr": "ressurectorbelt",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_RessurectorBelt",
-      "price": -10
-    },
-    {
-      "abr": "roadwheel",
-      "category": "Manufactured",
-      "defname": "ComponentWheelRoad",
-      "price": -10
-    },
-    {
       "abr": "roboticrig",
       "category": "Utility",
       "defname": "SGC_Apparel_RoboticRig",
-      "price": -10
-    },
-    {
-      "abr": "safe",
-      "category": "Furniture",
-      "defname": "LWM_Safe",
       "price": -10
     },
     {
@@ -4603,12 +4597,6 @@
       "price": -10
     },
     {
-      "abr": "skip",
-      "category": "Furniture",
-      "defname": "LWM_DeepStorage_Skip",
-      "price": -10
-    },
-    {
       "abr": "smallprojector",
       "category": "Art",
       "defname": "SmallProjector",
@@ -4621,21 +4609,15 @@
       "price": -10
     },
     {
-      "abr": "steamengine",
-      "category": "Engine",
-      "defname": "EngineSteam",
-      "price": -10
+      "abr": "smokelauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmokeLauncher",
+      "price": 633
     },
     {
       "abr": "survivalpack",
       "category": "Utility",
       "defname": "SGC_Apparel_SurvivalPack",
-      "price": -10
-    },
-    {
-      "abr": "toolbelt",
-      "category": "Utility",
-      "defname": "VAEA_Apparel_ToolBelt",
       "price": -10
     },
     {
@@ -4645,27 +4627,27 @@
       "price": -10
     },
     {
+      "abr": "toxbomblauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_ToxbombLauncher",
+      "price": 633
+    },
+    {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": 321
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": 317
+    },
+    {
       "abr": "traumakit",
       "category": "Utility",
       "defname": "SGC_Apparel_TraumaKit",
-      "price": -10
-    },
-    {
-      "abr": "turbineengine",
-      "category": "Engine",
-      "defname": "EngineTurbine",
-      "price": -10
-    },
-    {
-      "abr": "turbojet",
-      "category": "Engine",
-      "defname": "EngineJet",
-      "price": -10
-    },
-    {
-      "abr": "tyre",
-      "category": "Manufactured",
-      "defname": "ComponentWheelTire",
       "price": -10
     },
     {
@@ -4687,24 +4669,6 @@
       "price": -10
     },
     {
-      "abr": "verybigshelves",
-      "category": "Furniture",
-      "defname": "LWM_VeryBigShelf",
-      "price": -10
-    },
-    {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsCabinet",
-      "price": -10
-    },
-    {
-      "abr": "weaponslocker",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsLocker",
-      "price": -10
-    },
-    {
       "abr": "wearableforklift",
       "category": "Utility",
       "defname": "SGC_Apparel_Forklift",
@@ -4715,13 +4679,7 @@
       "category": "Furniture",
       "defname": "JDSwheelbarrow",
       "price": -10
-    },
-    {
-      "abr": "woodenwheel",
-      "category": "Manufactured",
-      "defname": "ComponentWheelWooden",
-      "price": -10
     }
   ],
-  "total": 787
+  "total": 780
 }

@@ -226,5 +226,23 @@
     "name": "Winston Waves - Pawnless",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
+  },
+  {
+    "author": "Grizzlemethis",
+    "name": "[GMT] TicksPerSecond 1.4",
+    "steamId": "2874527504",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
   }
 ]

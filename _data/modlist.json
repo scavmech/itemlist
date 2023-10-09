@@ -156,18 +156,6 @@
     "version": "3.4.91"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "2734032569",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Winston Waves - Pawnless",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "sirrandoo",
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
@@ -177,6 +165,12 @@
     "author": "Grizzlemethis",
     "name": "[GMT] TicksPerSecond 1.4",
     "steamId": "2874527504",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
     "version": "1.0.0.0"
   },
   {
@@ -190,12 +184,6 @@
     "name": "[Ku] A Mod About Meat",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Compact Hediffs",
-    "steamId": "2031734067",
-    "version": "1.0.0.0"
   },
   {
     "author": "spoonshortage",
@@ -212,20 +200,14 @@
   {
     "author": "SickBoyWi",
     "name": "Rimhammer - Steam Tank",
-    "steamId": "3042833260",
-    "version": "1.1.9.0"
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Ratys",
     "name": "RT Power Switch",
     "steamId": "728314859",
     "version": "1.5.0.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
   },
   {
     "author": "dismarzero",
@@ -244,5 +226,11 @@
     "name": "Xeva Textures Upscaled",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "PeteTimesSix",
+    "name": "Compact Hediffs",
+    "steamId": "2031734067",
+    "version": "1.0.0.0"
   }
 ]

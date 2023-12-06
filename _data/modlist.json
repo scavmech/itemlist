@@ -120,30 +120,6 @@
     "version": null
   },
   {
-    "author": "Neronix17",
-    "name": "Outer Rim - Soundtrack",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Buildings",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Doors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Owlchemist",
-    "name": "Perspective: Trees",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Roolo",
     "name": "Search and Destroy",
     "steamId": null,
@@ -318,12 +294,6 @@
     "version": null
   },
   {
-    "author": "papercrane1001",
-    "name": "[1001]Weapons Tab Reborn",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
@@ -368,6 +338,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
     "steamId": null,
     "version": null
   }

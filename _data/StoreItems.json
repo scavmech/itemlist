@@ -232,7 +232,7 @@
       "abr": "bearskin",
       "category": "Leathers",
       "defname": "Leather_Bear",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "bed",
@@ -340,7 +340,7 @@
       "abr": "birdskin",
       "category": "Leathers",
       "defname": "Leather_Bird",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "bison",
@@ -382,7 +382,7 @@
       "abr": "bluefur",
       "category": "Leathers",
       "defname": "Leather_Bluefur",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "bolt-actionrifle",
@@ -484,7 +484,7 @@
       "abr": "camelhide",
       "category": "Leathers",
       "defname": "Leather_Camel",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "cannibalplatter",
@@ -640,7 +640,7 @@
       "abr": "chinchillafur",
       "category": "Leathers",
       "defname": "Leather_Chinchilla",
-      "price": -10
+      "price": 11
     },
     {
       "abr": "chinchillameat",
@@ -868,7 +868,7 @@
       "abr": "dogleather",
       "category": "Leathers",
       "defname": "Leather_Dog",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "donkey",
@@ -1030,7 +1030,7 @@
       "abr": "elephantleather",
       "category": "Leathers",
       "defname": "Leather_Elephant",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "elephantmeat",
@@ -1246,7 +1246,7 @@
       "abr": "foxfur",
       "category": "Leathers",
       "defname": "Leather_Fox",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "fraggrenades",
@@ -1438,7 +1438,7 @@
       "abr": "guineapigfur",
       "category": "Leathers",
       "defname": "Leather_GuineaPig",
-      "price": -10
+      "price": 8
     },
     {
       "abr": "guineapigmeat",
@@ -1534,7 +1534,7 @@
       "abr": "heavyfur",
       "category": "Leathers",
       "defname": "Leather_Heavy",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "heavysmg",
@@ -1630,7 +1630,7 @@
       "abr": "humanleather",
       "category": "Leathers",
       "defname": "Leather_Human",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "humanmeat",
@@ -1942,7 +1942,7 @@
       "abr": "lightleather",
       "category": "Leathers",
       "defname": "Leather_Light",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "limestoneblocks",
@@ -1960,7 +1960,7 @@
       "abr": "lizardskin",
       "category": "Leathers",
       "defname": "Leather_Lizard",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "lmg",
@@ -2344,7 +2344,7 @@
       "abr": "pantherafur",
       "category": "Leathers",
       "defname": "Leather_Panthera",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "pants",
@@ -2440,7 +2440,7 @@
       "abr": "pigskin",
       "category": "Leathers",
       "defname": "Leather_Pig",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "pila",
@@ -2452,7 +2452,7 @@
       "abr": "plainleather",
       "category": "Leathers",
       "defname": "Leather_Plain",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "plantpot",
@@ -2782,7 +2782,7 @@
       "abr": "rhinocerosleather",
       "category": "Leathers",
       "defname": "Leather_Rhinoceros",
-      "price": -10
+      "price": 7
     },
     {
       "abr": "rhinocerosmeat",
@@ -3670,7 +3670,7 @@
       "abr": "wolfskin",
       "category": "Leathers",
       "defname": "Leather_Wolf",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "wood",
@@ -3970,13 +3970,13 @@
       "abr": "a180blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_A180Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "a280blasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_A280Blaster",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "a-a5heavyspeeder(aero)",
@@ -4036,7 +4036,7 @@
       "abr": "acklayhide",
       "category": "Leathers",
       "defname": "acklay_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "acklaymeat",
@@ -4210,7 +4210,7 @@
       "abr": "ambansniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_AmbanSniperRifle",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "ambrandy(awful)",
@@ -4666,7 +4666,7 @@
       "abr": "arkanianblasterrifle",
       "category": "Blasters",
       "defname": "guy762_brifle_arkanian",
-      "price": 2658
+      "price": -10
     },
     {
       "abr": "arkanianheavypistol",
@@ -4828,7 +4828,7 @@
       "abr": "banthahide",
       "category": "Leathers",
       "defname": "bantha_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "banthahorn",
@@ -4888,7 +4888,7 @@
       "abr": "baragwinheavyrepeatingblaster",
       "category": "Blasters",
       "defname": "guy762_hvyrepeater_baragwin",
-      "price": 31667
+      "price": -10
     },
     {
       "abr": "baragwinheavyshield",
@@ -5050,7 +5050,7 @@
       "abr": "bendak'sblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_bendak",
-      "price": 46667
+      "price": -10
     },
     {
       "abr": "beskad",
@@ -5146,25 +5146,25 @@
       "abr": "blastercarbine",
       "category": "Ranged weapons",
       "defname": "OuterRim_BlasterCarbine",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "blastercarbine",
       "category": "Blasters",
       "defname": "guy762_carbine",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "blasterpistol",
       "category": "Blasters",
       "defname": "guy762_bpistol",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "blasterrifle",
       "category": "Blasters",
       "defname": "guy762_brifle",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "bluemilk",
@@ -5902,313 +5902,313 @@
       "abr": "clonearmori(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneArmor_PhaseOne",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,marine(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,marine(chevron)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow_Chevron",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,marine(half)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow_Half",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,trooper(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,trooper(chevron)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper_Chevron",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonecuirassii,trooper(half)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper_Half",
-      "price": 1492
+      "price": -10
     },
     {
       "abr": "clonehelmeti(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmeti(captain)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Captain",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmeti(commander)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Commander",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmeti(lieutenant)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Lieutenant",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmeti(sergeant)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Sergeant",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,arc(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,arc(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,arc(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,barc(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,barc(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,barc(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,captain(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,captain(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,captain(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,commander(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,commander(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,commander(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,desert(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,desert(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,desert(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,engineer(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,engineer(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,engineer(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,heavy(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,heavy(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,heavy(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,ops(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,ops(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,ops(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,pilot(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,pilot(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,pilot(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,snow(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,snow(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,snow(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,trooper(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,trooper(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper_Chevron",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonehelmetii,trooper(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper_Half",
-      "price": 1458
+      "price": -10
     },
     {
       "abr": "clonekama",
       "category": "Apparel",
       "defname": "OuterRim_CloneKama",
-      "price": 297
+      "price": -10
     },
     {
       "abr": "clonepauldronsi(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldrons_PhaseOne",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clonepauldronsii,arc(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_ARC",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clonepauldronsii,rank(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Rank",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clonepauldronsii,trooper(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clonepauldronsii,trooper(chevron)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper_Chevron",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clonepauldronsii,trooper(half)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper_Half",
-      "price": 450
+      "price": -10
     },
     {
       "abr": "clothingrack",
@@ -6814,37 +6814,37 @@
       "abr": "dc-15ablaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15ACarbine",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "dc-15ablasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15ARifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "dc-15xsniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15xSniperRifle",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "dc-17handblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC17HandBlaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "dc-17mrepeatingblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC17mCarbine",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "de-10blaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DE10Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "decorativeplantpot",
@@ -6982,7 +6982,7 @@
       "abr": "dewbackhide",
       "category": "Leathers",
       "defname": "dewback_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "dewbackmeat",
@@ -6994,19 +6994,19 @@
       "abr": "dg-29heavyblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DG29Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "dh-17blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_DH17Pistol",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "dh-17blasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DH17Rifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "digestibleresurrectornanites",
@@ -7072,19 +7072,19 @@
       "abr": "dlt-19heavyblasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DLT19HeavyBlasterRifle",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "dlt-19xtargetingblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DLT19XTargetingBlaster",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "dlt-20ablasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DLT20ABlaster",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "dmscreen",
@@ -7564,13 +7564,13 @@
       "abr": "e-10blasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_E10BlasterRifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "e-11blasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_E11BlasterRifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "earlgreytea",
@@ -7588,7 +7588,7 @@
       "abr": "ec-17scoutblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_EC17Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "echanibattlearmor",
@@ -7636,25 +7636,25 @@
       "abr": "ee-13blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_EE13BlasterPistol",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "ee-13blasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_EE13BlasterRifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "ee-13sniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_EE13SniperRifle",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "ee-3blastercarbine",
       "category": "Ranged weapons",
       "defname": "OuterRim_EE3BlasterCarbine",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "eel",
@@ -7924,7 +7924,7 @@
       "abr": "fettclonexenogerm",
       "category": "Items",
       "defname": "Xenogerm_OuterRim_FettClone",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "fieldresearchanalyzer-kit",
@@ -8230,7 +8230,7 @@
       "abr": "freedonnadd'sblaster",
       "category": "Blasters",
       "defname": "guy762_hvypistol_nadd",
-      "price": 48333
+      "price": -10
     },
     {
       "abr": "freedonnadd'sshortlightsaber",
@@ -8302,7 +8302,7 @@
       "abr": "galaar-15blastercarbine",
       "category": "Ranged weapons",
       "defname": "OuterRim_GALAAR15Blaster",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "gamlared",
@@ -8374,7 +8374,7 @@
       "abr": "genoharadanblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_genoharadan",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "ghost(aero)",
@@ -8452,7 +8452,7 @@
       "abr": "gizkaskin",
       "category": "Leathers",
       "defname": "gizka_skin",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "go-juicestock",
@@ -8686,7 +8686,7 @@
       "abr": "heavyblaster",
       "category": "Blasters",
       "defname": "guy762_hvypistol",
-      "price": 500
+      "price": -10
     },
     {
       "abr": "heavybondedplates",
@@ -8746,13 +8746,13 @@
       "abr": "heavyrepeatingblaster",
       "category": "Blasters",
       "defname": "guy762_hvyrepeater",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "heavysonicblaster",
       "category": "Blasters",
       "defname": "guy762_sonpistol_heavy",
-      "price": 10167
+      "price": -10
     },
     {
       "abr": "heavythermalshield",
@@ -8854,7 +8854,7 @@
       "abr": "holdoutblaster",
       "category": "Blasters",
       "defname": "guy762_holdout",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "holobank",
@@ -8956,7 +8956,7 @@
       "abr": "hypertechcomponent",
       "category": "Manufactured",
       "defname": "OuterRim_ComponentHypertech",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "hypertechfabricator",
@@ -9022,7 +9022,7 @@
       "abr": "ib-94blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_IB94BlasterPistol",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "icedcoffee",
@@ -9274,13 +9274,13 @@
       "abr": "ionblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_IonBlaster",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "ionblaster",
       "category": "Blasters",
       "defname": "guy762_ionpistol",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "ioncannon",
@@ -9442,7 +9442,7 @@
       "abr": "k-16bryarblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_K16BryarBlaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "ketchup",
@@ -9562,7 +9562,7 @@
       "abr": "kraytdragonhide",
       "category": "Leathers",
       "defname": "KraytDragon_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "kraytdragonhorn",
@@ -9826,7 +9826,7 @@
       "abr": "lightrepeatingblaster",
       "category": "Blasters",
       "defname": "guy762_lgtrepeater",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "lightsaber",
@@ -10042,7 +10042,7 @@
       "abr": "mandalorianblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_mandalorian",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "mandalorianchamber",
@@ -10096,7 +10096,7 @@
       "abr": "mandalorianheavyblaster",
       "category": "Blasters",
       "defname": "guy762_hvypistol_mandalorian",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "mandalorianheavyrepeater",
@@ -10432,7 +10432,7 @@
       "abr": "mediumrepeatingblaster",
       "category": "Blasters",
       "defname": "guy762_lgtrepeater_medium",
-      "price": 2917
+      "price": -10
     },
     {
       "abr": "medpod",
@@ -10474,13 +10474,13 @@
       "abr": "micro-pulseblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_micropulse",
-      "price": 36333
+      "price": -10
     },
     {
       "abr": "micro-repeatingblaster",
       "category": "Blasters",
       "defname": "guy762_microrepeater",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "militarysuit",
@@ -10816,7 +10816,7 @@
       "abr": "nanoweave",
       "category": "Textiles",
       "defname": "Eccentric_Nanoweave",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "napalmbomb",
@@ -10864,7 +10864,7 @@
       "abr": "nerfhide",
       "category": "Leathers",
       "defname": "nerf_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "nerfwool",
@@ -10906,7 +10906,7 @@
       "abr": "nexufur",
       "category": "Leathers",
       "defname": "nexu_fur",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "nexumeat",
@@ -11008,7 +11008,7 @@
       "abr": "onasiblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_onasi",
-      "price": 24333
+      "price": -10
     },
     {
       "abr": "onderonrepeatingcarbine",
@@ -11050,7 +11050,7 @@
       "abr": "ordo'srepeatingblaster",
       "category": "Blasters",
       "defname": "guy762_hvyrepeater_ordo",
-      "price": 43250
+      "price": -10
     },
     {
       "abr": "organ",
@@ -11314,7 +11314,7 @@
       "abr": "porghide",
       "category": "Leathers",
       "defname": "porg_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "porgmeat",
@@ -11536,7 +11536,7 @@
       "abr": "rancorhide",
       "category": "Leathers",
       "defname": "rancor_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "rancormeat",
@@ -11680,7 +11680,7 @@
       "abr": "reekhide",
       "category": "Leathers",
       "defname": "reek_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "reekmeat",
@@ -11830,25 +11830,25 @@
       "abr": "repeatingblastercarbine",
       "category": "Blasters",
       "defname": "guy762_lgtrepeater_carbine",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "republicblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicBlaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "republicblaster",
       "category": "Blasters",
       "defname": "guy762_bpistol_republic",
-      "price": 958
+      "price": -10
     },
     {
       "abr": "republicblasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicRifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "republicflameprojector",
@@ -11890,7 +11890,7 @@
       "abr": "republicsniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_OldRepublicSniper",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "republictroopercuirass",
@@ -12232,7 +12232,7 @@
       "abr": "se-14rblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_SE14RBlaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "selkathxenogerm",
@@ -12436,13 +12436,13 @@
       "abr": "sithblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_SithBlaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "sithblasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_SithRifle",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "sithdisruptor",
@@ -12490,13 +12490,13 @@
       "abr": "sithsniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_SithSniper",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "sithsniperrifle",
       "category": "Blasters",
       "defname": "guy762_brifle_sith",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "sithtremorsword",
@@ -13096,13 +13096,13 @@
       "abr": "systechstaticblaster",
       "category": "Blasters",
       "defname": "guy762_ionpistol_static",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "t-21repeatingblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_T21RepeatingBlaster",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "t3-seriesutilitydroid",
@@ -13180,7 +13180,7 @@
       "abr": "tauntaunhide",
       "category": "Leathers",
       "defname": "tauntaun_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "tauntaunmeat",
@@ -13690,7 +13690,7 @@
       "abr": "verpineprototypeionblaster",
       "category": "Blasters",
       "defname": "guy762_ionpistol_verpine",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "verpineshattergun",
@@ -13828,7 +13828,7 @@
       "abr": "vssblastercarbine",
       "category": "Ranged weapons",
       "defname": "OuterRim_VSSBlasterCarbine",
-      "price": 1442
+      "price": -10
     },
     {
       "abr": "vulptex",
@@ -13840,7 +13840,7 @@
       "abr": "vulptexhide",
       "category": "Leathers",
       "defname": "vulptex_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "vulptexmeat",
@@ -13948,7 +13948,7 @@
       "abr": "wampahide",
       "category": "Leathers",
       "defname": "wampa_hide",
-      "price": -10
+      "price": 3
     },
     {
       "abr": "wampameat",
@@ -14032,19 +14032,19 @@
       "abr": "westar-18blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR18Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "westar-34blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR34Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "westar-35blasterpistol",
       "category": "Ranged weapons",
       "defname": "OuterRim_WESTAR35Blaster",
-      "price": 950
+      "price": -10
     },
     {
       "abr": "whiskey",
@@ -14158,7 +14158,7 @@
       "abr": "z-6rotaryblastercannon",
       "category": "Ranged weapons",
       "defname": "OuterRim_Z6RotaryBlaster",
-      "price": 2783
+      "price": -10
     },
     {
       "abr": "zaalbar'sbowcaster",
@@ -14212,7 +14212,7 @@
       "abr": "zabrakheavyblaster",
       "category": "Blasters",
       "defname": "guy762_hvypistol_zabrak",
-      "price": 30333
+      "price": -10
     },
     {
       "abr": "zabraktystelmarkiii",
@@ -14255,7 +14255,19 @@
       "category": "Misc",
       "defname": "ASReportsPrinter",
       "price": 317
+    },
+    {
+      "abr": "waterbowl",
+      "category": "Hygiene",
+      "defname": "PetWaterBowl",
+      "price": 51
+    },
+    {
+      "abr": "watertrough",
+      "category": "Hygiene",
+      "defname": "WaterTrough",
+      "price": 249
     }
   ],
-  "total": 2376
+  "total": 2378
 }

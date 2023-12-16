@@ -652,7 +652,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "christmastree",
@@ -676,7 +676,7 @@
       "abr": "cloth",
       "category": "Textiles",
       "defname": "Cloth",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "club",
@@ -10786,7 +10786,7 @@
       "abr": "mycothread",
       "category": "Textiles",
       "defname": "VPE_Mycothread",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "nagaigrip",

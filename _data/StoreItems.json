@@ -5902,313 +5902,313 @@
       "abr": "clonearmori(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneArmor_PhaseOne",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,marine(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,marine(chevron)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow_Chevron",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,marine(half)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Snow_Half",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,trooper(blank)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,trooper(chevron)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper_Chevron",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonecuirassii,trooper(half)",
       "category": "Armor",
       "defname": "OuterRim_CloneCuirassII_Trooper_Half",
-      "price": -10
+      "price": 1492
     },
     {
       "abr": "clonehelmeti(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmeti(captain)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Captain",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmeti(commander)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Commander",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmeti(lieutenant)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Lieutenant",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmeti(sergeant)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmet_PhaseOne_Sergeant",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,arc(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,arc(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,arc(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_ARC_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,barc(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,barc(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,barc(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_BARC_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,captain(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,captain(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,captain(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Captain_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,commander(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,commander(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,commander(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Commander_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,desert(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,desert(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,desert(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Desert_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,engineer(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,engineer(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,engineer(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Engineer_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,heavy(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,heavy(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,heavy(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Heavy_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,ops(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,ops(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,ops(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Ops_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,pilot(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,pilot(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,pilot(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Pilot_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,snow(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,snow(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,snow(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Snow_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,trooper(blank)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,trooper(chevron)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper_Chevron",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonehelmetii,trooper(half)",
       "category": "Headgear",
       "defname": "OuterRim_CloneHelmetII_Trooper_Half",
-      "price": -10
+      "price": 1458
     },
     {
       "abr": "clonekama",
       "category": "Apparel",
       "defname": "OuterRim_CloneKama",
-      "price": -10
+      "price": 297
     },
     {
       "abr": "clonepauldronsi(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldrons_PhaseOne",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clonepauldronsii,arc(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_ARC",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clonepauldronsii,rank(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Rank",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clonepauldronsii,trooper(blank)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clonepauldronsii,trooper(chevron)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper_Chevron",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clonepauldronsii,trooper(half)",
       "category": "Armor",
       "defname": "OuterRim_ClonePauldronsII_Trooper_Half",
-      "price": -10
+      "price": 450
     },
     {
       "abr": "clothingrack",
@@ -9808,7 +9808,7 @@
       "abr": "lightbattlearmor",
       "category": "Apparel",
       "defname": "guy762_LgtBattleArmor",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "lightjedicloak",

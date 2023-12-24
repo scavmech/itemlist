@@ -202,7 +202,7 @@
       "abr": "babyfood",
       "category": "Foods",
       "defname": "BabyFood",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "bandwidthpack",
@@ -6814,31 +6814,31 @@
       "abr": "dc-15ablaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15ACarbine",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "dc-15ablasterrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15ARifle",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "dc-15xsniperrifle",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC15xSniperRifle",
-      "price": -10
+      "price": 1900
     },
     {
       "abr": "dc-17handblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC17HandBlaster",
-      "price": -10
+      "price": 950
     },
     {
       "abr": "dc-17mrepeatingblaster",
       "category": "Ranged weapons",
       "defname": "OuterRim_DC17mCarbine",
-      "price": -10
+      "price": 1442
     },
     {
       "abr": "de-10blaster",
@@ -8680,7 +8680,7 @@
       "abr": "heavybattlearmor",
       "category": "Apparel",
       "defname": "guy762_HvyArmor",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "heavyblaster",
@@ -14267,7 +14267,19 @@
       "category": "Hygiene",
       "defname": "WaterTrough",
       "price": 249
+    },
+    {
+      "abr": "clonetrooperfatigues",
+      "category": "Apparel",
+      "defname": "OuterRim_CloneTrooperFatigues",
+      "price": 198
+    },
+    {
+      "abr": "e-22blasterrifle",
+      "category": "Ranged weapons",
+      "defname": "OuterRim_E22BlasterRifle",
+      "price": 1442
     }
   ],
-  "total": 2378
+  "total": 2380
 }

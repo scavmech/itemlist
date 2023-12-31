@@ -10018,25 +10018,25 @@
       "abr": "mandalore'sassaultrifle",
       "category": "Blasters",
       "defname": "guy762_lgtrepeater_mandalore",
-      "price": 166667
+      "price": -10
     },
     {
       "abr": "mandalorianassaultarmor",
       "category": "Apparel",
       "defname": "guy762_MandoArmor_assault",
-      "price": 20000
+      "price": -10
     },
     {
       "abr": "mandalorianassaultrifle",
       "category": "Blasters",
       "defname": "guy762_brifle_mandalorian",
-      "price": 4167
+      "price": -10
     },
     {
       "abr": "mandalorianbattlearmor",
       "category": "Apparel",
       "defname": "guy762_MandoArmor_battle",
-      "price": 11667
+      "price": -10
     },
     {
       "abr": "mandalorianblaster",
@@ -10054,43 +10054,43 @@
       "abr": "mandaloriancuirass(heavy)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Heavy",
-      "price": 2608
+      "price": -10
     },
     {
       "abr": "mandaloriancuirass(neo-crusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_NeoCrusader",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandaloriancuirass(niteowl)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_NiteOwl",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandaloriancuirass(simple)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Simple",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandaloriancuirass(traditional)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianChest_Traditional",
-      "price": 1808
+      "price": -10
     },
     {
       "abr": "mandaloriandisintegrator",
       "category": "Blasters",
       "defname": "guy762_dispistol_disintegrator",
-      "price": 44917
+      "price": -10
     },
     {
       "abr": "mandalorianhammer",
       "category": "Melee weapons",
       "defname": "OuterRim_MandalorianHammer",
-      "price": 975
+      "price": -10
     },
     {
       "abr": "mandalorianheavyblaster",
@@ -10102,157 +10102,157 @@
       "abr": "mandalorianheavyrepeater",
       "category": "Blasters",
       "defname": "guy762_hvyrepeater_mando",
-      "price": 13500
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(armorer)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Armorer",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(executioner)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Executioner",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(heavy)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Heavy",
-      "price": 2525
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(imperial)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Imperial",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(neo-crusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_NeoCrusader",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(niteowlalt)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_NiteOwlAlt",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(niteowl)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_NiteOwl",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(pilot)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Pilot",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(powertech)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Powertech",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(retrocrusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_RetroCrusader",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(simple)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Simple",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(tooka)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Tooka",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhelmet(traditional)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianHelmet_Traditional",
-      "price": 1725
+      "price": -10
     },
     {
       "abr": "mandalorianhookblade",
       "category": "Melee weapons",
       "defname": "OuterRim_MandalorianHookblade",
-      "price": 975
+      "price": -10
     },
     {
       "abr": "mandalorianmicro-repeater",
       "category": "Blasters",
       "defname": "guy762_microrepeater_mando",
-      "price": 4417
+      "price": -10
     },
     {
       "abr": "mandalorianneo-crusaderhelmet",
       "category": "Apparel",
       "defname": "guy762_MNCHelmet",
-      "price": 6250
+      "price": -10
     },
     {
       "abr": "mandalorianpauldrons(heavy)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Heavy",
-      "price": 1708
+      "price": -10
     },
     {
       "abr": "mandalorianpauldrons(neo-crusader)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_NeoCrusader",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandalorianpauldrons(niteowl)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_NiteOwl",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandalorianpauldrons(simple)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Simple",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandalorianpauldrons(traditional)",
       "category": "Armor",
       "defname": "OuterRim_MandalorianPauldrons_Traditional",
-      "price": 1292
+      "price": -10
     },
     {
       "abr": "mandalorianreconarmor",
       "category": "Apparel",
       "defname": "guy762_MidBattleArmor_mando",
-      "price": 14367
+      "price": -10
     },
     {
       "abr": "mandalorianripper",
       "category": "Blasters",
       "defname": "guy762_dispistol_ripper",
-      "price": 1958
+      "price": -10
     },
     {
       "abr": "mandalorianveteran'srifle",
       "category": "Blasters",
       "defname": "guy762_brifle_rohlan",
-      "price": 49917
+      "price": -10
     },
     {
       "abr": "mandalorianwarhammer",
       "category": "Melee weapons",
       "defname": "OuterRim_MandalorianWarhammer",
-      "price": 975
+      "price": -10
     },
     {
       "abr": "mangoes",

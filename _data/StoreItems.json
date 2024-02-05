@@ -3934,13 +3934,13 @@
       "abr": "aimanager",
       "category": "Production",
       "defname": "FM_AIManager",
-      "price": 7833
+      "price": -10
     },
     {
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "FM_BasicManagerStation",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "blunderpipe",
@@ -3988,7 +3988,7 @@
       "abr": "managerdesk",
       "category": "Production",
       "defname": "FM_ManagerStation",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "pipe",

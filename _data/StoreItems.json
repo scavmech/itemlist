@@ -724,7 +724,7 @@
       "abr": "controlpack",
       "category": "Utility",
       "defname": "Apparel_PackControl",
-      "price": 658
+      "price": -10
     },
     {
       "abr": "controlsublink(high)",
@@ -818,7 +818,7 @@
     },
     {
       "abr": "deathrestcapacityserum",
-      "category": "Misc",
+      "category": "Drugs",
       "defname": "DeathrestCapacitySerum",
       "price": -10
     },
@@ -1162,7 +1162,7 @@
       "abr": "firefoampoppack",
       "category": "Utility",
       "defname": "Apparel_FirefoampopPack",
-      "price": 239
+      "price": 253
     },
     {
       "abr": "firefoampopper",
@@ -1502,7 +1502,7 @@
     },
     {
       "abr": "healermechserum",
-      "category": "Misc",
+      "category": "Drugs",
       "defname": "MechSerumHealer",
       "price": -10
     },
@@ -2386,7 +2386,7 @@
       "abr": "penoxycyline",
       "category": "Drugs",
       "defname": "Penoxycyline",
-      "price": -10
+      "price": 30
     },
     {
       "abr": "personacore",
@@ -2762,7 +2762,7 @@
     },
     {
       "abr": "resurrectormechserum",
-      "category": "Misc",
+      "category": "Drugs",
       "defname": "MechSerumResurrector",
       "price": -10
     },
@@ -3094,7 +3094,7 @@
       "abr": "smokepoppack",
       "category": "Utility",
       "defname": "Apparel_SmokepopBelt",
-      "price": 277
+      "price": 292
     },
     {
       "abr": "sniperrifle",
@@ -3454,7 +3454,7 @@
       "abr": "toxpack",
       "category": "Utility",
       "defname": "Apparel_PackTox",
-      "price": 219
+      "price": 241
     },
     {
       "abr": "toxshell",
@@ -3931,281 +3931,407 @@
       "price": 633
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "blunderpipe",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Blunderpipe",
-      "price": -10
-    },
-    {
-      "abr": "castingmold",
-      "category": "Unfinished",
-      "defname": "ComponentCastingmold",
-      "price": -10
-    },
-    {
-      "abr": "circularscythe",
-      "category": "Melee weapons",
-      "defname": "OK_Circular_Saw",
-      "price": -10
-    },
-    {
-      "abr": "engine",
-      "category": "Engine",
-      "defname": "EngineMedium",
-      "price": -10
-    },
-    {
-      "abr": "heavycasting",
-      "category": "Manufactured",
-      "defname": "ComponentHeavyCasting",
-      "price": -10
-    },
-    {
-      "abr": "heavyengine",
-      "category": "Engine",
-      "defname": "EngineHeavy",
-      "price": -10
-    },
-    {
-      "abr": "lightengine",
-      "category": "Engine",
-      "defname": "EngineLight",
-      "price": -10
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "pipe",
-      "category": "Melee weapons",
-      "defname": "OK_Scrap_Pipe",
-      "price": -10
-    },
-    {
-      "abr": "roadwheel",
-      "category": "Manufactured",
-      "defname": "ComponentWheelRoad",
-      "price": -10
-    },
-    {
-      "abr": "scrapbed",
-      "category": "Furniture",
-      "defname": "OK_ScrapBedAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapbench",
-      "category": "Production",
-      "defname": "OK_ScrapBench",
-      "price": -10
-    },
-    {
-      "abr": "scrapchair",
-      "category": "Furniture",
-      "defname": "OK_Scrap_ChairAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapcrossbow",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Crossbow",
-      "price": -10
-    },
-    {
-      "abr": "scrapdresser",
-      "category": "Furniture",
-      "defname": "OK_Scrap_DresserAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapendtable",
-      "category": "Furniture",
-      "defname": "OK_Scrap_EndTableAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapendtablewithlight",
-      "category": "Furniture",
-      "defname": "OK_Scrap_LightEndTableAncient",
-      "price": -10
-    },
-    {
-      "abr": "scraphammer",
-      "category": "Melee weapons",
-      "defname": "OK_Scrap_Hammer",
-      "price": -10
-    },
-    {
-      "abr": "scraprevolver",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Revolver",
-      "price": -10
-    },
-    {
-      "abr": "scraprifle",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Rifle",
-      "price": -10
-    },
-    {
-      "abr": "scrapshotgun",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Shotgun",
-      "price": -10
-    },
-    {
-      "abr": "scrapsmg",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_SMG",
-      "price": -10
-    },
-    {
-      "abr": "scrapsword",
-      "category": "Melee weapons",
-      "defname": "OK_Scrap_Sword",
-      "price": -10
-    },
-    {
-      "abr": "scraptable1x1",
-      "category": "Furniture",
-      "defname": "OK_ScrapTableOneOneAncient",
-      "price": -10
-    },
-    {
-      "abr": "scraptable2x2",
-      "category": "Furniture",
-      "defname": "OK_ScrapTableTwoTwoAncient",
-      "price": -10
-    },
-    {
-      "abr": "scraptable3x3",
-      "category": "Furniture",
-      "defname": "OK_ScrapTableThreeThreeAncient",
-      "price": -10
-    },
-    {
-      "abr": "scraptablelamp",
-      "category": "Furniture",
-      "defname": "OK_ScrapTableLampAncient",
-      "price": -10
-    },
-    {
-      "abr": "scraptalllamp",
-      "category": "Furniture",
-      "defname": "OK_ScrapTallLampAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapturret",
-      "category": "Security",
-      "defname": "OK_Turret",
-      "price": -10
-    },
-    {
-      "abr": "scrapwalllamp",
-      "category": "Furniture",
-      "defname": "OK_ScrapWallLampAncient",
-      "price": -10
-    },
-    {
-      "abr": "scrapper",
-      "category": "Production",
-      "defname": "OK_Scrapper",
-      "price": -10
-    },
-    {
-      "abr": "shot-thrower",
-      "category": "Ranged weapons",
-      "defname": "OK_Scrap_Eoka",
-      "price": -10
-    },
-    {
-      "abr": "steamengine",
-      "category": "Engine",
-      "defname": "EngineSteam",
-      "price": -10
-    },
-    {
-      "abr": "sun",
-      "category": "Raw resources",
-      "defname": "Sun",
-      "price": -10
-    },
-    {
-      "abr": "tinnedmeal",
-      "category": "Meals",
-      "defname": "OK_CannedMeal",
-      "price": -10
-    },
-    {
-      "abr": "tinnedmeat",
-      "category": "Meat",
-      "defname": "OK_CannedMeat",
-      "price": -10
-    },
-    {
-      "abr": "tinnedvegetables",
-      "category": "Vegetarian",
-      "defname": "OK_CannedVeggies",
-      "price": -10
-    },
-    {
       "abr": "tradereportslog",
       "category": "Misc",
       "defname": "ASReportsLog",
-      "price": 321
+      "price": -10
     },
     {
       "abr": "tradereportsprinter",
       "category": "Misc",
       "defname": "ASReportsPrinter",
-      "price": 317
-    },
-    {
-      "abr": "turbineengine",
-      "category": "Engine",
-      "defname": "EngineTurbine",
       "price": -10
     },
     {
-      "abr": "turbojet",
-      "category": "Engine",
-      "defname": "EngineJet",
+      "abr": "adrenalheart",
+      "category": "Ghoul",
+      "defname": "AdrenalHeart",
       "price": -10
     },
     {
-      "abr": "tyre",
-      "category": "Manufactured",
-      "defname": "ComponentWheelTire",
+      "abr": "bioferrite",
+      "category": "Raw resources",
+      "defname": "Bioferrite",
       "price": -10
     },
     {
-      "abr": "woodenwheel",
-      "category": "Manufactured",
-      "defname": "ComponentWheelWooden",
+      "abr": "bioferriteharvester",
+      "category": "Power",
+      "defname": "BioferriteHarvester",
       "price": -10
     },
     {
-      "abr": "deathsuperacidifier",
+      "abr": "bioferriteshaper",
+      "category": "Production",
+      "defname": "BioferriteShaper",
+      "price": -10
+    },
+    {
+      "abr": "biomutationlance",
+      "category": "Utility",
+      "defname": "Apparel_BiomutationLance",
+      "price": -10
+    },
+    {
+      "abr": "biomutationpulser",
+      "category": "Artifacts",
+      "defname": "BiomutationPulser",
+      "price": -10
+    },
+    {
+      "abr": "bionicjaw",
       "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "defname": "BionicJaw",
+      "price": 1308
+    },
+    {
+      "abr": "bookcase",
+      "category": "Furniture",
+      "defname": "Bookcase",
+      "price": 70
+    },
+    {
+      "abr": "castellanbomblet",
+      "category": "Security",
+      "defname": "GF40K_Whirlwind_landmine",
+      "price": -10
+    },
+    {
+      "abr": "ceremonialhood",
+      "category": "Headgear",
+      "defname": "Apparel_CeremonialCultistMask",
+      "price": 91
+    },
+    {
+      "abr": "corrosiveheart",
+      "category": "Ghoul",
+      "defname": "CorrosiveHeart",
+      "price": -10
+    },
+    {
+      "abr": "couch",
+      "category": "Furniture",
+      "defname": "Couch",
+      "price": 783
+    },
+    {
+      "abr": "deadlifepack",
+      "category": "Utility",
+      "defname": "Apparel_DeadlifePack",
+      "price": -10
+    },
+    {
+      "abr": "deadlifeshell",
+      "category": "Mortar shells",
+      "defname": "Shell_Deadlife",
+      "price": 92
+    },
+    {
+      "abr": "deployercastellanmissile",
+      "category": "Missiles",
+      "defname": "GF40K_Minefield_Rocket",
+      "price": 92
+    },
+    {
+      "abr": "dirtcubesculpture",
+      "category": "Art",
+      "defname": "DirtCubeSculpture",
+      "price": -10
+    },
+    {
+      "abr": "disruptorflarepack",
+      "category": "Utility",
+      "defname": "Apparel_DisruptorFlarePack",
+      "price": -10
+    },
+    {
+      "abr": "dreadleather",
+      "category": "Leathers",
+      "defname": "Leather_Dread",
+      "price": 6
+    },
+    {
+      "abr": "electricinhibitor",
+      "category": "Misc",
+      "defname": "ElectricInhibitor",
+      "price": -10
+    },
+    {
+      "abr": "electroharvester",
+      "category": "Power",
+      "defname": "Electroharvester",
+      "price": -10
+    },
+    {
+      "abr": "floodlight",
+      "category": "Furniture",
+      "defname": "FloodLight",
+      "price": 162
+    },
+    {
+      "abr": "frenzyinducer",
+      "category": "Misc",
+      "defname": "FrenzyInducer",
+      "price": -10
+    },
+    {
+      "abr": "ghoulbarbs",
+      "category": "Ghoul",
+      "defname": "GhoulBarbs",
+      "price": -10
+    },
+    {
+      "abr": "ghoulplating",
+      "category": "Ghoul",
+      "defname": "GhoulPlating",
+      "price": -10
+    },
+    {
+      "abr": "ghoulresurrectionserum",
+      "category": "Drugs",
+      "defname": "GhoulResurrectionSerum",
+      "price": 100
+    },
+    {
+      "abr": "goldencube",
+      "category": "Misc",
+      "defname": "GoldenCube",
+      "price": -10
+    },
+    {
+      "abr": "harbingerseed",
+      "category": "Misc",
+      "defname": "HarbingerSeed",
+      "price": -10
+    },
+    {
+      "abr": "hellcatrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_HellcatRifle",
+      "price": 825
+    },
+    {
+      "abr": "high-explosivevengeancemissile",
+      "category": "Missiles",
+      "defname": "GF40K_HE_Rocket",
+      "price": 92
+    },
+    {
+      "abr": "holdingplatform",
+      "category": "Misc",
+      "defname": "HoldingPlatform",
+      "price": -10
+    },
+    {
+      "abr": "ieddeadlifetrap",
+      "category": "Security",
+      "defname": "TrapIED_Deadlife",
+      "price": -10
+    },
+    {
+      "abr": "incendiarycastellanmissile",
+      "category": "Missiles",
+      "defname": "GF40K_INC_Rocket",
+      "price": 92
+    },
+    {
+      "abr": "incinerator",
+      "category": "Ranged weapons",
+      "defname": "Gun_Incinerator",
+      "price": 883
+    },
+    {
+      "abr": "juggernautserum",
+      "category": "Drugs",
+      "defname": "JuggernautSerum",
+      "price": 333
+    },
+    {
+      "abr": "labcoat",
+      "category": "Misc",
+      "defname": "Apparel_LabCoat",
+      "price": 263
+    },
+    {
+      "abr": "metalbloodheart",
+      "category": "Ghoul",
+      "defname": "MetalbloodHeart",
+      "price": -10
+    },
+    {
+      "abr": "metalbloodserum",
+      "category": "Drugs",
+      "defname": "MetalbloodSerum",
+      "price": 333
+    },
+    {
+      "abr": "mind-numbserum",
+      "category": "Drugs",
+      "defname": "MindNumbSerum",
+      "price": 133
+    },
+    {
+      "abr": "monolithfragment",
+      "category": "Misc",
+      "defname": "MonolithFragment",
+      "price": -10
+    },
+    {
+      "abr": "nervespiker",
+      "category": "Ranged weapons",
+      "defname": "NerveSpiker",
+      "price": 104
+    },
+    {
+      "abr": "novel",
+      "category": "Books",
+      "defname": "Novel",
+      "price": 267
+    },
+    {
+      "abr": "proximitydetector",
+      "category": "Misc",
+      "defname": "ProximityDetector",
+      "price": -10
+    },
+    {
+      "abr": "revenantspine",
+      "category": "Misc",
+      "defname": "RevenantSpine",
+      "price": -10
+    },
+    {
+      "abr": "revenantvertebrae",
+      "category": "Bionic",
+      "defname": "RevenantVertebrae",
+      "price": 3158
+    },
+    {
+      "abr": "ritualmask",
+      "category": "Headgear",
+      "defname": "Apparel_CultistMask",
+      "price": 101
+    },
+    {
+      "abr": "sandcubesculpture",
+      "category": "Art",
+      "defname": "SandCubeSculpture",
+      "price": -10
+    },
+    {
+      "abr": "schematic",
+      "category": "Books",
+      "defname": "Schematic",
+      "price": 250
+    },
+    {
+      "abr": "scrapcubesculpture",
+      "category": "Art",
+      "defname": "ScrapCubeSculpture",
+      "price": -10
+    },
+    {
+      "abr": "serumlab",
+      "category": "Production",
+      "defname": "SerumCentrifuge",
+      "price": -10
+    },
+    {
+      "abr": "shard",
+      "category": "Manufactured",
+      "defname": "Shard",
+      "price": 667
+    },
+    {
+      "abr": "shardanimalpulser",
+      "category": "Artifacts",
+      "defname": "ShardAnimalPulser",
+      "price": -10
+    },
+    {
+      "abr": "shardbeacon",
+      "category": "Misc",
+      "defname": "ShardBeacon",
+      "price": -10
+    },
+    {
+      "abr": "shardinhibitor",
+      "category": "Misc",
+      "defname": "ShardInhibitor",
+      "price": -10
+    },
+    {
+      "abr": "shardinsanitylance",
+      "category": "Utility",
+      "defname": "Apparel_ShardPsychicInsanityLance",
+      "price": -10
+    },
+    {
+      "abr": "shardshocklance",
+      "category": "Utility",
+      "defname": "Apparel_ShardPsychicShockLance",
+      "price": -10
+    },
+    {
+      "abr": "sleepsuppressor",
+      "category": "Misc",
+      "defname": "SleepSuppressor",
+      "price": -10
+    },
+    {
+      "abr": "smallbookcase",
+      "category": "Furniture",
+      "defname": "BookcaseSmall",
+      "price": 35
+    },
+    {
+      "abr": "stonecubesculpture",
+      "category": "Art",
+      "defname": "StoneCubeSculpture",
+      "price": -10
+    },
+    {
+      "abr": "textbook",
+      "category": "Books",
+      "defname": "TextBook",
+      "price": 267
+    },
+    {
+      "abr": "tome",
+      "category": "Books",
+      "defname": "Tome",
+      "price": 417
+    },
+    {
+      "abr": "turretpack",
+      "category": "Utility",
+      "defname": "Apparel_PackTurret",
+      "price": 392
+    },
+    {
+      "abr": "twistedmeat",
+      "category": "Meat",
+      "defname": "Meat_Twisted",
+      "price": 1
+    },
+    {
+      "abr": "voidsculpture",
+      "category": "Art",
+      "defname": "VoidSculpture",
+      "price": -10
+    },
+    {
+      "abr": "voidsightserum",
+      "category": "Drugs",
+      "defname": "VoidsightSerum",
+      "price": 100
+    },
+    {
+      "abr": "walllamp",
+      "category": "Furniture",
+      "defname": "WallLamp",
+      "price": 49
     }
   ],
-  "total": 701
+  "total": 722
 }

@@ -1,7 +1,85 @@
 [
   {
-    "author": "Falconne",
-    "name": "Better Workbench Management",
+    "author": "Andreas Pardeike",
+    "name": "Harmony",
+    "steamId": "2009463077",
+    "version": "2.3.1.0"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Slurmpy and MarximusMaximus",
+    "name": "Slurmpy's Auto-Deathrest (1.5)",
+    "steamId": "3235763894",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Show Weapon Tallies",
+    "steamId": "2901520677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers",
+    "steamId": "1414302321",
+    "version": "1.0.0"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "11.0.3"
+  },
+  {
+    "author": "latta",
+    "name": "FSharp.Core",
     "steamId": null,
     "version": null
   },
@@ -12,50 +90,44 @@
     "version": null
   },
   {
-    "author": "bodlosh",
-    "name": "WeaponStats",
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "2.7.5.0"
+  },
+  {
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0+2c587d06f12c73ca4d2a51c19180122ac885aabb"
+  },
+  {
+    "author": "Supes",
+    "name": "Auto Seller",
+    "steamId": "1440321094",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Mewn Goddess, Amortem, Phonicmas and Grim Cheese",
+    "name": "Astartes Vehicles",
+    "steamId": "3171225119",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "latta",
+    "name": "ANDH - Animals Nuzzling Detects Horrors",
     "steamId": null,
     "version": null
   },
   {
-    "author": "HaiLuan",
-    "name": "Custom Quest Framework",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "HaiLuan",
-    "name": "Dungeon Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AOBA",
-    "name": "Engine Industries",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aoba",
-    "name": "Mechanization - MobileWorker",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oktober",
-    "name": "Oktober's Scrap-Tek",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Uncertainty",
-    "name": "Plants vs. Rimworld",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Winston Waves - Pawnless",
+    "author": "LokiVKlokeNaAndoke",
+    "name": "AutoPriorities",
     "steamId": null,
     "version": null
   }

@@ -41,18 +41,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "heatwave",
-		"price": 750,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "coldsnap",
-		"price": 800,
 		"karmatype": "Bad"
 	},
 	{
@@ -74,11 +64,6 @@
 		"abr": "resourcepodcrash",
 		"price": 300,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "meteor",
-		"price": 150,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "madanimal",
@@ -108,11 +93,6 @@
 	{
 		"abr": "party",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -181,5 +161,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 36
+	"total": 32
 }

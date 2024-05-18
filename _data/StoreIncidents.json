@@ -86,11 +86,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "travelergroup",
-		"price": 80,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
@@ -146,5 +141,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 29
+	"total": 28
 }

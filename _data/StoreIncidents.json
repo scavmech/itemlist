@@ -66,6 +66,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "orbitaltraderarrival",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -141,5 +146,5 @@
 		"karmatype": "Doom"
 	}
 	],
-	"total": 28
+	"total": 29
 }

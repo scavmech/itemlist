@@ -4222,7 +4222,7 @@
       "abr": "schematic",
       "category": "Books",
       "defname": "Schematic",
-      "price": 250
+      "price": -10
     },
     {
       "abr": "scrapcubesculpture",
@@ -4294,7 +4294,7 @@
       "abr": "textbook",
       "category": "Books",
       "defname": "TextBook",
-      "price": 267
+      "price": -10
     },
     {
       "abr": "tome",

@@ -3988,7 +3988,7 @@
       "abr": "bookcase",
       "category": "Furniture",
       "defname": "Bookcase",
-      "price": 70
+      "price": -10
     },
     {
       "abr": "castellanbomblet",
@@ -4012,7 +4012,7 @@
       "abr": "couch",
       "category": "Furniture",
       "defname": "Couch",
-      "price": 783
+      "price": -10
     },
     {
       "abr": "deadlifepack",
@@ -4066,7 +4066,7 @@
       "abr": "floodlight",
       "category": "Furniture",
       "defname": "FloodLight",
-      "price": 162
+      "price": -10
     },
     {
       "abr": "frenzyinducer",
@@ -4282,7 +4282,7 @@
       "abr": "smallbookcase",
       "category": "Furniture",
       "defname": "BookcaseSmall",
-      "price": 35
+      "price": -10
     },
     {
       "abr": "stonecubesculpture",
@@ -4330,7 +4330,7 @@
       "abr": "walllamp",
       "category": "Furniture",
       "defname": "WallLamp",
-      "price": 49
+      "price": -10
     }
   ],
   "total": 722

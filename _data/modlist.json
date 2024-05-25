@@ -69,7 +69,7 @@
     "author": "Mehni",
     "name": "Numbers",
     "steamId": "1414302321",
-    "version": "1.0.0"
+    "version": "1.0.0+930a1dac5636543bb9c7a958b78a0719e601ed5f"
   },
   {
     "author": "UnlimitedHugs",
@@ -99,7 +99,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.7.5.0"
+    "version": "3.0.4.0"
   },
   {
     "author": "Nibato",
@@ -130,5 +130,17 @@
     "name": "AutoPriorities",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "BetterSliders",
+    "steamId": "2218078784",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
   }
 ]

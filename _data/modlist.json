@@ -42,12 +42,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Slurmpy and MarximusMaximus",
     "name": "Slurmpy's Auto-Deathrest (1.5)",
     "steamId": "3235763894",
@@ -114,18 +108,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Mewn Goddess, Amortem, Phonicmas and Grim Cheese",
-    "name": "Astartes Vehicles",
-    "steamId": "3171225119",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "latta",
-    "name": "ANDH - Animals Nuzzling Detects Horrors",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "LokiVKlokeNaAndoke",
     "name": "AutoPriorities",
     "steamId": null,
@@ -138,9 +120,33 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
+    "author": "Zaljerem",
+    "name": "Level This! (Continued)",
+    "steamId": "3263017689",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Rikiki",
+    "name": "MiningCo. DrillTurret (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Seos",
+    "name": "Race - Faifox (patched)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk and Sarg",
+    "name": "Vanilla Races Expanded - Insector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LTS",
+    "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
   }
 ]

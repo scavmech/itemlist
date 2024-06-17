@@ -93,7 +93,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "3.0.4.0"
+    "version": "3.1.0.0"
   },
   {
     "author": "Nibato",
@@ -123,13 +123,7 @@
     "author": "Zaljerem",
     "name": "Level This! (Continued)",
     "steamId": "3263017689",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Rikiki",
-    "name": "MiningCo. DrillTurret (Continued)",
-    "steamId": null,
-    "version": null
+    "version": "1.0.1.0"
   },
   {
     "author": "Seos",
@@ -146,6 +140,24 @@
   {
     "author": "LTS",
     "name": "Integrated Implants",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoldierGG1",
+    "name": "Quasimorph - Main",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoldierGG1",
+    "name": "Quasimorph - Realware™ armoury",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoldierGG1",
+    "name": "Quasimorph - Realware™ contracts",
     "steamId": null,
     "version": null
   }

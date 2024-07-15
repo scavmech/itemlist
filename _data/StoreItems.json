@@ -4318,25 +4318,25 @@
       "abr": "biochameleondevice",
       "category": "Bionic",
       "defname": "BiochameleonDevice",
-      "price": -10
+      "price": 1975
     },
     {
       "abr": "bionictail",
       "category": "Bionic",
       "defname": "LTS_BionicTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "bionicwomb",
       "category": "Bionic",
       "defname": "Synthwomb",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "bio-tuner",
       "category": "Bionic",
       "defname": "BiotunerImplant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "blacksightdevice",
@@ -4348,31 +4348,31 @@
       "abr": "braindetonator",
       "category": "Prosthetic",
       "defname": "LTS_BrainDetonator",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "brainshocker",
       "category": "Prosthetic",
       "defname": "LTS_NeuralStunner",
-      "price": -10
+      "price": 342
     },
     {
       "abr": "clawtail",
       "category": "Bionic",
       "defname": "LTS_ManipulationTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "cranialinsulation",
       "category": "Bionic",
       "defname": "CranialInsulation",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "cryptosleepadaptor",
       "category": "Prosthetic",
       "defname": "CryptoWakeImplant",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "deadlifecoil",
@@ -4390,13 +4390,13 @@
       "abr": "deathrestapparatus",
       "category": "Sangophage",
       "defname": "DeathrestApparatus",
-      "price": -10
+      "price": 1842
     },
     {
       "abr": "deathrestcapacitor",
       "category": "Sangophage",
       "defname": "DeathrestCapacitor",
-      "price": -10
+      "price": 1842
     },
     {
       "abr": "dreadheart",
@@ -4414,7 +4414,7 @@
       "abr": "eltexadornments",
       "category": "Bionic",
       "defname": "EltexAdornments",
-      "price": -10
+      "price": 1808
     },
     {
       "abr": "ghoulbioferriteextractor",
@@ -4432,31 +4432,31 @@
       "abr": "gourmandtongue",
       "category": "Bionic",
       "defname": "GourmandTongue",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "hackingport",
       "category": "Bionic",
       "defname": "HackingPortImplant",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "hemo-fangs",
       "category": "Sangophage",
       "defname": "HemoFangs",
-      "price": -10
+      "price": 1842
     },
     {
       "abr": "hemogenicactivator",
       "category": "Sangophage",
       "defname": "HemogenicActivator",
-      "price": -10
+      "price": 1842
     },
     {
       "abr": "hemogenicmicrocompressor",
       "category": "Sangophage",
       "defname": "HemogenicMicrocompressor",
-      "price": -10
+      "price": 1842
     },
     {
       "abr": "hyper-adrenalinegland",
@@ -4468,13 +4468,13 @@
       "abr": "internalclimatecontrol",
       "category": "Prosthetic",
       "defname": "InternalClimateControlImplant",
-      "price": -10
+      "price": 667
     },
     {
       "abr": "lacto-stimulator",
       "category": "Prosthetic",
       "defname": "LactoStimulator",
-      "price": -10
+      "price": 433
     },
     {
       "abr": "mechhivesatelliteuplink",
@@ -4510,7 +4510,7 @@
       "abr": "neuralheatsink",
       "category": "Bionic",
       "defname": "NeuralHeatsink",
-      "price": -10
+      "price": 2492
     },
     {
       "abr": "nociosphereemitter",
@@ -4528,7 +4528,7 @@
       "abr": "prestigesubdermalarmour",
       "category": "Bionic",
       "defname": "LTS_PrestigeSubdermalArmour",
-      "price": -10
+      "price": 4658
     },
     {
       "abr": "psychicagonizer",
@@ -4576,19 +4576,19 @@
       "abr": "retributiveimpaler",
       "category": "Bionic",
       "defname": "DefensiveImpaler",
-      "price": -10
+      "price": 858
     },
     {
       "abr": "shoulderchargeturret",
       "category": "Bionic",
       "defname": "LTS_ShoulderChargeTurret",
-      "price": -10
+      "price": 1867
     },
     {
       "abr": "shoulderturret",
       "category": "Prosthetic",
       "defname": "LTS_ShoulderTurret",
-      "price": -10
+      "price": 708
     },
     {
       "abr": "signalbooster(high)",
@@ -4612,7 +4612,7 @@
       "abr": "skeletalbracing",
       "category": "Prosthetic",
       "defname": "SkeletalBracing",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "slayer'scollar",
@@ -4630,25 +4630,25 @@
       "abr": "strengthenhancer",
       "category": "Bionic",
       "defname": "StrengthEnhancer",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "subdermalarmour",
       "category": "Bionic",
       "defname": "LTS_SubdermalArmour",
-      "price": -10
+      "price": 3758
     },
     {
       "abr": "synthmarrow",
       "category": "Bionic",
       "defname": "Synthmarrow",
-      "price": -10
+      "price": 1717
     },
     {
       "abr": "beast",
       "category": "Ranged weapons",
       "defname": "QM_BeastMG",
-      "price": -10
+      "price": 3667
     },
     {
       "abr": "carnagehelmet",
@@ -4666,73 +4666,73 @@
       "abr": "ghost-mantis",
       "category": "Ranged weapons",
       "defname": "QM_GhostMantisSMG",
-      "price": -10
+      "price": 1758
     },
     {
       "abr": "hawl",
       "category": "Melee weapons",
       "defname": "QM_HawkML",
-      "price": -10
+      "price": 767
     },
     {
       "abr": "heretic",
       "category": "Ranged weapons",
       "defname": "QM_HereticSG",
-      "price": -10
+      "price": 817
     },
     {
       "abr": "hydra",
       "category": "Ranged weapons",
       "defname": "QM_HydraPL",
-      "price": -10
+      "price": 458
     },
     {
       "abr": "hydra-24",
       "category": "Ranged weapons",
       "defname": "QM_Hydra24PL",
-      "price": -10
+      "price": 683
     },
     {
       "abr": "hydra33s",
       "category": "Ranged weapons",
       "defname": "QM_Hydra33SPL",
-      "price": -10
+      "price": 917
     },
     {
       "abr": "legendarmor",
       "category": "Armor",
       "defname": "QM_LegendArmor",
-      "price": -10
+      "price": 4567
     },
     {
       "abr": "legendhelmet",
       "category": "Headgear",
       "defname": "QM_LegendHelmet",
-      "price": -10
+      "price": 1617
     },
     {
       "abr": "mantis-m3",
       "category": "Ranged weapons",
       "defname": "QM_MantisM3SMG",
-      "price": -10
+      "price": 1167
     },
     {
       "abr": "punishment",
       "category": "Ranged weapons",
       "defname": "QM_PunishmentAR",
-      "price": -10
+      "price": 1433
     },
     {
       "abr": "retribution",
       "category": "Ranged weapons",
       "defname": "QM_RetributionAR",
-      "price": -10
+      "price": 2108
     },
     {
       "abr": "sharvara",
       "category": "Ranged weapons",
       "defname": "QM_SharvaraPistol",
-      "price": -10
+      "price": 2283
     },
     {
       "abr": "terciapatternhelmet",
@@ -4750,7 +4750,7 @@
       "abr": "venomtail",
       "category": "Bionic",
       "defname": "LTS_ScorpionTail",
-      "price": -10
+      "price": 2275
     },
     {
       "abr": "voidsightserum",
@@ -4769,7 +4769,31 @@
       "category": "Mechtech",
       "defname": "WarprogrammerInterface",
       "price": -10
+    },
+    {
+      "abr": "commandofatigues",
+      "category": "Apparel",
+      "defname": "QM_CommandoUniform",
+      "price": 206
+    },
+    {
+      "abr": "commandojacket",
+      "category": "Apparel",
+      "defname": "QM_CommandoJacket",
+      "price": 261
+    },
+    {
+      "abr": "guardianhelmet",
+      "category": "Headgear",
+      "defname": "QM_CommandoHelmet",
+      "price": 229
+    },
+    {
+      "abr": "deathsuperacidifier",
+      "category": "Bionic",
+      "defname": "VESWW_DeathSuperAcidifier",
+      "price": 1500
     }
   ],
-  "total": 795
+  "total": 799
 }

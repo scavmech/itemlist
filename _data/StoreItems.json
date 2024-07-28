@@ -4312,427 +4312,427 @@
       "abr": "advancedholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Standard",
-      "price": 3275
+      "price": -10
     },
     {
       "abr": "afterlifecasket",
       "category": "Buildings",
       "defname": "Ship_AvatarCasket",
-      "price": 3575
+      "price": -10
     },
     {
       "abr": "antigraintorpedo",
       "category": "Torpedoes",
       "defname": "ShipTorpedo_Antimatter",
-      "price": 2500
+      "price": -10
     },
     {
       "abr": "architerepairgel",
       "category": "Drugs",
       "defname": "ArchotechRepairGel",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "archolifepod",
       "category": "Items",
       "defname": "ArcholifePod",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "archostrichegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggArchostrichFertilized",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "archostrichegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggArchostrichUnfertilized",
-      "price": 42
+      "price": -10
     },
     {
       "abr": "archotechear",
       "category": "Archotech",
       "defname": "SoSArchotechEar",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechheart",
       "category": "Archotech",
       "defname": "SoSArchotechHeart",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechjaw",
       "category": "Archotech",
       "defname": "SoSArchotechJaw",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechkidney",
       "category": "Archotech",
       "defname": "SoSArchotechKidney",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechliver",
       "category": "Archotech",
       "defname": "SoSArchotechLiver",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechlung",
       "category": "Archotech",
       "defname": "SoSArchotechLung",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechnose",
       "category": "Archotech",
       "defname": "SoSArchotechNose",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "archotechpillaralpha",
       "category": "Misc",
       "defname": "ShipArchotechPillarA",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillarbeta",
       "category": "Misc",
       "defname": "ShipArchotechPillarB",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillardelta",
       "category": "Misc",
       "defname": "ShipArchotechPillarD",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechpillargamma",
       "category": "Misc",
       "defname": "ShipArchotechPillarC",
-      "price": 16783
+      "price": -10
     },
     {
       "abr": "archotechskin",
       "category": "Archotech",
       "defname": "SoSArchotechSkin",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechspine",
       "category": "Archotech",
       "defname": "SoSArchotechSpine",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechstomach",
       "category": "Archotech",
       "defname": "SoSArchotechStomach",
-      "price": 4667
+      "price": -10
     },
     {
       "abr": "archotechuplink",
       "category": "Misc",
       "defname": "ArchotechUplink",
-      "price": 8542
+      "price": -10
     },
     {
       "abr": "archotortoiseegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "EggArchotortoiseFertilized",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "astromite",
       "category": "Animals",
       "defname": "Astromite",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "basicholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Basic",
-      "price": 1792
+      "price": -10
     },
     {
       "abr": "cosmopillar",
       "category": "Animals",
       "defname": "Cosmopillar",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "emptorpedo",
       "category": "Torpedoes",
       "defname": "ShipTorpedo_EMP",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "entanglementmanifold",
       "category": "Items",
       "defname": "SoSEntanglementManifold",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "evahelmet",
       "category": "Headgear",
       "defname": "Apparel_SpaceSuitHelmet",
-      "price": 675
+      "price": -10
     },
     {
       "abr": "evasuit",
       "category": "Armor",
       "defname": "Apparel_SpaceSuitBody",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "exoticparticles",
       "category": "Manufactured",
       "defname": "ArchotechExoticParticles",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "heavyevahelmet",
       "category": "Headgear",
       "defname": "Apparel_SpaceSuitHelmetHeavy",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "heavyevasuit",
       "category": "Armor",
       "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": 4117
+      "price": -10
     },
     {
       "abr": "high-explosivetorpedo",
       "category": "Torpedoes",
       "defname": "ShipTorpedo_HighExplosive",
-      "price": 433
+      "price": -10
     },
     {
       "abr": "hullfoamcanister",
       "category": "Items",
       "defname": "HullFoam",
-      "price": 33
+      "price": -10
     },
     {
       "abr": "kidevahelmet",
       "category": "Headgear",
       "defname": "Apparel_SpaceSuitHelmetChild",
-      "price": 525
+      "price": -10
     },
     {
       "abr": "kidevasuit",
       "category": "Armor",
       "defname": "Apparel_SpaceSuitBodyChild",
-      "price": 683
+      "price": -10
     },
     {
       "abr": "mechanitedisassemblercore",
       "category": "Items",
       "defname": "ArchotechMechaniteCore",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "pinkgoo",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMechanite",
-      "price": 1675
+      "price": -10
     },
     {
       "abr": "psychicflayercore",
       "category": "Items",
       "defname": "ArchotechPsychicCore",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "psychicmanipulator",
       "category": "Archotech",
       "defname": "SoSPsychicManipulator",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "psychicpredictor",
       "category": "Archotech",
       "defname": "SoSPsychicPredictor",
-      "price": 2333
+      "price": -10
     },
     {
       "abr": "recyclotron",
       "category": "Production",
       "defname": "ArchoRecycler",
-      "price": 10292
+      "price": -10
     },
     {
       "abr": "sapientholodeck",
       "category": "Recreation",
       "defname": "Holodeck_AI",
-      "price": 10283
+      "price": -10
     },
     {
       "abr": "shipblueprint(archerclassfrigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPFrigateArcher",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "shipblueprint(ardentclasscorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteArdent",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(arrowheadcorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteArrowhead",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(corvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvette",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(corvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteGunship",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(corvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteTorpedo",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(corvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteWinged",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(explorationvessel)",
       "category": "Ship blueprints",
       "defname": "ShipBPExplorationVessel",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(fireflyclasstransport)",
       "category": "Ship blueprints",
       "defname": "ShipBPCargoFirefly",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(frigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPFrigateWinged",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "shipblueprint(heavybomber)",
       "category": "Ship blueprints",
       "defname": "ShipBPBomberHeavy",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "shipblueprint(ironcladclassfrigate)",
       "category": "Ship blueprints",
       "defname": "ShipBPFrigateIronclad",
-      "price": 5000
+      "price": -10
     },
     {
       "abr": "shipblueprint(miningrig)",
       "category": "Ship blueprints",
       "defname": "ShipBPMiningRig",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(oldmartiancorvette)",
       "category": "Ship blueprints",
       "defname": "ShipBPCorvetteMartian",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "shipblueprint(smalltransport)",
       "category": "Ship blueprints",
       "defname": "ShipBPTransportSmall",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "shipblueprint(thorclasscruiser)",
       "category": "Ship blueprints",
       "defname": "ShipBPCruiserThor",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "shipblueprint(torpedodestroyer)",
       "category": "Ship blueprints",
       "defname": "ShipBPDestroyer",
-      "price": 6667
+      "price": -10
     },
     {
       "abr": "shipcapacitor",
       "category": "Furniture",
       "defname": "ShipCapacitorSmall",
-      "price": 908
+      "price": -10
     },
     {
       "abr": "shipcomputercore",
       "category": "Buildings",
       "defname": "Ship_ComputerCore",
-      "price": 9742
+      "price": -10
     },
     {
       "abr": "shipsalvage",
       "category": "Special",
       "defname": "ShipChunkSalvage",
-      "price": 1758
+      "price": -10
     },
     {
       "abr": "spacetelescope",
       "category": "Recreation",
       "defname": "TelescopeSpace",
-      "price": 1000
+      "price": -10
     },
     {
       "abr": "spacercrib",
       "category": "Furniture",
       "defname": "SpaceCrib",
-      "price": 575
+      "price": -10
     },
     {
       "abr": "stellapede",
       "category": "Animals",
       "defname": "Stellapede",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "survivalbelt",
       "category": "Utility",
       "defname": "Apparel_SpaceSurvivalBelt",
-      "price": 178
+      "price": -10
     },
     {
       "abr": "uraniumfuelpod",
       "category": "Manufactured",
       "defname": "ShuttleFuelPods",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "vanoroot",
       "category": "Vegetarian",
       "defname": "RawVanoroot",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "wallsunlamp",
       "category": "Furniture",
       "defname": "WallSunLampSoS",
-      "price": 97
+      "price": -10
     },
     {
       "abr": "16kbattery",
@@ -5584,7 +5584,7 @@
       "abr": "weathernormalizationdevice",
       "category": "Artifacts",
       "defname": "WeatherCancelDevice",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "woodencrate",
@@ -5615,7 +5615,25 @@
       "category": "Raw resources",
       "defname": "PRFZComposite",
       "price": -10
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "FM_AIManager",
+      "price": 7833
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "FM_BasicManagerStation",
+      "price": 262
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "FM_ManagerStation",
+      "price": 508
     }
   ],
-  "total": 936
+  "total": 939
 }

@@ -4738,121 +4738,121 @@
       "abr": "16kbattery",
       "category": "Automation",
       "defname": "PRF_16k_Battery",
-      "price": 1883
+      "price": -10
     },
     {
       "abr": "256kbattery",
       "category": "Automation",
       "defname": "PRF_256k_Battery",
-      "price": 24583
+      "price": -10
     },
     {
       "abr": "4kbattery",
       "category": "Automation",
       "defname": "PRF_4k_Battery",
-      "price": 817
+      "price": -10
     },
     {
       "abr": "64kbattery",
       "category": "Automation",
       "defname": "PRF_64k_Battery",
-      "price": 8867
+      "price": -10
     },
     {
       "abr": "adaptiveassembler",
       "category": "Automation",
       "defname": "PRF_TypeTwoAssembler_I",
-      "price": 12008
+      "price": -10
     },
     {
       "abr": "advancedaicore",
       "category": "Manufactured",
       "defname": "PRF_ElectronicChip_II",
-      "price": 2692
+      "price": -10
     },
     {
       "abr": "advancedfurnace",
       "category": "Automation",
       "defname": "PRF_FurnaceIII",
-      "price": 8225
+      "price": -10
     },
     {
       "abr": "advancedi/oport",
       "category": "Automation",
       "defname": "PRF_IOPort_II",
-      "price": 2883
+      "price": -10
     },
     {
       "abr": "advancedmachineframe",
       "category": "Manufactured",
       "defname": "PRF_MachineFrame_III",
-      "price": 2417
+      "price": -10
     },
     {
       "abr": "advancedslaughterhouse",
       "category": "Automation",
       "defname": "PRF_Slaughterhouse",
-      "price": 3667
+      "price": -10
     },
     {
       "abr": "archivalstorageunit",
       "category": "Automation",
       "defname": "PRF_ColdStorageUnit_I",
-      "price": 18133
+      "price": -10
     },
     {
       "abr": "assembler",
       "category": "Automation",
       "defname": "PRF_TypeOneAssembler_I",
-      "price": 7875
+      "price": -10
     },
     {
       "abr": "atomicreconstructor",
       "category": "Automation",
       "defname": "AtomicReconstructor",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "audiotapereel",
       "category": "Manufactured",
       "defname": "PRF_DataDisk",
-      "price": 1050
+      "price": -10
     },
     {
       "abr": "augerdrill",
       "category": "Automation",
       "defname": "PRF_DeepQuarry_mkI",
-      "price": 3625
+      "price": -10
     },
     {
       "abr": "basicaichip",
       "category": "Manufactured",
       "defname": "PRF_ElectronicChip_I",
-      "price": 583
+      "price": -10
     },
     {
       "abr": "basicassembler",
       "category": "Automation",
       "defname": "PRF_PartAssembler",
-      "price": 5100
+      "price": -10
     },
     {
       "abr": "blastfurnace",
       "category": "Automation",
       "defname": "PRF_FurnaceI",
-      "price": 2233
+      "price": -10
     },
     {
       "abr": "carbonfiber",
       "category": "Textiles",
       "defname": "PRF_CarbonFiber",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "carbonfiberplate",
       "category": "Manufactured",
       "defname": "PRF_CarbonPlate",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "carbonpowder",
@@ -4864,7 +4864,7 @@
       "abr": "carbon-kevlarcomposite",
       "category": "Textiles",
       "defname": "PRF_CarbonKevlarComposite",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "cement",
@@ -4882,49 +4882,49 @@
       "abr": "claybricks",
       "category": "Stone blocks",
       "defname": "PRF_Brick",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "coal",
       "category": "Raw resources",
       "defname": "PRF_Coal",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "coalcoke",
       "category": "Raw resources",
       "defname": "PRF_Coke",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "computronium",
       "category": "Items",
       "defname": "PRFComputronium",
-      "price": 13333
+      "price": -10
     },
     {
       "abr": "concrete",
       "category": "Stone blocks",
       "defname": "PRF_Concrete",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "conveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_I",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "conveyorsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_I",
-      "price": 1992
+      "price": -10
     },
     {
       "abr": "copper",
       "category": "Raw resources",
       "defname": "PRF_Copper",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "crystalpowder",
@@ -4936,43 +4936,43 @@
       "abr": "crystalpylon",
       "category": "Furniture",
       "defname": "PRF_QuartzPylon",
-      "price": 34
+      "price": -10
     },
     {
       "abr": "digitalstorageunit",
       "category": "Automation",
       "defname": "PRF_DigitalStorageUnit_I",
-      "price": 18133
+      "price": -10
     },
     {
       "abr": "dronecolumn",
       "category": "Automation",
       "defname": "PRF_MiniDroneColumn",
-      "price": 3617
+      "price": -10
     },
     {
       "abr": "dronecultivator",
       "category": "Automation",
       "defname": "PRF_DroneCultivator_I",
-      "price": 2458
+      "price": -10
     },
     {
       "abr": "dronecultivatormk.ii",
       "category": "Automation",
       "defname": "PRF_DroneCultivator_II",
-      "price": 5158
+      "price": -10
     },
     {
       "abr": "dronecultivatormk.ii(sunlamp)",
       "category": "Automation",
       "defname": "PRF_DroneCultivator_II_sun",
-      "price": 3558
+      "price": -10
     },
     {
       "abr": "dronecultivatormk.iii",
       "category": "Automation",
       "defname": "PRF_DroneCultivator_III",
-      "price": 10717
+      "price": -10
     },
     {
       "abr": "emc",
@@ -4984,427 +4984,427 @@
       "abr": "emcduplicator",
       "category": "Automation",
       "defname": "PRFPaperclipDuplicator",
-      "price": 24067
+      "price": -10
     },
     {
       "abr": "emcpowergenerator",
       "category": "Automation",
       "defname": "PRF_EmcPowerGenerator",
-      "price": 37317
+      "price": -10
     },
     {
       "abr": "energycondenser",
       "category": "Automation",
       "defname": "PaperclipFactory",
-      "price": 42783
+      "price": -10
     },
     {
       "abr": "expressconveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_III",
-      "price": 64
+      "price": -10
     },
     {
       "abr": "factoryresearchterminal",
       "category": "Production",
       "defname": "PRF_ResearchTerminal",
-      "price": 3467
+      "price": -10
     },
     {
       "abr": "fastconveyorbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Simple_II",
-      "price": 32
+      "price": -10
     },
     {
       "abr": "fermentingtank",
       "category": "Automation",
       "defname": "PRF_FermentingBarrel",
-      "price": 1367
+      "price": -10
     },
     {
       "abr": "floorspotlight",
       "category": "Automation",
       "defname": "PRF_Floorspotlight",
-      "price": 108
+      "price": -10
     },
     {
       "abr": "fossil",
       "category": "Raw resources",
       "defname": "PRF_Fossil",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "fuelingdispenser",
       "category": "Automation",
       "defname": "PRF_FuelingMachine",
-      "price": 2600
+      "price": -10
     },
     {
       "abr": "genericanimalharvester",
       "category": "Automation",
       "defname": "PRF_GenericAnimalHarvester",
-      "price": 3517
+      "price": -10
     },
     {
       "abr": "glass",
       "category": "Raw resources",
       "defname": "PRF_Glass",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "growzonepuller",
       "category": "Automation",
       "defname": "PRF_GrowzonePuller_I",
-      "price": 992
+      "price": -10
     },
     {
       "abr": "hex-capacitor",
       "category": "Automation",
       "defname": "PRFHexCapacitor",
-      "price": 40242
+      "price": -10
     },
     {
       "abr": "i/oport",
       "category": "Automation",
       "defname": "PRF_IOPort_I",
-      "price": 2883
+      "price": -10
     },
     {
       "abr": "i/opusher",
       "category": "Automation",
       "defname": "PRF_IOPPusher_I",
-      "price": 3258
+      "price": -10
     },
     {
       "abr": "industrialautomaticmason",
       "category": "Automation",
       "defname": "PRF_StoneWorks",
-      "price": 3642
+      "price": -10
     },
     {
       "abr": "industrialcooker",
       "category": "Automation",
       "defname": "PRF_SelfCookerI",
-      "price": 2300
+      "price": -10
     },
     {
       "abr": "industrialfoodprocessor",
       "category": "Automation",
       "defname": "PRF_SelfPrepper",
-      "price": 2300
+      "price": -10
     },
     {
       "abr": "industrialfurnace",
       "category": "Automation",
       "defname": "PRF_FurnaceII",
-      "price": 4525
+      "price": -10
     },
     {
       "abr": "industriallamp",
       "category": "Automation",
       "defname": "PRF_IndustrialLamp",
-      "price": 267
+      "price": -10
     },
     {
       "abr": "iron",
       "category": "Raw resources",
       "defname": "PRF_Iron",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "itemanglepuller",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II_Side",
-      "price": 1600
+      "price": -10
     },
     {
       "abr": "itemchute",
       "category": "Automation",
       "defname": "PRF_ItemSlide",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "itempullermk.i",
       "category": "Automation",
       "defname": "PRF_SimplePuller_I",
-      "price": 992
+      "price": -10
     },
     {
       "abr": "itempullermk.ii",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II",
-      "price": 1600
+      "price": -10
     },
     {
       "abr": "kevlar",
       "category": "Textiles",
       "defname": "PRF_Kevlar",
-      "price": 10
+      "price": -10
     },
     {
       "abr": "largecrystalchandelier",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierLarge",
-      "price": 59
+      "price": -10
     },
     {
       "abr": "largecrystalchandelier(shadow)",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierShadowLarge",
-      "price": 59
+      "price": -10
     },
     {
       "abr": "materialsrefinery",
       "category": "Automation",
       "defname": "PRF_MaterialsRefinery",
-      "price": 8417
+      "price": -10
     },
     {
       "abr": "meatgrinder",
       "category": "Automation",
       "defname": "PRF_MeatGrinder",
-      "price": 2383
+      "price": -10
     },
     {
       "abr": "mediumcrystalchandelier",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierMedium",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "mediumcrystalchandelier(shadow)",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierShadowMedium",
-      "price": 47
+      "price": -10
     },
     {
       "abr": "mediummachineframe",
       "category": "Manufactured",
       "defname": "PRF_MachineFrame_II",
-      "price": 1267
+      "price": -10
     },
     {
       "abr": "mega-capacitor",
       "category": "Automation",
       "defname": "PRFMegaCapacitor",
-      "price": 9233
+      "price": -10
     },
     {
       "abr": "metalrefinery",
       "category": "Automation",
       "defname": "PRF_MetalRefinery",
-      "price": 8417
+      "price": -10
     },
     {
       "abr": "milker",
       "category": "Automation",
       "defname": "PRF_Milker",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "mineshaft",
       "category": "Production",
       "defname": "PRF_MineShaft",
-      "price": 375
+      "price": -10
     },
     {
       "abr": "modernauto-cooker",
       "category": "Automation",
       "defname": "PRF_SelfCookerII",
-      "price": 2625
+      "price": -10
     },
     {
       "abr": "nanocultivator",
       "category": "Automation",
       "defname": "PRF_OldTypeCultivator_I",
-      "price": 4992
+      "price": -10
     },
     {
       "abr": "nanocultivator(sunlamp)",
       "category": "Automation",
       "defname": "PRF_OldTypeCultivator_Sun",
-      "price": 6050
+      "price": -10
     },
     {
       "abr": "nanocultivatormk.ii",
       "category": "Automation",
       "defname": "PRF_OldTypeCultivator_Xl",
-      "price": 17742
+      "price": -10
     },
     {
       "abr": "oil",
       "category": "Manufactured",
       "defname": "PRF_Oil",
-      "price": 13
+      "price": -10
     },
     {
       "abr": "plasmadrill",
       "category": "Automation",
       "defname": "PRF_BillTypeMiner_I",
-      "price": 14442
+      "price": -10
     },
     {
       "abr": "plasmafurnace",
       "category": "Automation",
       "defname": "PRF_FurnaceIV",
-      "price": 20583
+      "price": -10
     },
     {
       "abr": "plastic",
       "category": "Raw resources",
       "defname": "PRF_MixedPlastic",
-      "price": 8
+      "price": -10
     },
     {
       "abr": "polyester",
       "category": "Textiles",
       "defname": "PRF_Polyester",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "portablerecipedatabase",
       "category": "Automation",
       "defname": "PRF_RecipeDatabase",
-      "price": 1900
+      "price": -10
     },
     {
       "abr": "pulsedrillmk.i",
       "category": "Automation",
       "defname": "PRF_DeepQuarry_mkII",
-      "price": 4900
+      "price": -10
     },
     {
       "abr": "pulsedrillmk.ii",
       "category": "Automation",
       "defname": "PRF_DeepQuarry_mkIII",
-      "price": 11492
+      "price": -10
     },
     {
       "abr": "quantumassembler(overclocked)",
       "category": "Automation",
       "defname": "PRF_TypeTwoAssembler_III",
-      "price": 20833
+      "price": -10
     },
     {
       "abr": "quantumassembler(prime)",
       "category": "Automation",
       "defname": "PRF_TypeTwoAssembler_II",
-      "price": 16667
+      "price": -10
     },
     {
       "abr": "quantumdevice",
       "category": "Automation",
       "defname": "PRFQuantumComputer",
-      "price": 3100
+      "price": -10
     },
     {
       "abr": "quartzcrystals",
       "category": "Raw resources",
       "defname": "PRF_quartz",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "quartztorch",
       "category": "Furniture",
       "defname": "PRF_QuartzTorch",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "quartzwalllamp",
       "category": "Furniture",
       "defname": "PRF_QuartzWallLamp",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "qubitprocessor",
       "category": "Manufactured",
       "defname": "PRF_ElectronicChip_III",
-      "price": 20092
+      "price": -10
     },
     {
       "abr": "rawdiamond",
       "category": "Raw resources",
       "defname": "PRF_RawDiamond",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "reinforcedconcrete",
       "category": "Stone blocks",
       "defname": "PRF_RefConcrete",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "reinforcedglass",
       "category": "Raw resources",
       "defname": "PRF_RGlass",
-      "price": 5
+      "price": -10
     },
     {
       "abr": "roboticarm",
       "category": "Manufactured",
       "defname": "PRF_RoboticArm",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "roboticmachiningtable",
       "category": "Automation",
       "defname": "TableRoboticMachining",
-      "price": 1817
+      "price": -10
     },
     {
       "abr": "s.a.lartmachinemk.i",
       "category": "Automation",
       "defname": "PRF_TheArtMachine",
-      "price": 8517
+      "price": -10
     },
     {
       "abr": "s.a.lartmachinemk.ii",
       "category": "Automation",
       "defname": "PRF_TheArtMaster",
-      "price": 14167
+      "price": -10
     },
     {
       "abr": "s.a.lassemblermk.i",
       "category": "Automation",
       "defname": "PRF_AutoCrafterSimple",
-      "price": 4633
+      "price": -10
     },
     {
       "abr": "s.a.lassemblermk.ii",
       "category": "Automation",
       "defname": "PRF_AutoCrafter",
-      "price": 5608
+      "price": -10
     },
     {
       "abr": "s.a.lautomatedcooker",
       "category": "Automation",
       "defname": "PRF_SALAutoCooker",
-      "price": 8517
+      "price": -10
     },
     {
       "abr": "s.a.lautomatedminer",
       "category": "Automation",
       "defname": "PRF_SALAutoMinerI",
-      "price": 4633
+      "price": -10
     },
     {
       "abr": "s.a.loverclockedassembler",
       "category": "Automation",
       "defname": "PRF_OverclockedAutoAssembler",
-      "price": 17625
+      "price": -10
     },
     {
       "abr": "s.a.loverclockedassemblermk.ii",
       "category": "Automation",
       "defname": "PRF_OverclockedAutoAssemblerII",
-      "price": 26908
+      "price": -10
     },
     {
       "abr": "s.a.lprimecrafter",
       "category": "Automation",
       "defname": "PRF_GodlyCrafter",
-      "price": 488333
+      "price": -10
     },
     {
       "abr": "sand",
@@ -5416,169 +5416,169 @@
       "abr": "shearer",
       "category": "Automation",
       "defname": "PRF_Shearer",
-      "price": 2750
+      "price": -10
     },
     {
       "abr": "smallcrystalchandelier",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierSmall",
-      "price": 36
+      "price": -10
     },
     {
       "abr": "smallcrystalchandelier(shadow)",
       "category": "Furniture",
       "defname": "PRF_CrystalChandelierShadowSmall",
-      "price": 36
+      "price": -10
     },
     {
       "abr": "smallmachineframe",
       "category": "Manufactured",
       "defname": "PRF_MachineFrame_I",
-      "price": 608
+      "price": -10
     },
     {
       "abr": "smallsteelcrate",
       "category": "Automation",
       "defname": "PRF_SteelCrate_I",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "smallwoodencrate",
       "category": "Automation",
       "defname": "PRF_WoodCrate_I",
-      "price": 283
+      "price": -10
     },
     {
       "abr": "smarthopper",
       "category": "Automation",
       "defname": "PRF_SmartHopper",
-      "price": 2458
+      "price": -10
     },
     {
       "abr": "smartrecycler",
       "category": "Automation",
       "defname": "PRF_Recycler",
-      "price": 3742
+      "price": -10
     },
     {
       "abr": "spaceranimalharvester",
       "category": "Automation",
       "defname": "PRF_GenericAnimalHarvester_II",
-      "price": 4217
+      "price": -10
     },
     {
       "abr": "spacercooker",
       "category": "Automation",
       "defname": "PRF_SelfCookerIII",
-      "price": 5967
+      "price": -10
     },
     {
       "abr": "sprinkler",
       "category": "Automation",
       "defname": "PRF_Sprinkler_I",
-      "price": 600
+      "price": -10
     },
     {
       "abr": "sprinklermk.ii",
       "category": "Automation",
       "defname": "PRF_Sprinkler_II",
-      "price": 3158
+      "price": -10
     },
     {
       "abr": "stainlesssteel",
       "category": "Raw resources",
       "defname": "PRF_StainlessSteel",
-      "price": 4
+      "price": -10
     },
     {
       "abr": "steelcrate",
       "category": "Automation",
       "defname": "PRF_SteelCrate_II",
-      "price": 800
+      "price": -10
     },
     {
       "abr": "stonefabricator",
       "category": "Automation",
       "defname": "PRF_T2_Stonecutter",
-      "price": 4750
+      "price": -10
     },
     {
       "abr": "sunwalllamp",
       "category": "Automation",
       "defname": "PRF_SunWallLight",
-      "price": 142
+      "price": -10
     },
     {
       "abr": "syntheticdiamond",
       "category": "Manufactured",
       "defname": "PRF_SyntheticDiamond",
-      "price": 12
+      "price": -10
     },
     {
       "abr": "thornsworth'sartmachine",
       "category": "Automation",
       "defname": "PRF_MrTsArtMachine",
-      "price": 8333
+      "price": -10
     },
     {
       "abr": "uav(packed)",
       "category": "Manufactured",
       "defname": "PRF_DroneModule",
-      "price": 792
+      "price": -10
     },
     {
       "abr": "undergroundbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_UG_I",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "undergroundbeltentrance",
       "category": "Automation",
       "defname": "PRF_Conveyor_Connector_To_UG",
-      "price": 130
+      "price": -10
     },
     {
       "abr": "undergroundbeltexit",
       "category": "Automation",
       "defname": "PRF_Conveyor_Connector_To_Floor",
-      "price": 130
+      "price": -10
     },
     {
       "abr": "undergroundsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_UG",
-      "price": 2133
+      "price": -10
     },
     {
       "abr": "volatitechunk",
       "category": "Chunks",
       "defname": "PRFVolatiteChunk",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "wallbelt",
       "category": "Automation",
       "defname": "PRF_Conveyor_Wall_I",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "wallitempuller",
       "category": "Automation",
       "defname": "PRF_SimplePuller_II_Wall",
-      "price": 1600
+      "price": -10
     },
     {
       "abr": "walllamp",
       "category": "Automation",
       "defname": "PRF_WallLight",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "wallsplitter",
       "category": "Automation",
       "defname": "PRF_Conveyor_Splitter_Wall",
-      "price": 1992
+      "price": -10
     },
     {
       "abr": "weathernormalizationdevice",
@@ -5590,31 +5590,31 @@
       "abr": "woodencrate",
       "category": "Automation",
       "defname": "PRF_WoodCrate_II",
-      "price": 383
+      "price": -10
     },
     {
       "abr": "workshopdronestation",
       "category": "Automation",
       "defname": "PRF_MiniHelper",
-      "price": 3908
+      "price": -10
     },
     {
       "abr": "x-composite",
       "category": "Raw resources",
       "defname": "PRFXComposite",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "y-composite",
       "category": "Raw resources",
       "defname": "PRFYComposite",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "z-composite",
       "category": "Raw resources",
       "defname": "PRFZComposite",
-      "price": 667
+      "price": -10
     }
   ],
   "total": 936

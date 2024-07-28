@@ -6,36 +6,6 @@
     "version": "2.3.1.0"
   },
   {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
-  },
-  {
-    "author": "Captolamia",
-    "name": "Toolkit - Channel Points (ressurected) 1.5",
-    "steamId": "3240408211",
-    "version": "1.5.1"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -72,12 +42,6 @@
     "version": "11.0.3"
   },
   {
-    "author": "latta",
-    "name": "FSharp.Core",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
     "steamId": null,
@@ -108,58 +72,10 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "LokiVKlokeNaAndoke",
-    "name": "AutoPriorities",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "SirRandoo",
     "name": "BetterSliders",
     "steamId": "2218078784",
     "version": "1.0.4.0"
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Level This! (Continued)",
-    "steamId": "3263017689",
-    "version": "1.0.2.0"
-  },
-  {
-    "author": "Seos",
-    "name": "Race - Faifox (patched)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Taranchuk and Sarg",
-    "name": "Vanilla Races Expanded - Insector",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LTS",
-    "name": "Integrated Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SoldierGG1",
-    "name": "Quasimorph - Main",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SoldierGG1",
-    "name": "Quasimorph - Realware™ armoury",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SoldierGG1",
-    "name": "Quasimorph - Realware™ contracts",
-    "steamId": null,
-    "version": null
   },
   {
     "author": "SirRandoo",
@@ -180,9 +96,81 @@
     "version": "1.6.3.0"
   },
   {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Kentington, Thain and SonicTHI",
+    "name": "Save Our Ship 2",
+    "steamId": "1909914131",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Uuugggg",
+    "name": "Replace Stuff",
+    "steamId": "1372003680",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Garethp",
+    "name": "Replace Stuff Mod Compatibility",
+    "steamId": "2642161586",
+    "version": "2.0.3"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
+  },
+  {
+    "author": "Captolamia",
+    "name": "Toolkit - Channel Points (ressurected) 1.5",
+    "steamId": "3240408211",
+    "version": "1.5.1"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
+    "steamId": "3239583412",
+    "version": "1.5.0.1"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory Revived",
+    "steamId": "2033979700",
+    "version": "2.8.5"
+  },
+  {
+    "author": "rabiosus",
+    "name": "RimFactory No Conveyor Wire",
+    "steamId": "3264913980",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Materials",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zymex",
+    "name": "Project RimFactory - Insanity",
+    "steamId": null,
+    "version": null
   }
 ]

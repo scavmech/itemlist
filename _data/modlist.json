@@ -36,6 +36,12 @@
     "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
   },
   {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.5"
+  },
+  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -120,6 +126,12 @@
     "version": "2.0.3"
   },
   {
+    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
@@ -150,33 +162,9 @@
     "version": "1.5.0.1"
   },
   {
-    "author": "zymex",
-    "name": "Project RimFactory Revived",
-    "steamId": "2033979700",
-    "version": "2.8.7"
-  },
-  {
-    "author": "rabiosus",
-    "name": "RimFactory No Conveyor Wire",
-    "steamId": "3264913980",
+    "author": "sirrandoo",
+    "name": "ToolkitCreator",
+    "steamId": "2099493475",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory - Materials",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "zymex",
-    "name": "Project RimFactory - Insanity",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "We're in Heaven",
-    "name": "Colony Manager Fork",
-    "steamId": "3262932412",
-    "version": "1.5"
   }
 ]

@@ -102,34 +102,28 @@
     "version": "1.6.3.0"
   },
   {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
+    "author": "YAYO",
+    "name": "Yayo's Meteor (Continued)",
+    "steamId": "2892867866",
+    "version": "1.5.0"
   },
   {
-    "author": "Kentington, Thain and SonicTHI",
-    "name": "Save Our Ship 2",
-    "steamId": "1909914131",
-    "version": "0.0.0.0"
+    "author": "Seioch",
+    "name": "Golden Fox Cube",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Uuugggg",
-    "name": "Replace Stuff",
-    "steamId": "1372003680",
-    "version": "1.1.0.0"
+    "author": "Zylle",
+    "name": "Gemstones",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "Garethp",
-    "name": "Replace Stuff Mod Compatibility",
-    "steamId": "2642161586",
-    "version": "2.0.3"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi and Sarg Bjornson",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
+    "author": "MrHydralisk",
+    "name": "Anomalies Expected",
+    "steamId": "3240752689",
+    "version": "1.5.5.0"
   },
   {
     "author": "nry",
@@ -166,5 +160,11 @@
     "name": "ToolkitCreator",
     "steamId": "2099493475",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitRaids",
+    "steamId": "2091359241",
+    "version": "1.1.0+7697d6707e89ea0f783c70ddc38333a25d3893e3"
   }
 ]

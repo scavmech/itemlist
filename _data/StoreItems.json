@@ -4,7 +4,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "aestheticnose",
@@ -718,7 +718,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "controlpack",
@@ -1796,7 +1796,7 @@
     },
     {
       "abr": "jade",
-      "category": "Raw resources",
+      "category": "Gemstones",
       "defname": "Jade",
       "price": 8
     },
@@ -4309,461 +4309,173 @@
       "price": 49
     },
     {
-      "abr": "advancedholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Standard",
-      "price": -10
-    },
-    {
-      "abr": "afterlifecasket",
-      "category": "Buildings",
-      "defname": "Ship_AvatarCasket",
-      "price": -10
-    },
-    {
-      "abr": "antigraintorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_Antimatter",
-      "price": -10
-    },
-    {
-      "abr": "architerepairgel",
-      "category": "Drugs",
-      "defname": "ArchotechRepairGel",
-      "price": -10
-    },
-    {
-      "abr": "archolifepod",
-      "category": "Items",
-      "defname": "ArcholifePod",
-      "price": -10
-    },
-    {
-      "abr": "archostrichegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchostrichFertilized",
-      "price": -10
-    },
-    {
-      "abr": "archostrichegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "EggArchostrichUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "archotechear",
-      "category": "Archotech",
-      "defname": "SoSArchotechEar",
-      "price": -10
-    },
-    {
-      "abr": "archotechheart",
-      "category": "Archotech",
-      "defname": "SoSArchotechHeart",
-      "price": -10
-    },
-    {
-      "abr": "archotechjaw",
-      "category": "Archotech",
-      "defname": "SoSArchotechJaw",
-      "price": -10
-    },
-    {
-      "abr": "archotechkidney",
-      "category": "Archotech",
-      "defname": "SoSArchotechKidney",
-      "price": -10
-    },
-    {
-      "abr": "archotechliver",
-      "category": "Archotech",
-      "defname": "SoSArchotechLiver",
-      "price": -10
-    },
-    {
-      "abr": "archotechlung",
-      "category": "Archotech",
-      "defname": "SoSArchotechLung",
-      "price": -10
-    },
-    {
-      "abr": "archotechnose",
-      "category": "Archotech",
-      "defname": "SoSArchotechNose",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillaralpha",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarA",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillarbeta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarB",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillardelta",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarD",
-      "price": -10
-    },
-    {
-      "abr": "archotechpillargamma",
-      "category": "Misc",
-      "defname": "ShipArchotechPillarC",
-      "price": -10
-    },
-    {
-      "abr": "archotechskin",
-      "category": "Archotech",
-      "defname": "SoSArchotechSkin",
-      "price": -10
-    },
-    {
-      "abr": "archotechspine",
-      "category": "Archotech",
-      "defname": "SoSArchotechSpine",
-      "price": -10
-    },
-    {
-      "abr": "archotechstomach",
-      "category": "Archotech",
-      "defname": "SoSArchotechStomach",
-      "price": -10
-    },
-    {
-      "abr": "archotechuplink",
-      "category": "Misc",
-      "defname": "ArchotechUplink",
-      "price": -10
-    },
-    {
-      "abr": "archotortoiseegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "EggArchotortoiseFertilized",
-      "price": -10
-    },
-    {
-      "abr": "astromite",
-      "category": "Animals",
-      "defname": "Astromite",
-      "price": -10
-    },
-    {
-      "abr": "basicholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_Basic",
-      "price": -10
-    },
-    {
-      "abr": "cosmopillar",
-      "category": "Animals",
-      "defname": "Cosmopillar",
-      "price": -10
-    },
-    {
-      "abr": "emptorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_EMP",
-      "price": -10
-    },
-    {
-      "abr": "entanglementmanifold",
-      "category": "Items",
-      "defname": "SoSEntanglementManifold",
-      "price": -10
-    },
-    {
-      "abr": "evahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmet",
-      "price": -10
-    },
-    {
-      "abr": "evasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBody",
-      "price": -10
-    },
-    {
-      "abr": "exoticparticles",
-      "category": "Manufactured",
-      "defname": "ArchotechExoticParticles",
-      "price": -10
-    },
-    {
-      "abr": "heavyevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetHeavy",
-      "price": -10
-    },
-    {
-      "abr": "heavyevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyHeavy",
-      "price": -10
-    },
-    {
-      "abr": "high-explosivetorpedo",
-      "category": "Torpedoes",
-      "defname": "ShipTorpedo_HighExplosive",
-      "price": -10
-    },
-    {
-      "abr": "hullfoamcanister",
-      "category": "Items",
-      "defname": "HullFoam",
-      "price": -10
-    },
-    {
-      "abr": "kidevahelmet",
-      "category": "Headgear",
-      "defname": "Apparel_SpaceSuitHelmetChild",
-      "price": -10
-    },
-    {
-      "abr": "kidevasuit",
-      "category": "Armor",
-      "defname": "Apparel_SpaceSuitBodyChild",
-      "price": -10
-    },
-    {
-      "abr": "mechanitedisassemblercore",
-      "category": "Items",
-      "defname": "ArchotechMechaniteCore",
-      "price": -10
-    },
-    {
-      "abr": "pinkgoo",
-      "category": "Grenades",
-      "defname": "Weapon_GrenadeMechanite",
-      "price": -10
-    },
-    {
-      "abr": "psychicflayercore",
-      "category": "Items",
-      "defname": "ArchotechPsychicCore",
-      "price": -10
-    },
-    {
-      "abr": "psychicmanipulator",
-      "category": "Archotech",
-      "defname": "SoSPsychicManipulator",
-      "price": -10
-    },
-    {
-      "abr": "psychicpredictor",
-      "category": "Archotech",
-      "defname": "SoSPsychicPredictor",
-      "price": -10
-    },
-    {
-      "abr": "recyclotron",
-      "category": "Production",
-      "defname": "ArchoRecycler",
-      "price": -10
-    },
-    {
-      "abr": "sapientholodeck",
-      "category": "Recreation",
-      "defname": "Holodeck_AI",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(archerclassfrigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateArcher",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(ardentclasscorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteArdent",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(arrowheadcorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteArrowhead",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvette",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteGunship",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteTorpedo",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(corvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(explorationvessel)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPExplorationVessel",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(fireflyclasstransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCargoFirefly",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(frigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateWinged",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(heavybomber)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPBomberHeavy",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(ironcladclassfrigate)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPFrigateIronclad",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(miningrig)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPMiningRig",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(oldmartiancorvette)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCorvetteMartian",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(smalltransport)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPTransportSmall",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(thorclasscruiser)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPCruiserThor",
-      "price": -10
-    },
-    {
-      "abr": "shipblueprint(torpedodestroyer)",
-      "category": "Ship blueprints",
-      "defname": "ShipBPDestroyer",
-      "price": -10
-    },
-    {
-      "abr": "shipcapacitor",
-      "category": "Furniture",
-      "defname": "ShipCapacitorSmall",
-      "price": -10
-    },
-    {
-      "abr": "shipcomputercore",
-      "category": "Buildings",
-      "defname": "Ship_ComputerCore",
-      "price": -10
-    },
-    {
-      "abr": "shipsalvage",
-      "category": "Special",
-      "defname": "ShipChunkSalvage",
-      "price": -10
-    },
-    {
-      "abr": "spacetelescope",
-      "category": "Recreation",
-      "defname": "TelescopeSpace",
-      "price": -10
-    },
-    {
-      "abr": "spacercrib",
-      "category": "Furniture",
-      "defname": "SpaceCrib",
-      "price": -10
-    },
-    {
-      "abr": "stellapede",
-      "category": "Animals",
-      "defname": "Stellapede",
-      "price": -10
-    },
-    {
-      "abr": "survivalbelt",
-      "category": "Utility",
-      "defname": "Apparel_SpaceSurvivalBelt",
-      "price": -10
-    },
-    {
-      "abr": "uraniumfuelpod",
-      "category": "Manufactured",
-      "defname": "ShuttleFuelPods",
-      "price": -10
-    },
-    {
-      "abr": "vanoroot",
-      "category": "Vegetarian",
-      "defname": "RawVanoroot",
-      "price": -10
-    },
-    {
-      "abr": "wallsunlamp",
-      "category": "Furniture",
-      "defname": "WallSunLampSoS",
-      "price": -10
-    },
-    {
       "abr": "aimanager",
       "category": "Production",
       "defname": "FM_AIManager",
-      "price": 7833
+      "price": -10
     },
     {
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "FM_BasicManagerStation",
-      "price": 262
-    },
-    {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "price": -10
     },
     {
       "abr": "managerdesk",
       "category": "Production",
       "defname": "FM_ManagerStation",
-      "price": 508
+      "price": -10
     },
     {
-      "abr": "weathernormalizationdevice",
-      "category": "Artifacts",
-      "defname": "WeatherCancelDevice",
-      "price": 2000
+      "abr": "amethyst",
+      "category": "Gemstones",
+      "defname": "Z_Amethyst",
+      "price": -10
+    },
+    {
+      "abr": "bigpie",
+      "category": "Misc",
+      "defname": "AE_BakingPies",
+      "price": -10
+    },
+    {
+      "abr": "bingingfoodserum",
+      "category": "Drugs",
+      "defname": "AEBingingFoodSerum",
+      "price": -10
+    },
+    {
+      "abr": "chalcedony",
+      "category": "Gemstones",
+      "defname": "Z_Chalcedony",
+      "price": -10
+    },
+    {
+      "abr": "citrine",
+      "category": "Gemstones",
+      "defname": "Z_Citrine",
+      "price": -10
+    },
+    {
+      "abr": "diamond",
+      "category": "Gemstones",
+      "defname": "Z_Diamond",
+      "price": -10
+    },
+    {
+      "abr": "emerald",
+      "category": "Gemstones",
+      "defname": "Z_Emerald",
+      "price": -10
+    },
+    {
+      "abr": "garnet",
+      "category": "Gemstones",
+      "defname": "Z_Garnet",
+      "price": -10
+    },
+    {
+      "abr": "giantapple",
+      "category": "Misc",
+      "defname": "AE_ForbiddenFruit",
+      "price": -10
+    },
+    {
+      "abr": "giantappleinhibitorserum",
+      "category": "Drugs",
+      "defname": "AEFruitInhibitorSerum",
+      "price": -10
+    },
+    {
+      "abr": "grinderjaw",
+      "category": "Anomaly",
+      "defname": "AEGrinderJaw",
+      "price": -10
+    },
+    {
+      "abr": "grinderstomach",
+      "category": "Anomaly",
+      "defname": "AEGrinderStomach",
+      "price": -10
+    },
+    {
+      "abr": "industrialmetalbox",
+      "category": "Furniture",
+      "defname": "AE_MeatGrinder",
+      "price": -10
+    },
+    {
+      "abr": "lapis",
+      "category": "Gemstones",
+      "defname": "Z_Lapis",
+      "price": -10
+    },
+    {
+      "abr": "ordinarybed",
+      "category": "Furniture",
+      "defname": "AE_AnomalyBed",
+      "price": -10
+    },
+    {
+      "abr": "ordinaryhospitalbed",
+      "category": "Furniture",
+      "defname": "AE_AnomalyHospitalBed",
+      "price": -10
+    },
+    {
+      "abr": "pieceofpie",
+      "category": "Meals",
+      "defname": "AE_BakingPiesPiece",
+      "price": -10
+    },
+    {
+      "abr": "preciseorbitalbeamtargeter",
+      "category": "Utility",
+      "defname": "AEOrbitalBeamTargeter",
+      "price": -10
+    },
+    {
+      "abr": "quartz",
+      "category": "Gemstones",
+      "defname": "Z_Quartz",
+      "price": -10
+    },
+    {
+      "abr": "regenserum",
+      "category": "Drugs",
+      "defname": "AERegenSerum",
+      "price": -10
+    },
+    {
+      "abr": "ruby",
+      "category": "Gemstones",
+      "defname": "Z_Ruby",
+      "price": -10
+    },
+    {
+      "abr": "sapphire",
+      "category": "Gemstones",
+      "defname": "Z_Sapphire",
+      "price": -10
+    },
+    {
+      "abr": "serpentine",
+      "category": "Gemstones",
+      "defname": "Z_Serpentine",
+      "price": -10
+    },
+    {
+      "abr": "sleepenhancerserum",
+      "category": "Drugs",
+      "defname": "AESleepEnhancerSerum",
+      "price": -10
+    },
+    {
+      "abr": "turquoise",
+      "category": "Gemstones",
+      "defname": "Z_Turquoise",
+      "price": -10
     }
   ],
-  "total": 794
+  "total": 746
 }

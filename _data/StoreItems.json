@@ -46,7 +46,7 @@
       "abr": "alpacawool",
       "category": "Wools",
       "defname": "WoolAlpaca",
-      "price": -10
+      "price": 6
     },
     {
       "abr": "alphabeaver",
@@ -358,7 +358,7 @@
       "abr": "bisonwool",
       "category": "Wools",
       "defname": "WoolBison",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "blackboard",
@@ -2140,7 +2140,7 @@
       "abr": "megaslothwool",
       "category": "Wools",
       "defname": "WoolMegasloth",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "megaspider",
@@ -2230,7 +2230,7 @@
       "abr": "muffalowool",
       "category": "Wools",
       "defname": "WoolMuffalo",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "multi-analyzer",
@@ -2866,7 +2866,7 @@
       "abr": "sheepwool",
       "category": "Wools",
       "defname": "WoolSheep",
-      "price": -10
+      "price": 4
     },
     {
       "abr": "shelf",

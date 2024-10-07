@@ -4475,7 +4475,13 @@
 		"price": -10,
 		"category": "Gemstones",
 		"defname": "Z_Turquoise"
+	},
+	{
+		"abr": "deathsuperacidifier",
+		"price": 1500,
+		"category": "Bionic",
+		"defname": "VESWW_DeathSuperAcidifier"
 	}
 	],
-	"total": 746
+	"total": 747
 }

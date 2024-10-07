@@ -165,12 +165,18 @@
     "author": "SirRandoo",
     "name": "ToolkitRaids",
     "steamId": "2091359241",
-    "version": "1.2.0+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
+    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
   },
   {
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
   }
 ]

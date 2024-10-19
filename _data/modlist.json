@@ -123,7 +123,13 @@
     "author": "MrHydralisk",
     "name": "Anomalies Expected",
     "steamId": "3240752689",
-    "version": "1.5.5.0"
+    "version": "1.5.6.0"
+  },
+  {
+    "author": "Ornament",
+    "name": "AutoDye",
+    "steamId": "2563707717",
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -172,11 +178,5 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
   }
 ]

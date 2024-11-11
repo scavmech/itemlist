@@ -6,6 +6,12 @@
     "version": "2.3.1.0"
   },
   {
+    "author": "RedMattis",
+    "name": "Big and Small - Framework",
+    "steamId": "2925432336",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -45,7 +51,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.3"
+    "version": "11.0.4"
   },
   {
     "author": "Kosaro",
@@ -102,30 +108,6 @@
     "version": "1.6.3.0"
   },
   {
-    "author": "YAYO",
-    "name": "Yayo's Meteor (Continued)",
-    "steamId": "2892867866",
-    "version": "1.5.0"
-  },
-  {
-    "author": "Seioch",
-    "name": "Golden Fox Cube",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zylle",
-    "name": "Gemstones",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrHydralisk",
-    "name": "Anomalies Expected",
-    "steamId": "3240752689",
-    "version": "1.5.6.0"
-  },
-  {
     "author": "Ornament",
     "name": "AutoDye",
     "steamId": "2563707717",
@@ -178,5 +160,71 @@
     "name": "ToolkitResearch",
     "steamId": "2312827542",
     "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
+  },
+  {
+    "author": "MO",
+    "name": "Ancient urban ruins",
+    "steamId": "3316062206",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Meteores",
+    "name": "Ancient Urban Ruins All Deconstructible",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Sacred WhiteFox",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ShepirotGamer",
+    "name": "Rocky",
+    "steamId": "3362035760",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Denerose",
+    "name": "Muffaloaves",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Nalzurin, Athitei and Zeues",
+    "name": "Bionix Automator",
+    "steamId": "3357286019",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Genes & More",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RedMattis",
+    "name": "Big and Small - Simply Robots",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Non-Lethal",
+    "steamId": null,
+    "version": null
   }
 ]

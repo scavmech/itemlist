@@ -256,7 +256,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "beret",
@@ -4300,7 +4300,7 @@
       "abr": "voidsightserum",
       "category": "Drugs",
       "defname": "VoidsightSerum",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "walllamp",

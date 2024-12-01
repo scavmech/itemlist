@@ -718,7 +718,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "controlpack",
@@ -856,7 +856,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": -10
+      "price": 9
     },
     {
       "abr": "diningchair",

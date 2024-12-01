@@ -2530,7 +2530,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 2917
     },
@@ -2568,7 +2568,7 @@
       },
       "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
       "defName": "BS_TVAndroid",
-      "enabled": true,
+      "enabled": false,
       "name": "ad-bot",
       "price": 2500
     },
@@ -2606,7 +2606,7 @@
       },
       "description": "A new take on early attempts at mechanical lifeforms. These androids have a fair number of built-in programs for basic survival situations, but have very limited ability to improve beyond that point.\n\nThey are fairly sturdy for a rolling television, but tend to be disabled easily when injured.",
       "defName": "BS_TVAndroid_Sapient",
-      "enabled": true,
+      "enabled": false,
       "name": "ad-bot",
       "price": 2500
     },
@@ -2641,7 +2641,7 @@
       },
       "description": "A mechanical lifeform with a design born from early attempts at developing AI Persona by emulating a human using engineering. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.",
       "defName": "BS_CommandoBot",
-      "enabled": true,
+      "enabled": false,
       "name": "Steel Enforcer",
       "price": 4167
     },

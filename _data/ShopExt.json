@@ -1983,8 +1983,8 @@
       "name": "voidfascination"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2017,8 +2017,8 @@
       "name": "gentle"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2039,8 +2039,8 @@
       "name": "giant"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2073,8 +2073,8 @@
       "name": "successfulproducts"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2105,8 +2105,8 @@
       "name": "fashionguy"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2219,8 +2219,8 @@
       "name": "gigantism"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2285,8 +2285,8 @@
       "name": "small"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2319,8 +2319,8 @@
       "name": "dwarfism"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2347,8 +2347,8 @@
       "name": "diligentstudent"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2433,8 +2433,8 @@
       "name": "alcohollover"
     },
     {
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0,
@@ -2676,7 +2676,7 @@
       },
       "description": "A mechanical lifeform with a design were born from early attempts at developing AI Persona by emulating a human using engineering. It is made mostly out of metals and synthetical components.\n\nThis design is especially rugged, but the design of its body prevents it from wearing non-loose clothing and armor.\n\nThis one appears to be no more sophisticated than an advanced mechanoid however.",
       "defName": "BS_CommandoBot_NonSapient",
-      "enabled": true,
+      "enabled": false,
       "name": "Automated Enforcer",
       "price": 4167
     }

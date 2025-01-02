@@ -208,7 +208,7 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "basicsubcore",
@@ -4327,1889 +4327,2225 @@
       "price": -10
     },
     {
-      "abr": ".338precisioncomponents",
-      "category": "Military components",
-      "defname": "AM_338PrecisionComponents",
-      "price": -10
-    },
-    {
-      "abr": "6.8bullpuprifle",
-      "category": "Ranged weapons",
-      "defname": "AM_RM68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8bullpupshortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_TKB68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8combatrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MK68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8shortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_AK68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8spearrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_Spear68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8spearshortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_Spear68C",
-      "price": -10
-    },
-    {
-      "abr": "6.8upperreceivercomponents",
-      "category": "Military components",
-      "defname": "AM_227FURYComponents",
-      "price": -10
-    },
-    {
-      "abr": "ad-bot",
-      "category": "Animal",
-      "defname": "BS_TVAndroid",
-      "price": -10
-    },
-    {
-      "abr": "ad-bot",
-      "category": "Animal",
-      "defname": "BS_TVAndroid_Sapient",
-      "price": -10
-    },
-    {
-      "abr": "ad-botmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_TVAndroid",
-      "price": -10
-    },
-    {
-      "abr": "ad-botmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_TVAndroid_Sapient",
-      "price": -10
-    },
-    {
-      "abr": "ai2a",
-      "category": "Medicine",
-      "defname": "AM_AI2A",
-      "price": -10
-    },
-    {
-      "abr": "aluminumsplint",
-      "category": "Medical supplies",
-      "defname": "AM_AluminumSplint",
-      "price": -10
-    },
-    {
-      "abr": "analgesicregenerationinjector",
-      "category": "Drugs",
-      "defname": "AM_AnalgesicRegenerationInjector",
-      "price": -10
-    },
-    {
-      "abr": "ancientcashregister",
-      "category": "Container",
-      "defname": "AM_AncientCashRegister",
-      "price": -10
-    },
-    {
-      "abr": "ancientdismantlingtable",
-      "category": "Production",
-      "defname": "AM_AncientDismantlingWorkbench",
-      "price": -10
-    },
-    {
-      "abr": "ancientgrizzlykit",
-      "category": "Medicine",
-      "defname": "AM_AncientGrizzly",
-      "price": -10
-    },
-    {
-      "abr": "ancientlargemilitarysuppliescase",
-      "category": "Container",
-      "defname": "AM_OldBigCase",
-      "price": -10
-    },
-    {
-      "abr": "ancientroadblocks",
-      "category": "Container",
-      "defname": "AM_AncientRoadblocks",
-      "price": -10
-    },
-    {
-      "abr": "ancientsmallmilitarycase",
-      "category": "Container",
-      "defname": "AM_OldSmallCase",
-      "price": -10
-    },
-    {
-      "abr": "ancientweaponcase",
-      "category": "Container",
-      "defname": "AM_OldWeaponCase",
-      "price": -10
-    },
-    {
-      "abr": "androidfuel",
-      "category": "Foods",
-      "defname": "BS_AndroidFuel",
-      "price": -10
-    },
-    {
-      "abr": "animalgiantizer",
-      "category": "Misc",
-      "defname": "BS_Giant_Serum",
-      "price": -10
-    },
-    {
-      "abr": "animalminimizer",
-      "category": "Misc",
-      "defname": "BS_Shrink_Serum",
-      "price": -10
-    },
-    {
-      "abr": "anomalousshard",
-      "category": "Manufactured",
-      "defname": "BS_DarkSoulshard",
-      "price": -10
-    },
-    {
-      "abr": "antibiotic",
-      "category": "Drugs",
-      "defname": "AM_Antibiotic",
-      "price": -10
-    },
-    {
-      "abr": "aramidcloth",
-      "category": "Textiles",
-      "defname": "AM_AramidCloth",
-      "price": -10
-    },
-    {
-      "abr": "architegenomecloner",
-      "category": "Misc",
-      "defname": "BS_CreateArchiteXenogerm_Endo",
-      "price": -10
-    },
-    {
-      "abr": "architexenogermcloner",
-      "category": "Misc",
-      "defname": "BS_CreateArchiteXenogerm",
-      "price": -10
-    },
-    {
-      "abr": "archotechapparel-integrator",
-      "category": "Archotech",
-      "defname": "BS_IndestructibelApparel",
-      "price": -10
-    },
-    {
-      "abr": "armorpiercingpistol",
-      "category": "Ranged weapons",
-      "defname": "AM_FNHG",
-      "price": -10
-    },
-    {
-      "abr": "armoredconcealedrig",
-      "category": "Armor",
-      "defname": "AM_MK4aConcealed",
-      "price": -10
-    },
-    {
-      "abr": "armoreddefensiverig",
-      "category": "Armor",
-      "defname": "AM_MK4aDefensive",
-      "price": -10
-    },
-    {
-      "abr": "automatedenforcer",
-      "category": "Animal",
-      "defname": "BS_CommandoBot_NonSapient",
-      "price": -10
-    },
-    {
-      "abr": "automatedenforcermeat",
-      "category": "Meat",
-      "defname": "Meat_BS_CommandoBot_NonSapient",
-      "price": -10
-    },
-    {
-      "abr": "bakingthermometer",
-      "category": "Tools",
-      "defname": "AM_BakingThermometer",
-      "price": -10
-    },
-    {
-      "abr": "bigcase",
-      "category": "Container",
-      "defname": "AM_BigCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "bioniclocomotivespine",
+      "abr": "deathsuperacidifier",
       "category": "Bionic",
-      "defname": "BS_BionicLocomotiveSpine",
-      "price": -10
+      "defname": "VESWW_DeathSuperAcidifier",
+      "price": 1500
     },
     {
-      "abr": "bionicstriderleg",
-      "category": "Bionic",
-      "defname": "BS_BionicStriderLeg",
-      "price": -10
-    },
-    {
-      "abr": "bionixautomator",
-      "category": "Misc",
-      "defname": "AutoImplanter",
-      "price": -10
-    },
-    {
-      "abr": "bookcase",
-      "category": "Container",
-      "defname": "AM_BookCase",
-      "price": -10
-    },
-    {
-      "abr": "brasslionstatue",
-      "category": "Rare items",
-      "defname": "AM_BrassLionStatue",
-      "price": -10
-    },
-    {
-      "abr": "briefcase",
-      "category": "Container",
-      "defname": "AM_BriefCase_SalvagePoint",
-      "price": -10
-    },
-    {
-      "abr": "briefcase",
-      "category": "Rare items",
-      "defname": "AM_BriefCase",
-      "price": -10
-    },
-    {
-      "abr": "budweiser",
-      "category": "Drugs",
-      "defname": "AM_Budweiser",
-      "price": -10
-    },
-    {
-      "abr": "bulletproofmask",
-      "category": "Headgear",
-      "defname": "AM_BulletproofMask",
-      "price": -10
-    },
-    {
-      "abr": "burgerpaperbag",
-      "category": "Container",
-      "defname": "AM_BurgerPaperBag",
-      "price": -10
-    },
-    {
-      "abr": "burgerpaperbox",
-      "category": "Container",
-      "defname": "AM_BurgerPaperBox",
-      "price": -10
-    },
-    {
-      "abr": "cannedbraisedpork",
-      "category": "Meals",
-      "defname": "AM_CannedBraisedPorkbelly",
-      "price": -10
-    },
-    {
-      "abr": "cannedherring",
-      "category": "Meals",
-      "defname": "AM_CannedHerring",
-      "price": -10
-    },
-    {
-      "abr": "cannedpeas",
-      "category": "Meals",
-      "defname": "AM_CannedPeas",
-      "price": -10
-    },
-    {
-      "abr": "cannedstewedmuffalo",
-      "category": "Meals",
-      "defname": "AM_CannedStewedBeef",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_A_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_B_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_C_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_A",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_B",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_C",
-      "price": -10
-    },
-    {
-      "abr": "carnivorelargefinemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine_Meat",
-      "price": -10
-    },
-    {
-      "abr": "carnivorelargelavishmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish_Meat",
-      "price": -10
-    },
-    {
-      "abr": "cataphracthelmet“fashion”",
-      "category": "Headgear",
-      "defname": "AM_CataphractHelmetFashion",
-      "price": -10
-    },
-    {
-      "abr": "cataphracthelmet“slaughter”",
-      "category": "Headgear",
-      "defname": "AM_CataphractHelmetSlaughter",
-      "price": -10
-    },
-    {
-      "abr": "cellregenerationinjector",
-      "category": "Drugs",
-      "defname": "AM_CellRegenerationInjector",
-      "price": -10
-    },
-    {
-      "abr": "civiliancarbine",
+      "abr": ".22automagii",
       "category": "Ranged weapons",
-      "defname": "AM_STM",
+      "defname": "Gun_P_AMT_Automag_II_PA",
       "price": -10
     },
     {
-      "abr": "civilianrifle",
+      "abr": ".45automagiv",
       "category": "Ranged weapons",
-      "defname": "AM_ADAR",
+      "defname": "Gun_P_AMT_Automag_IV_PA",
       "price": -10
     },
     {
-      "abr": "classicpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsA",
-      "price": -10
-    },
-    {
-      "abr": "closecombatdmr",
+      "abr": ".50automagv",
       "category": "Ranged weapons",
-      "defname": "AM_SR25A",
+      "defname": "Gun_P_AMT_Automag_V_PA",
       "price": -10
     },
     {
-      "abr": "closedoxygencylinder",
-      "category": "Utility",
-      "defname": "AM_ClosedOxygenCylinder",
-      "price": -10
-    },
-    {
-      "abr": "clothesrack",
-      "category": "Container",
-      "defname": "AM_ClothesHanger",
-      "price": -10
-    },
-    {
-      "abr": "coca-cola",
-      "category": "Meals",
-      "defname": "AM_Coca",
-      "price": -10
-    },
-    {
-      "abr": "collapsedshelves",
-      "category": "Container",
-      "defname": "AM_DamagedEmptyShelves",
-      "price": -10
-    },
-    {
-      "abr": "combatrifle",
+      "abr": "55s55",
       "category": "Ranged weapons",
-      "defname": "AM_MK17A",
+      "defname": "Gun_RL_55_S_55_PA",
       "price": -10
     },
     {
-      "abr": "compositeassaultdress",
-      "category": "Armor",
-      "defname": "AM_AScompFD",
-      "price": -10
-    },
-    {
-      "abr": "compositeflaksuit",
-      "category": "Armor",
-      "defname": "AM_CompFlakSuit",
-      "price": -10
-    },
-    {
-      "abr": "computercase",
-      "category": "Container",
-      "defname": "AM_ComputerCase",
-      "price": -10
-    },
-    {
-      "abr": "concretebarrier",
-      "category": "Container",
-      "defname": "AM_Palisade",
-      "price": -10
-    },
-    {
-      "abr": "cone",
-      "category": "Container",
-      "defname": "AM_Cone",
-      "price": -10
-    },
-    {
-      "abr": "confidentialintelmap",
-      "category": "Rare items",
-      "defname": "AM_ConfidentialIntelMapA",
-      "price": -10
-    },
-    {
-      "abr": "confidentialintelmap",
-      "category": "Rare items",
-      "defname": "AM_ConfidentialIntelMapB",
-      "price": -10
-    },
-    {
-      "abr": "constructionsite",
-      "category": "Container",
-      "defname": "AM_ConstructionSite",
-      "price": -10
-    },
-    {
-      "abr": "copperheadlongsmg",
+      "abr": "7.62tkiv85",
       "category": "Ranged weapons",
-      "defname": "AM_MPXL",
+      "defname": "Gun_SR_762_Tkiv_85_PA",
       "price": -10
     },
     {
-      "abr": "copperheadsmg",
+      "abr": "9mmautomagiii",
       "category": "Ranged weapons",
-      "defname": "AM_MPX",
+      "defname": "Gun_P_AMT_Automag_III_PA",
       "price": -10
     },
     {
-      "abr": "cpu",
-      "category": "Electronics",
-      "defname": "AM_CPU",
+      "abr": "abyssalglaive",
+      "category": "Melee weapons",
+      "defname": "BotchJob_AbyssalGlaive",
       "price": -10
     },
     {
-      "abr": "creditcard",
-      "category": "Rare items",
-      "defname": "AM_CreditCard",
-      "price": -10
-    },
-    {
-      "abr": "cucumberpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsC",
-      "price": -10
-    },
-    {
-      "abr": "customcarbine",
+      "abr": "accuracyinternationalarcticwarfare",
       "category": "Ranged weapons",
-      "defname": "AM_M4A",
+      "defname": "Gun_SR_AIAW_PA",
       "price": -10
     },
     {
-      "abr": "customciviliancarbine",
+      "abr": "aek-971",
       "category": "Ranged weapons",
-      "defname": "AM_STMC",
+      "defname": "Gun_AR_AEK-971_PA",
       "price": -10
     },
     {
-      "abr": "custommilitaryrifle",
+      "abr": "ag-043",
       "category": "Ranged weapons",
-      "defname": "AM_M4ASOP",
+      "defname": "Gun_AR_AG-043_PA",
       "price": -10
     },
     {
-      "abr": "customsniperrifle",
+      "abr": "ak5",
       "category": "Ranged weapons",
-      "defname": "AM_M700A",
+      "defname": "Gun_AR_Ak5_PA",
       "price": -10
     },
     {
-      "abr": "dartgun",
+      "abr": "ak-12",
       "category": "Ranged weapons",
-      "defname": "VWE_Gun_DartGun",
+      "defname": "Gun_AR_AK-12_PA",
       "price": -10
     },
     {
-      "abr": "defensepistol",
+      "abr": "ak-15",
       "category": "Ranged weapons",
-      "defname": "AM_CPHG",
+      "defname": "Gun_AR_AK-15_PA",
       "price": -10
     },
     {
-      "abr": "deluxecannedmuffalo",
-      "category": "Meals",
-      "defname": "AM_DeliciousCannedBeef",
+      "abr": "ak-308",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AK-308_PA",
       "price": -10
     },
     {
-      "abr": "dilapidatedmap",
-      "category": "Rare items",
-      "defname": "AM_DilapidatedMap",
+      "abr": "ak-47",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AK47_PA",
       "price": -10
     },
     {
-      "abr": "diningchair",
+      "abr": "ak-63",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AK-63_PA",
+      "price": -10
+    },
+    {
+      "abr": "ak-74m",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AK74M_PA",
+      "price": -10
+    },
+    {
+      "abr": "ak-9",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AK-9_PA",
+      "price": -10
+    },
+    {
+      "abr": "akdalghosttr01",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Akdal_Ghost_TR01_PA",
+      "price": -10
+    },
+    {
+      "abr": "aks-74u",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AKS-74U_PA",
+      "price": -10
+    },
+    {
+      "abr": "alfacombat",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_ALFA_Combat_PA",
+      "price": -10
+    },
+    {
+      "abr": "amcautomag",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_AMC_Automag_PA",
+      "price": -10
+    },
+    {
+      "abr": "amd-65",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AMD-65_PA",
+      "price": -10
+    },
+    {
+      "abr": "american-180",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_American-180_PA",
+      "price": -10
+    },
+    {
+      "abr": "an-94",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AN-94_PA",
+      "price": -10
+    },
+    {
+      "abr": "aps-95",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_APS-95_PA",
+      "price": -10
+    },
+    {
+      "abr": "ar-10",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_AR-10_PA",
+      "price": -10
+    },
+    {
+      "abr": "ar-18",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AR-18_PA",
+      "price": -10
+    },
+    {
+      "abr": "ar-30",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_AR-30_PA",
+      "price": -10
+    },
+    {
+      "abr": "ar-5",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_AR-5_PA",
+      "price": -10
+    },
+    {
+      "abr": "armalitear-50",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Armalite_AR-50_PA",
+      "price": -10
+    },
+    {
+      "abr": "armselstriker",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Armsel_Striker_PA",
+      "price": -10
+    },
+    {
+      "abr": "arsenalp-m02",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Arsenal_P-M02_PA",
+      "price": -10
+    },
+    {
+      "abr": "arsenalshipka",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Arsenal_Shipka_PA",
+      "price": -10
+    },
+    {
+      "abr": "asval",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_AS_Val_PA",
+      "price": -10
+    },
+    {
+      "abr": "astra680",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Astra_680_PA",
+      "price": -10
+    },
+    {
+      "abr": "at-4",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_AT-4_PA",
+      "price": -10
+    },
+    {
+      "abr": "atchissonassaultshotgun",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Atchisson_Assault_Shotgun_PA",
+      "price": -10
+    },
+    {
+      "abr": "bandayevskyrb-12",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Bandayevsky_RB-12_PA",
+      "price": -10
+    },
+    {
+      "abr": "barrettm95",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Barrett_M95_PA",
+      "price": -10
+    },
+    {
+      "abr": "barrettm98b",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Barrett_M98B_PA",
+      "price": -10
+    },
+    {
+      "abr": "barrettm99",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Barrett_M99_PA",
+      "price": -10
+    },
+    {
+      "abr": "barrettmrad",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Barrett_MRAD_PA",
+      "price": -10
+    },
+    {
+      "abr": "barrettrec7",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Barrett_REC7_PA",
+      "price": -10
+    },
+    {
+      "abr": "benellib76",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Benelli_B76_PA",
+      "price": -10
+    },
+    {
+      "abr": "benellim1",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Benelli_M1_PA",
+      "price": -10
+    },
+    {
+      "abr": "benellim3",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Benelli_M3_PA",
+      "price": -10
+    },
+    {
+      "abr": "benellim4",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Benelli_M4_PA",
+      "price": -10
+    },
+    {
+      "abr": "benellinova",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Benelli_Nova_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta1201fp",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Beretta_1201FP_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta682",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Beretta_682_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta70",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Beretta_70_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta87target",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Beretta_87_Target_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta92",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Beretta_92_PA",
+      "price": -10
+    },
+    {
+      "abr": "beretta950",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Beretta_950_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettaal391",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Beretta_AL391_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettaar70/90",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_BerettaAR7090_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettaarx160",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Beretta_ARX160_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettabm59",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_Beretta_BM_59_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettam12",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Beretta_M12_PA",
+      "price": -10
+    },
+    {
+      "abr": "berettam1951",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Beretta_M1951_PA",
+      "price": -10
+    },
+    {
+      "abr": "assasinblade",
+      "category": "Melee weapons",
+      "defname": "Gha_MeleeWeapon_AssassinBlade",
+      "price": -10
+    },
+    {
+      "abr": "berkutrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Berkut_rifle_PA",
+      "price": -10
+    },
+    {
+      "abr": "bersathunder380",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Bersa_Thunder_380_PA",
+      "price": -10
+    },
+    {
+      "abr": "bersathunder9",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Bersa_Thunder_9_PA",
+      "price": -10
+    },
+    {
+      "abr": "blaserr8",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Blaser_R8_PA",
+      "price": -10
+    },
+    {
+      "abr": "bloodflameprofanedbrazier",
       "category": "Furniture",
-      "defname": "AM_DiningChair",
+      "defname": "BotchJob_ProfanedBrazierBlood",
       "price": -10
     },
     {
-      "abr": "dmr",
+      "abr": "bloodflameprofanedlantern",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedLanternBlood",
+      "price": -10
+    },
+    {
+      "abr": "bloodflamestaff",
       "category": "Ranged weapons",
-      "defname": "AM_R11A",
+      "defname": "BotchJob_BloodflameStaff",
       "price": -10
     },
     {
-      "abr": "electricaltape",
-      "category": "Tools",
-      "defname": "AM_ElectricalTape",
+      "abr": "bloodstone",
+      "category": "Manufactured",
+      "defname": "BotchJob_Bloodstone",
       "price": -10
     },
     {
-      "abr": "emptybox",
-      "category": "Rare items",
-      "defname": "AM_EmptyBox",
-      "price": -10
-    },
-    {
-      "abr": "emptyclotheshanger",
-      "category": "Container",
-      "defname": "AM_ClothesHangerEmpty_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "emptyshelves",
-      "category": "Container",
-      "defname": "AM_EmptyShelves_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "emptyvegetableshelf",
-      "category": "Container",
-      "defname": "AM_VegetableShelfEmpty_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "essentialbalm",
-      "category": "Drugs",
-      "defname": "AM_EssentialBalm",
-      "price": -10
-    },
-    {
-      "abr": "fanta",
-      "category": "Meals",
-      "defname": "AM_Fanta",
-      "price": -10
-    },
-    {
-      "abr": "finelargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine",
-      "price": -10
-    },
-    {
-      "abr": "firstaidkit",
-      "category": "Medicine",
-      "defname": "AM_FirstAidKit",
-      "price": -10
-    },
-    {
-      "abr": "fourarmedhuman",
-      "category": "Animal",
-      "defname": "BS_HumanFouramed",
-      "price": -10
-    },
-    {
-      "abr": "freezer",
-      "category": "Container",
-      "defname": "AM_Freezer",
-      "price": -10
-    },
-    {
-      "abr": "fullyenclosedhelmet",
-      "category": "Headgear",
-      "defname": "AM_FullyEnclosedHelmet",
-      "price": -10
-    },
-    {
-      "abr": "gameconsole",
-      "category": "Electronics",
-      "defname": "AM_GameConsole",
-      "price": -10
-    },
-    {
-      "abr": "geneintegrator",
-      "category": "Misc",
-      "defname": "BS_GeneGeneIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "generalmachinegun",
-      "category": "Ranged weapons",
-      "defname": "AM_PKM",
-      "price": -10
-    },
-    {
-      "abr": "germlinecloner",
-      "category": "Misc",
-      "defname": "BS_CreateXenogerm_Endo",
-      "price": -10
-    },
-    {
-      "abr": "giantclub",
-      "category": "Melee weapons",
-      "defname": "BS_OgreClub",
-      "price": -10
-    },
-    {
-      "abr": "giantprimitivehammer",
-      "category": "Melee weapons",
-      "defname": "BS_GiantHammer",
-      "price": -10
-    },
-    {
-      "abr": "giantsword",
-      "category": "Melee weapons",
-      "defname": "BS_JotunSword",
-      "price": -10
-    },
-    {
-      "abr": "giantwarhammer",
-      "category": "Melee weapons",
-      "defname": "BS_JotunHammer",
-      "price": -10
-    },
-    {
-      "abr": "glassadhesive",
-      "category": "Tools",
-      "defname": "AM_OneLiterGlassAdhesive",
-      "price": -10
-    },
-    {
-      "abr": "glutton",
-      "category": "Animal",
-      "defname": "BS_GluttonRace",
-      "price": -10
-    },
-    {
-      "abr": "goldenegg",
-      "category": "Rare items",
-      "defname": "AM_GoldenEgg",
-      "price": -10
-    },
-    {
-      "abr": "goldenroosterstatue",
-      "category": "Rare items",
-      "defname": "AM_GoldenRoosterStatue",
-      "price": -10
-    },
-    {
-      "abr": "gpu",
-      "category": "Electronics",
-      "defname": "AM_GPU",
-      "price": -10
-    },
-    {
-      "abr": "grizzlykit",
-      "category": "Medicine",
-      "defname": "AM_Grizzly",
-      "price": -10
-    },
-    {
-      "abr": "growthray",
-      "category": "Ranged weapons",
-      "defname": "BMad_GrowthRay",
-      "price": -10
-    },
-    {
-      "abr": "growth-raymini-turret",
+      "abr": "bloodstoneturret",
       "category": "Security",
-      "defname": "BMAD_GrowthTurret",
+      "defname": "BotchJob_BloodStoneTurret",
       "price": -10
     },
     {
-      "abr": "hdd",
-      "category": "Electronics",
-      "defname": "AM_HDD",
-      "price": -10
-    },
-    {
-      "abr": "heavybarrelassaultrifle",
+      "abr": "bmcr",
       "category": "Ranged weapons",
-      "defname": "AM_M5A3LT",
+      "defname": "Gun_AR_BMCR_PA",
       "price": -10
     },
     {
-      "abr": "heavycompositeplate",
-      "category": "Military components",
-      "defname": "AM_HeavyCompositePlate",
+      "abr": "bonecrown",
+      "category": "Headgear",
+      "defname": "BotchJob_BoneCrown",
       "price": -10
     },
     {
-      "abr": "hemostaticagent",
-      "category": "Medicine",
-      "defname": "AM_HemostaticAgent",
-      "price": -10
-    },
-    {
-      "abr": "hugejavelin",
+      "abr": "brenten",
       "category": "Ranged weapons",
-      "defname": "BS_JotunJavelin",
+      "defname": "Gun_P_Bren_Ten_PA",
       "price": -10
     },
     {
-      "abr": "hunter'srifle",
+      "abr": "browningbda",
       "category": "Ranged weapons",
-      "defname": "AM_Hunter",
+      "defname": "Gun_P_Browning_BDA_PA",
       "price": -10
     },
     {
-      "abr": "ibuprofen",
-      "category": "Drugs",
-      "defname": "AM_Ibuprofen",
-      "price": -10
-    },
-    {
-      "abr": "injectionstorageracks",
-      "category": "Container",
-      "defname": "AM_Injection_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "insect-likehumanoid",
-      "category": "Animal",
-      "defname": "BS_InsectoidHumanoid_FourArmed",
-      "price": -10
-    },
-    {
-      "abr": "integratedparasitearmor",
-      "category": "Bionic",
-      "defname": "AM_IntegratedTorsoArmor",
-      "price": -10
-    },
-    {
-      "abr": "intelmap",
-      "category": "Rare items",
-      "defname": "AM_IntelMap",
-      "price": -10
-    },
-    {
-      "abr": "italianredstewpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsF",
-      "price": -10
-    },
-    {
-      "abr": "keycard",
-      "category": "Rare items",
-      "defname": "AM_KeyCard",
-      "price": -10
-    },
-    {
-      "abr": "largebackpack",
-      "category": "Container",
-      "defname": "AM_LargeBackpack_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "largebackpack",
-      "category": "Container",
-      "defname": "AM_LargeBackpack",
-      "price": -10
-    },
-    {
-      "abr": "largemilitarysuppliescase",
-      "category": "Container",
-      "defname": "AM_BigCase",
-      "price": -10
-    },
-    {
-      "abr": "large-screentelevision",
-      "category": "Recreation",
-      "defname": "AM_LargeScreenTelevision",
-      "price": -10
-    },
-    {
-      "abr": "lavishlargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish",
-      "price": -10
-    },
-    {
-      "abr": "lbt",
-      "category": "Container",
-      "defname": "AM_LBT_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "lbt",
-      "category": "Container",
-      "defname": "AM_LBT",
-      "price": -10
-    },
-    {
-      "abr": "ledx",
-      "category": "Electronics",
-      "defname": "AM_LEDX",
-      "price": -10
-    },
-    {
-      "abr": "legogiantrockexcavator",
-      "category": "Rare items",
-      "defname": "AM_LEGO_GiantRockExcavator_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legogiantrockexcavator",
-      "category": "Rare items",
-      "defname": "LEGO_GiantRockExcavator_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legoheavycrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_HeavyCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legoheavycrane",
-      "category": "Rare items",
-      "defname": "LEGO_HeavyCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legolandmarkbuilding",
-      "category": "Rare items",
-      "defname": "AM_LEGO_LandmarkBuilding_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legolandmarkbuilding",
-      "category": "Rare items",
-      "defname": "LEGO_LandmarkBuilding_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legolightcrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_LightCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legolightcrane",
-      "category": "Rare items",
-      "defname": "LEGO_LightCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legomediumcrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_MediumCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legomediumcrane",
-      "category": "Rare items",
-      "defname": "LEGO_MediumCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legopalace",
-      "category": "Rare items",
-      "defname": "AM_LEGO_Palace_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legopalace",
-      "category": "Rare items",
-      "defname": "LEGO_Palace_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "lemonpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsE",
-      "price": -10
-    },
-    {
-      "abr": "lowvisibilityshortrifle",
+      "abr": "browningblr",
       "category": "Ranged weapons",
-      "defname": "AM_M42U",
+      "defname": "Gun_R_Browning_BLR_PA",
+      "price": -10
+    },
+    {
+      "abr": "browningbss",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Browning_BSS_PA",
+      "price": -10
+    },
+    {
+      "abr": "browningbuckmark",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Browning_Buck_Mark_PA",
+      "price": -10
+    },
+    {
+      "abr": "browningcitori",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Browning_Citori_PA",
+      "price": -10
+    },
+    {
+      "abr": "browningdoubleauto",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_S_Browning_Double_Automatic_Shotgun_PA_PA",
+      "price": -10
+    },
+    {
+      "abr": "bsa-28p",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_BSA-28P_PA",
+      "price": -10
+    },
+    {
+      "abr": "bushmasterm17s",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Bushmaster_M17S_PA",
+      "price": -10
+    },
+    {
+      "abr": "c90-cr",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_C90-CR_PA",
+      "price": -10
+    },
+    {
+      "abr": "ceammodele1950",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_CEAMModele1950_PA",
+      "price": -10
+    },
+    {
+      "abr": "cetmeameli",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_CETME_Ameli_PA",
+      "price": -10
+    },
+    {
+      "abr": "cetmec2",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_CETME_C2_PA",
+      "price": -10
+    },
+    {
+      "abr": "cetmemodelc",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_CETME_Model_C_PA",
+      "price": -10
+    },
+    {
+      "abr": "cetmemodell",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_CETMEModelL_PA",
+      "price": -10
+    },
+    {
+      "abr": "charterarmsbulldog",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Charter_Arms_Bulldog_PA",
+      "price": -10
+    },
+    {
+      "abr": "colossalheart",
+      "category": "Misc",
+      "defname": "BotchJob_ColossusHeart",
+      "price": -10
+    },
+    {
+      "abr": "colt9mmsmg",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Colt_9mm_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltanaconda",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Anaconda_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltbuntline",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Buntline_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltcanadac7",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_ColtCanadaC7_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltcobra",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Cobra_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltdiamondback",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Diamondback_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltkingcobra",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_King_Cobra_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltmustang",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Colt_Mustang_PA",
+      "price": -10
+    },
+    {
+      "abr": "coltpython",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Python_PA",
+      "price": -10
+    },
+    {
+      "abr": "colttroopermk.iii",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Colt_Trooper_MkIII_PA",
+      "price": -10
+    },
+    {
+      "abr": "cooey84",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Cooey_84_PA",
+      "price": -10
+    },
+    {
+      "abr": "cryptlurkercloak",
+      "category": "Misc",
+      "defname": "BotchJob_ProfanedCloak",
+      "price": -10
+    },
+    {
+      "abr": "czbren2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_CZ_BREN_2_PA",
+      "price": -10
+    },
+    {
+      "abr": "cz-2000",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_CZ-2000_PA",
+      "price": -10
+    },
+    {
+      "abr": "cz-550",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_CZ-550_PA",
+      "price": -10
+    },
+    {
+      "abr": "daewook1",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Daewoo_K1_PA",
+      "price": -10
+    },
+    {
+      "abr": "daewook2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Daewoo_K2_PA",
+      "price": -10
+    },
+    {
+      "abr": "daewook3",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_Daewoo_K3_PA",
+      "price": -10
+    },
+    {
+      "abr": "darklightprofanedbrazier",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedBrazierDarklight",
+      "price": -10
+    },
+    {
+      "abr": "darklightprofanedlantern",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedLanternDarklight",
+      "price": -10
+    },
+    {
+      "abr": "degtyarevsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_KSVK_12-7_PA",
+      "price": -10
+    },
+    {
+      "abr": "dragunovsvu",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Dragunov_SVU_PA",
+      "price": -10
+    },
+    {
+      "abr": "dragunov'ssniperrifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_SVD_PA",
+      "price": -10
+    },
+    {
+      "abr": "dux-53",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_DUX-53_PA",
+      "price": -10
+    },
+    {
+      "abr": "em-2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_EM-2_PA",
+      "price": -10
+    },
+    {
+      "abr": "explosivesmachiningtable",
+      "category": "Production",
+      "defname": "TableMachiningExplosive",
+      "price": -10
+    },
+    {
+      "abr": "f1submachinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_F1_Submachine_gun_PA",
+      "price": -10
+    },
+    {
+      "abr": "fadingsoulscythe",
+      "category": "Melee weapons",
+      "defname": "BotchJob_FadingSoulScythe",
+      "price": -10
+    },
+    {
+      "abr": "falcon",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Falcon_PA",
+      "price": -10
+    },
+    {
+      "abr": "famaesaf",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_FAMAE_SAF_PA",
+      "price": -10
+    },
+    {
+      "abr": "famasg2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FAMAS_G2_PA",
+      "price": -10
+    },
+    {
+      "abr": "fa-mastype62",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_FA-MAS_Type_62_PA",
+      "price": -10
+    },
+    {
+      "abr": "fara-83",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FARA-83_PA",
+      "price": -10
+    },
+    {
+      "abr": "fbberyl",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FB_Beryl_PA",
+      "price": -10
+    },
+    {
+      "abr": "fbmsbsgrot",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FB_MSBS_Grot_PA",
+      "price": -10
+    },
+    {
+      "abr": "fbpsubmachinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_FBP_submachine_gun_PA",
+      "price": -10
+    },
+    {
+      "abr": "federal-engineering-xc450",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Federal-Engineering-XC450_PA",
+      "price": -10
+    },
+    {
+      "abr": "floromk-9",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Floro_MK-9_PA",
+      "price": -10
+    },
+    {
+      "abr": "fmk-3",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_FMK-3_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnbarracuda",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_FN_Barracuda_PA",
+      "price": -10
+    },
+    {
+      "abr": "fncal",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FN_CAL_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnf2000",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FN_F2000_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnfal",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_FN_FAL_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnfive-seven",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_FN_Five-seveN_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnfnc",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FN_FNC_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnmaximi",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_FN_Minimi_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnmodel30-11",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_FN_Model_30-11_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnp90",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_FN_P90_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnscar-h",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_FN_SCAR_H_PA",
+      "price": -10
+    },
+    {
+      "abr": "fnscar-l",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_FN_SCAR_L_PA",
+      "price": -10
+    },
+    {
+      "abr": "fntps",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_FN_TPS_PA",
+      "price": -10
+    },
+    {
+      "abr": "fort-12",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Fort-12_PA",
+      "price": -10
+    },
+    {
+      "abr": "frf2",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_FR_F2_PA",
+      "price": -10
+    },
+    {
+      "abr": "framemillingmachine",
+      "category": "Production",
+      "defname": "TableMachiningSmoothbore",
+      "price": -10
+    },
+    {
+      "abr": "franchilf-57",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Franchi_LF-57_PA",
+      "price": -10
+    },
+    {
+      "abr": "franchispas-12",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Franchi_SPAS-12_PA",
+      "price": -10
+    },
+    {
+      "abr": "franchispas-15",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Franchi_SPAS-15_PA",
+      "price": -10
+    },
+    {
+      "abr": "frostboundgreataxe",
+      "category": "Melee weapons",
+      "defname": "BotchJob_FrostboundGreataxe",
+      "price": -10
+    },
+    {
+      "abr": "gauranlenshrine",
+      "category": "Misc",
+      "defname": "Dryad_GauranlenShrine_Small",
+      "price": -10
+    },
+    {
+      "abr": "gepardm4",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Gepard_M4_PA",
+      "price": -10
+    },
+    {
+      "abr": "ghoul",
+      "category": "Animals",
+      "defname": "BotchJob_Ghoul",
+      "price": -10
+    },
+    {
+      "abr": "glock17",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Glock_17_PA",
+      "price": -10
+    },
+    {
+      "abr": "glock22",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Glock_22_PA",
+      "price": -10
+    },
+    {
+      "abr": "glock25",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Glock_25_PA",
+      "price": -10
+    },
+    {
+      "abr": "graspingdeadgreatsword",
+      "category": "Melee weapons",
+      "defname": "BotchJob_GraspingDeadGreatsword",
+      "price": -10
+    },
+    {
+      "abr": "gravetenderrobes",
+      "category": "Misc",
+      "defname": "BotchJob_GravetenderRobes",
+      "price": -10
+    },
+    {
+      "abr": "gwardrevolver",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Gward_Revolver_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kfabarmfp6",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_HoK_FABARM_FP6_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kg11",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_G11_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kg36",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_G36_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kg41",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_HoK_G41_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&khkcaws",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_HoK_HK_CAWS_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&khk21",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_HoK_HK21_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&khk433",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_HoK_HK433_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kmg5",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_HoK_MG5_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kmp5a2",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_HoK_MP5_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kp9",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_HoK_P9_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kpsg-1",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_HoK_PSG-1_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kump",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_HoK_UMP_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kusp",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_HoK_USP_PA",
+      "price": -10
+    },
+    {
+      "abr": "h&kxm8",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_HoK_XM8_PA",
+      "price": -10
+    },
+    {
+      "abr": "halconml-57",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Halcon_ML-57_PA",
+      "price": -10
+    },
+    {
+      "abr": "headhunterbandages",
+      "category": "Headgear",
+      "defname": "BotchJob_HeadhunterBandages",
+      "price": -10
+    },
+    {
+      "abr": "headhunterpauldron",
+      "category": "Armor",
+      "defname": "BotchJob_HeadhunterPauldron",
+      "price": -10
+    },
+    {
+      "abr": "highstandardmodel10",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_High_Standard_Model_10_PA",
+      "price": -10
+    },
+    {
+      "abr": "howatype89",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Howa_Type_89_PA",
+      "price": -10
+    },
+    {
+      "abr": "imigalil",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_IMI_Galil_PA",
+      "price": -10
+    },
+    {
+      "abr": "iminegev",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_IMI_Negev_PA",
+      "price": -10
+    },
+    {
+      "abr": "inamodel953",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_INA_Model_953_PA",
+      "price": -10
+    },
+    {
+      "abr": "insas",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_INSAS_PA",
+      "price": -10
+    },
+    {
+      "abr": "interdynamicsmp-9",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Interdynamics_MP-9_PA",
+      "price": -10
+    },
+    {
+      "abr": "ishapore2a1",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Ishapore_2A1_PA",
+      "price": -10
+    },
+    {
+      "abr": "ithacamag-10",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Ithaca_Mag-10_PA",
+      "price": -10
+    },
+    {
+      "abr": "iwijericho941",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_IWI_Jericho_941_PA",
+      "price": -10
+    },
+    {
+      "abr": "jatimatic",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Jatimatic_PA",
+      "price": -10
+    },
+    {
+      "abr": "jenningsj-22",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Jennings_J-22_PA",
+      "price": -10
+    },
+    {
+      "abr": "kbkgwz.1960",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Kbkg_wz_1960_PA",
+      "price": -10
+    },
+    {
+      "abr": "kongsbergm59",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Kongsberg_M59_PA",
+      "price": -10
+    },
+    {
+      "abr": "korthcombat",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Korth_Combat_PA",
+      "price": -10
+    },
+    {
+      "abr": "ks-23",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_KS-23_PA",
+      "price": -10
+    },
+    {
+      "abr": "l42a1",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_L42A1_PA",
+      "price": -10
+    },
+    {
+      "abr": "l85a2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_L85A2_PA",
+      "price": -10
+    },
+    {
+      "abr": "largegauranlenshrine",
+      "category": "Misc",
+      "defname": "Dryad_GauranlenShrine_Large",
+      "price": -10
+    },
+    {
+      "abr": "largeprofanedtable",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedTableLarge",
+      "price": -10
+    },
+    {
+      "abr": "luminousdust",
+      "category": "Misc",
+      "defname": "BotchJob_LuminousDust",
+      "price": -10
+    },
+    {
+      "abr": "m14a1",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_M14A1_PA",
+      "price": -10
+    },
+    {
+      "abr": "m21sniperweaponsystem",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_M21_SWS_PA",
+      "price": -10
+    },
+    {
+      "abr": "m240machinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_M240_PA",
+      "price": -10
+    },
+    {
+      "abr": "m3karlgustav",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_M3_Karl_Gustav_PA",
+      "price": -10
+    },
+    {
+      "abr": "m40rifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_M40_PA",
+      "price": -10
+    },
+    {
+      "abr": "m49submachinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_M49_Submachine_gun_PA",
+      "price": -10
+    },
+    {
+      "abr": "m4a1",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_M4A1_PA",
+      "price": -10
+    },
+    {
+      "abr": "m56submachinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_M56_Submachine_gun_PA",
+      "price": -10
+    },
+    {
+      "abr": "m72law",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_M72_LAW_PA",
+      "price": -10
+    },
+    {
+      "abr": "m79osa",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_M79_Osa_PA",
+      "price": -10
+    },
+    {
+      "abr": "mac-10",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_MAC-10_PA",
+      "price": -10
+    },
+    {
+      "abr": "mac-11",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_MAC-11_PA",
+      "price": -10
+    },
+    {
+      "abr": "macmillantac-50",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_MacMillan_Tac-50_PA",
+      "price": -10
+    },
+    {
+      "abr": "madsenm-50",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Madsen_M50_PA",
+      "price": -10
+    },
+    {
+      "abr": "mag-7",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_MAG-7_PA",
+      "price": -10
+    },
+    {
+      "abr": "magnumresearchbfr45-70",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Magnum_Research_BFR_45-70_PA",
       "price": -10
     },
     {
       "abr": "makarovpistol",
       "category": "Ranged weapons",
-      "defname": "AM_Makarov",
+      "defname": "Gun_P_Makarov_PA",
       "price": -10
     },
     {
-      "abr": "mallbench",
-      "category": "Container",
-      "defname": "AM_MallBench",
-      "price": -10
-    },
-    {
-      "abr": "mallpew",
-      "category": "Container",
-      "defname": "AM_MallPew",
-      "price": -10
-    },
-    {
-      "abr": "mallwoodenbench",
-      "category": "Container",
-      "defname": "AM_MallWoodenBench",
-      "price": -10
-    },
-    {
-      "abr": "mbss",
-      "category": "Container",
-      "defname": "AM_MBSS_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "mbss",
-      "category": "Container",
-      "defname": "AM_MBSS",
-      "price": -10
-    },
-    {
-      "abr": "medicalstorageracks",
-      "category": "Container",
-      "defname": "AM_MedicalSupplies_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "metalbloodinjector",
-      "category": "Drugs",
-      "defname": "AM_MetalbloodInjector",
-      "price": -10
-    },
-    {
-      "abr": "militaryration",
-      "category": "Meals",
-      "defname": "AM_MRE",
-      "price": -10
-    },
-    {
-      "abr": "militarystandardrifle",
+      "abr": "manurhinmr-73",
       "category": "Ranged weapons",
-      "defname": "AM_AK101A",
+      "defname": "Gun_PR_Manurhin_MR-73_PA",
       "price": -10
     },
     {
-      "abr": "militarystorageracks",
-      "category": "Container",
-      "defname": "AM_MilitarySupplies_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "milkbeer",
-      "category": "Drugs",
-      "defname": "AM_MilkBeer",
-      "price": -10
-    },
-    {
-      "abr": "miscellaneousstorageracks",
-      "category": "Container",
-      "defname": "AM_TousledStorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "mjölnirsniperrifle",
+      "abr": "marlinmodel336",
       "category": "Ranged weapons",
-      "defname": "AM_MK18M",
+      "defname": "Gun_R_Marlin_Model_336_PA",
       "price": -10
     },
     {
-      "abr": "modeldummy",
-      "category": "Container",
-      "defname": "AM_Model",
-      "price": -10
-    },
-    {
-      "abr": "modeldummy",
-      "category": "Container",
-      "defname": "AM_Modelf",
-      "price": -10
-    },
-    {
-      "abr": "modifiedmachinegun",
+      "abr": "marlinmodel55",
       "category": "Ranged weapons",
-      "defname": "AM_PKP",
+      "defname": "Gun_S_Marlin_Model_55_PA",
       "price": -10
     },
     {
-      "abr": "muffaloaf",
-      "category": "Animals",
-      "defname": "DRS_Muffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "DRS_EggMuffalofFertilized",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "DRS_EggMuffaloafUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafmeat",
-      "category": "Meat",
-      "defname": "Meat_DRS_Muffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "nightvisionhelmet",
-      "category": "Headgear",
-      "defname": "AM_NightVisionHelmet",
-      "price": -10
-    },
-    {
-      "abr": "non-lethalpistol",
+      "abr": "mas-49",
       "category": "Ranged weapons",
-      "defname": "VWE_Gun_RubberBulletPistol",
+      "defname": "Gun_R_MAS-49_PA",
       "price": -10
     },
     {
-      "abr": "oldautorifle",
+      "abr": "mat-49",
       "category": "Ranged weapons",
-      "defname": "AM_AVT",
+      "defname": "Gun_SMG_MAT-49_PA",
       "price": -10
     },
     {
-      "abr": "oldfreezer",
-      "category": "Container",
-      "defname": "AM_OldFreezer_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "openedweaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "openedweaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCaseLow",
-      "price": -10
-    },
-    {
-      "abr": "packagedcpu",
-      "category": "Electronics",
-      "defname": "AM_PackagedCPU",
-      "price": -10
-    },
-    {
-      "abr": "packagedgpu",
-      "category": "Electronics",
-      "defname": "AM_PackagedGPU",
-      "price": -10
-    },
-    {
-      "abr": "packagedlargesurvivalmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeSurvivalPack",
-      "price": -10
-    },
-    {
-      "abr": "pelvichammock",
-      "category": "Medical supplies",
-      "defname": "AM_PelvicHammock",
-      "price": -10
-    },
-    {
-      "abr": "pepsi",
-      "category": "Meals",
-      "defname": "AM_Pepsi",
-      "price": -10
-    },
-    {
-      "abr": "personaskrýmir'smallet",
-      "category": "Persona weapons",
-      "defname": "BS_SkrymirHammer_Persona",
-      "price": -10
-    },
-    {
-      "abr": "personaswordofsurtr",
-      "category": "Persona weapons",
-      "defname": "BS_SurtrSword_Persona",
-      "price": -10
-    },
-    {
-      "abr": "pkpcomponents",
-      "category": "Military components",
-      "defname": "AM_PKPMagazineComponents",
-      "price": -10
-    },
-    {
-      "abr": "postmanshoulderbag",
-      "category": "Container",
-      "defname": "AM_PostmanShoulderBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "postmanshoulderbag",
-      "category": "Container",
-      "defname": "AM_PostmanShoulderBag",
-      "price": -10
-    },
-    {
-      "abr": "radiointercom",
-      "category": "Electronics",
-      "defname": "AM_RadioIntercom",
-      "price": -10
-    },
-    {
-      "abr": "rainbowwool",
-      "category": "Wools",
-      "defname": "DRS_WoolMuffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "rampageparasite",
-      "category": "Bionic",
-      "defname": "AM_RampageParasite",
-      "price": -10
-    },
-    {
-      "abr": "rattlerassaultrifle",
+      "abr": "matebaautorevolver",
       "category": "Ranged weapons",
-      "defname": "AM_MCX",
+      "defname": "Gun_PR_Mateba_Autorevolver_PA",
       "price": -10
     },
     {
-      "abr": "rattlershortrifle",
+      "abr": "mekanikauru",
       "category": "Ranged weapons",
-      "defname": "AM_MCXC",
+      "defname": "Gun_SMG_Mekanika_URU_PA",
       "price": -10
     },
     {
-      "abr": "rocky",
-      "category": "Animals",
-      "defname": "Rocky",
-      "price": -10
-    },
-    {
-      "abr": "rockymeat",
-      "category": "Meat",
-      "defname": "Meat_Rocky",
-      "price": -10
-    },
-    {
-      "abr": "rustyemptyshelves",
-      "category": "Container",
-      "defname": "AM_RustyEmptyShelves_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefox",
-      "category": "Animals",
-      "defname": "Whitefox",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefoxtail",
-      "category": "Items",
-      "defname": "WhitefoxTail",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefoxwool",
-      "category": "Wools",
-      "defname": "WhitefoxWool",
-      "price": -10
-    },
-    {
-      "abr": "salewakit",
-      "category": "Medicine",
-      "defname": "AM_Salewa",
-      "price": -10
-    },
-    {
-      "abr": "scavbag",
-      "category": "Container",
-      "defname": "AM_Scav_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "scavbag",
-      "category": "Container",
-      "defname": "AM_Scav",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapA",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapB",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapC",
-      "price": -10
-    },
-    {
-      "abr": "shortassaultrifle",
+      "abr": "mendozahm-3",
       "category": "Ranged weapons",
-      "defname": "AM_M4C",
+      "defname": "Gun_SMG_Mendoza_HM-3_PA",
       "price": -10
     },
     {
-      "abr": "shrinkray",
+      "abr": "mg3",
       "category": "Ranged weapons",
-      "defname": "BMad_ShrinkRay",
+      "defname": "Gun_LMG_MG3_PA",
       "price": -10
     },
     {
-      "abr": "shrink-raymini-turret",
-      "category": "Security",
-      "defname": "BMAD_ShrinkTurret",
-      "price": -10
-    },
-    {
-      "abr": "sicc",
-      "category": "Container",
-      "defname": "AM_SICC_SalvagePoint",
-      "price": -10
-    },
-    {
-      "abr": "sicc",
-      "category": "Rare items",
-      "defname": "AM_SICC",
-      "price": -10
-    },
-    {
-      "abr": "simplelargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeSimple",
-      "price": -10
-    },
-    {
-      "abr": "six-armedsnake-person",
-      "category": "Animal",
-      "defname": "BS_Marlith",
-      "price": -10
-    },
-    {
-      "abr": "skrýmir'smallet",
-      "category": "Melee weapons",
-      "defname": "BS_SkrymirHammer",
-      "price": -10
-    },
-    {
-      "abr": "slidesign",
-      "category": "Container",
-      "defname": "AM_SlideSign",
-      "price": -10
-    },
-    {
-      "abr": "smallcase",
-      "category": "Container",
-      "defname": "AM_SmallCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "smallmilitarycasecase",
-      "category": "Container",
-      "defname": "AM_SmallCase",
-      "price": -10
-    },
-    {
-      "abr": "snackstorageracks",
-      "category": "Container",
-      "defname": "AM_Snack_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "snake-person",
-      "category": "Animal",
-      "defname": "BS_Naga",
-      "price": -10
-    },
-    {
-      "abr": "spider-person",
-      "category": "Animal",
-      "defname": "BS_SpiderPersonRace",
-      "price": -10
-    },
-    {
-      "abr": "sportsbag",
-      "category": "Container",
-      "defname": "AM_SportsBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "sportsbag",
-      "category": "Container",
-      "defname": "AM_SportsBag",
-      "price": -10
-    },
-    {
-      "abr": "sprite",
-      "category": "Meals",
-      "defname": "AM_Sprite",
-      "price": -10
-    },
-    {
-      "abr": "ssd",
-      "category": "Electronics",
-      "defname": "AM_SSD",
-      "price": -10
-    },
-    {
-      "abr": "steakpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsD",
-      "price": -10
-    },
-    {
-      "abr": "stechkinpistol",
+      "abr": "mg4",
       "category": "Ranged weapons",
-      "defname": "AM_APS",
+      "defname": "Gun_LMG_MG4_PA",
       "price": -10
     },
     {
-      "abr": "steelenforcer",
-      "category": "Animal",
-      "defname": "BS_CommandoBot",
-      "price": -10
-    },
-    {
-      "abr": "steelenforcermeat",
-      "category": "Meat",
-      "defname": "Meat_BS_CommandoBot",
-      "price": -10
-    },
-    {
-      "abr": "storageracks",
-      "category": "Container",
-      "defname": "AM_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "stunbaton",
-      "category": "Melee weapons",
-      "defname": "VWE_MeleeWeapon_StunBaton",
-      "price": -10
-    },
-    {
-      "abr": "surgicalbag",
-      "category": "Drugs",
-      "defname": "AM_SurgicalBag",
-      "price": -10
-    },
-    {
-      "abr": "survivalkit",
-      "category": "Drugs",
-      "defname": "AM_BigSurgicalBag",
-      "price": -10
-    },
-    {
-      "abr": "swordofsurtr",
-      "category": "Melee weapons",
-      "defname": "BS_SurtrSword",
-      "price": -10
-    },
-    {
-      "abr": "synth",
-      "category": "Animal",
-      "defname": "BS_SynthRace",
-      "price": -10
-    },
-    {
-      "abr": "synthmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_SynthRace",
-      "price": -10
-    },
-    {
-      "abr": "tapemeasure",
-      "category": "Tools",
-      "defname": "AM_TapeMeasure",
-      "price": -10
-    },
-    {
-      "abr": "tasergun",
+      "abr": "mgdpm-9",
       "category": "Ranged weapons",
-      "defname": "VWE_Gun_Taser",
+      "defname": "Gun_SMG_MGD_PM-9_PA",
       "price": -10
     },
     {
-      "abr": "teargasgrenades",
-      "category": "Grenades",
-      "defname": "VWE_TearGasGrenade",
-      "price": -10
-    },
-    {
-      "abr": "teargaslauncher",
+      "abr": "mgv-176",
       "category": "Ranged weapons",
-      "defname": "VWE_Gun_TearGasLauncher",
+      "defname": "Gun_SMG_MGV-176_PA",
       "price": -10
     },
     {
-      "abr": "throwingchunks",
+      "abr": "milthunder5",
       "category": "Ranged weapons",
-      "defname": "BS_OgreThrowinRock",
+      "defname": "Gun_PR_MIL_Thunder_PA",
       "price": -10
     },
     {
-      "abr": "tomatopotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsB",
-      "price": -10
-    },
-    {
-      "abr": "travelbag",
-      "category": "Container",
-      "defname": "AM_TravelBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "travelbag",
-      "category": "Container",
-      "defname": "AM_TravelBag",
-      "price": -10
-    },
-    {
-      "abr": "tsingtao",
-      "category": "Drugs",
-      "defname": "AM_TsingtaoBeer",
-      "price": -10
-    },
-    {
-      "abr": "uhmwpeplate",
-      "category": "Military components",
-      "defname": "AM_UHMWPEPlate",
-      "price": -10
-    },
-    {
-      "abr": "urbanassaultrifle",
+      "abr": "molotbekasm",
       "category": "Ranged weapons",
-      "defname": "AM_DTMDR",
+      "defname": "Gun_S_Molot_Bekas_M_PA",
       "price": -10
     },
     {
-      "abr": "vegetableshelf",
-      "category": "Container",
-      "defname": "AM_VegetableShelf",
-      "price": -10
-    },
-    {
-      "abr": "vegetarianlargefinemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine_Veg",
-      "price": -10
-    },
-    {
-      "abr": "vegetarianlargelavishmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish_Veg",
-      "price": -10
-    },
-    {
-      "abr": "vendingmachine",
-      "category": "Container",
-      "defname": "AM_VendingMachine_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "vintorezspecialrifle",
+      "abr": "mossberg590",
       "category": "Ranged weapons",
-      "defname": "AM_VSS",
+      "defname": "Gun_S_Mossberg_590_PA",
       "price": -10
     },
     {
-      "abr": "warmechanti-materialrifle",
+      "abr": "mossberg930",
       "category": "Ranged weapons",
-      "defname": "BS_JotunRifle",
+      "defname": "Gun_S_Mossberg_930_PA",
       "price": -10
     },
     {
-      "abr": "warmechmachinegun",
+      "abr": "mp-412rex",
       "category": "Ranged weapons",
-      "defname": "BS_GiantMinigun",
+      "defname": "Gun_PR_MP-412_REX_PA",
       "price": -10
     },
     {
-      "abr": "warmechrocketlauncher",
+      "abr": "mts-255",
       "category": "Ranged weapons",
-      "defname": "BS_JotunRocketLauncher",
+      "defname": "Gun_S_MTs-255_PA",
       "price": -10
     },
     {
-      "abr": "waverifle",
+      "abr": "newnambum60",
       "category": "Ranged weapons",
-      "defname": "AM_ASVAL",
+      "defname": "Gun_PR_New_Nambu_M60_PA",
       "price": -10
     },
     {
-      "abr": "waybill",
-      "category": "Rare items",
-      "defname": "AM_WayBill",
+      "abr": "norincocq",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Norinco_CQ_PA",
       "price": -10
     },
     {
-      "abr": "weaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCase",
+      "abr": "norincotype86s",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Type_86s_PA",
       "price": -10
     },
     {
-      "abr": "weaponcomponent",
-      "category": "Military components",
-      "defname": "AM_ComponentWeapon",
+      "abr": "osv-96",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_OSV-96_PA",
       "price": -10
     },
     {
-      "abr": "whitefoxfur",
-      "category": "Leathers",
-      "defname": "Leather_Whitefox",
+      "abr": "ots-01kobalt",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_OTs-01_Kobalt_PA",
       "price": -10
     },
     {
-      "abr": "xenodiscombobulator",
-      "category": "Misc",
-      "defname": "BS_GeneDicombobulator",
+      "abr": "ots-12",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_OTs-12_PA",
       "price": -10
     },
     {
-      "abr": "xenogermcloner",
-      "category": "Misc",
-      "defname": "BS_CreateXenogerm",
+      "abr": "ots-20gnom",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_OTs-20-Gnom_PA",
       "price": -10
     },
     {
-      "abr": "xeno-germlinemirroring",
-      "category": "Misc",
-      "defname": "BS_XenoCopy",
+      "abr": "ots-33pernach",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Pernach_OTs-33_PA",
       "price": -10
     },
     {
-      "abr": "centauroid",
-      "category": "Animal",
-      "defname": "BS_Centaur",
-      "price": 2917
+      "abr": "p-83wanad",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_P-83_Wanad_PA",
+      "price": -10
     },
     {
-      "abr": "centauroidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_Centaur",
-      "price": 1
+      "abr": "pancorjackhammer",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Pancor_Jackhammer_PA",
+      "price": -10
     },
     {
-      "abr": "centauroidwithfourarms",
-      "category": "Animal",
-      "defname": "G_CentaurFourArm",
-      "price": 2917
+      "abr": "parincomod.3r",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Parinco_mod_3R_PA",
+      "price": -10
     },
     {
-      "abr": "centauroidwithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_CentaurFourArmWinged",
-      "price": 2917
+      "abr": "parker-halec3a1",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_C3A1_PA",
+      "price": -10
     },
     {
-      "abr": "centauroidwithwings",
-      "category": "Animal",
-      "defname": "G_CentaurWinged",
-      "price": 2917
+      "abr": "pass-throughwindow",
+      "category": "Furniture",
+      "defname": "PassThroughWindow",
+      "price": -10
     },
     {
-      "abr": "computationcenter",
+      "abr": "pauzap-50",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Pauza_P-50_PA",
+      "price": -10
+    },
+    {
+      "abr": "pgmhecateii",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_PGM_Hecate_II_PA",
+      "price": -10
+    },
+    {
+      "abr": "pindadss1",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Pindad_SS1_PA",
+      "price": -10
+    },
+    {
+      "abr": "pindadss2",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Pindad_SS2_PA",
+      "price": -10
+    },
+    {
+      "abr": "pkm",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_PKM_PA",
+      "price": -10
+    },
+    {
+      "abr": "pp-19bizon",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_PP-19_Bizon_PA",
+      "price": -10
+    },
+    {
+      "abr": "pp-91kedr",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_PP-91_Kedr_PA",
+      "price": -10
+    },
+    {
+      "abr": "pp-93",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_PP-93_PA",
+      "price": -10
+    },
+    {
+      "abr": "profanealchemybench",
       "category": "Production",
-      "defname": "AM_VirutalMiner",
-      "price": 2767
+      "defname": "BotchJob_ProfaneAlchemyBench",
+      "price": -10
     },
     {
-      "abr": "fourarmedhumanmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanFouramed",
-      "price": 1
+      "abr": "profanecharismapotion",
+      "category": "Drugs",
+      "defname": "BotchJob_ProfaneCharismaPotion",
+      "price": -10
     },
     {
-      "abr": "four-armedhumanlikewithatail",
-      "category": "Animal",
-      "defname": "G_FourArmTailed",
-      "price": 2917
+      "abr": "profanefurypotion",
+      "category": "Drugs",
+      "defname": "BotchJob_ProfaneFuryPotion",
+      "price": -10
     },
     {
-      "abr": "four-armedhumanlikewithatailandwings",
-      "category": "Animal",
-      "defname": "G_FourArmTailedWinged",
-      "price": 2917
+      "abr": "profanehastepotion",
+      "category": "Drugs",
+      "defname": "BotchJob_ProfaneHastePotion",
+      "price": -10
     },
     {
-      "abr": "four-armedhumanlikewithwings",
-      "category": "Animal",
-      "defname": "G_FourArmWinged",
-      "price": 2917
+      "abr": "profanehealingpotion",
+      "category": "Drugs",
+      "defname": "BotchJob_ProfaneHealingPotion",
+      "price": -10
     },
     {
-      "abr": "mech",
-      "category": "Animal",
-      "defname": "BS_UrbMech",
-      "price": 4167
+      "abr": "profaneritualcircle",
+      "category": "Production",
+      "defname": "BotchJob_ProfaneRitualCircle",
+      "price": -10
     },
     {
-      "abr": "mechmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_UrbMech",
-      "price": 1
+      "abr": "profanesoulgem",
+      "category": "Misc",
+      "defname": "BotchJob_SoulGem",
+      "price": -10
     },
     {
-      "abr": "mechawithatail",
-      "category": "Animal",
-      "defname": "M_MechaTailed",
-      "price": 4167
+      "abr": "profanedbanner",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedBanner",
+      "price": -10
     },
     {
-      "abr": "mechawithatailandwings",
-      "category": "Animal",
-      "defname": "M_MechaTailedWinged",
-      "price": 4167
+      "abr": "profanedbed",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedBed",
+      "price": -10
     },
     {
-      "abr": "mechawithfourarms",
-      "category": "Animal",
-      "defname": "M_MechaFourArm",
-      "price": 4167
+      "abr": "profanedbrazier",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedBrazier",
+      "price": -10
     },
     {
-      "abr": "mechawithfourarmsandatail",
-      "category": "Animal",
-      "defname": "M_MechaFourArmTailed",
-      "price": 4167
+      "abr": "profanedchair",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedChair",
+      "price": -10
     },
     {
-      "abr": "mechawithfourarmsandatailandwings",
-      "category": "Animal",
-      "defname": "M_MechaFourArmTailedWinged",
-      "price": 4167
+      "abr": "profanedchest",
+      "category": "Misc",
+      "defname": "BotchJob_ProfanedChest",
+      "price": -10
     },
     {
-      "abr": "mechawithfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaFourArmWinged",
-      "price": 4167
+      "abr": "profanedclub",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedClub",
+      "price": -10
     },
     {
-      "abr": "mechawithfourlegs",
-      "category": "Animal",
-      "defname": "M_MechaCentaur",
-      "price": 4167
+      "abr": "profanedglaive",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedGlaive",
+      "price": -10
     },
     {
-      "abr": "mechawithfourlegsandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaCentaurFourArm",
-      "price": 4167
+      "abr": "profanedgreatbow",
+      "category": "Ranged weapons",
+      "defname": "BotchJob_ProfanedGreatbow",
+      "price": -10
     },
     {
-      "abr": "mechawithfourlegsandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaCentaurFourArmWinged",
-      "price": 4167
+      "abr": "profanedlantern",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedLantern",
+      "price": -10
     },
     {
-      "abr": "mechawithfourlegsandwings",
-      "category": "Animal",
-      "defname": "M_MechaCentaurWinged",
-      "price": 4167
+      "abr": "profanedroyalbed",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedRoyalBed",
+      "price": -10
     },
     {
-      "abr": "mechawithmech",
-      "category": "Animal",
-      "defname": "M_MechaMecha",
-      "price": 4167
+      "abr": "profanedscimitar",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedScimitar",
+      "price": -10
     },
     {
-      "abr": "mechawithserpent-liketail",
-      "category": "Animal",
-      "defname": "M_MechaSnek",
-      "price": 4167
+      "abr": "profanedscythe",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedScythe",
+      "price": -10
     },
     {
-      "abr": "mechawithserpent-liketailandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaSnekFourArm",
-      "price": 4167
+      "abr": "profanedshield",
+      "category": "Shields",
+      "defname": "BotchJob_ProfanedShield",
+      "price": -10
     },
     {
-      "abr": "mechawithserpent-liketailandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaSnekFourArmWinged",
-      "price": 4167
+      "abr": "profanedshotel",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedShotel",
+      "price": -10
     },
     {
-      "abr": "mechawithserpent-liketailandwings",
-      "category": "Animal",
-      "defname": "M_MechaSnekWinged",
-      "price": 4167
+      "abr": "profanedslab",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedSlabLarge",
+      "price": -10
     },
     {
-      "abr": "mechawithspider-likeabdomen",
-      "category": "Animal",
-      "defname": "M_MechaSpooder",
-      "price": 4167
+      "abr": "profanedstaff",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedStaff",
+      "price": -10
     },
     {
-      "abr": "mechawithspider-likeabdomenandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaSpooderFourArm",
-      "price": 4167
+      "abr": "profanedtable",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedTable",
+      "price": -10
     },
     {
-      "abr": "mechawithspider-likeabdomenandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaSpooderFourArmWinged",
-      "price": 4167
+      "abr": "profanedthrone",
+      "category": "Furniture",
+      "defname": "BotchJob_ProfanedThrone",
+      "price": -10
     },
     {
-      "abr": "mechawithspider-likeabdomenandwings",
-      "category": "Animal",
-      "defname": "M_MechaSpooderWinged",
-      "price": 4167
+      "abr": "profanedwaraxe",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ProfanedWarAxe",
+      "price": -10
     },
     {
-      "abr": "mechawithwings",
-      "category": "Animal",
-      "defname": "M_MechaWinged",
-      "price": 4167
+      "abr": "qbu-88",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_QBU-88_PA",
+      "price": -10
     },
     {
-      "abr": "serpent-likewithfourarms",
-      "category": "Animal",
-      "defname": "G_SnekFourArm",
-      "price": 2917
+      "abr": "qbz-95",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_QBZ-95_PA",
+      "price": -10
     },
     {
-      "abr": "serpent-likewithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_SnekFourArmWinged",
-      "price": 2917
+      "abr": "qjy-88",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_QJY-88_PA",
+      "price": -10
     },
     {
-      "abr": "serpent-likewithwings",
-      "category": "Animal",
-      "defname": "G_SnekWinged",
-      "price": 2917
+      "abr": "raggedlegwraps",
+      "category": "Misc",
+      "defname": "BotchJob_RaggedLegwraps",
+      "price": -10
     },
     {
-      "abr": "snake-personmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_Naga",
-      "price": 1
+      "abr": "remingtonacr",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Remington_ACR_PA",
+      "price": -10
     },
     {
-      "abr": "spider-likewithfourarms",
-      "category": "Animal",
-      "defname": "G_SpooderFourArm",
-      "price": 2917
+      "abr": "remingtonmodel11-48",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Remington_Model_11-48_PA",
+      "price": -10
     },
     {
-      "abr": "spider-likewithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_SpooderFourArmWinged",
-      "price": 2917
+      "abr": "remingtonmodel11-87",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Remington_Model_11-87_PA",
+      "price": -10
     },
     {
-      "abr": "spider-likewithwings",
-      "category": "Animal",
-      "defname": "G_SpooderWinged",
-      "price": 2917
+      "abr": "remingtonmodel597",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Remington_Model_597_PA",
+      "price": -10
     },
     {
-      "abr": "tailedhumanlikewithwings",
-      "category": "Animal",
-      "defname": "G_TailedWinged",
-      "price": 2917
+      "abr": "remingtonmodel660",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Remington_Model_660_PA",
+      "price": -10
     },
     {
-      "abr": "tailedhumanoid",
-      "category": "Animal",
-      "defname": "BS_HumanoidWithTail",
-      "price": 2917
+      "abr": "remingtonmodel700",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Remington_Model_700_PA",
+      "price": -10
     },
     {
-      "abr": "tailedhumanoidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanoidWithTail",
-      "price": 1
+      "abr": "remingtonmodel740",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Remington_Model_740_PA",
+      "price": -10
     },
     {
-      "abr": "wingedhumanoid",
-      "category": "Animal",
-      "defname": "BS_HumanoidWithWings",
-      "price": 2917
+      "abr": "remingtonmodel7400",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Remington_Model_7400_PA",
+      "price": -10
     },
     {
-      "abr": "wingedhumanoidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanoidWithWings",
-      "price": 1
+      "abr": "remingtonmodel7600",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Remington_Model_7600_PA",
+      "price": -10
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "abr": "remingtonmodelsp-10",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Remington_Model_SP-10_PA",
+      "price": -10
+    },
+    {
+      "abr": "remingtonspartan310",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Remington_Spartan_310_PA",
+      "price": -10
+    },
+    {
+      "abr": "rexim-favor",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Rexim-Favor_PA",
+      "price": -10
+    },
+    {
+      "abr": "riflinglathe",
+      "category": "Production",
+      "defname": "TableMachiningRifled",
+      "price": -10
+    },
+    {
+      "abr": "rk62",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Rk_62_PA",
+      "price": -10
+    },
+    {
+      "abr": "rk95tp",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Rk_95_Tp_PA",
+      "price": -10
+    },
+    {
+      "abr": "robarrc-50",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Robar_RC-50_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpg-18",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_RPG-18_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpg-2",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_RPG-2_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpg-22",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_RPG-22_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpg-26",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_RPG-26_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpg-7",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_RPG-7_PA",
+      "price": -10
+    },
+    {
+      "abr": "rpk",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_RPK_PA",
+      "price": -10
+    },
+    {
+      "abr": "rugerbearcat",
+      "category": "Ranged weapons",
+      "defname": "Gun_PR_Ruger_Bearcat_PA",
+      "price": -10
+    },
+    {
+      "abr": "rugerm77",
+      "category": "Ranged weapons",
+      "defname": "Gun_R_Ruger_M77_PA",
+      "price": -10
+    },
+    {
+      "abr": "rugerp89",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_Ruger_P89_PA",
+      "price": -10
+    },
+    {
+      "abr": "runestone",
+      "category": "Misc",
+      "defname": "Dryad_VikingShrine",
+      "price": -10
+    },
+    {
+      "abr": "s&wm76",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_SoW_M76_PA",
+      "price": -10
+    },
+    {
+      "abr": "savz23",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Sa_vz_23_PA",
+      "price": -10
+    },
+    {
+      "abr": "saiga-12k",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Saiga-12k_PA",
+      "price": -10
+    },
+    {
+      "abr": "sakotrg-42",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Sako_TRG-42_PA",
+      "price": -10
+    },
+    {
+      "abr": "sar21",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_SAR_21_PA",
+      "price": -10
+    },
+    {
+      "abr": "savage10fp",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Savage_10FP_PA",
+      "price": -10
+    },
+    {
+      "abr": "scaffold",
+      "category": "Misc",
+      "defname": "MF_Building_Scaffold",
+      "price": -10
+    },
+    {
+      "abr": "scaffoldstair",
+      "category": "Misc",
+      "defname": "MF_Building_ScaffoldStair",
+      "price": -10
+    },
+    {
+      "abr": "scourgeknightarmor",
+      "category": "Armor",
+      "defname": "BotchJob_ScourgeknightArmor",
+      "price": -10
+    },
+    {
+      "abr": "scourgeknightgreataxe",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ScourgeknightGreataxe",
+      "price": -10
+    },
+    {
+      "abr": "scourgeknightgreatsword",
+      "category": "Melee weapons",
+      "defname": "BotchJob_ScourgeknightGreatsword",
+      "price": -10
+    },
+    {
+      "abr": "scourgeknighthelmet",
+      "category": "Headgear",
+      "defname": "BotchJob_ScourgeknightHelmet",
+      "price": -10
+    },
+    {
+      "abr": "sigmg710-3",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_SIG_MG_710-3_PA",
+      "price": -10
+    },
+    {
+      "abr": "sigp210",
+      "category": "Ranged weapons",
+      "defname": "Gun_P_SIG_P210_PA",
+      "price": -10
+    },
+    {
+      "abr": "sigsg550",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_SIG_SG_550_PA",
+      "price": -10
+    },
+    {
+      "abr": "skeleton",
+      "category": "Animals",
+      "defname": "BotchJob_Skeleton",
+      "price": -10
+    },
+    {
+      "abr": "škorpionvz.61",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Scorpion_vz_61_PA",
+      "price": -10
+    },
+    {
+      "abr": "smaw",
+      "category": "Ranged weapons",
+      "defname": "Gun_RL_SMAW_PA",
+      "price": -10
+    },
+    {
+      "abr": "solasubmachinegun",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Sola_submachine_gun_PA",
+      "price": -10
+    },
+    {
+      "abr": "spectralgreatbow",
+      "category": "Ranged weapons",
+      "defname": "BotchJob_SpectralGreatbow",
+      "price": -10
+    },
+    {
+      "abr": "sr-2veresk",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_SR-2_Veresk_PA",
+      "price": -10
+    },
+    {
+      "abr": "sr-88",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_SR-88_PA",
+      "price": -10
+    },
+    {
+      "abr": "starmodelz62",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Star_Model_Z62_PA",
+      "price": -10
+    },
+    {
+      "abr": "steyrhs.50",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Steyr_HS_50_PA",
+      "price": -10
+    },
+    {
+      "abr": "steyrmpi69",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Steyr_MPI-69_PA",
+      "price": -10
+    },
+    {
+      "abr": "steyrscout",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Steyr_Scout_PA",
+      "price": -10
+    },
+    {
+      "abr": "steyrssg69pi",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Steyr_SSG_69_PI_PA",
+      "price": -10
+    },
+    {
+      "abr": "steyrtmp",
+      "category": "Ranged weapons",
+      "defname": "Gun_SMG_Steyr_TMP_PA",
+      "price": -10
+    },
+    {
+      "abr": "sturmgewehr57",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_Stgw_57_PA",
+      "price": -10
+    },
+    {
+      "abr": "sv-98",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_SV-98_PA",
+      "price": -10
+    },
+    {
+      "abr": "svdk",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_SVDK_PA",
+      "price": -10
+    },
+    {
+      "abr": "taintedbone",
+      "category": "Misc",
+      "defname": "BotchJob_TaintedBone",
+      "price": -10
+    },
+    {
+      "abr": "tatteredcowl",
+      "category": "Headgear",
+      "defname": "BotchJob_TatteredCowl",
+      "price": -10
+    },
+    {
+      "abr": "tatteredundershirt",
+      "category": "Misc",
+      "defname": "BotchJob_TatteredUndershirt",
+      "price": -10
+    },
+    {
+      "abr": "techprint(walkerframe)",
+      "category": "Techprints",
+      "defname": "Techprint_WG_HeavyExoskeleton",
+      "price": -10
+    },
+    {
+      "abr": "toz-106",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_TOZ-106_PA",
+      "price": -10
+    },
+    {
+      "abr": "ukvz.59",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_Uk_vz_59_PA",
+      "price": -10
+    },
+    {
+      "abr": "ultimax100",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_Ultimax_100_PA",
+      "price": -10
+    },
+    {
+      "abr": "undeadcat",
+      "category": "Animals",
+      "defname": "BotchJob_UndeadCat",
+      "price": -10
+    },
+    {
+      "abr": "undeadcolossus",
+      "category": "Animals",
+      "defname": "BotchJob_UndeadColossus",
+      "price": -10
+    },
+    {
+      "abr": "undeaddragon",
+      "category": "Animals",
+      "defname": "BotchJob_UndeadDragon",
+      "price": -10
+    },
+    {
+      "abr": "undeadhorse",
+      "category": "Animals",
+      "defname": "BotchJob_UndeadHorse",
+      "price": -10
+    },
+    {
+      "abr": "undeadwarg",
+      "category": "Animals",
+      "defname": "BotchJob_UndeadWarg",
+      "price": -10
+    },
+    {
+      "abr": "usas-12",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_USAS-12_PA",
+      "price": -10
+    },
+    {
+      "abr": "valmetkvkk62",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_Valmet_Kvkk_62_PA",
+      "price": -10
+    },
+    {
+      "abr": "vektorss-77",
+      "category": "Ranged weapons",
+      "defname": "Gun_LMG_Vektor_SS-77_PA",
+      "price": -10
+    },
+    {
+      "abr": "vepr",
+      "category": "Ranged weapons",
+      "defname": "Gun_AR_Vepr_PA",
+      "price": -10
+    },
+    {
+      "abr": "vialofcorruptedblood",
+      "category": "Misc",
+      "defname": "BotchJob_CorruptedBlood",
+      "price": -10
+    },
+    {
+      "abr": "waltherwa2000",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Walther_WA_2000_PA",
+      "price": -10
+    },
+    {
+      "abr": "weatheredchainmail",
+      "category": "Armor",
+      "defname": "BotchJob_WeatheredChainmail",
+      "price": -10
+    },
+    {
+      "abr": "weatheredchainmailcoif",
+      "category": "Headgear",
+      "defname": "BotchJob_WeatheredChainmailCoif",
+      "price": -10
+    },
+    {
+      "abr": "weatheredkettlehelmet",
+      "category": "Headgear",
+      "defname": "BotchJob_WeatheredKettleHelmet",
+      "price": -10
+    },
+    {
+      "abr": "weatheredpauldron",
+      "category": "Armor",
+      "defname": "BotchJob_WeatheredPauldron",
+      "price": -10
+    },
+    {
+      "abr": "weatheredshortbow",
+      "category": "Ranged weapons",
+      "defname": "BotchJob_WeatheredShortbow",
+      "price": -10
+    },
+    {
+      "abr": "winchestermodel1200",
+      "category": "Ranged weapons",
+      "defname": "Gun_S_Winchester_Model_1200_PA",
+      "price": -10
+    },
+    {
+      "abr": "wraith",
+      "category": "Animals",
+      "defname": "BotchJob_Wraith",
+      "price": -10
+    },
+    {
+      "abr": "wraithorb",
+      "category": "Manufactured",
+      "defname": "BotchJob_WraithOrb",
+      "price": -10
+    },
+    {
+      "abr": "wraithorbpedestal",
+      "category": "Furniture",
+      "defname": "BotchJob_WraithOrbPedestal",
+      "price": -10
+    },
+    {
+      "abr": "zastavam12blackspear",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Zastava_M12_Black_Spear_PA",
+      "price": -10
+    },
+    {
+      "abr": "zastavam77b1",
+      "category": "Ranged weapons",
+      "defname": "Gun_BR_Zastava_M77_B1_PA",
+      "price": -10
+    },
+    {
+      "abr": "zastavam91",
+      "category": "Ranged weapons",
+      "defname": "Gun_SR_Zastava_M91_PA",
+      "price": -10
+    },
+    {
+      "abr": "zastavam93blackarrow",
+      "category": "Ranged weapons",
+      "defname": "Gun_AMR_Zastava_M93_Black_Arrow_PA",
+      "price": -10
     }
   ],
-  "total": 1035
+  "total": 1091
 }

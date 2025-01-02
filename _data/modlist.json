@@ -6,12 +6,6 @@
     "version": "2.3.1.0"
   },
   {
-    "author": "RedMattis",
-    "name": "Big and Small - Framework",
-    "steamId": "2925432336",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -162,74 +156,8 @@
     "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
   },
   {
-    "author": "MO",
-    "name": "Ancient urban ruins",
-    "steamId": "3316062206",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Meteores",
-    "name": "Ancient Urban Ruins All Deconstructible",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Peppsen",
     "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Sacred WhiteFox",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ShepirotGamer",
-    "name": "Rocky",
-    "steamId": "3362035760",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Denerose",
-    "name": "Muffaloaves",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Nalzurin, Athitei and Zeues",
-    "name": "Bionix Automator",
-    "steamId": "3357286019",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Genes & More",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RedMattis",
-    "name": "Big and Small - Simply Robots",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Weapons Expanded - Non-Lethal",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
@@ -238,5 +166,101 @@
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "3215569151",
     "version": "1.0.2.2"
+  },
+  {
+    "author": "RedMattis",
+    "name": "Dryads & Gauranlen Trees Reworked",
+    "steamId": "3334448055",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+9f86e76c731e01a0010144331d5dc54c9b5f8a37"
+  },
+  {
+    "author": "BotchJob",
+    "name": "The Profaned",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "No Version Warning",
+    "steamId": "2599504692",
+    "version": "1.5.28"
+  },
+  {
+    "author": "XeoNovaDan and Jelly",
+    "name": "[XND] Proper Shotguns (Continued)",
+    "steamId": "2584374906",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Plymouth",
+    "name": "Project Armory 1.4.0.1 [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5]",
+    "steamId": "3357749890",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rabiosus",
+    "name": "Automatic Parking",
+    "steamId": "3365473553",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Exosuit Framework",
+    "steamId": "3352894993",
+    "version": "1.0.0+3c617d6b68810d073f9286918f4c64aa6cd317ab"
+  },
+  {
+    "author": "FaintingGoat",
+    "name": "Food Texture Variety Core",
+    "steamId": "3354455179",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "FaintingGoat",
+    "name": "Food Texture Variety - Replacement",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AmCh, HappyCam and Eragon",
+    "name": "Gene Fabrication",
+    "steamId": "3352773112",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SilkCircuit",
+    "name": "Pass It Through The Window!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ghastlyskull",
+    "name": "Robotic Servitude",
+    "steamId": "3354770139",
+    "version": "0.0.0.0"
   }
 ]

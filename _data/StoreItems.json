@@ -4,7 +4,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "aestheticnose",
@@ -256,7 +256,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "beret",
@@ -2644,7 +2644,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "psychofluidpump",
@@ -6545,7 +6545,43 @@
       "category": "Ranged weapons",
       "defname": "Gun_AMR_Zastava_M93_Black_Arrow_PA",
       "price": -10
+    },
+    {
+      "abr": "ampflamerpistol",
+      "category": "Walker module",
+      "defname": "AMP_Module_Flamer",
+      "price": 992
+    },
+    {
+      "abr": "amppistol",
+      "category": "Walker module",
+      "defname": "AMP_Module_PT",
+      "price": 783
+    },
+    {
+      "abr": "ampsubmachinegun",
+      "category": "Walker module",
+      "defname": "AMP_Module_SMG",
+      "price": 1292
+    },
+    {
+      "abr": "amplifiedmobilityplatform(module)",
+      "category": "Walker module",
+      "defname": "AMP_Module",
+      "price": 5942
+    },
+    {
+      "abr": "exoskeletondagger",
+      "category": "Walker module",
+      "defname": "AMP_Module_Dagger",
+      "price": 238
+    },
+    {
+      "abr": "gau-90",
+      "category": "Walker module",
+      "defname": "AMP_Module_Rifle",
+      "price": 2717
     }
   ],
-  "total": 1091
+  "total": 1097
 }

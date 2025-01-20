@@ -195,7 +195,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.5.28"
+    "version": "1.5.30"
   },
   {
     "author": "XeoNovaDan and Jelly",
@@ -231,7 +231,7 @@
     "author": "AobaKuma",
     "name": "Exosuit Framework",
     "steamId": "3352894993",
-    "version": "1.0.0+3c617d6b68810d073f9286918f4c64aa6cd317ab"
+    "version": "1.0.0+e34457d4bf5ab59b4f748489abe54623f234e566"
   },
   {
     "author": "FaintingGoat",
@@ -262,5 +262,17 @@
     "name": "Robotic Servitude",
     "steamId": "3354770139",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Amplified Mobility Platform",
+    "steamId": null,
+    "version": null
   }
 ]

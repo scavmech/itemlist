@@ -6211,18 +6211,6 @@
       "price": -10
     },
     {
-      "abr": "scaffold",
-      "category": "Misc",
-      "defname": "MF_Building_Scaffold",
-      "price": -10
-    },
-    {
-      "abr": "scaffoldstair",
-      "category": "Misc",
-      "defname": "MF_Building_ScaffoldStair",
-      "price": -10
-    },
-    {
       "abr": "scourgeknightarmor",
       "category": "Armor",
       "defname": "BotchJob_ScourgeknightArmor",
@@ -6376,12 +6364,6 @@
       "abr": "tatteredundershirt",
       "category": "Misc",
       "defname": "BotchJob_TatteredUndershirt",
-      "price": -10
-    },
-    {
-      "abr": "techprint(walkerframe)",
-      "category": "Techprints",
-      "defname": "Techprint_WG_HeavyExoskeleton",
       "price": -10
     },
     {
@@ -6545,43 +6527,7 @@
       "category": "Ranged weapons",
       "defname": "Gun_AMR_Zastava_M93_Black_Arrow_PA",
       "price": -10
-    },
-    {
-      "abr": "ampflamerpistol",
-      "category": "Walker module",
-      "defname": "AMP_Module_Flamer",
-      "price": 992
-    },
-    {
-      "abr": "amppistol",
-      "category": "Walker module",
-      "defname": "AMP_Module_PT",
-      "price": 783
-    },
-    {
-      "abr": "ampsubmachinegun",
-      "category": "Walker module",
-      "defname": "AMP_Module_SMG",
-      "price": 1292
-    },
-    {
-      "abr": "amplifiedmobilityplatform(module)",
-      "category": "Walker module",
-      "defname": "AMP_Module",
-      "price": 5942
-    },
-    {
-      "abr": "exoskeletondagger",
-      "category": "Walker module",
-      "defname": "AMP_Module_Dagger",
-      "price": 238
-    },
-    {
-      "abr": "gau-90",
-      "category": "Walker module",
-      "defname": "AMP_Module_Rifle",
-      "price": 2717
     }
   ],
-  "total": 1097
+  "total": 1088
 }

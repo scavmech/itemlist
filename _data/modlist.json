@@ -254,8 +254,8 @@
   {
     "author": "Toastyman",
     "name": "More Ritual Seats",
-    "steamId": null,
-    "version": null
+    "steamId": "3411913071",
+    "version": "1.0.0.0"
   },
   {
     "author": "SilkCircuit",
@@ -273,19 +273,13 @@
     "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
     "name": "Reinforced Mechanoid 2 (Continued)",
     "steamId": "3400713047",
-    "version": "1.5.13"
+    "version": "1.5.14"
   },
   {
     "author": "rooki1",
     "name": "Rimsenal - Core",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "pogoman",
-    "name": "Smarter Raider AI",
-    "steamId": "2945497357",
-    "version": "0.0.0.0"
   },
   {
     "author": "Krelinos",

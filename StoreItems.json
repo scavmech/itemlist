@@ -208,7 +208,7 @@
       "abr": "bandwidthpack",
       "category": "Utility",
       "defname": "Apparel_PackBandwidth",
-      "price": 2275
+      "price": -10
     },
     {
       "abr": "basicsubcore",
@@ -256,7 +256,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": 20
+      "price": -10
     },
     {
       "abr": "beret",
@@ -4327,1889 +4327,1547 @@
       "price": -10
     },
     {
-      "abr": ".338precisioncomponents",
-      "category": "Military components",
-      "defname": "AM_338PrecisionComponents",
-      "price": -10
-    },
-    {
-      "abr": "6.8bullpuprifle",
-      "category": "Ranged weapons",
-      "defname": "AM_RM68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8bullpupshortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_TKB68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8combatrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MK68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8shortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_AK68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8spearrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_Spear68A",
-      "price": -10
-    },
-    {
-      "abr": "6.8spearshortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_Spear68C",
-      "price": -10
-    },
-    {
-      "abr": "6.8upperreceivercomponents",
-      "category": "Military components",
-      "defname": "AM_227FURYComponents",
-      "price": -10
-    },
-    {
-      "abr": "ad-bot",
-      "category": "Animal",
-      "defname": "BS_TVAndroid",
-      "price": -10
-    },
-    {
-      "abr": "ad-bot",
-      "category": "Animal",
-      "defname": "BS_TVAndroid_Sapient",
-      "price": -10
-    },
-    {
-      "abr": "ad-botmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_TVAndroid",
-      "price": -10
-    },
-    {
-      "abr": "ad-botmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_TVAndroid_Sapient",
-      "price": -10
-    },
-    {
-      "abr": "ai2a",
-      "category": "Medicine",
-      "defname": "AM_AI2A",
-      "price": -10
-    },
-    {
-      "abr": "aluminumsplint",
-      "category": "Medical supplies",
-      "defname": "AM_AluminumSplint",
-      "price": -10
-    },
-    {
-      "abr": "analgesicregenerationinjector",
-      "category": "Drugs",
-      "defname": "AM_AnalgesicRegenerationInjector",
-      "price": -10
-    },
-    {
-      "abr": "ancientcashregister",
-      "category": "Container",
-      "defname": "AM_AncientCashRegister",
-      "price": -10
-    },
-    {
-      "abr": "ancientdismantlingtable",
-      "category": "Production",
-      "defname": "AM_AncientDismantlingWorkbench",
-      "price": -10
-    },
-    {
-      "abr": "ancientgrizzlykit",
-      "category": "Medicine",
-      "defname": "AM_AncientGrizzly",
-      "price": -10
-    },
-    {
-      "abr": "ancientlargemilitarysuppliescase",
-      "category": "Container",
-      "defname": "AM_OldBigCase",
-      "price": -10
-    },
-    {
-      "abr": "ancientroadblocks",
-      "category": "Container",
-      "defname": "AM_AncientRoadblocks",
-      "price": -10
-    },
-    {
-      "abr": "ancientsmallmilitarycase",
-      "category": "Container",
-      "defname": "AM_OldSmallCase",
-      "price": -10
-    },
-    {
-      "abr": "ancientweaponcase",
-      "category": "Container",
-      "defname": "AM_OldWeaponCase",
-      "price": -10
-    },
-    {
-      "abr": "androidfuel",
-      "category": "Foods",
-      "defname": "BS_AndroidFuel",
-      "price": -10
-    },
-    {
-      "abr": "animalgiantizer",
-      "category": "Misc",
-      "defname": "BS_Giant_Serum",
-      "price": -10
-    },
-    {
-      "abr": "animalminimizer",
-      "category": "Misc",
-      "defname": "BS_Shrink_Serum",
-      "price": -10
-    },
-    {
-      "abr": "anomalousshard",
-      "category": "Manufactured",
-      "defname": "BS_DarkSoulshard",
-      "price": -10
-    },
-    {
-      "abr": "antibiotic",
-      "category": "Drugs",
-      "defname": "AM_Antibiotic",
-      "price": -10
-    },
-    {
-      "abr": "aramidcloth",
-      "category": "Textiles",
-      "defname": "AM_AramidCloth",
-      "price": -10
-    },
-    {
-      "abr": "architegenomecloner",
-      "category": "Misc",
-      "defname": "BS_CreateArchiteXenogerm_Endo",
-      "price": -10
-    },
-    {
-      "abr": "architexenogermcloner",
-      "category": "Misc",
-      "defname": "BS_CreateArchiteXenogerm",
-      "price": -10
-    },
-    {
-      "abr": "archotechapparel-integrator",
-      "category": "Archotech",
-      "defname": "BS_IndestructibelApparel",
-      "price": -10
-    },
-    {
-      "abr": "armorpiercingpistol",
-      "category": "Ranged weapons",
-      "defname": "AM_FNHG",
-      "price": -10
-    },
-    {
-      "abr": "armoredconcealedrig",
-      "category": "Armor",
-      "defname": "AM_MK4aConcealed",
-      "price": -10
-    },
-    {
-      "abr": "armoreddefensiverig",
-      "category": "Armor",
-      "defname": "AM_MK4aDefensive",
-      "price": -10
-    },
-    {
-      "abr": "automatedenforcer",
-      "category": "Animal",
-      "defname": "BS_CommandoBot_NonSapient",
-      "price": -10
-    },
-    {
-      "abr": "automatedenforcermeat",
-      "category": "Meat",
-      "defname": "Meat_BS_CommandoBot_NonSapient",
-      "price": -10
-    },
-    {
-      "abr": "bakingthermometer",
-      "category": "Tools",
-      "defname": "AM_BakingThermometer",
-      "price": -10
-    },
-    {
-      "abr": "bigcase",
-      "category": "Container",
-      "defname": "AM_BigCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "bioniclocomotivespine",
-      "category": "Bionic",
-      "defname": "BS_BionicLocomotiveSpine",
-      "price": -10
-    },
-    {
-      "abr": "bionicstriderleg",
-      "category": "Bionic",
-      "defname": "BS_BionicStriderLeg",
-      "price": -10
-    },
-    {
-      "abr": "bionixautomator",
-      "category": "Misc",
-      "defname": "AutoImplanter",
-      "price": -10
-    },
-    {
-      "abr": "bookcase",
-      "category": "Container",
-      "defname": "AM_BookCase",
-      "price": -10
-    },
-    {
-      "abr": "brasslionstatue",
-      "category": "Rare items",
-      "defname": "AM_BrassLionStatue",
-      "price": -10
-    },
-    {
-      "abr": "briefcase",
-      "category": "Container",
-      "defname": "AM_BriefCase_SalvagePoint",
-      "price": -10
-    },
-    {
-      "abr": "briefcase",
-      "category": "Rare items",
-      "defname": "AM_BriefCase",
-      "price": -10
-    },
-    {
-      "abr": "budweiser",
-      "category": "Drugs",
-      "defname": "AM_Budweiser",
-      "price": -10
-    },
-    {
-      "abr": "bulletproofmask",
-      "category": "Headgear",
-      "defname": "AM_BulletproofMask",
-      "price": -10
-    },
-    {
-      "abr": "burgerpaperbag",
-      "category": "Container",
-      "defname": "AM_BurgerPaperBag",
-      "price": -10
-    },
-    {
-      "abr": "burgerpaperbox",
-      "category": "Container",
-      "defname": "AM_BurgerPaperBox",
-      "price": -10
-    },
-    {
-      "abr": "cannedbraisedpork",
-      "category": "Meals",
-      "defname": "AM_CannedBraisedPorkbelly",
-      "price": -10
-    },
-    {
-      "abr": "cannedherring",
-      "category": "Meals",
-      "defname": "AM_CannedHerring",
-      "price": -10
-    },
-    {
-      "abr": "cannedpeas",
-      "category": "Meals",
-      "defname": "AM_CannedPeas",
-      "price": -10
-    },
-    {
-      "abr": "cannedstewedmuffalo",
-      "category": "Meals",
-      "defname": "AM_CannedStewedBeef",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_A_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_B_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_C_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_A",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_B",
-      "price": -10
-    },
-    {
-      "abr": "cardboardbox",
-      "category": "Container",
-      "defname": "AM_PaperBox_C",
-      "price": -10
-    },
-    {
-      "abr": "carnivorelargefinemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine_Meat",
-      "price": -10
-    },
-    {
-      "abr": "carnivorelargelavishmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish_Meat",
-      "price": -10
-    },
-    {
-      "abr": "cataphracthelmet“fashion”",
-      "category": "Headgear",
-      "defname": "AM_CataphractHelmetFashion",
-      "price": -10
-    },
-    {
-      "abr": "cataphracthelmet“slaughter”",
-      "category": "Headgear",
-      "defname": "AM_CataphractHelmetSlaughter",
-      "price": -10
-    },
-    {
-      "abr": "cellregenerationinjector",
-      "category": "Drugs",
-      "defname": "AM_CellRegenerationInjector",
-      "price": -10
-    },
-    {
-      "abr": "civiliancarbine",
-      "category": "Ranged weapons",
-      "defname": "AM_STM",
-      "price": -10
-    },
-    {
-      "abr": "civilianrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_ADAR",
-      "price": -10
-    },
-    {
-      "abr": "classicpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsA",
-      "price": -10
-    },
-    {
-      "abr": "closecombatdmr",
-      "category": "Ranged weapons",
-      "defname": "AM_SR25A",
-      "price": -10
-    },
-    {
-      "abr": "closedoxygencylinder",
-      "category": "Utility",
-      "defname": "AM_ClosedOxygenCylinder",
-      "price": -10
-    },
-    {
-      "abr": "clothesrack",
-      "category": "Container",
-      "defname": "AM_ClothesHanger",
-      "price": -10
-    },
-    {
-      "abr": "coca-cola",
-      "category": "Meals",
-      "defname": "AM_Coca",
-      "price": -10
-    },
-    {
-      "abr": "collapsedshelves",
-      "category": "Container",
-      "defname": "AM_DamagedEmptyShelves",
-      "price": -10
-    },
-    {
-      "abr": "combatrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MK17A",
-      "price": -10
-    },
-    {
-      "abr": "compositeassaultdress",
-      "category": "Armor",
-      "defname": "AM_AScompFD",
-      "price": -10
-    },
-    {
-      "abr": "compositeflaksuit",
-      "category": "Armor",
-      "defname": "AM_CompFlakSuit",
-      "price": -10
-    },
-    {
-      "abr": "computercase",
-      "category": "Container",
-      "defname": "AM_ComputerCase",
-      "price": -10
-    },
-    {
-      "abr": "concretebarrier",
-      "category": "Container",
-      "defname": "AM_Palisade",
-      "price": -10
-    },
-    {
-      "abr": "cone",
-      "category": "Container",
-      "defname": "AM_Cone",
-      "price": -10
-    },
-    {
-      "abr": "confidentialintelmap",
-      "category": "Rare items",
-      "defname": "AM_ConfidentialIntelMapA",
-      "price": -10
-    },
-    {
-      "abr": "confidentialintelmap",
-      "category": "Rare items",
-      "defname": "AM_ConfidentialIntelMapB",
-      "price": -10
-    },
-    {
-      "abr": "constructionsite",
-      "category": "Container",
-      "defname": "AM_ConstructionSite",
-      "price": -10
-    },
-    {
-      "abr": "copperheadlongsmg",
-      "category": "Ranged weapons",
-      "defname": "AM_MPXL",
-      "price": -10
-    },
-    {
-      "abr": "copperheadsmg",
-      "category": "Ranged weapons",
-      "defname": "AM_MPX",
-      "price": -10
-    },
-    {
-      "abr": "cpu",
-      "category": "Electronics",
-      "defname": "AM_CPU",
-      "price": -10
-    },
-    {
-      "abr": "creditcard",
-      "category": "Rare items",
-      "defname": "AM_CreditCard",
-      "price": -10
-    },
-    {
-      "abr": "cucumberpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsC",
-      "price": -10
-    },
-    {
-      "abr": "customcarbine",
-      "category": "Ranged weapons",
-      "defname": "AM_M4A",
-      "price": -10
-    },
-    {
-      "abr": "customciviliancarbine",
-      "category": "Ranged weapons",
-      "defname": "AM_STMC",
-      "price": -10
-    },
-    {
-      "abr": "custommilitaryrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_M4ASOP",
-      "price": -10
-    },
-    {
-      "abr": "customsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_M700A",
-      "price": -10
-    },
-    {
-      "abr": "dartgun",
-      "category": "Ranged weapons",
-      "defname": "VWE_Gun_DartGun",
-      "price": -10
-    },
-    {
-      "abr": "defensepistol",
-      "category": "Ranged weapons",
-      "defname": "AM_CPHG",
-      "price": -10
-    },
-    {
-      "abr": "deluxecannedmuffalo",
-      "category": "Meals",
-      "defname": "AM_DeliciousCannedBeef",
-      "price": -10
-    },
-    {
-      "abr": "dilapidatedmap",
-      "category": "Rare items",
-      "defname": "AM_DilapidatedMap",
-      "price": -10
-    },
-    {
-      "abr": "diningchair",
-      "category": "Furniture",
-      "defname": "AM_DiningChair",
-      "price": -10
-    },
-    {
-      "abr": "dmr",
-      "category": "Ranged weapons",
-      "defname": "AM_R11A",
-      "price": -10
-    },
-    {
-      "abr": "electricaltape",
-      "category": "Tools",
-      "defname": "AM_ElectricalTape",
-      "price": -10
-    },
-    {
-      "abr": "emptybox",
-      "category": "Rare items",
-      "defname": "AM_EmptyBox",
-      "price": -10
-    },
-    {
-      "abr": "emptyclotheshanger",
-      "category": "Container",
-      "defname": "AM_ClothesHangerEmpty_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "emptyshelves",
-      "category": "Container",
-      "defname": "AM_EmptyShelves_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "emptyvegetableshelf",
-      "category": "Container",
-      "defname": "AM_VegetableShelfEmpty_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "essentialbalm",
-      "category": "Drugs",
-      "defname": "AM_EssentialBalm",
-      "price": -10
-    },
-    {
-      "abr": "fanta",
-      "category": "Meals",
-      "defname": "AM_Fanta",
-      "price": -10
-    },
-    {
-      "abr": "finelargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine",
-      "price": -10
-    },
-    {
-      "abr": "firstaidkit",
-      "category": "Medicine",
-      "defname": "AM_FirstAidKit",
-      "price": -10
-    },
-    {
-      "abr": "fourarmedhuman",
-      "category": "Animal",
-      "defname": "BS_HumanFouramed",
-      "price": -10
-    },
-    {
-      "abr": "freezer",
-      "category": "Container",
-      "defname": "AM_Freezer",
-      "price": -10
-    },
-    {
-      "abr": "fullyenclosedhelmet",
-      "category": "Headgear",
-      "defname": "AM_FullyEnclosedHelmet",
-      "price": -10
-    },
-    {
-      "abr": "gameconsole",
-      "category": "Electronics",
-      "defname": "AM_GameConsole",
-      "price": -10
-    },
-    {
-      "abr": "geneintegrator",
-      "category": "Misc",
-      "defname": "BS_GeneGeneIntegrator",
-      "price": -10
-    },
-    {
-      "abr": "generalmachinegun",
-      "category": "Ranged weapons",
-      "defname": "AM_PKM",
-      "price": -10
-    },
-    {
-      "abr": "germlinecloner",
-      "category": "Misc",
-      "defname": "BS_CreateXenogerm_Endo",
-      "price": -10
-    },
-    {
-      "abr": "giantclub",
-      "category": "Melee weapons",
-      "defname": "BS_OgreClub",
-      "price": -10
-    },
-    {
-      "abr": "giantprimitivehammer",
-      "category": "Melee weapons",
-      "defname": "BS_GiantHammer",
-      "price": -10
-    },
-    {
-      "abr": "giantsword",
-      "category": "Melee weapons",
-      "defname": "BS_JotunSword",
-      "price": -10
-    },
-    {
-      "abr": "giantwarhammer",
-      "category": "Melee weapons",
-      "defname": "BS_JotunHammer",
-      "price": -10
-    },
-    {
-      "abr": "glassadhesive",
-      "category": "Tools",
-      "defname": "AM_OneLiterGlassAdhesive",
-      "price": -10
-    },
-    {
-      "abr": "glutton",
-      "category": "Animal",
-      "defname": "BS_GluttonRace",
-      "price": -10
-    },
-    {
-      "abr": "goldenegg",
-      "category": "Rare items",
-      "defname": "AM_GoldenEgg",
-      "price": -10
-    },
-    {
-      "abr": "goldenroosterstatue",
-      "category": "Rare items",
-      "defname": "AM_GoldenRoosterStatue",
-      "price": -10
-    },
-    {
-      "abr": "gpu",
-      "category": "Electronics",
-      "defname": "AM_GPU",
-      "price": -10
-    },
-    {
-      "abr": "grizzlykit",
-      "category": "Medicine",
-      "defname": "AM_Grizzly",
-      "price": -10
-    },
-    {
-      "abr": "growthray",
-      "category": "Ranged weapons",
-      "defname": "BMad_GrowthRay",
-      "price": -10
-    },
-    {
-      "abr": "growth-raymini-turret",
-      "category": "Security",
-      "defname": "BMAD_GrowthTurret",
-      "price": -10
-    },
-    {
-      "abr": "hdd",
-      "category": "Electronics",
-      "defname": "AM_HDD",
-      "price": -10
-    },
-    {
-      "abr": "heavybarrelassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_M5A3LT",
-      "price": -10
-    },
-    {
-      "abr": "heavycompositeplate",
-      "category": "Military components",
-      "defname": "AM_HeavyCompositePlate",
-      "price": -10
-    },
-    {
-      "abr": "hemostaticagent",
-      "category": "Medicine",
-      "defname": "AM_HemostaticAgent",
-      "price": -10
-    },
-    {
-      "abr": "hugejavelin",
-      "category": "Ranged weapons",
-      "defname": "BS_JotunJavelin",
-      "price": -10
-    },
-    {
-      "abr": "hunter'srifle",
-      "category": "Ranged weapons",
-      "defname": "AM_Hunter",
-      "price": -10
-    },
-    {
-      "abr": "ibuprofen",
-      "category": "Drugs",
-      "defname": "AM_Ibuprofen",
-      "price": -10
-    },
-    {
-      "abr": "injectionstorageracks",
-      "category": "Container",
-      "defname": "AM_Injection_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "insect-likehumanoid",
-      "category": "Animal",
-      "defname": "BS_InsectoidHumanoid_FourArmed",
-      "price": -10
-    },
-    {
-      "abr": "integratedparasitearmor",
-      "category": "Bionic",
-      "defname": "AM_IntegratedTorsoArmor",
-      "price": -10
-    },
-    {
-      "abr": "intelmap",
-      "category": "Rare items",
-      "defname": "AM_IntelMap",
-      "price": -10
-    },
-    {
-      "abr": "italianredstewpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsF",
-      "price": -10
-    },
-    {
-      "abr": "keycard",
-      "category": "Rare items",
-      "defname": "AM_KeyCard",
-      "price": -10
-    },
-    {
-      "abr": "largebackpack",
-      "category": "Container",
-      "defname": "AM_LargeBackpack_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "largebackpack",
-      "category": "Container",
-      "defname": "AM_LargeBackpack",
-      "price": -10
-    },
-    {
-      "abr": "largemilitarysuppliescase",
-      "category": "Container",
-      "defname": "AM_BigCase",
-      "price": -10
-    },
-    {
-      "abr": "large-screentelevision",
-      "category": "Recreation",
-      "defname": "AM_LargeScreenTelevision",
-      "price": -10
-    },
-    {
-      "abr": "lavishlargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish",
-      "price": -10
-    },
-    {
-      "abr": "lbt",
-      "category": "Container",
-      "defname": "AM_LBT_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "lbt",
-      "category": "Container",
-      "defname": "AM_LBT",
-      "price": -10
-    },
-    {
-      "abr": "ledx",
-      "category": "Electronics",
-      "defname": "AM_LEDX",
-      "price": -10
-    },
-    {
-      "abr": "legogiantrockexcavator",
-      "category": "Rare items",
-      "defname": "AM_LEGO_GiantRockExcavator_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legogiantrockexcavator",
-      "category": "Rare items",
-      "defname": "LEGO_GiantRockExcavator_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legoheavycrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_HeavyCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legoheavycrane",
-      "category": "Rare items",
-      "defname": "LEGO_HeavyCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legolandmarkbuilding",
-      "category": "Rare items",
-      "defname": "AM_LEGO_LandmarkBuilding_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legolandmarkbuilding",
-      "category": "Rare items",
-      "defname": "LEGO_LandmarkBuilding_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legolightcrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_LightCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legolightcrane",
-      "category": "Rare items",
-      "defname": "LEGO_LightCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legomediumcrane",
-      "category": "Rare items",
-      "defname": "AM_LEGO_MediumCrane_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legomediumcrane",
-      "category": "Rare items",
-      "defname": "LEGO_MediumCrane_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "legopalace",
-      "category": "Rare items",
-      "defname": "AM_LEGO_Palace_NotOpen",
-      "price": -10
-    },
-    {
-      "abr": "legopalace",
-      "category": "Rare items",
-      "defname": "LEGO_Palace_Accomplish",
-      "price": -10
-    },
-    {
-      "abr": "lemonpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsE",
-      "price": -10
-    },
-    {
-      "abr": "lowvisibilityshortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_M42U",
-      "price": -10
-    },
-    {
-      "abr": "makarovpistol",
-      "category": "Ranged weapons",
-      "defname": "AM_Makarov",
-      "price": -10
-    },
-    {
-      "abr": "mallbench",
-      "category": "Container",
-      "defname": "AM_MallBench",
-      "price": -10
-    },
-    {
-      "abr": "mallpew",
-      "category": "Container",
-      "defname": "AM_MallPew",
-      "price": -10
-    },
-    {
-      "abr": "mallwoodenbench",
-      "category": "Container",
-      "defname": "AM_MallWoodenBench",
-      "price": -10
-    },
-    {
-      "abr": "mbss",
-      "category": "Container",
-      "defname": "AM_MBSS_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "mbss",
-      "category": "Container",
-      "defname": "AM_MBSS",
-      "price": -10
-    },
-    {
-      "abr": "medicalstorageracks",
-      "category": "Container",
-      "defname": "AM_MedicalSupplies_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "metalbloodinjector",
-      "category": "Drugs",
-      "defname": "AM_MetalbloodInjector",
-      "price": -10
-    },
-    {
-      "abr": "militaryration",
-      "category": "Meals",
-      "defname": "AM_MRE",
-      "price": -10
-    },
-    {
-      "abr": "militarystandardrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_AK101A",
-      "price": -10
-    },
-    {
-      "abr": "militarystorageracks",
-      "category": "Container",
-      "defname": "AM_MilitarySupplies_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "milkbeer",
-      "category": "Drugs",
-      "defname": "AM_MilkBeer",
-      "price": -10
-    },
-    {
-      "abr": "miscellaneousstorageracks",
-      "category": "Container",
-      "defname": "AM_TousledStorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "mjölnirsniperrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MK18M",
-      "price": -10
-    },
-    {
-      "abr": "modeldummy",
-      "category": "Container",
-      "defname": "AM_Model",
-      "price": -10
-    },
-    {
-      "abr": "modeldummy",
-      "category": "Container",
-      "defname": "AM_Modelf",
-      "price": -10
-    },
-    {
-      "abr": "modifiedmachinegun",
-      "category": "Ranged weapons",
-      "defname": "AM_PKP",
-      "price": -10
-    },
-    {
-      "abr": "muffaloaf",
-      "category": "Animals",
-      "defname": "DRS_Muffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "DRS_EggMuffalofFertilized",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "DRS_EggMuffaloafUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "muffaloafmeat",
-      "category": "Meat",
-      "defname": "Meat_DRS_Muffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "nightvisionhelmet",
-      "category": "Headgear",
-      "defname": "AM_NightVisionHelmet",
-      "price": -10
-    },
-    {
-      "abr": "non-lethalpistol",
-      "category": "Ranged weapons",
-      "defname": "VWE_Gun_RubberBulletPistol",
-      "price": -10
-    },
-    {
-      "abr": "oldautorifle",
-      "category": "Ranged weapons",
-      "defname": "AM_AVT",
-      "price": -10
-    },
-    {
-      "abr": "oldfreezer",
-      "category": "Container",
-      "defname": "AM_OldFreezer_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "openedweaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "openedweaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCaseLow",
-      "price": -10
-    },
-    {
-      "abr": "packagedcpu",
-      "category": "Electronics",
-      "defname": "AM_PackagedCPU",
-      "price": -10
-    },
-    {
-      "abr": "packagedgpu",
-      "category": "Electronics",
-      "defname": "AM_PackagedGPU",
-      "price": -10
-    },
-    {
-      "abr": "packagedlargesurvivalmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeSurvivalPack",
-      "price": -10
-    },
-    {
-      "abr": "pelvichammock",
-      "category": "Medical supplies",
-      "defname": "AM_PelvicHammock",
-      "price": -10
-    },
-    {
-      "abr": "pepsi",
-      "category": "Meals",
-      "defname": "AM_Pepsi",
-      "price": -10
-    },
-    {
-      "abr": "personaskrýmir'smallet",
-      "category": "Persona weapons",
-      "defname": "BS_SkrymirHammer_Persona",
-      "price": -10
-    },
-    {
-      "abr": "personaswordofsurtr",
-      "category": "Persona weapons",
-      "defname": "BS_SurtrSword_Persona",
-      "price": -10
-    },
-    {
-      "abr": "pkpcomponents",
-      "category": "Military components",
-      "defname": "AM_PKPMagazineComponents",
-      "price": -10
-    },
-    {
-      "abr": "postmanshoulderbag",
-      "category": "Container",
-      "defname": "AM_PostmanShoulderBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "postmanshoulderbag",
-      "category": "Container",
-      "defname": "AM_PostmanShoulderBag",
-      "price": -10
-    },
-    {
-      "abr": "radiointercom",
-      "category": "Electronics",
-      "defname": "AM_RadioIntercom",
-      "price": -10
-    },
-    {
-      "abr": "rainbowwool",
-      "category": "Wools",
-      "defname": "DRS_WoolMuffaloaf",
-      "price": -10
-    },
-    {
-      "abr": "rampageparasite",
-      "category": "Bionic",
-      "defname": "AM_RampageParasite",
-      "price": -10
-    },
-    {
-      "abr": "rattlerassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MCX",
-      "price": -10
-    },
-    {
-      "abr": "rattlershortrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_MCXC",
-      "price": -10
-    },
-    {
-      "abr": "rocky",
-      "category": "Animals",
-      "defname": "Rocky",
-      "price": -10
-    },
-    {
-      "abr": "rockymeat",
-      "category": "Meat",
-      "defname": "Meat_Rocky",
-      "price": -10
-    },
-    {
-      "abr": "rustyemptyshelves",
-      "category": "Container",
-      "defname": "AM_RustyEmptyShelves_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefox",
-      "category": "Animals",
-      "defname": "Whitefox",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefoxtail",
-      "category": "Items",
-      "defname": "WhitefoxTail",
-      "price": -10
-    },
-    {
-      "abr": "sacredwhitefoxwool",
-      "category": "Wools",
-      "defname": "WhitefoxWool",
-      "price": -10
-    },
-    {
-      "abr": "salewakit",
-      "category": "Medicine",
-      "defname": "AM_Salewa",
-      "price": -10
-    },
-    {
-      "abr": "scavbag",
-      "category": "Container",
-      "defname": "AM_Scav_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "scavbag",
-      "category": "Container",
-      "defname": "AM_Scav",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapA",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapB",
-      "price": -10
-    },
-    {
-      "abr": "shoppingguidemap",
-      "category": "Container",
-      "defname": "AM_SmallShoppingGuideMapC",
-      "price": -10
-    },
-    {
-      "abr": "shortassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_M4C",
-      "price": -10
-    },
-    {
-      "abr": "shrinkray",
-      "category": "Ranged weapons",
-      "defname": "BMad_ShrinkRay",
-      "price": -10
-    },
-    {
-      "abr": "shrink-raymini-turret",
-      "category": "Security",
-      "defname": "BMAD_ShrinkTurret",
-      "price": -10
-    },
-    {
-      "abr": "sicc",
-      "category": "Container",
-      "defname": "AM_SICC_SalvagePoint",
-      "price": -10
-    },
-    {
-      "abr": "sicc",
-      "category": "Rare items",
-      "defname": "AM_SICC",
-      "price": -10
-    },
-    {
-      "abr": "simplelargemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeSimple",
-      "price": -10
-    },
-    {
-      "abr": "six-armedsnake-person",
-      "category": "Animal",
-      "defname": "BS_Marlith",
-      "price": -10
-    },
-    {
-      "abr": "skrýmir'smallet",
-      "category": "Melee weapons",
-      "defname": "BS_SkrymirHammer",
-      "price": -10
-    },
-    {
-      "abr": "slidesign",
-      "category": "Container",
-      "defname": "AM_SlideSign",
-      "price": -10
-    },
-    {
-      "abr": "smallcase",
-      "category": "Container",
-      "defname": "AM_SmallCase_Open_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "smallmilitarycasecase",
-      "category": "Container",
-      "defname": "AM_SmallCase",
-      "price": -10
-    },
-    {
-      "abr": "snackstorageracks",
-      "category": "Container",
-      "defname": "AM_Snack_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "snake-person",
-      "category": "Animal",
-      "defname": "BS_Naga",
-      "price": -10
-    },
-    {
-      "abr": "spider-person",
-      "category": "Animal",
-      "defname": "BS_SpiderPersonRace",
-      "price": -10
-    },
-    {
-      "abr": "sportsbag",
-      "category": "Container",
-      "defname": "AM_SportsBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "sportsbag",
-      "category": "Container",
-      "defname": "AM_SportsBag",
-      "price": -10
-    },
-    {
-      "abr": "sprite",
-      "category": "Meals",
-      "defname": "AM_Sprite",
-      "price": -10
-    },
-    {
-      "abr": "ssd",
-      "category": "Electronics",
-      "defname": "AM_SSD",
-      "price": -10
-    },
-    {
-      "abr": "steakpotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsD",
-      "price": -10
-    },
-    {
-      "abr": "stechkinpistol",
-      "category": "Ranged weapons",
-      "defname": "AM_APS",
-      "price": -10
-    },
-    {
-      "abr": "steelenforcer",
-      "category": "Animal",
-      "defname": "BS_CommandoBot",
-      "price": -10
-    },
-    {
-      "abr": "steelenforcermeat",
-      "category": "Meat",
-      "defname": "Meat_BS_CommandoBot",
-      "price": -10
-    },
-    {
-      "abr": "storageracks",
-      "category": "Container",
-      "defname": "AM_StorageRacks",
-      "price": -10
-    },
-    {
-      "abr": "stunbaton",
-      "category": "Melee weapons",
-      "defname": "VWE_MeleeWeapon_StunBaton",
-      "price": -10
-    },
-    {
-      "abr": "surgicalbag",
-      "category": "Drugs",
-      "defname": "AM_SurgicalBag",
-      "price": -10
-    },
-    {
-      "abr": "survivalkit",
-      "category": "Drugs",
-      "defname": "AM_BigSurgicalBag",
-      "price": -10
-    },
-    {
-      "abr": "swordofsurtr",
-      "category": "Melee weapons",
-      "defname": "BS_SurtrSword",
-      "price": -10
-    },
-    {
-      "abr": "synth",
-      "category": "Animal",
-      "defname": "BS_SynthRace",
-      "price": -10
-    },
-    {
-      "abr": "synthmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_SynthRace",
-      "price": -10
-    },
-    {
-      "abr": "tapemeasure",
-      "category": "Tools",
-      "defname": "AM_TapeMeasure",
-      "price": -10
-    },
-    {
-      "abr": "tasergun",
-      "category": "Ranged weapons",
-      "defname": "VWE_Gun_Taser",
-      "price": -10
-    },
-    {
-      "abr": "teargasgrenades",
-      "category": "Grenades",
-      "defname": "VWE_TearGasGrenade",
-      "price": -10
-    },
-    {
-      "abr": "teargaslauncher",
-      "category": "Ranged weapons",
-      "defname": "VWE_Gun_TearGasLauncher",
-      "price": -10
-    },
-    {
-      "abr": "throwingchunks",
-      "category": "Ranged weapons",
-      "defname": "BS_OgreThrowinRock",
-      "price": -10
-    },
-    {
-      "abr": "tomatopotatochips",
-      "category": "Meals",
-      "defname": "AM_PotatoChipsB",
-      "price": -10
-    },
-    {
-      "abr": "travelbag",
-      "category": "Container",
-      "defname": "AM_TravelBag_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "travelbag",
-      "category": "Container",
-      "defname": "AM_TravelBag",
-      "price": -10
-    },
-    {
-      "abr": "tsingtao",
-      "category": "Drugs",
-      "defname": "AM_TsingtaoBeer",
-      "price": -10
-    },
-    {
-      "abr": "uhmwpeplate",
-      "category": "Military components",
-      "defname": "AM_UHMWPEPlate",
-      "price": -10
-    },
-    {
-      "abr": "urbanassaultrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_DTMDR",
-      "price": -10
-    },
-    {
-      "abr": "vegetableshelf",
-      "category": "Container",
-      "defname": "AM_VegetableShelf",
-      "price": -10
-    },
-    {
-      "abr": "vegetarianlargefinemeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeFine_Veg",
-      "price": -10
-    },
-    {
-      "abr": "vegetarianlargelavishmeal",
-      "category": "Meals",
-      "defname": "BS_MealLargeLavish_Veg",
-      "price": -10
-    },
-    {
-      "abr": "vendingmachine",
-      "category": "Container",
-      "defname": "AM_VendingMachine_Decoration",
-      "price": -10
-    },
-    {
-      "abr": "vintorezspecialrifle",
-      "category": "Ranged weapons",
-      "defname": "AM_VSS",
-      "price": -10
-    },
-    {
-      "abr": "warmechanti-materialrifle",
-      "category": "Ranged weapons",
-      "defname": "BS_JotunRifle",
-      "price": -10
-    },
-    {
-      "abr": "warmechmachinegun",
-      "category": "Ranged weapons",
-      "defname": "BS_GiantMinigun",
-      "price": -10
-    },
-    {
-      "abr": "warmechrocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "BS_JotunRocketLauncher",
-      "price": -10
-    },
-    {
-      "abr": "waverifle",
-      "category": "Ranged weapons",
-      "defname": "AM_ASVAL",
-      "price": -10
-    },
-    {
-      "abr": "waybill",
-      "category": "Rare items",
-      "defname": "AM_WayBill",
-      "price": -10
-    },
-    {
-      "abr": "weaponcase",
-      "category": "Container",
-      "defname": "AM_WeaponCase",
-      "price": -10
-    },
-    {
-      "abr": "weaponcomponent",
-      "category": "Military components",
-      "defname": "AM_ComponentWeapon",
-      "price": -10
-    },
-    {
-      "abr": "whitefoxfur",
-      "category": "Leathers",
-      "defname": "Leather_Whitefox",
-      "price": -10
-    },
-    {
-      "abr": "xenodiscombobulator",
-      "category": "Misc",
-      "defname": "BS_GeneDicombobulator",
-      "price": -10
-    },
-    {
-      "abr": "xenogermcloner",
-      "category": "Misc",
-      "defname": "BS_CreateXenogerm",
-      "price": -10
-    },
-    {
-      "abr": "xeno-germlinemirroring",
-      "category": "Misc",
-      "defname": "BS_XenoCopy",
-      "price": -10
-    },
-    {
-      "abr": "centauroid",
-      "category": "Animal",
-      "defname": "BS_Centaur",
-      "price": 2917
-    },
-    {
-      "abr": "centauroidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_Centaur",
-      "price": 1
-    },
-    {
-      "abr": "centauroidwithfourarms",
-      "category": "Animal",
-      "defname": "G_CentaurFourArm",
-      "price": 2917
-    },
-    {
-      "abr": "centauroidwithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_CentaurFourArmWinged",
-      "price": 2917
-    },
-    {
-      "abr": "centauroidwithwings",
-      "category": "Animal",
-      "defname": "G_CentaurWinged",
-      "price": 2917
-    },
-    {
-      "abr": "computationcenter",
-      "category": "Production",
-      "defname": "AM_VirutalMiner",
-      "price": 2767
-    },
-    {
-      "abr": "fourarmedhumanmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanFouramed",
-      "price": 1
-    },
-    {
-      "abr": "four-armedhumanlikewithatail",
-      "category": "Animal",
-      "defname": "G_FourArmTailed",
-      "price": 2917
-    },
-    {
-      "abr": "four-armedhumanlikewithatailandwings",
-      "category": "Animal",
-      "defname": "G_FourArmTailedWinged",
-      "price": 2917
-    },
-    {
-      "abr": "four-armedhumanlikewithwings",
-      "category": "Animal",
-      "defname": "G_FourArmWinged",
-      "price": 2917
-    },
-    {
-      "abr": "mech",
-      "category": "Animal",
-      "defname": "BS_UrbMech",
-      "price": 4167
-    },
-    {
-      "abr": "mechmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_UrbMech",
-      "price": 1
-    },
-    {
-      "abr": "mechawithatail",
-      "category": "Animal",
-      "defname": "M_MechaTailed",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithatailandwings",
-      "category": "Animal",
-      "defname": "M_MechaTailedWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourarms",
-      "category": "Animal",
-      "defname": "M_MechaFourArm",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourarmsandatail",
-      "category": "Animal",
-      "defname": "M_MechaFourArmTailed",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourarmsandatailandwings",
-      "category": "Animal",
-      "defname": "M_MechaFourArmTailedWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaFourArmWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourlegs",
-      "category": "Animal",
-      "defname": "M_MechaCentaur",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourlegsandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaCentaurFourArm",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourlegsandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaCentaurFourArmWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithfourlegsandwings",
-      "category": "Animal",
-      "defname": "M_MechaCentaurWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithmech",
-      "category": "Animal",
-      "defname": "M_MechaMecha",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithserpent-liketail",
-      "category": "Animal",
-      "defname": "M_MechaSnek",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithserpent-liketailandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaSnekFourArm",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithserpent-liketailandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaSnekFourArmWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithserpent-liketailandwings",
-      "category": "Animal",
-      "defname": "M_MechaSnekWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithspider-likeabdomen",
-      "category": "Animal",
-      "defname": "M_MechaSpooder",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithspider-likeabdomenandfourarms",
-      "category": "Animal",
-      "defname": "M_MechaSpooderFourArm",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithspider-likeabdomenandfourarmsandwings",
-      "category": "Animal",
-      "defname": "M_MechaSpooderFourArmWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithspider-likeabdomenandwings",
-      "category": "Animal",
-      "defname": "M_MechaSpooderWinged",
-      "price": 4167
-    },
-    {
-      "abr": "mechawithwings",
-      "category": "Animal",
-      "defname": "M_MechaWinged",
-      "price": 4167
-    },
-    {
-      "abr": "serpent-likewithfourarms",
-      "category": "Animal",
-      "defname": "G_SnekFourArm",
-      "price": 2917
-    },
-    {
-      "abr": "serpent-likewithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_SnekFourArmWinged",
-      "price": 2917
-    },
-    {
-      "abr": "serpent-likewithwings",
-      "category": "Animal",
-      "defname": "G_SnekWinged",
-      "price": 2917
-    },
-    {
-      "abr": "snake-personmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_Naga",
-      "price": 1
-    },
-    {
-      "abr": "spider-likewithfourarms",
-      "category": "Animal",
-      "defname": "G_SpooderFourArm",
-      "price": 2917
-    },
-    {
-      "abr": "spider-likewithfourarmsandwings",
-      "category": "Animal",
-      "defname": "G_SpooderFourArmWinged",
-      "price": 2917
-    },
-    {
-      "abr": "spider-likewithwings",
-      "category": "Animal",
-      "defname": "G_SpooderWinged",
-      "price": 2917
-    },
-    {
-      "abr": "tailedhumanlikewithwings",
-      "category": "Animal",
-      "defname": "G_TailedWinged",
-      "price": 2917
-    },
-    {
-      "abr": "tailedhumanoid",
-      "category": "Animal",
-      "defname": "BS_HumanoidWithTail",
-      "price": 2917
-    },
-    {
-      "abr": "tailedhumanoidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanoidWithTail",
-      "price": 1
-    },
-    {
-      "abr": "wingedhumanoid",
-      "category": "Animal",
-      "defname": "BS_HumanoidWithWings",
-      "price": 2917
-    },
-    {
-      "abr": "wingedhumanoidmeat",
-      "category": "Meat",
-      "defname": "Meat_BS_HumanoidWithWings",
-      "price": 1
-    },
-    {
       "abr": "deathsuperacidifier",
       "category": "Bionic",
       "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "price": -10
+    },
+    {
+      "abr": "adreamoline",
+      "category": "Drugs",
+      "defname": "BOR_Adreamoline",
+      "price": -10
+    },
+    {
+      "abr": "aegis",
+      "category": "Drugs",
+      "defname": "BOR_Aegis",
+      "price": -10
+    },
+    {
+      "abr": "billiardsholotable",
+      "category": "Furniture",
+      "defname": "BOR_BilliardsTable",
+      "price": -10
+    },
+    {
+      "abr": "canter",
+      "category": "Drugs",
+      "defname": "BOR_Canter",
+      "price": -10
+    },
+    {
+      "abr": "castra",
+      "category": "Drugs",
+      "defname": "BOR_Castra",
+      "price": -10
+    },
+    {
+      "abr": "chessholotable",
+      "category": "Furniture",
+      "defname": "BOR_ChessTable",
+      "price": -10
+    },
+    {
+      "abr": "circuitbreaker",
+      "category": "Power",
+      "defname": "Building_RTCircuitBreaker",
+      "price": -10
+    },
+    {
+      "abr": "controlexpansiontheory",
+      "category": "Mechtech",
+      "defname": "ControlExpansionItem",
+      "price": -10
+    },
+    {
+      "abr": "crewmates",
+      "category": "Drugs",
+      "defname": "BOR_Crewmates",
+      "price": -10
+    },
+    {
+      "abr": "crystallinejoints",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_ComponentIII",
+      "price": -10
+    },
+    {
+      "abr": "darkfabricator",
+      "category": "Production",
+      "defname": "BOR_Bench_III",
+      "price": -10
+    },
+    {
+      "abr": "darkforge",
+      "category": "Production",
+      "defname": "BOR_Forge_III",
+      "price": -10
+    },
+    {
+      "abr": "darkmanufacturer",
+      "category": "Misc",
+      "defname": "BOR_ToolCabinet_III",
+      "price": -10
+    },
+    {
+      "abr": "darkmedicine",
+      "category": "Medicine",
+      "defname": "BOR_MedicineIII",
+      "price": -10
+    },
+    {
+      "abr": "darkmirror",
+      "category": "Misc",
+      "defname": "BOR_Research_Unlocker_III",
+      "price": -10
+    },
+    {
+      "abr": "darktelescope",
+      "category": "Recreation",
+      "defname": "BOR_Telescope_III",
+      "price": -10
+    },
+    {
+      "abr": "darkscreentelevision",
+      "category": "Recreation",
+      "defname": "BOR_MegascreenTelevision_III",
+      "price": -10
+    },
+    {
+      "abr": "experimentresultsi",
+      "category": "Items",
+      "defname": "ExperimentResultsI",
+      "price": -10
+    },
+    {
+      "abr": "experimentresultsii",
+      "category": "Items",
+      "defname": "ExperimentResultsII",
+      "price": -10
+    },
+    {
+      "abr": "experimentresultsiii",
+      "category": "Items",
+      "defname": "ExperimentResultsIII",
+      "price": -10
+    },
+    {
+      "abr": "femtoclusters",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_Femtoclusters",
+      "price": -10
+    },
+    {
+      "abr": "firstkwaedkit",
+      "category": "Medicine",
+      "defname": "BOR_MedicineII",
+      "price": -10
+    },
+    {
+      "abr": "fleshboundgrimoire",
+      "category": "Items",
+      "defname": "NecromanticCore",
+      "price": -10
+    },
+    {
+      "abr": "gallop",
+      "category": "Drugs",
+      "defname": "BOR_Gallop",
+      "price": -10
+    },
+    {
+      "abr": "game-of-urholoboard",
+      "category": "Furniture",
+      "defname": "BOR_GameOfUrBoard",
+      "price": -10
+    },
+    {
+      "abr": "greencrystal",
+      "category": "Items",
+      "defname": "GreenCrystal",
+      "price": -10
+    },
+    {
+      "abr": "gunlink",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_Gunlink",
+      "price": -10
+    },
+    {
+      "abr": "gunlink",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_Gunlink",
+      "price": -10
+    },
+    {
+      "abr": "gunlink",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_Gunlink",
+      "price": -10
+    },
+    {
+      "abr": "holotelescope",
+      "category": "Recreation",
+      "defname": "BOR_Telescope_I",
+      "price": -10
+    },
+    {
+      "abr": "holotoolcabinet",
+      "category": "Misc",
+      "defname": "BOR_ToolCabinet_I",
+      "price": -10
+    },
+    {
+      "abr": "incendiaryneutroniumshell",
+      "category": "Mortar shells",
+      "defname": "BOR_Shell_Mortar_Nc",
+      "price": 167
+    },
+    {
+      "abr": "kwazaariassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_AssaultRifle_TII",
+      "price": -10
+    },
+    {
+      "abr": "kwazaarichainshotgun",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_ChainShotgun_TII",
+      "price": -10
+    },
+    {
+      "abr": "kwazaaricontrolsublink(high)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkHighQuasar",
+      "price": -10
+    },
+    {
+      "abr": "kwazaaricontrolsublink(standard)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkQuasar",
+      "price": -10
+    },
+    {
+      "abr": "kwazaariempshell",
+      "category": "Mortar shells",
+      "defname": "BOR_Shell_Mortar_Ion_N",
+      "price": 167
+    },
+    {
+      "abr": "kwazaarilmg",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_LMG_TII",
+      "price": -10
+    },
+    {
+      "abr": "kwazaarimedicalfabricator",
+      "category": "Production",
+      "defname": "BOR_MedicineBench_II",
+      "price": -10
+    },
+    {
+      "abr": "kwazaaripersonalcomputer",
+      "category": "Recreation",
+      "defname": "BOR_PC_II",
+      "price": -10
+    },
+    {
+      "abr": "kwazaaripistol",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_Autopistol_TII",
+      "price": -10
+    },
+    {
+      "abr": "kwazaariremoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "kwazaariremoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielderQuasar",
+      "price": -10
+    },
+    {
+      "abr": "kwazaarirepairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbeQuasar",
+      "price": -10
+    },
+    {
+      "abr": "kwazaarisniperrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_SniperRifle_TII",
+      "price": -10
+    },
+    {
+      "abr": "kwazaarisword",
+      "category": "Melee weapons",
+      "defname": "BOR_Longsword",
+      "price": -10
+    },
+    {
+      "abr": "kwazaariuniversalpart",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_ComponentII",
+      "price": -10
+    },
+    {
+      "abr": "kwazifabquasarfabricator",
+      "category": "Production",
+      "defname": "BOR_Bench_II",
+      "price": -10
+    },
+    {
+      "abr": "makeshiftfuse",
+      "category": "Power",
+      "defname": "Building_RTMakeshiftFuse",
+      "price": -10
+    },
+    {
+      "abr": "mechkwazaarigestationprocessor",
+      "category": "Mechtech",
+      "defname": "MechFormfeederQuasar",
+      "price": -10
+    },
+    {
+      "abr": "mechsolargestationprocessor",
+      "category": "Mechtech",
+      "defname": "MechFormfeederSolar",
+      "price": -10
+    },
+    {
+      "abr": "mechtenebralgestationprocessor",
+      "category": "Mechtech",
+      "defname": "MechFormfeederTenebral",
+      "price": -10
+    },
+    {
+      "abr": "mechumbralgestationprocessor",
+      "category": "Mechtech",
+      "defname": "MechFormfeederUmbral",
+      "price": -10
+    },
+    {
+      "abr": "nanoclusters",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_Nanoclusters",
+      "price": -10
+    },
+    {
+      "abr": "neuralshackle",
+      "category": "Bionic",
+      "defname": "OWD_NeuralShackle",
+      "price": -10
+    },
+    {
+      "abr": "neutronium",
+      "category": "Raw resources",
+      "defname": "BOR_Neutronium",
+      "price": -10
+    },
+    {
+      "abr": "neutroniumdrain",
+      "category": "Furniture",
+      "defname": "BOR_NeutroniumDrain",
+      "price": -10
+    },
+    {
+      "abr": "neutroniumshell",
+      "category": "Mortar shells",
+      "defname": "BOR_Shell_Mortar_Ni",
+      "price": 167
+    },
+    {
+      "abr": "neutroniumtap",
+      "category": "Furniture",
+      "defname": "BOR_NeutroniumTap",
+      "price": -10
+    },
+    {
+      "abr": "pax",
+      "category": "Drugs",
+      "defname": "BOR_Pax",
+      "price": -10
+    },
+    {
+      "abr": "picoclusters",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_Picoclusters",
+      "price": -10
+    },
+    {
+      "abr": "pokerholotable",
+      "category": "Furniture",
+      "defname": "BOR_PokerTable",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarcataphractarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_ArmorHelmetCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarmarinearmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorMarinePrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_ArmorMarineHelmetPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarreconarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigequasarreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_ArmorHelmetReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarcataphractarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_ArmorHelmetCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarmarinearmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorMarinePrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_ArmorMarineHelmetPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarreconarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigesolarreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_ArmorHelmetReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralcataphractarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_ArmorHelmetCataphractPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralmarinearmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorMarinePrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_ArmorMarineHelmetPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralreconarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "prestigetenebralreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_ArmorHelmetReconPrestige",
+      "price": -10
+    },
+    {
+      "abr": "quasaraestheticnose",
+      "category": "Archotech",
+      "defname": "AestheticNoseQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasaraestheticshaper",
+      "category": "Archotech",
+      "defname": "AestheticShaperQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasaralloy",
+      "category": "Materials beyond our reach",
+      "defname": "BOR_QuasarAlloy",
+      "price": -10
+    },
+    {
+      "abr": "quasararm",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicArm",
+      "price": -10
+    },
+    {
+      "abr": "quasararmorskingland",
+      "category": "Archotech",
+      "defname": "ArmorskinGlandQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarbattery",
+      "category": "Power",
+      "defname": "BOR_Battery_II",
+      "price": -10
+    },
+    {
+      "abr": "quasarcataphractarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorCataphract",
+      "price": -10
+    },
+    {
+      "abr": "quasarcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_ArmorHelmetCataphract",
+      "price": -10
+    },
+    {
+      "abr": "quasarcircadianassistant",
+      "category": "Archotech",
+      "defname": "CircadianAssistantQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarcircadianhalf-cycler",
+      "category": "Archotech",
+      "defname": "CircadianHalfCyclerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarcoagulator",
+      "category": "Archotech",
+      "defname": "CoagulatorQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasardrillarm",
+      "category": "Archotech",
+      "defname": "DrillArmQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarear",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicEar",
+      "price": -10
+    },
+    {
+      "abr": "quasarelbowblade",
+      "category": "Archotech",
+      "defname": "ElbowBladeQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasareye",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "quasarfieldhand",
+      "category": "Archotech",
+      "defname": "FieldHandQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarflakjacket",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_FlakJacket",
+      "price": -10
+    },
+    {
+      "abr": "quasarflakpants",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_FlakPants",
+      "price": -10
+    },
+    {
+      "abr": "quasarflakvest",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_FlakVest",
+      "price": -10
+    },
+    {
+      "abr": "quasargastro-analyzer",
+      "category": "Archotech",
+      "defname": "GastroAnalyzerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasargrenadierarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorMarineGrenadier",
+      "price": -10
+    },
+    {
+      "abr": "quasarhandtalon",
+      "category": "Archotech",
+      "defname": "HandTalonQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarhealingenhancer",
+      "category": "Archotech",
+      "defname": "HealingEnhancerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarheart",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicHeart",
+      "price": -10
+    },
+    {
+      "abr": "quasarimmunoenhancer",
+      "category": "Archotech",
+      "defname": "ImmunoenhancerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarjaw",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicJaw",
+      "price": -10
+    },
+    {
+      "abr": "quasarkidney",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicKidney",
+      "price": -10
+    },
+    {
+      "abr": "quasarkneespike",
+      "category": "Archotech",
+      "defname": "KneeSpikeQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarlearningassistant",
+      "category": "Archotech",
+      "defname": "LearningAssistantQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarleg",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicLeg",
+      "price": -10
+    },
+    {
+      "abr": "quasarliver",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicLiver",
+      "price": -10
+    },
+    {
+      "abr": "quasarlocustarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorLocust",
+      "price": -10
+    },
+    {
+      "abr": "quasarlung",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicLung",
+      "price": -10
+    },
+    {
+      "abr": "quasarmarinearmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_PowerArmor",
+      "price": -10
+    },
+    {
+      "abr": "quasarmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_PowerArmorHelmet",
+      "price": -10
+    },
+    {
+      "abr": "quasarmindscrew",
+      "category": "Archotech",
+      "defname": "MindscrewQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarneurocalculator",
+      "category": "Archotech",
+      "defname": "NeurocalculatorQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarphoenixarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorCataphractPhoenix",
+      "price": -10
+    },
+    {
+      "abr": "quasarpsychicharmonizer",
+      "category": "Archotech",
+      "defname": "PsychicHarmonizerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarpsychicreader",
+      "category": "Archotech",
+      "defname": "PsychicReaderQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarpsychicsensitizer",
+      "category": "Archotech",
+      "defname": "PsychicSensitizerQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarreconarmor",
+      "category": "Kwazaari armor",
+      "defname": "BOR_Quasar_Apparel_ArmorRecon",
+      "price": -10
+    },
+    {
+      "abr": "quasarreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Quasar_Apparel_ArmorHelmetRecon",
+      "price": -10
+    },
+    {
+      "abr": "quasarreprocessorstomach",
+      "category": "Archotech",
+      "defname": "ReprocessorStomachQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarshieldbelt",
+      "category": "Utility",
+      "defname": "BOR_Quasar_Apparel_ShieldBelt",
+      "price": -10
+    },
+    {
+      "abr": "quasarspine",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicSpine",
+      "price": -10
+    },
+    {
+      "abr": "quasarstomach",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicStomach",
+      "price": -10
+    },
+    {
+      "abr": "quasarstoneskingland",
+      "category": "Archotech",
+      "defname": "StoneskinGlandQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasartongue",
+      "category": "Quasar bionics",
+      "defname": "BOR_QuasarBionicTongue",
+      "price": -10
+    },
+    {
+      "abr": "quasartoughskingland",
+      "category": "Archotech",
+      "defname": "ToughskinGlandQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarvenomfangs",
+      "category": "Archotech",
+      "defname": "VenomFangsQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasarvenomtalon",
+      "category": "Archotech",
+      "defname": "VenomTalonQuasar",
+      "price": -10
+    },
+    {
+      "abr": "quasaritebiosculpterpod",
+      "category": "Misc",
+      "defname": "BOR_Quasar_BiosculpterPod",
+      "price": -10
+    },
+    {
+      "abr": "quasaritesleepaccelerator",
+      "category": "Misc",
+      "defname": "BOR_Quasar_SleepAccelerator",
+      "price": -10
+    },
+    {
+      "abr": "quasariteweave",
+      "category": "Leathers beyond our reach",
+      "defname": "BOR_QuasarAlloyWeave",
+      "price": -10
+    },
+    {
+      "abr": "quasarscreentelevision",
+      "category": "Recreation",
+      "defname": "BOR_MegascreenTelevision_II",
+      "price": -10
+    },
+    {
+      "abr": "quasoscope",
+      "category": "Recreation",
+      "defname": "BOR_Telescope_II",
+      "price": -10
+    },
+    {
+      "abr": "sigma-classsagittaryautoscope",
+      "category": "Misc",
+      "defname": "BOR_Research_Unlocker_II",
+      "price": -10
+    },
+    {
+      "abr": "sleepquitin",
+      "category": "Drugs",
+      "defname": "BOR_Sleepquitin",
+      "price": -10
+    },
+    {
+      "abr": "solaraestheticnose",
+      "category": "Archotech",
+      "defname": "AestheticNoseSolar",
+      "price": -10
+    },
+    {
+      "abr": "solaraestheticshaper",
+      "category": "Archotech",
+      "defname": "AestheticShaperSolar",
+      "price": -10
+    },
+    {
+      "abr": "solararm",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicArm",
+      "price": -10
+    },
+    {
+      "abr": "solararmorskingland",
+      "category": "Archotech",
+      "defname": "ArmorskinGlandSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_AssaultRifle_TI",
+      "price": -10
+    },
+    {
+      "abr": "solarcataphractarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorCataphract",
+      "price": -10
+    },
+    {
+      "abr": "solarcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_ArmorHelmetCataphract",
+      "price": -10
+    },
+    {
+      "abr": "solarchainshotgun",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_ChainShotgun_TI",
+      "price": -10
+    },
+    {
+      "abr": "solarcircadianassistant",
+      "category": "Archotech",
+      "defname": "CircadianAssistantSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarcircadianhalf-cycler",
+      "category": "Archotech",
+      "defname": "CircadianHalfCyclerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarcoagulator",
+      "category": "Archotech",
+      "defname": "CoagulatorSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarcontrolsublink(high)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkHighSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarcontrolsublink(standard)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkSolar",
+      "price": -10
+    },
+    {
+      "abr": "solardrillarm",
+      "category": "Archotech",
+      "defname": "DrillArmSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarear",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicEar",
+      "price": -10
+    },
+    {
+      "abr": "solarelbowblade",
+      "category": "Archotech",
+      "defname": "ElbowBladeSolar",
+      "price": -10
+    },
+    {
+      "abr": "solareye",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicEye",
+      "price": -10
+    },
+    {
+      "abr": "solarfieldhand",
+      "category": "Archotech",
+      "defname": "FieldHandSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarflakjacket",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_FlakJacket",
+      "price": -10
+    },
+    {
+      "abr": "solarflakpants",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_FlakPants",
+      "price": -10
+    },
+    {
+      "abr": "solarflakvest",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_FlakVest",
+      "price": -10
+    },
+    {
+      "abr": "solarfluidsimulationarray",
+      "category": "Misc",
+      "defname": "BOR_Research_Unlocker_I",
+      "price": -10
+    },
+    {
+      "abr": "solargastro-analyzer",
+      "category": "Archotech",
+      "defname": "GastroAnalyzerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solargrenadierarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorMarineGrenadier",
+      "price": -10
+    },
+    {
+      "abr": "solarhandtalon",
+      "category": "Archotech",
+      "defname": "HandTalonSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarhealingenhancer",
+      "category": "Archotech",
+      "defname": "HealingEnhancerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarheart",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicHeart",
+      "price": -10
+    },
+    {
+      "abr": "solarimmunoenhancer",
+      "category": "Archotech",
+      "defname": "ImmunoenhancerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarjaw",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicJaw",
+      "price": -10
+    },
+    {
+      "abr": "solarkidney",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicKidney",
+      "price": -10
+    },
+    {
+      "abr": "solarkneespike",
+      "category": "Archotech",
+      "defname": "KneeSpikeSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarlearningassistant",
+      "category": "Archotech",
+      "defname": "LearningAssistantSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarleg",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicLeg",
+      "price": -10
+    },
+    {
+      "abr": "solarliver",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicLiver",
+      "price": -10
+    },
+    {
+      "abr": "solarlocustarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorLocust",
+      "price": -10
+    },
+    {
+      "abr": "solarlung",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicLung",
+      "price": -10
+    },
+    {
+      "abr": "solarmarinearmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_PowerArmor",
+      "price": -10
+    },
+    {
+      "abr": "solarmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_PowerArmorHelmet",
+      "price": -10
+    },
+    {
+      "abr": "solarmedicalfabricator",
+      "category": "Production",
+      "defname": "BOR_MedicineBench_I",
+      "price": -10
+    },
+    {
+      "abr": "solarmindscrew",
+      "category": "Archotech",
+      "defname": "MindscrewSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarneurocalculator",
+      "category": "Archotech",
+      "defname": "NeurocalculatorSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarphoenixarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorCataphractPhoenix",
+      "price": -10
+    },
+    {
+      "abr": "solarpistol",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_Autopistol_TI",
+      "price": -10
+    },
+    {
+      "abr": "solarpsychicharmonizer",
+      "category": "Archotech",
+      "defname": "PsychicHarmonizerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarpsychicreader",
+      "category": "Archotech",
+      "defname": "PsychicReaderSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarpsychicsensitizer",
+      "category": "Archotech",
+      "defname": "PsychicSensitizerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarreconarmor",
+      "category": "Solarite armor",
+      "defname": "BOR_Solar_Apparel_ArmorRecon",
+      "price": -10
+    },
+    {
+      "abr": "solarreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Solar_Apparel_ArmorHelmetRecon",
+      "price": -10
+    },
+    {
+      "abr": "solarremoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairerSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarremoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielderSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarrepairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbeSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarreprocessorstomach",
+      "category": "Archotech",
+      "defname": "ReprocessorStomachSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarshieldbelt",
+      "category": "Utility",
+      "defname": "BOR_Solar_Apparel_ShieldBelt",
+      "price": -10
+    },
+    {
+      "abr": "solarsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_SniperRifle_TI",
+      "price": -10
+    },
+    {
+      "abr": "solarspine",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicSpine",
+      "price": -10
+    },
+    {
+      "abr": "solarstomach",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicStomach",
+      "price": -10
+    },
+    {
+      "abr": "solarstoneskingland",
+      "category": "Archotech",
+      "defname": "StoneskinGlandSolar",
+      "price": -10
+    },
+    {
+      "abr": "solartongue",
+      "category": "Solar bionics",
+      "defname": "BOR_SolarBionicTongue",
+      "price": -10
+    },
+    {
+      "abr": "solartoughskingland",
+      "category": "Archotech",
+      "defname": "ToughskinGlandSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarvenomfangs",
+      "category": "Archotech",
+      "defname": "VenomFangsSolar",
+      "price": -10
+    },
+    {
+      "abr": "solarvenomtalon",
+      "category": "Archotech",
+      "defname": "VenomTalonSolar",
+      "price": -10
+    },
+    {
+      "abr": "solaritebattery",
+      "category": "Power",
+      "defname": "BOR_Battery_I",
+      "price": -10
+    },
+    {
+      "abr": "solaritebiosculpterpod",
+      "category": "Misc",
+      "defname": "BOR_Solar_BiosculpterPod",
+      "price": -10
+    },
+    {
+      "abr": "solaritefuelrod",
+      "category": "Intricacies beyond our reach",
+      "defname": "BOR_FuelRod",
+      "price": -10
+    },
+    {
+      "abr": "solaritemedicine",
+      "category": "Medicine",
+      "defname": "BOR_MedicineI",
+      "price": -10
+    },
+    {
+      "abr": "solaritepersonalcomputer",
+      "category": "Recreation",
+      "defname": "BOR_PC_I",
+      "price": -10
+    },
+    {
+      "abr": "solaritesleepaccelerator",
+      "category": "Misc",
+      "defname": "BOR_Solar_SleepAccelerator",
+      "price": -10
+    },
+    {
+      "abr": "solarscreentelevision",
+      "category": "Recreation",
+      "defname": "BOR_MegascreenTelevision_I",
+      "price": -10
+    },
+    {
+      "abr": "sunforge",
+      "category": "Production",
+      "defname": "BOR_Forge_I",
+      "price": -10
+    },
+    {
+      "abr": "sunlight",
+      "category": "Drugs",
+      "defname": "BOR_Sunlight",
+      "price": -10
+    },
+    {
+      "abr": "sunlite",
+      "category": "Drugs",
+      "defname": "BOR_Sunlite",
+      "price": -10
+    },
+    {
+      "abr": "sunsteel",
+      "category": "Materials beyond our reach",
+      "defname": "BOR_Sunsteel",
+      "price": -10
+    },
+    {
+      "abr": "sunsteelshaper",
+      "category": "Production",
+      "defname": "BOR_Bench_I",
+      "price": -10
+    },
+    {
+      "abr": "sunweave",
+      "category": "Textiles beyond our reach",
+      "defname": "BOR_Sunweave",
+      "price": -10
+    },
+    {
+      "abr": "tenebralappendagetemplate",
+      "category": "Tenebral bionic",
+      "defname": "BOR_TenebralAppendage",
+      "price": -10
+    },
+    {
+      "abr": "tenebralassaultrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_AssaultRifle_TIII",
+      "price": -10
+    },
+    {
+      "abr": "tenebralbattery",
+      "category": "Power",
+      "defname": "BOR_Battery_III",
+      "price": -10
+    },
+    {
+      "abr": "tenebralcataphractarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorCataphract",
+      "price": -10
+    },
+    {
+      "abr": "tenebralcataphracthelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_ArmorHelmetCataphract",
+      "price": -10
+    },
+    {
+      "abr": "tenebralchainshotgun",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_ChainShotgun_TIII",
+      "price": -10
+    },
+    {
+      "abr": "tenebralcontrolsublink(high)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkHighTenebral",
+      "price": -10
+    },
+    {
+      "abr": "tenebralcontrolsublink(standard)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkTenebral",
+      "price": -10
+    },
+    {
+      "abr": "tenebralflakjacket",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_FlakJacket",
+      "price": -10
+    },
+    {
+      "abr": "tenebralflakpants",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_FlakPants",
+      "price": -10
+    },
+    {
+      "abr": "tenebralflakvest",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_FlakVest",
+      "price": -10
+    },
+    {
+      "abr": "tenebralgrenadierarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorMarineGrenadier",
+      "price": -10
+    },
+    {
+      "abr": "tenebrallocustarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorLocust",
+      "price": -10
+    },
+    {
+      "abr": "tenebralmarinearmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_PowerArmor",
+      "price": -10
+    },
+    {
+      "abr": "tenebralmarinehelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_PowerArmorHelmet",
+      "price": -10
+    },
+    {
+      "abr": "tenebralmedicalfabricator",
+      "category": "Production",
+      "defname": "BOR_MedicineBench_III",
+      "price": -10
+    },
+    {
+      "abr": "tenebralorgantemplate",
+      "category": "Tenebral bionic",
+      "defname": "BOR_TenebralOrgan",
+      "price": -10
+    },
+    {
+      "abr": "tenebralpersonalcomputer",
+      "category": "Recreation",
+      "defname": "BOR_PC_III",
+      "price": -10
+    },
+    {
+      "abr": "tenebralphoenixarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorCataphractPhoenix",
+      "price": -10
+    },
+    {
+      "abr": "tenebralpistol",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_Autopistol_TIII",
+      "price": -10
+    },
+    {
+      "abr": "tenebralreconarmor",
+      "category": "Tenebral armor",
+      "defname": "BOR_Tenebral_Apparel_ArmorRecon",
+      "price": -10
+    },
+    {
+      "abr": "tenebralreconhelmet",
+      "category": "Headgear",
+      "defname": "BOR_Tenebral_Apparel_ArmorHelmetRecon",
+      "price": -10
+    },
+    {
+      "abr": "tenebralremoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairerTenebral",
+      "price": -10
+    },
+    {
+      "abr": "tenebralremoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielderTenebral",
+      "price": -10
+    },
+    {
+      "abr": "tenebralrepairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbeTenebral",
+      "price": -10
+    },
+    {
+      "abr": "tenebralshieldbelt",
+      "category": "Utility",
+      "defname": "BOR_Tenebral_Apparel_ShieldBelt",
+      "price": -10
+    },
+    {
+      "abr": "tenebralsniperrifle",
+      "category": "Ranged weapons",
+      "defname": "BOR_Gun_SniperRifle_TIII",
+      "price": -10
+    },
+    {
+      "abr": "tenebralitebiosculpterpod",
+      "category": "Misc",
+      "defname": "BOR_Tenebral_BiosculpterPod",
+      "price": -10
+    },
+    {
+      "abr": "tenebralitesleepaccelerator",
+      "category": "Misc",
+      "defname": "BOR_Tenebral_SleepAccelerator",
+      "price": -10
+    },
+    {
+      "abr": "tenebritecrystals",
+      "category": "Materials beyond our reach",
+      "defname": "BOR_Tenebrite",
+      "price": -10
+    },
+    {
+      "abr": "thetaforge",
+      "category": "Production",
+      "defname": "BOR_Forge_II",
+      "price": -10
+    },
+    {
+      "abr": "toolkwaazbinet",
+      "category": "Misc",
+      "defname": "BOR_ToolCabinet_II",
+      "price": -10
+    },
+    {
+      "abr": "trot",
+      "category": "Drugs",
+      "defname": "BOR_Trot",
+      "price": -10
+    },
+    {
+      "abr": "umbralcontrolsublink(high)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkHighUmbral",
+      "price": -10
+    },
+    {
+      "abr": "umbralcontrolsublink(standard)",
+      "category": "Mechtech",
+      "defname": "ControlSublinkUmbral",
+      "price": -10
+    },
+    {
+      "abr": "umbralcreationengine",
+      "category": "Production",
+      "defname": "BOR_Bench_IV",
+      "price": -10
+    },
+    {
+      "abr": "umbralforge",
+      "category": "Production",
+      "defname": "BOR_Forge_IV",
+      "price": -10
+    },
+    {
+      "abr": "umbralremoterepairer",
+      "category": "Mechtech",
+      "defname": "RemoteRepairerUmbral",
+      "price": -10
+    },
+    {
+      "abr": "umbralremoteshielder",
+      "category": "Mechtech",
+      "defname": "RemoteShielderUmbral",
+      "price": -10
+    },
+    {
+      "abr": "umbralrepairprobe",
+      "category": "Mechtech",
+      "defname": "RepairProbeUmbral",
+      "price": -10
+    },
+    {
+      "abr": "umbralspire",
+      "category": "Misc",
+      "defname": "BOR_Research_Unlocker_IV",
+      "price": -10
+    },
+    {
+      "abr": "wide-a-wake",
+      "category": "Drugs",
+      "defname": "BOR_WideAWake",
+      "price": -10
+    },
+    {
+      "abr": "youthserum",
+      "category": "Items",
+      "defname": "MechSerumYouth",
+      "price": -10
     }
   ],
-  "total": 1035
+  "total": 978
 }

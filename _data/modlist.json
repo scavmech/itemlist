@@ -12,12 +12,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "GoGaTio",
-    "name": "Mechanoid Upgrades",
-    "steamId": "3365118555",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Slurmpy and MarximusMaximus",
     "name": "Slurmpy's Auto-Deathrest (1.5)",
     "steamId": "3235763894",
@@ -51,7 +45,7 @@
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
-    "version": "11.0.4"
+    "version": "11.0.5"
   },
   {
     "author": "Kosaro",
@@ -198,105 +192,45 @@
     "version": "1.0.3.0"
   },
   {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.1.1"
-  },
-  {
-    "author": "seobongzu",
-    "name": "[sbz] Neat Storage",
+    "author": "Amlifurx",
+    "name": "AF · Mech Fox",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
+    "author": "Bambaryła, ThatBartGuy, soldierGG1, Thadge, Octogiraffe and Pesky",
+    "name": "Beyond Our Reach",
+    "steamId": "3253594129",
     "version": "1.0.0.0"
   },
   {
-    "author": "vin",
-    "name": "Adaptive Primitive Storage",
+    "author": "6224Y",
+    "name": "One with Death",
+    "steamId": "3448902635",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ratys",
+    "name": "RT Fuse",
+    "steamId": "728314182",
+    "version": "1.7.0.0"
+  },
+  {
+    "author": "RemingtonRyder",
+    "name": "Sometimes Raids Go Wrong",
+    "steamId": "1551336515",
+    "version": "1.0.9174.27002"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.7.1"
+  },
+  {
+    "author": "NuanKi",
+    "name": "Un-Limited Reborn",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "rabiosus",
-    "name": "Automatic Parking",
-    "steamId": "3365473553",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "HaiLuan",
-    "name": "I will be back",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "3219596926",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Seti",
-    "name": "Medieval Adventures: Implants",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Toastyman",
-    "name": "More Ritual Seats",
-    "steamId": "3411913071",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SilkCircuit",
-    "name": "Pass It Through The Window!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ponpeco",
-    "name": "Ponpeco Furnitures : Kids' Room",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Helixien, Taranchuk, OskarPotocki, Luizi, IcingWithCheeseCake, Sir Van and Reann_Shepard",
-    "name": "Reinforced Mechanoid 2 (Continued)",
-    "steamId": "3400713047",
-    "version": "1.5.14"
-  },
-  {
-    "author": "rooki1",
-    "name": "Rimsenal - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Krelinos",
-    "name": "Social EXP from Trade",
-    "steamId": "3400608063",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, xrushha and legodude17",
-    "name": "Vanilla Factions Expanded - Ancients",
-    "steamId": "2654846754",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "OELS",
-    "name": "Vehicle Map Framework",
-    "steamId": "3426502333",
-    "version": "1.0.0.0"
   }
 ]

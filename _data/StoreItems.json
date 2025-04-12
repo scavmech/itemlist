@@ -4522,7 +4522,7 @@
       "abr": "incendiaryneutroniumshell",
       "category": "Mortar shells",
       "defname": "BOR_Shell_Mortar_Nc",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "kwazaariassaultrifle",
@@ -4678,7 +4678,7 @@
       "abr": "neutroniumshell",
       "category": "Mortar shells",
       "defname": "BOR_Shell_Mortar_Ni",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "neutroniumtap",

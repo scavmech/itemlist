@@ -4552,7 +4552,7 @@
       "abr": "kwazaariempshell",
       "category": "Mortar shells",
       "defname": "BOR_Shell_Mortar_Ion_N",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "kwazaarilmg",

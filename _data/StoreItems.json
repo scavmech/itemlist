@@ -652,7 +652,7 @@
       "abr": "chocolate",
       "category": "Foods",
       "defname": "Chocolate",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "christmastree",
@@ -2644,7 +2644,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "psychofluidpump",

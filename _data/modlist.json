@@ -120,6 +120,18 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "jecrell and contributors",
+    "name": "JecsTools",
+    "steamId": "932008009",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.3.4"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -192,45 +204,75 @@
     "version": "1.0.3.0"
   },
   {
-    "author": "Amlifurx",
-    "name": "AF · Mech Fox",
+    "author": "Tixiv",
+    "name": "Who shot my leg off?",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Bambaryła, ThatBartGuy, soldierGG1, Thadge, Octogiraffe and Pesky",
-    "name": "Beyond Our Reach",
-    "steamId": "3253594129",
-    "version": "1.0.0+a9ebb8af0c58a4222cfcdcb36c8fbc8184b7c481"
-  },
-  {
-    "author": "6224Y",
-    "name": "One with Death",
-    "steamId": "3448902635",
+    "author": "Smash Phil",
+    "name": "Vehicle Framework",
+    "steamId": "3014915404",
     "version": "1.0.0.0"
   },
   {
-    "author": "Ratys",
-    "name": "RT Fuse",
-    "steamId": "728314182",
-    "version": "1.7.0.0"
+    "author": "AobaKuma",
+    "name": "Exosuit Framework",
+    "steamId": "3352894993",
+    "version": "1.0.0+7f0aa325c0b37ab33e0c25b8807fe9e554488754"
   },
   {
-    "author": "RemingtonRyder",
-    "name": "Sometimes Raids Go Wrong",
-    "steamId": "1551336515",
-    "version": "1.0.9174.27002"
-  },
-  {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.7.1"
-  },
-  {
-    "author": "NuanKi",
-    "name": "Un-Limited Reborn",
+    "author": "Sakura_Dream",
+    "name": "Titanfall 2-Ronin",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "trigger",
+    "name": "Elite Raid 精英化袭击",
+    "steamId": "3492954974",
+    "version": "1.0.0"
+  },
+  {
+    "author": "[KOR]Bichang",
+    "name": "Ferian Race - Biotech",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "TheOcean",
+    "name": "Grudges!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RimThunderTeams",
+    "name": "RimThunder - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RHO-915",
+    "name": "M-102 Fast Reconnaissance Vehicle（helldivers2）",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ChaoticEnrico",
+    "name": "Research Papers",
+    "steamId": "3492739424",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "yahvk",
+    "name": "Rimworld of Magic & Vehicles Framework Targeting fix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "JerryTheCultist",
+    "name": "Rimzone: Sons and Daughters of Helghan",
+    "steamId": "3492260324",
+    "version": "1.0.0.0"
   }
 ]

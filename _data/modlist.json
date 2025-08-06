@@ -3,73 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.1.0"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Slurmpy and MarximusMaximus",
-    "name": "Slurmpy's Auto-Deathrest (1.5)",
-    "steamId": "3235763894",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "kathanon",
-    "name": "Show Weapon Tallies",
-    "steamId": "2901520677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "RandomCoughdrop",
-    "name": "Random's Gene Assistant",
-    "steamId": "2882497271",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Mehni",
-    "name": "Numbers",
-    "steamId": "1414302321",
-    "version": "1.0.0+3becb974cac33361f1e8b9711923eddced9e53ab"
-  },
-  {
-    "author": "We're in Heaven",
-    "name": "Colony Manager Fork",
-    "steamId": "3262932412",
-    "version": "1.5"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "11.0.5"
-  },
-  {
-    "author": "Kosaro",
-    "name": "Fahrenheit and Celsius",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Mint Menus",
-    "steamId": "1446523594",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Camera+",
-    "steamId": "867467808",
-    "version": "3.2.0.0"
-  },
-  {
-    "author": "Nibato",
-    "name": "AutoExtractGenes",
-    "steamId": "2882834449",
-    "version": "1.0.0+2c587d06f12c73ca4d2a51c19180122ac885aabb"
+    "version": "2.3.4.0"
   },
   {
     "author": "Supes",
@@ -78,33 +12,57 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "2218078784",
+    "author": "Nibato",
+    "name": "AutoExtractGenes",
+    "steamId": "2882834449",
+    "version": "1.0.0+5c371409c52a1621802cb4c641e76425b215c2c8"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Camera+",
+    "steamId": "867467808",
+    "version": "3.3.2.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Mint Menus",
+    "steamId": "1446523594",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Kosaro",
+    "name": "Fahrenheit and Celsius",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
     "version": "1.0.4.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.3.0+073ddaf1c0f951c5da75c0f0e2f2de64655f531f"
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
   },
   {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0+9b434538317ea1d8147af7e9ab29b045868b181a"
   },
   {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.3.0"
+    "author": "kathanon",
+    "name": "Show Weapon Tallies",
+    "steamId": "2901520677",
+    "version": "1.0.0.0"
   },
   {
-    "author": "Ornament",
-    "name": "AutoDye",
-    "steamId": "2563707717",
+    "author": "MarximusMaximus and Slurmpy",
+    "name": "Slurmpy's Auto-Deathrest (1.5, 1.6)",
+    "steamId": "3235763894",
     "version": "1.0.0.0"
   },
   {
@@ -120,70 +78,34 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "jecrell and contributors",
-    "name": "JecsTools",
-    "steamId": "932008009",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.3.4"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.4.0-beta+6fdbc22282511652e115c43e0d6c89402f88b4b5"
-  },
-  {
-    "author": "Captolamia",
-    "name": "Toolkit - Channel Points (ressurected) 1.5",
-    "steamId": "3240408211",
-    "version": "1.5.1"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5",
-    "steamId": "3239583412",
-    "version": "1.5.0.1"
+    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
   },
   {
     "author": "sirrandoo",
-    "name": "ToolkitCreator",
-    "steamId": "2099493475",
-    "version": "1.0.0.0"
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+087ba57a51502828a906a94051d99ccb60311f4e"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.4.0"
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitRaids",
-    "steamId": "2091359241",
-    "version": "1.2.1+7ccb7fa1f193a57b700662cc86a5e7d810bda4fd"
+    "name": "BetterSliders",
+    "steamId": "2218078784",
+    "version": "1.0.4.0"
   },
   {
     "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "2.0.0+288828fa92335d0d96e9251a76cc6cf6476421a0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "Arylice",
-    "name": "[ARY] Automatic Stump Chopping [1.5]",
-    "steamId": "3357749890",
-    "version": "1.0.0.0"
+    "name": "Where's My Bed?",
+    "steamId": "1919873778",
+    "version": "1.3.0+073ddaf1c0f951c5da75c0f0e2f2de64655f531f"
   },
   {
     "author": "bodlosh",
@@ -192,87 +114,33 @@
     "version": null
   },
   {
+    "author": "kathanon",
+    "name": "Float Sub-Menus",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "kathanon",
+    "name": "More Gene Information",
+    "steamId": "2942759212",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Billnotic",
     "name": "Actually Vanilla Music Expansion",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Zaljerem",
-    "name": "Music Manager (Continued)",
-    "steamId": "3220120457",
-    "version": "1.0.3.0"
-  },
-  {
-    "author": "Tixiv",
-    "name": "Who shot my leg off?",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Smash Phil",
-    "name": "Vehicle Framework",
-    "steamId": "3014915404",
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5 - 1.6]",
+    "steamId": "3357749890",
     "version": "1.0.0.0"
   },
   {
-    "author": "AobaKuma",
-    "name": "Exosuit Framework",
-    "steamId": "3352894993",
-    "version": "1.0.0+7f0aa325c0b37ab33e0c25b8807fe9e554488754"
-  },
-  {
-    "author": "Sakura_Dream",
-    "name": "Titanfall 2-Ronin",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "trigger",
-    "name": "Elite Raid 精英化袭击",
-    "steamId": "3492954974",
-    "version": "1.0.0"
-  },
-  {
-    "author": "[KOR]Bichang",
-    "name": "Ferian Race - Biotech",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "TheOcean",
-    "name": "Grudges!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RimThunderTeams",
-    "name": "RimThunder - Core",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RHO-915",
-    "name": "M-102 Fast Reconnaissance Vehicle（helldivers2）",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ChaoticEnrico",
-    "name": "Research Papers",
-    "steamId": "3492739424",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "yahvk",
-    "name": "Rimworld of Magic & Vehicles Framework Targeting fix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JerryTheCultist",
-    "name": "Rimzone: Sons and Daughters of Helghan",
-    "steamId": "3492260324",
-    "version": "1.0.0.0"
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
   }
 ]

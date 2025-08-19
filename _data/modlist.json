@@ -3,13 +3,19 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.4.0"
+    "version": "2.3.5.0"
   },
   {
     "author": "Supes",
     "name": "Auto Seller",
     "steamId": "1440321094",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Mehni",
+    "name": "Numbers (1.6 Temp)",
+    "steamId": "3513829896",
+    "version": "1.0.0+fe6606e948d43cd887dfb1ebb4bfefd296f0a168"
   },
   {
     "author": "Nibato",
@@ -142,5 +148,29 @@
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
     "steamId": "3239583412",
     "version": "1.6.0.1"
+  },
+  {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "We're in Heaven",
+    "name": "Colony Manager Fork",
+    "steamId": "3262932412",
+    "version": "1.6"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   }
 ]

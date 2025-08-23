@@ -150,18 +150,6 @@
     "version": "1.6.0.1"
   },
   {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
     "author": "We're in Heaven",
     "name": "Colony Manager Fork",
     "steamId": "3262932412",
@@ -172,5 +160,23 @@
     "name": "HugsLib",
     "steamId": "818773962",
     "version": "12.0.0"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors - Unofficial 1.5-1.6",
+    "steamId": "3319844548",
+    "version": "1.4.0.1"
+  },
+  {
+    "author": "Sarg Bjornson",
+    "name": "Smart Odyssey",
+    "steamId": "3522762411",
+    "version": "1.0.0.0"
   }
 ]

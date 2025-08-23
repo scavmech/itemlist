@@ -5389,17 +5389,131 @@
       "price": -10
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": -10
-    },
-    {
       "abr": "managerdesk",
       "category": "Production",
       "defname": "FM_ManagerStation",
       "price": -10
+    },
+    {
+      "abr": "chthonianchitin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Chthonian",
+      "price": -10
+    },
+    {
+      "abr": "chthonianstrips",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ChthonianMeat",
+      "price": -10
+    },
+    {
+      "abr": "cthulhidmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_CthulhidMeat",
+      "price": -10
+    },
+    {
+      "abr": "darkyoungmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DarkYoungMeat",
+      "price": -10
+    },
+    {
+      "abr": "darkyoungsap",
+      "category": "Animal products",
+      "defname": "ROM_DarkYoungSap",
+      "price": -10
+    },
+    {
+      "abr": "dark-youngbark",
+      "category": "Leathers",
+      "defname": "CH_Leather_DarkYoung",
+      "price": -10
+    },
+    {
+      "abr": "deeponemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_DeepOneMeat",
+      "price": -10
+    },
+    {
+      "abr": "deephide",
+      "category": "Leathers",
+      "defname": "CH_Leather_DeepOne",
+      "price": -10
+    },
+    {
+      "abr": "migomatter",
+      "category": "Leathers",
+      "defname": "CH_Leather_MiGo",
+      "price": -10
+    },
+    {
+      "abr": "migomeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_MiGoMeat",
+      "price": -10
+    },
+    {
+      "abr": "rhombohedralenergyweapon",
+      "category": "Ranged weapons",
+      "defname": "ROM_MiGoCastingWeapon",
+      "price": -10
+    },
+    {
+      "abr": "shoggothmeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_ShoggothMeat",
+      "price": -10
+    },
+    {
+      "abr": "starvampiremeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_StarVampireMeat",
+      "price": -10
+    },
+    {
+      "abr": "star-spawnskin",
+      "category": "Leathers",
+      "defname": "CH_Leather_Cthulhid",
+      "price": -10
+    },
+    {
+      "abr": "star-vampireleather",
+      "category": "Leathers",
+      "defname": "CH_Leather_StarVampire",
+      "price": -10
+    },
+    {
+      "abr": "strangefinemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealFine",
+      "price": -10
+    },
+    {
+      "abr": "strangekibble",
+      "category": "Foods",
+      "defname": "ROM_StrangeKibble",
+      "price": -10
+    },
+    {
+      "abr": "strangelavishmeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealLavish",
+      "price": -10
+    },
+    {
+      "abr": "strangesimplemeal",
+      "category": "Meals",
+      "defname": "ROM_StrangeMealSimple",
+      "price": -10
+    },
+    {
+      "abr": "untouchablemeat",
+      "category": "Raw strange meat",
+      "defname": "ROM_RawCHFood_Meat",
+      "price": -10
     }
   ],
-  "total": 900
+  "total": 919
 }

@@ -1402,7 +1402,7 @@
       "abr": "grandsculpture",
       "category": "Art",
       "defname": "SculptureGrand",
-      "price": 1967
+      "price": -10
     },
     {
       "abr": "graniteblocks",
@@ -1912,7 +1912,7 @@
       "abr": "largesculpture",
       "category": "Art",
       "defname": "SculptureLarge",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "lavishmeal",
@@ -3064,7 +3064,7 @@
       "abr": "smallsculpture",
       "category": "Art",
       "defname": "SculptureSmall",
-      "price": 275
+      "price": -10
     },
     {
       "abr": "smallshelf",
@@ -3352,7 +3352,7 @@
       "abr": "terrorsculpture",
       "category": "Art",
       "defname": "SculptureTerror",
-      "price": 517
+      "price": -10
     },
     {
       "abr": "thrumbo",
@@ -4294,7 +4294,7 @@
       "abr": "voidsculpture",
       "category": "Art",
       "defname": "VoidSculpture",
-      "price": 206
+      "price": -10
     },
     {
       "abr": "voidsightserum",
@@ -5314,7 +5314,7 @@
       "abr": "vacstoneblocks",
       "category": "Stone blocks",
       "defname": "BlocksVacstone",
-      "price": 3
+      "price": -10
     },
     {
       "abr": "vacsuit",

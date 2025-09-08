@@ -1,11 +1,6 @@
 {
 	"incitems" : [
 	{
-		"abr": "orbitaltraderarrival",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -13,6 +8,11 @@
 	{
 		"abr": "genderswap",
 		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "surgery",
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{

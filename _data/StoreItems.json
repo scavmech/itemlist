@@ -730,13 +730,13 @@
       "abr": "controlsublink(high)",
       "category": "Mechtech",
       "defname": "ControlSublinkHigh",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "controlsublink(standard)",
       "category": "Mechtech",
       "defname": "ControlSublink",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "corn",
@@ -1564,7 +1564,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "highsubcore",
@@ -2068,7 +2068,7 @@
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "MechFormfeeder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "mechnode",
@@ -2740,19 +2740,19 @@
       "abr": "remoterepairer",
       "category": "Mechtech",
       "defname": "RemoteRepairer",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "remoteshielder",
       "category": "Mechtech",
       "defname": "RemoteShielder",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "repairprobe",
       "category": "Mechtech",
       "defname": "RepairProbe",
-      "price": 2000
+      "price": -10
     },
     {
       "abr": "reprocessorstomach",
@@ -3946,13 +3946,13 @@
       "abr": "adrenalheart",
       "category": "Ghoul",
       "defname": "AdrenalHeart",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "bioferrite",
       "category": "Raw resources",
       "defname": "Bioferrite",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "bioferriteharvester",
@@ -3970,13 +3970,13 @@
       "abr": "biomutationlance",
       "category": "Utility",
       "defname": "Apparel_BiomutationLance",
-      "price": 1417
+      "price": -10
     },
     {
       "abr": "biomutationpulser",
       "category": "Artifacts",
       "defname": "BiomutationPulser",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "bionicjaw",
@@ -3994,13 +3994,13 @@
       "abr": "ceremonialhood",
       "category": "Headgear",
       "defname": "Apparel_CeremonialCultistMask",
-      "price": 91
+      "price": -10
     },
     {
       "abr": "corrosiveheart",
       "category": "Ghoul",
       "defname": "CorrosiveHeart",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "couch",
@@ -4012,13 +4012,13 @@
       "abr": "deadlifepack",
       "category": "Utility",
       "defname": "Apparel_DeadlifePack",
-      "price": 742
+      "price": -10
     },
     {
       "abr": "deadlifeshell",
       "category": "Mortar shells",
       "defname": "Shell_Deadlife",
-      "price": 92
+      "price": -10
     },
     {
       "abr": "dirtcubesculpture",
@@ -4030,13 +4030,13 @@
       "abr": "disruptorflarepack",
       "category": "Utility",
       "defname": "Apparel_DisruptorFlarePack",
-      "price": 134
+      "price": -10
     },
     {
       "abr": "dreadleather",
       "category": "Leathers",
       "defname": "Leather_Dread",
-      "price": 6
+      "price": -10
     },
     {
       "abr": "electricinhibitor",
@@ -4066,19 +4066,19 @@
       "abr": "ghoulbarbs",
       "category": "Ghoul",
       "defname": "GhoulBarbs",
-      "price": 80
+      "price": -10
     },
     {
       "abr": "ghoulplating",
       "category": "Ghoul",
       "defname": "GhoulPlating",
-      "price": 142
+      "price": -10
     },
     {
       "abr": "ghoulresurrectionserum",
       "category": "Drugs",
       "defname": "GhoulResurrectionSerum",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "goldencube",
@@ -4096,7 +4096,7 @@
       "abr": "hellcatrifle",
       "category": "Ranged weapons",
       "defname": "Gun_HellcatRifle",
-      "price": 825
+      "price": -10
     },
     {
       "abr": "holdingplatform",
@@ -4114,13 +4114,13 @@
       "abr": "incinerator",
       "category": "Ranged weapons",
       "defname": "Gun_Incinerator",
-      "price": 883
+      "price": -10
     },
     {
       "abr": "juggernautserum",
       "category": "Drugs",
       "defname": "JuggernautSerum",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "labcoat",
@@ -4132,19 +4132,19 @@
       "abr": "metalbloodheart",
       "category": "Ghoul",
       "defname": "MetalbloodHeart",
-      "price": 158
+      "price": -10
     },
     {
       "abr": "metalbloodserum",
       "category": "Drugs",
       "defname": "MetalbloodSerum",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "mind-numbserum",
       "category": "Drugs",
       "defname": "MindNumbSerum",
-      "price": 133
+      "price": -10
     },
     {
       "abr": "monolithfragment",
@@ -4156,7 +4156,7 @@
       "abr": "nervespiker",
       "category": "Ranged weapons",
       "defname": "NerveSpiker",
-      "price": 104
+      "price": -10
     },
     {
       "abr": "novel",
@@ -4180,13 +4180,13 @@
       "abr": "revenantvertebrae",
       "category": "Bionic",
       "defname": "RevenantVertebrae",
-      "price": 3158
+      "price": -10
     },
     {
       "abr": "ritualmask",
       "category": "Headgear",
       "defname": "Apparel_CultistMask",
-      "price": 101
+      "price": -10
     },
     {
       "abr": "sandcubesculpture",
@@ -4222,7 +4222,7 @@
       "abr": "shardanimalpulser",
       "category": "Artifacts",
       "defname": "ShardAnimalPulser",
-      "price": 875
+      "price": -10
     },
     {
       "abr": "shardbeacon",
@@ -4240,13 +4240,13 @@
       "abr": "shardinsanitylance",
       "category": "Utility",
       "defname": "Apparel_ShardPsychicInsanityLance",
-      "price": 883
+      "price": -10
     },
     {
       "abr": "shardshocklance",
       "category": "Utility",
       "defname": "Apparel_ShardPsychicShockLance",
-      "price": 850
+      "price": -10
     },
     {
       "abr": "sleepsuppressor",
@@ -4288,7 +4288,7 @@
       "abr": "twistedmeat",
       "category": "Meat",
       "defname": "Meat_Twisted",
-      "price": 1
+      "price": -10
     },
     {
       "abr": "voidsculpture",
@@ -4300,7 +4300,7 @@
       "abr": "voidsightserum",
       "category": "Drugs",
       "defname": "VoidsightSerum",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "walllamp",
@@ -4408,7 +4408,7 @@
       "abr": "bloodwarmer",
       "category": "Ghoul",
       "defname": "BloodWarmer",
-      "price": 183
+      "price": -10
     },
     {
       "abr": "bluebird",
@@ -4606,7 +4606,7 @@
       "abr": "gravlitepanel",
       "category": "Raw resources",
       "defname": "GravlitePanel",
-      "price": 7
+      "price": -10
     },
     {
       "abr": "gravshipshieldgenerator",
@@ -5152,7 +5152,7 @@
       "abr": "statue",
       "category": "Art",
       "defname": "Statue",
-      "price": 342
+      "price": -10
     },
     {
       "abr": "stonecrab",
@@ -5377,24 +5377,6 @@
       "price": 3
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "FM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "FM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "FM_ManagerStation",
-      "price": -10
-    },
-    {
       "abr": "chthonianchitin",
       "category": "Leathers",
       "defname": "CH_Leather_Chthonian",
@@ -5513,7 +5495,49 @@
       "category": "Raw strange meat",
       "defname": "ROM_RawCHFood_Meat",
       "price": -10
+    },
+    {
+      "abr": "kidoutfitstand",
+      "category": "Furniture",
+      "defname": "Building_KidOutfitStand",
+      "price": 102
+    },
+    {
+      "abr": "outfitstand",
+      "category": "Furniture",
+      "defname": "Building_OutfitStand",
+      "price": 119
+    },
+    {
+      "abr": "vacskingland",
+      "category": "Bionic",
+      "defname": "VacskinGland",
+      "price": 2050
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "CM_AIManager",
+      "price": 7833
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "CM_BasicManagerStation",
+      "price": 262
+    },
+    {
+      "abr": "managerdatabase",
+      "category": "Misc",
+      "defname": "CM_ManagerDatabase",
+      "price": 917
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "CM_ManagerStation",
+      "price": 508
     }
   ],
-  "total": 919
+  "total": 923
 }

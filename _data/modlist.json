@@ -150,12 +150,6 @@
     "version": "1.6.0.1"
   },
   {
-    "author": "We're in Heaven",
-    "name": "Colony Manager Fork",
-    "steamId": "3262932412",
-    "version": "1.6"
-  },
-  {
     "author": "UnlimitedHugs",
     "name": "HugsLib",
     "steamId": "818773962",
@@ -184,5 +178,23 @@
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.6.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ilyvion",
+    "name": "ilyvion's Laboratory",
+    "steamId": "3296362231",
+    "version": "0.19.0+d61c28d1d529c8f5155f398be440aeaddc9cf954"
+  },
+  {
+    "author": "ilyvion and Fluffy",
+    "name": "Colony Manager Redux",
+    "steamId": "3310027356",
+    "version": "0.14.4+91c42fc0421be060f5e00b11b1295d190f20d103"
   }
 ]

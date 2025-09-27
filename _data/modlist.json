@@ -3,7 +3,7 @@
     "author": "Andreas Pardeike",
     "name": "Harmony",
     "steamId": "2009463077",
-    "version": "2.3.5.0"
+    "version": "2.4.2.0"
   },
   {
     "author": "Supes",
@@ -15,7 +15,7 @@
     "author": "Mehni",
     "name": "Numbers (1.6 Temp)",
     "steamId": "3513829896",
-    "version": "1.0.0+fe6606e948d43cd887dfb1ebb4bfefd296f0a168"
+    "version": "1.0.0+84bb098d16b26e403c811e34da99cf9a7752abc9"
   },
   {
     "author": "Nibato",
@@ -87,7 +87,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+1ca7c6f6287e48f5f245b4c8dee252be6f2eda94"
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
   },
   {
     "author": "sirrandoo",
@@ -168,6 +168,12 @@
     "version": "1.4.0.1"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Sarg Bjornson",
     "name": "Smart Odyssey",
     "steamId": "3522762411",
@@ -189,12 +195,18 @@
     "author": "ilyvion",
     "name": "ilyvion's Laboratory",
     "steamId": "3296362231",
-    "version": "0.19.0+d61c28d1d529c8f5155f398be440aeaddc9cf954"
+    "version": "0.20.0+798ec1862a32ca605234d16f0aaaee258b75b1f2"
   },
   {
     "author": "ilyvion and Fluffy",
     "name": "Colony Manager Redux",
     "steamId": "3310027356",
-    "version": "0.14.4+91c42fc0421be060f5e00b11b1295d190f20d103"
+    "version": "0.14.5+62493e01554bae13ce142dbf39f46ae1c9e974d9"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
   }
 ]

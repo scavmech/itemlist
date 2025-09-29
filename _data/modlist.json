@@ -156,27 +156,9 @@
     "version": "12.0.0"
   },
   {
-    "author": "anobs, jecrell and contributors",
-    "name": "JecsTools Unofficial 1.6 BETA",
-    "steamId": "3524247750",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Jecrell",
-    "name": "Call of Cthulhu - Cosmic Horrors - Unofficial 1.5-1.6",
-    "steamId": "3319844548",
-    "version": "1.4.0.1"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Sarg Bjornson",
-    "name": "Smart Odyssey",
-    "steamId": "3522762411",
     "version": "1.0.0.0"
   },
   {
@@ -204,9 +186,15 @@
     "version": "0.14.5+62493e01554bae13ce142dbf39f46ae1c9e974d9"
   },
   {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
+    "author": "Sarg Bjornson and Ben Lubar",
+    "name": "Alpha Bees",
+    "steamId": "1558161673",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "CE Team",
+    "name": "Combat Extended",
+    "steamId": "2890901044",
+    "version": "0.0.0.0"
   }
 ]

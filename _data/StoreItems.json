@@ -98,7 +98,7 @@
     },
     {
       "abr": "antigrainwarhead",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_AntigrainWarhead",
       "price": -10
     },
@@ -581,12 +581,6 @@
       "category": "Inert relics",
       "defname": "RelicInertCup",
       "price": -10
-    },
-    {
-      "abr": "chargelance",
-      "category": "Ranged weapons",
-      "defname": "Gun_ChargeLance",
-      "price": 2258
     },
     {
       "abr": "chargerifle",
@@ -1106,7 +1100,7 @@
     },
     {
       "abr": "empshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_EMP",
       "price": 92
     },
@@ -1172,7 +1166,7 @@
     },
     {
       "abr": "firefoamshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Firefoam",
       "price": 92
     },
@@ -1526,7 +1520,7 @@
     },
     {
       "abr": "heavybandolier",
-      "category": "Misc",
+      "category": "Loadbearing gear",
       "defname": "Apparel_Bandolier",
       "price": 271
     },
@@ -1574,7 +1568,7 @@
     },
     {
       "abr": "high-explosiveshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_HighExplosive",
       "price": 92
     },
@@ -1754,7 +1748,7 @@
     },
     {
       "abr": "incendiaryshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Incendiary",
       "price": 92
     },
@@ -2086,7 +2080,7 @@
       "abr": "mechcommanderhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechCommander",
-      "price": 2150
+      "price": -10
     },
     {
       "abr": "mechlink",
@@ -2098,13 +2092,13 @@
       "abr": "mechlordhelmet",
       "category": "Headgear",
       "defname": "Apparel_ArmorHelmetMechlordHelmet",
-      "price": 8892
+      "price": -10
     },
     {
       "abr": "mechlordsuit",
       "category": "Armor",
       "defname": "Apparel_MechlordSuit",
-      "price": 11692
+      "price": -10
     },
     {
       "abr": "medicine",
@@ -3074,7 +3068,7 @@
     },
     {
       "abr": "smokeshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Smoke",
       "price": 92
     },
@@ -3458,7 +3452,7 @@
     },
     {
       "abr": "toxshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Toxic",
       "price": 92
     },
@@ -3907,30 +3901,6 @@
       "price": -10
     },
     {
-      "abr": "emplauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_EmpLauncher",
-      "price": 842
-    },
-    {
-      "abr": "flamebow",
-      "category": "Ranged weapons",
-      "defname": "Flamebow",
-      "price": -10
-    },
-    {
-      "abr": "smokelauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_SmokeLauncher",
-      "price": 633
-    },
-    {
-      "abr": "toxbomblauncher",
-      "category": "Ranged weapons",
-      "defname": "Gun_ToxbombLauncher",
-      "price": 633
-    },
-    {
       "abr": "tradereportslog",
       "category": "Misc",
       "defname": "ASReportsLog",
@@ -4016,7 +3986,7 @@
     },
     {
       "abr": "deadlifeshell",
-      "category": "Mortar shells",
+      "category": "81mm mortar shell",
       "defname": "Shell_Deadlife",
       "price": -10
     },
@@ -5377,126 +5347,6 @@
       "price": 3
     },
     {
-      "abr": "chthonianchitin",
-      "category": "Leathers",
-      "defname": "CH_Leather_Chthonian",
-      "price": -10
-    },
-    {
-      "abr": "chthonianstrips",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_ChthonianMeat",
-      "price": -10
-    },
-    {
-      "abr": "cthulhidmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_CthulhidMeat",
-      "price": -10
-    },
-    {
-      "abr": "darkyoungmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_DarkYoungMeat",
-      "price": -10
-    },
-    {
-      "abr": "darkyoungsap",
-      "category": "Animal products",
-      "defname": "ROM_DarkYoungSap",
-      "price": -10
-    },
-    {
-      "abr": "dark-youngbark",
-      "category": "Leathers",
-      "defname": "CH_Leather_DarkYoung",
-      "price": -10
-    },
-    {
-      "abr": "deeponemeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_DeepOneMeat",
-      "price": -10
-    },
-    {
-      "abr": "deephide",
-      "category": "Leathers",
-      "defname": "CH_Leather_DeepOne",
-      "price": -10
-    },
-    {
-      "abr": "migomatter",
-      "category": "Leathers",
-      "defname": "CH_Leather_MiGo",
-      "price": -10
-    },
-    {
-      "abr": "migomeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_MiGoMeat",
-      "price": -10
-    },
-    {
-      "abr": "rhombohedralenergyweapon",
-      "category": "Ranged weapons",
-      "defname": "ROM_MiGoCastingWeapon",
-      "price": -10
-    },
-    {
-      "abr": "shoggothmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_ShoggothMeat",
-      "price": -10
-    },
-    {
-      "abr": "starvampiremeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_StarVampireMeat",
-      "price": -10
-    },
-    {
-      "abr": "star-spawnskin",
-      "category": "Leathers",
-      "defname": "CH_Leather_Cthulhid",
-      "price": -10
-    },
-    {
-      "abr": "star-vampireleather",
-      "category": "Leathers",
-      "defname": "CH_Leather_StarVampire",
-      "price": -10
-    },
-    {
-      "abr": "strangefinemeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealFine",
-      "price": -10
-    },
-    {
-      "abr": "strangekibble",
-      "category": "Foods",
-      "defname": "ROM_StrangeKibble",
-      "price": -10
-    },
-    {
-      "abr": "strangelavishmeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealLavish",
-      "price": -10
-    },
-    {
-      "abr": "strangesimplemeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealSimple",
-      "price": -10
-    },
-    {
-      "abr": "untouchablemeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_Meat",
-      "price": -10
-    },
-    {
       "abr": "kidoutfitstand",
       "category": "Furniture",
       "defname": "Building_KidOutfitStand",
@@ -5539,11 +5389,2633 @@
       "price": 508
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "abr": "90mmflakturret",
+      "category": "Security",
+      "defname": "Turret_Flak",
+      "price": -10
+    },
+    {
+      "abr": "adaptivedrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Adaptive_Drone",
+      "price": -10
+    },
+    {
+      "abr": "adaptivehoney",
+      "category": "Bee honeys",
+      "defname": "RB_AdaptiveHoney",
+      "price": -10
+    },
+    {
+      "abr": "adaptivehoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Adaptive_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "adaptivequeen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Adaptive_Queen",
+      "price": -10
+    },
+    {
+      "abr": "advancednightvisiongoggles",
+      "category": "Headgear",
+      "defname": "CE_Apparel_AdvancedNightVision",
+      "price": 683
+    },
+    {
+      "abr": "agriculturaldrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Agricultural_Drone",
+      "price": -10
+    },
+    {
+      "abr": "agriculturalhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Agricultural_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "agriculturalqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Agricultural_Queen",
+      "price": -10
+    },
+    {
+      "abr": "ags-30",
+      "category": "Security",
+      "defname": "Turret_AGSThirty",
+      "price": -10
+    },
+    {
+      "abr": "alloydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Alloy_Drone",
+      "price": -10
+    },
+    {
+      "abr": "alloyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Alloy_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "alloyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Alloy_Queen",
+      "price": -10
+    },
+    {
+      "abr": "amalgamdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Amalgam_Drone",
+      "price": -10
+    },
+    {
+      "abr": "amalgamhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Amalgam_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "amalgamqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Amalgam_Queen",
+      "price": -10
+    },
+    {
+      "abr": "animadrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Anima_Drone",
+      "price": -10
+    },
+    {
+      "abr": "animahoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Anima_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "animaqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Anima_Queen",
+      "price": -10
+    },
+    {
+      "abr": "architedrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Archite_Drone",
+      "price": -10
+    },
+    {
+      "abr": "architehoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Archite_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "architequeen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Archite_Queen",
+      "price": -10
+    },
+    {
+      "abr": "arcticdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Arctic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "arctichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Arctic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "arcticqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Arctic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "argentdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Argent_Drone",
+      "price": -10
+    },
+    {
+      "abr": "argenthoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Argent_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "argentqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Argent_Queen",
+      "price": -10
+    },
+    {
+      "abr": "aurumdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Aurum_Drone",
+      "price": -10
+    },
+    {
+      "abr": "aurumhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Aurum_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "aurumqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Aurum_Queen",
+      "price": -10
+    },
+    {
+      "abr": "backpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_Backpack",
+      "price": 181
+    },
+    {
+      "abr": "ballisticshield",
+      "category": "Shields",
+      "defname": "CE_Apparel_BallisticShield",
+      "price": 417
+    },
+    {
+      "abr": "beeeggs",
+      "category": "Eggs (unfert.)",
+      "defname": "RB_BeeEggs",
+      "price": -10
+    },
+    {
+      "abr": "beemilk",
+      "category": "Animal products",
+      "defname": "RB_BeeMilk",
+      "price": -10
+    },
+    {
+      "abr": "beeresearch(unfinished)",
+      "category": "Bee research",
+      "defname": "RB_RandomTier4Research",
+      "price": -10
+    },
+    {
+      "abr": "beeresearch(unfinished)",
+      "category": "Bee research",
+      "defname": "RB_RandomTier5Research",
+      "price": -10
+    },
+    {
+      "abr": "beeresearch(unfinished)",
+      "category": "Bee research",
+      "defname": "RB_RandomTier6Research",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersNutPsychic",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAlloySwamp",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersResearchPsychic",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersNutTech",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersNutAdapt",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAdaptTech",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersStoPsy",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAgriSwamp",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersPlasAlloy",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAgriWood",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersQuarryTech",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersTipsyCommando",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersInsectoidCommando",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersResearchOily",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersJanitorWorker",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersJanitorAdaptive",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersJanitorTechnological",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersJanitorAgricultural",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier4)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersJanitorCommando",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersCultivatorWarden",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAlloySynthetic",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersSyntheticMedicinal",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersAgriCul",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersLuxHigh",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersMedTech",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersSynthTech",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersSynthOily",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersElectronicSynthetic",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersDesertBlazing",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersArcticFrigid",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersPetWarden",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier5)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersHarvesterWarden",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier6)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersBioferrousNitro",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier6)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersHyperGenepack",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier6)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersHyperSurgeon",
+      "price": -10
+    },
+    {
+      "abr": "beeresearchpapers(tier6)",
+      "category": "Bee research",
+      "defname": "RB_ResearchPapersChefHigh",
+      "price": -10
+    },
+    {
+      "abr": "beeswax",
+      "category": "Beeswax",
+      "defname": "RB_Beeswax",
+      "price": -10
+    },
+    {
+      "abr": "binoculars",
+      "category": "Ranged weapons",
+      "defname": "Gun_BinocularsRadio",
+      "price": 533
+    },
+    {
+      "abr": "biointerfacecomponents",
+      "category": "Manufactured",
+      "defname": "RB_ComponentBioInterface",
+      "price": -10
+    },
+    {
+      "abr": "bioferrousdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Bioferrous_Drone",
+      "price": -10
+    },
+    {
+      "abr": "bioferroushoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Bioferrous_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "bioferrousqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Bioferrous_Queen",
+      "price": -10
+    },
+    {
+      "abr": "bittersweetdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Bittersweet_Drone",
+      "price": -10
+    },
+    {
+      "abr": "bittersweethoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Bittersweet_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "bittersweetqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Bittersweet_Queen",
+      "price": -10
+    },
+    {
+      "abr": "blackbeeswax",
+      "category": "Beeswax",
+      "defname": "RB_BlackBeeswax",
+      "price": -10
+    },
+    {
+      "abr": "blackhoney",
+      "category": "Bee honeys",
+      "defname": "RB_BlackHoney",
+      "price": -10
+    },
+    {
+      "abr": "blazingdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Blazing_Drone",
+      "price": -10
+    },
+    {
+      "abr": "blazinghoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Blazing_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "blazingqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Blazing_Queen",
+      "price": -10
+    },
+    {
+      "abr": "bluebeeswax",
+      "category": "Beeswax",
+      "defname": "RB_BlueBeeswax",
+      "price": -10
+    },
+    {
+      "abr": "bluehoney",
+      "category": "Bee honeys",
+      "defname": "RB_BlueHoney",
+      "price": -10
+    },
+    {
+      "abr": "brittlebeeswax",
+      "category": "Beeswax",
+      "defname": "RB_Brittlewax",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Furniture",
+      "defname": "RB_WaxCandle",
+      "price": -10
+    },
+    {
+      "abr": "chargeblasterauto-turret",
+      "category": "Security",
+      "defname": "Turret_Blaster",
+      "price": -10
+    },
+    {
+      "abr": "chefdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Chef_Drone",
+      "price": -10
+    },
+    {
+      "abr": "chefhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Chef_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "chefqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Chef_Queen",
+      "price": -10
+    },
+    {
+      "abr": "commandodrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Commando_Drone",
+      "price": -10
+    },
+    {
+      "abr": "commandohoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Commando_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "commandoqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Commando_Queen",
+      "price": -10
+    },
+    {
+      "abr": "compositevest",
+      "category": "Armor",
+      "defname": "CE_Apparel_CompositeVest",
+      "price": 442
+    },
+    {
+      "abr": "concussiongrenade",
+      "category": "Grenades",
+      "defname": "CE_Weapon_GrenadeConcussion",
+      "price": 23
+    },
+    {
+      "abr": "culinarydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Culinary_Drone",
+      "price": -10
+    },
+    {
+      "abr": "culinaryhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Culinary_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "culinaryqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Culinary_Queen",
+      "price": -10
+    },
+    {
+      "abr": "cultivatordrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Cultivator_Drone",
+      "price": -10
+    },
+    {
+      "abr": "cultivatorhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Cultivator_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "cultivatorqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Cultivator_Queen",
+      "price": -10
+    },
+    {
+      "abr": "desertdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Desert_Drone",
+      "price": -10
+    },
+    {
+      "abr": "deserthoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Desert_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "desertqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Desert_Queen",
+      "price": -10
+    },
+    {
+      "abr": "desiccateddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Desiccated_Drone",
+      "price": -10
+    },
+    {
+      "abr": "desiccatedhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Desiccated_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "desiccatedqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Desiccated_Queen",
+      "price": -10
+    },
+    {
+      "abr": "disposablerocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_DisposableRocketLauncher",
+      "price": 167
+    },
+    {
+      "abr": "egglayingdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Egglaying_Drone",
+      "price": -10
+    },
+    {
+      "abr": "egglayinghoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Egglaying_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "egglayingqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Egglaying_Queen",
+      "price": -10
+    },
+    {
+      "abr": "electronicdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Electronic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "electronichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Electronic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "electronicqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Electronic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "epicureandrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Epicurean_Drone",
+      "price": -10
+    },
+    {
+      "abr": "epicureanhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Epicurean_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "epicureanqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Epicurean_Queen",
+      "price": -10
+    },
+    {
+      "abr": "fabricateddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Fabricated_Drone",
+      "price": -10
+    },
+    {
+      "abr": "fabricatedhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Fabricated_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "fabricatedqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Fabricated_Queen",
+      "price": -10
+    },
+    {
+      "abr": "finehoneymeal",
+      "category": "Meals",
+      "defname": "RB_FineHoney",
+      "price": -10
+    },
+    {
+      "abr": "firefoamgrenade",
+      "category": "Grenades",
+      "defname": "CE_Weapon_GrenadeFirefoam",
+      "price": 30
+    },
+    {
+      "abr": "flaregun",
+      "category": "Ranged weapons",
+      "defname": "CE_FlareGun",
+      "price": 188
+    },
+    {
+      "abr": "flashbanggrenade",
+      "category": "Grenades",
+      "defname": "CE_Weapon_GrenadeFlashbang",
+      "price": 15
+    },
+    {
+      "abr": "foamydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Foamy_Drone",
+      "price": -10
+    },
+    {
+      "abr": "foamyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Foamy_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "foamyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Foamy_Queen",
+      "price": -10
+    },
+    {
+      "abr": "frigiddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Frigid_Drone",
+      "price": -10
+    },
+    {
+      "abr": "frigidhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Frigid_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "frigidqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Frigid_Queen",
+      "price": -10
+    },
+    {
+      "abr": "fsx",
+      "category": "Raw resources",
+      "defname": "FSX",
+      "price": 12
+    },
+    {
+      "abr": "gasmask",
+      "category": "Headgear",
+      "defname": "CE_Apparel_GasMask",
+      "price": 193
+    },
+    {
+      "abr": "genepackdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Genepack_Drone",
+      "price": -10
+    },
+    {
+      "abr": "genepackhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Genepack_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "genepackqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Genepack_Queen",
+      "price": -10
+    },
+    {
+      "abr": "glacialdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Glacial_Drone",
+      "price": -10
+    },
+    {
+      "abr": "glacialhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Glacial_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "glacialqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Glacial_Queen",
+      "price": -10
+    },
+    {
+      "abr": "glitteringdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Glittering_Drone",
+      "price": -10
+    },
+    {
+      "abr": "glitteringhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Glittering_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "glitteringqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Glittering_Queen",
+      "price": -10
+    },
+    {
+      "abr": "grenadelauncher",
+      "category": "Ranged weapons",
+      "defname": "CE_GrenadeLauncher",
+      "price": 254
+    },
+    {
+      "abr": "gunsmithingbench",
+      "category": "Production",
+      "defname": "GunsmithingBench",
+      "price": -10
+    },
+    {
+      "abr": "handlerdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Handler_Drone",
+      "price": -10
+    },
+    {
+      "abr": "handlerhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Handler_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "handlerqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Handler_Queen",
+      "price": -10
+    },
+    {
+      "abr": "harvesterdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Harvester_Drone",
+      "price": -10
+    },
+    {
+      "abr": "harvesterhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Harvester_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "harvesterqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Harvester_Queen",
+      "price": -10
+    },
+    {
+      "abr": "heavyauto-turret",
+      "category": "Security",
+      "defname": "Turret_Heavy",
+      "price": -10
+    },
+    {
+      "abr": "heavywax",
+      "category": "Beeswax",
+      "defname": "RB_HeavyWax",
+      "price": -10
+    },
+    {
+      "abr": "highdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_High_Drone",
+      "price": -10
+    },
+    {
+      "abr": "highhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_High_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "highqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_High_Queen",
+      "price": -10
+    },
+    {
+      "abr": "honey",
+      "category": "Bee honeys",
+      "defname": "RB_BaseHoney",
+      "price": -10
+    },
+    {
+      "abr": "honeypreservedmeat",
+      "category": "Meals",
+      "defname": "RB_HoneyPreservedMeat",
+      "price": -10
+    },
+    {
+      "abr": "honeypreservedvegetables",
+      "category": "Meals",
+      "defname": "RB_HoneyPreservedVegetables",
+      "price": -10
+    },
+    {
+      "abr": "honeyedicepop",
+      "category": "Honey food products",
+      "defname": "RB_HoneyedIcePop",
+      "price": -10
+    },
+    {
+      "abr": "hybriddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Hybrid_Drone",
+      "price": -10
+    },
+    {
+      "abr": "hybridhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Hybrid_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "hybridqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Hybrid_Queen",
+      "price": -10
+    },
+    {
+      "abr": "hyperdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Hyper_Drone",
+      "price": -10
+    },
+    {
+      "abr": "hyperhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Hyper_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "hyperqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Hyper_Queen",
+      "price": -10
+    },
+    {
+      "abr": "improvisedgasmask",
+      "category": "Headgear",
+      "defname": "CE_Apparel_ImprovGasMask",
+      "price": 106
+    },
+    {
+      "abr": "infernodrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Inferno_Drone",
+      "price": -10
+    },
+    {
+      "abr": "infernohoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Inferno_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "infernoqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Inferno_Queen",
+      "price": -10
+    },
+    {
+      "abr": "insectoiddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Insectoid_Drone",
+      "price": -10
+    },
+    {
+      "abr": "insectoidhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Insectoid_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "insectoidqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Insectoid_Queen",
+      "price": -10
+    },
+    {
+      "abr": "janitordrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Janitor_Drone",
+      "price": -10
+    },
+    {
+      "abr": "janitorhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Janitor_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "janitorqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Janitor_Queen",
+      "price": -10
+    },
+    {
+      "abr": "kidbackpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_KidBackpack",
+      "price": 91
+    },
+    {
+      "abr": "kpvmachinegun",
+      "category": "Security",
+      "defname": "Turret_KPV",
+      "price": 1342
+    },
+    {
+      "abr": "lacticdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Lactic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "lactichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Lactic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "lacticqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Lactic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "lavishhoneymeal",
+      "category": "Meals",
+      "defname": "RB_LavishHoney",
+      "price": -10
+    },
+    {
+      "abr": "loadingbench",
+      "category": "Production",
+      "defname": "AmmoBench",
+      "price": 775
+    },
+    {
+      "abr": "luciferdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Lucifer_Drone",
+      "price": -10
+    },
+    {
+      "abr": "luciferhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Lucifer_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "luciferqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Lucifer_Queen",
+      "price": -10
+    },
+    {
+      "abr": "luxuriousdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Luxurious_Drone",
+      "price": -10
+    },
+    {
+      "abr": "luxurioushoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Luxurious_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "luxuriousqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Luxurious_Queen",
+      "price": -10
+    },
+    {
+      "abr": "m240b",
+      "category": "Security",
+      "defname": "Turret_M240B",
+      "price": 892
+    },
+    {
+      "abr": "masondrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Mason_Drone",
+      "price": -10
+    },
+    {
+      "abr": "masonhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Mason_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "masonqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Mason_Queen",
+      "price": -10
+    },
+    {
+      "abr": "mead",
+      "category": "Drugs",
+      "defname": "RB_Mead",
+      "price": -10
+    },
+    {
+      "abr": "meadfermentingbarrel",
+      "category": "Production",
+      "defname": "RB_MeadFermentingBarrel",
+      "price": -10
+    },
+    {
+      "abr": "meadmust",
+      "category": "Manufactured",
+      "defname": "RB_Must",
+      "price": -10
+    },
+    {
+      "abr": "medicinaldrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Medicinal_Drone",
+      "price": -10
+    },
+    {
+      "abr": "medicinalhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Medicinal_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "medicinalqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Medicinal_Queen",
+      "price": -10
+    },
+    {
+      "abr": "mediumauto-turret",
+      "category": "Security",
+      "defname": "Turret_Medium",
+      "price": 1025
+    },
+    {
+      "abr": "meleeshield",
+      "category": "Shields",
+      "defname": "CE_Apparel_MeleeShield",
+      "price": 257
+    },
+    {
+      "abr": "milddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Mild_Drone",
+      "price": -10
+    },
+    {
+      "abr": "mildhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Mild_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "mildqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Mild_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nannydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nanny_Drone",
+      "price": -10
+    },
+    {
+      "abr": "nannyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Nanny_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "nannyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nanny_Queen",
+      "price": -10
+    },
+    {
+      "abr": "neutrodrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Neutro_Drone",
+      "price": -10
+    },
+    {
+      "abr": "neutrohoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Neutro_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "neutroqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Neutro_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nightvisionmonocular",
+      "category": "Headgear",
+      "defname": "CE_Apparel_SimpleNightVision",
+      "price": 475
+    },
+    {
+      "abr": "nitrodrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nitro_Drone",
+      "price": -10
+    },
+    {
+      "abr": "nitrohoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Nitro_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "nitroqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nitro_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nocturnaldrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nocturnal_Drone",
+      "price": -10
+    },
+    {
+      "abr": "nocturnalhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Nocturnal_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "nocturnalqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nocturnal_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nondescriptmeat",
+      "category": "Meat",
+      "defname": "RB_NondescriptMeat",
+      "price": -10
+    },
+    {
+      "abr": "nondescriptvegetables",
+      "category": "Vegetarian",
+      "defname": "RB_NonDescriptVegetables",
+      "price": -10
+    },
+    {
+      "abr": "noxiousdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Noxious_Drone",
+      "price": -10
+    },
+    {
+      "abr": "noxioushoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Noxious_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "noxiousqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Noxious_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nutritiousdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nutritious_Drone",
+      "price": -10
+    },
+    {
+      "abr": "nutritioushoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Nutritious_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "nutritiousqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Nutritious_Queen",
+      "price": -10
+    },
+    {
+      "abr": "oilydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Oily_Drone",
+      "price": -10
+    },
+    {
+      "abr": "oilyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Oily_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "oilyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Oily_Queen",
+      "price": -10
+    },
+    {
+      "abr": "performanceenhancinghoney",
+      "category": "Bee honeys",
+      "defname": "RB_PerformanceEnhancingHoney",
+      "price": -10
+    },
+    {
+      "abr": "petdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Pet_Drone",
+      "price": -10
+    },
+    {
+      "abr": "pethoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Pet_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "petqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Pet_Queen",
+      "price": -10
+    },
+    {
+      "abr": "plasticdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Plastic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "plastichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Plastic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "plasticqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Plastic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "platehelmet",
+      "category": "Headgear",
+      "defname": "CE_Apparel_PlateHelmet",
+      "price": 265
+    },
+    {
+      "abr": "poweredexoframe",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_ExoFrame",
+      "price": 1708
+    },
+    {
+      "abr": "preciousdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Precious_Drone",
+      "price": -10
+    },
+    {
+      "abr": "precioushoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Precious_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "preciousqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Precious_Queen",
+      "price": -10
+    },
+    {
+      "abr": "prometheum",
+      "category": "Raw resources",
+      "defname": "Prometheum",
+      "price": -10
+    },
+    {
+      "abr": "psychicdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Psychic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "psychichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Psychic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "psychicqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Psychic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "psycho",
+      "category": "Drugs",
+      "defname": "Psycho",
+      "price": 12
+    },
+    {
+      "abr": "psychotropichoney",
+      "category": "Bee honeys",
+      "defname": "RB_PsychotropicHoney",
+      "price": -10
+    },
+    {
+      "abr": "quarrydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Quarry_Drone",
+      "price": -10
+    },
+    {
+      "abr": "quarryhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Quarry_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "quarryqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Quarry_Queen",
+      "price": -10
+    },
+    {
+      "abr": "radiopack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_RadioPack",
+      "price": 767
+    },
+    {
+      "abr": "radioactivedrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Radioactive_Drone",
+      "price": -10
+    },
+    {
+      "abr": "radioactivehoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Radioactive_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "radioactivequeen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Radioactive_Queen",
+      "price": -10
+    },
+    {
+      "abr": "rainbowdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Rainbow_Drone",
+      "price": -10
+    },
+    {
+      "abr": "rainbowhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Rainbow_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "rainbowqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Rainbow_Queen",
+      "price": -10
+    },
+    {
+      "abr": "redbeeswax",
+      "category": "Beeswax",
+      "defname": "RB_RedBeeswax",
+      "price": -10
+    },
+    {
+      "abr": "researchdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Research_Drone",
+      "price": -10
+    },
+    {
+      "abr": "researchhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Research_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "researchqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Research_Queen",
+      "price": -10
+    },
+    {
+      "abr": "sharddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Shard_Drone",
+      "price": -10
+    },
+    {
+      "abr": "shardhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Shard_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "shardqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Shard_Queen",
+      "price": -10
+    },
+    {
+      "abr": "shepherddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Shepherd_Drone",
+      "price": -10
+    },
+    {
+      "abr": "shepherdhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Shepherd_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "shepherdqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Shepherd_Queen",
+      "price": -10
+    },
+    {
+      "abr": "simplehoneymeal",
+      "category": "Meals",
+      "defname": "RB_SimpleHoney",
+      "price": -10
+    },
+    {
+      "abr": "skilfuldrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Skilful_Drone",
+      "price": -10
+    },
+    {
+      "abr": "skilfulhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Skilful_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "skilfulqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Skilful_Queen",
+      "price": -10
+    },
+    {
+      "abr": "smokegrenade",
+      "category": "Grenades",
+      "defname": "CE_Weapon_GrenadeSmoke",
+      "price": 18
+    },
+    {
+      "abr": "steelwax",
+      "category": "Beeswax",
+      "defname": "RB_Steelwax",
+      "price": -10
+    },
+    {
+      "abr": "stickbomb",
+      "category": "Grenades",
+      "defname": "CE_Weapon_GrenadeStickBomb",
+      "price": 39
+    },
+    {
+      "abr": "stonerdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Stoner_Drone",
+      "price": -10
+    },
+    {
+      "abr": "stonerhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Stoner_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "stonerqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Stoner_Queen",
+      "price": -10
+    },
+    {
+      "abr": "strawdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Straw_Drone",
+      "price": -10
+    },
+    {
+      "abr": "strawhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Straw_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "strawqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Straw_Queen",
+      "price": -10
+    },
+    {
+      "abr": "stunningdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Stunning_Drone",
+      "price": -10
+    },
+    {
+      "abr": "stunninghoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Stunning_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "stunningqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Stunning_Queen",
+      "price": -10
+    },
+    {
+      "abr": "surgeondrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Surgeon_Drone",
+      "price": -10
+    },
+    {
+      "abr": "surgeonhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Surgeon_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "surgeonqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Surgeon_Queen",
+      "price": -10
+    },
+    {
+      "abr": "swampdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Swamp_Drone",
+      "price": -10
+    },
+    {
+      "abr": "swamphoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Swamp_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "swampqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Swamp_Queen",
+      "price": -10
+    },
+    {
+      "abr": "syntheticdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Synthetic_Drone",
+      "price": -10
+    },
+    {
+      "abr": "synthetichoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Synthetic_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "syntheticqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Synthetic_Queen",
+      "price": -10
+    },
+    {
+      "abr": "tacticalvest",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_TacVest",
+      "price": 248
+    },
+    {
+      "abr": "tannerdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tanner_Drone",
+      "price": -10
+    },
+    {
+      "abr": "tannerhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Tanner_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "tannerqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tanner_Queen",
+      "price": -10
+    },
+    {
+      "abr": "tastyhoney",
+      "category": "Bee honeys",
+      "defname": "RB_TastyHoney",
+      "price": -10
+    },
+    {
+      "abr": "technologicaldrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Technological_Drone",
+      "price": -10
+    },
+    {
+      "abr": "technologicalhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Technological_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "technologicalqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Technological_Queen",
+      "price": -10
+    },
+    {
+      "abr": "temperatedrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Temperate_Drone",
+      "price": -10
+    },
+    {
+      "abr": "temperatehoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Temperate_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "temperatequeen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Temperate_Queen",
+      "price": -10
+    },
+    {
+      "abr": "tetradrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tetra_Drone",
+      "price": -10
+    },
+    {
+      "abr": "tetrahoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Tetra_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "tetraqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tetra_Queen",
+      "price": -10
+    },
+    {
+      "abr": "tipsydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tipsy_Drone",
+      "price": -10
+    },
+    {
+      "abr": "tipsyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Tipsy_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "tipsyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Tipsy_Queen",
+      "price": -10
+    },
+    {
+      "abr": "trashdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Trash_Drone",
+      "price": -10
+    },
+    {
+      "abr": "trashhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Trash_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "trashqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Trash_Queen",
+      "price": -10
+    },
+    {
+      "abr": "tribalbackpack",
+      "category": "Loadbearing gear",
+      "defname": "CE_Apparel_TribalBackpack",
+      "price": 97
+    },
+    {
+      "abr": "vampiredrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Vampire_Drone",
+      "price": -10
+    },
+    {
+      "abr": "vampirehoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Vampire_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "vampirequeen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Vampire_Queen",
+      "price": -10
+    },
+    {
+      "abr": "wardendrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Warden_Drone",
+      "price": -10
+    },
+    {
+      "abr": "wardenhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Warden_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "wardenqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Warden_Queen",
+      "price": -10
+    },
+    {
+      "abr": "weavingdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Weaving_Drone",
+      "price": -10
+    },
+    {
+      "abr": "weavinghoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Weaving_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "weavingqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Weaving_Queen",
+      "price": -10
+    },
+    {
+      "abr": "whitebeeswax",
+      "category": "Beeswax",
+      "defname": "RB_WhiteBeeswax",
+      "price": -10
+    },
+    {
+      "abr": "whitehoney",
+      "category": "Bee honeys",
+      "defname": "RB_WhiteHoney",
+      "price": -10
+    },
+    {
+      "abr": "wildbeehive,mild",
+      "category": "Beekeeping",
+      "defname": "RB_WildHive_Mild",
+      "price": -10
+    },
+    {
+      "abr": "wildbeehive,temperate",
+      "category": "Beekeeping",
+      "defname": "RB_WildHive_Temperate",
+      "price": -10
+    },
+    {
+      "abr": "wololodrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Wololo_Drone",
+      "price": -10
+    },
+    {
+      "abr": "wololohoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Wololo_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "wololoqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Wololo_Queen",
+      "price": -10
+    },
+    {
+      "abr": "woodlanddrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Woodland_Drone",
+      "price": -10
+    },
+    {
+      "abr": "woodlandhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Woodland_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "woodlandqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Woodland_Queen",
+      "price": -10
+    },
+    {
+      "abr": "woolydrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Wooly_Drone",
+      "price": -10
+    },
+    {
+      "abr": "woolyhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Wooly_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "woolyqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Wooly_Queen",
+      "price": -10
+    },
+    {
+      "abr": "workerdrone",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Worker_Drone",
+      "price": -10
+    },
+    {
+      "abr": "workerhoneycomb",
+      "category": "Honey combs",
+      "defname": "RB_Worker_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "workerqueen",
+      "category": "Drones and queens",
+      "defname": "RB_Bee_Worker_Queen",
+      "price": -10
+    },
+    {
+      "abr": "nervespikerbolt",
+      "category": "Crossbow bolts",
+      "defname": "Ammo_NerveSpikerBolt",
+      "price": -10
+    },
+    {
+      "abr": "12x64mmcharged",
+      "category": "12x64mm Charged",
+      "defname": "Ammo_12x64mmCharged",
+      "price": 3
+    },
+    {
+      "abr": "164x284mmdemolitionshell",
+      "category": "164x284mm Demolition Shell",
+      "defname": "Ammo_164x284mmDemo",
+      "price": 37
+    },
+    {
+      "abr": "30x64mmfuelcell(incendiary)",
+      "category": "30x64mm Fuel Cell",
+      "defname": "Ammo_30x64mmFuel_Incendiary",
+      "price": 13
+    },
+    {
+      "abr": "30x64mmfuelcell(thermobaric)",
+      "category": "30x64mm Fuel Cell",
+      "defname": "Ammo_30x64mmFuel_Thermobaric",
+      "price": 19
+    },
+    {
+      "abr": "5x35mmcharged",
+      "category": "5x35mm Charged",
+      "defname": "Ammo_5x35mmCharged",
+      "price": 1
+    },
+    {
+      "abr": "5x50mmcaseless(sabot)",
+      "category": "5x50mm Caseless",
+      "defname": "Ammo_5x50mmCaseless_Sabot",
+      "price": 1
+    },
+    {
+      "abr": "66mmthermalbolt(incendiary)",
+      "category": "66mm Thermal Bolt",
+      "defname": "Ammo_66mmThermalBolt_Incendiary",
+      "price": 24
+    },
+    {
+      "abr": "6x22mmcharged",
+      "category": "6x22mm Charged",
+      "defname": "Ammo_6x22mmCharged",
+      "price": 1
+    },
+    {
+      "abr": "6x24mmcharged",
+      "category": "6x24mm Charged",
+      "defname": "Ammo_6x24mmCharged",
+      "price": 1
+    },
+    {
+      "abr": "6x24mmcharged(conc.)",
+      "category": "6x24mm Charged",
+      "defname": "Ammo_6x24mmCharged_AP",
+      "price": 1
+    },
+    {
+      "abr": "6x24mmcharged(ion)",
+      "category": "6x24mm Charged",
+      "defname": "Ammo_6x24mmCharged_Ion",
+      "price": 1
+    },
+    {
+      "abr": "80x256mmfuelcell(incendiary)",
+      "category": "80x256mm Fuel Cell",
+      "defname": "Ammo_80x256mmFuel_Incendiary",
+      "price": 25
+    },
+    {
+      "abr": "8x35mmcharged",
+      "category": "8x35mm Charged",
+      "defname": "Ammo_8x35mmCharged",
+      "price": 2
+    },
+    {
+      "abr": "8x35mmcharged(conc.)",
+      "category": "8x35mm Charged",
+      "defname": "Ammo_8x35mmCharged_AP",
+      "price": 2
+    },
+    {
+      "abr": "8x35mmcharged(ion)",
+      "category": "8x35mm Charged",
+      "defname": "Ammo_8x35mmCharged_Ion",
+      "price": 2
+    },
+    {
+      "abr": "laserchargepack",
+      "category": "Laser charge pack",
+      "defname": "Ammo_LaserChargePack",
+      "price": 1
+    },
+    {
+      "abr": "mechanoidlaserpack",
+      "category": "Laser charge pack",
+      "defname": "Ammo_LaserChargePack_Mech",
+      "price": 1
+    },
+    {
+      "abr": "30x29mmgrenade(he)",
+      "category": "30x29mm Grenade",
+      "defname": "Ammo_30x29mmGrenade_HE",
+      "price": 5
+    },
+    {
+      "abr": "30x29mmgrenade(hetime-fuzed)",
+      "category": "30x29mm Grenade",
+      "defname": "Ammo_30x29mmGrenade_HE_TFuzed",
+      "price": 7
+    },
+    {
+      "abr": "30x29mmgrenade(hedp)",
+      "category": "30x29mm Grenade",
+      "defname": "Ammo_30x29mmGrenade_HEDP",
+      "price": 5
+    },
+    {
+      "abr": "30x29mmgrenade(emp)",
+      "category": "30x29mm Grenade",
+      "defname": "Ammo_30x29mmGrenade_EMP",
+      "price": 9
+    },
+    {
+      "abr": "30x29mmgrenade(smoke)",
+      "category": "30x29mm Grenade",
+      "defname": "Ammo_30x29mmGrenade_Smoke",
+      "price": 4
+    },
+    {
+      "abr": "40x46mmgrenade(he)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_HE",
+      "price": 4
+    },
+    {
+      "abr": "40x46mmgrenade(hetime-fuzed)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_HE_TFuzed",
+      "price": 6
+    },
+    {
+      "abr": "40x46mmgrenade(hedp)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_HEDP",
+      "price": 4
+    },
+    {
+      "abr": "40x46mmgrenade(emp)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_EMP",
+      "price": 8
+    },
+    {
+      "abr": "40x46mmgrenade(smoke)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_Smoke",
+      "price": 3
+    },
+    {
+      "abr": "40x46mmgrenade(tox)",
+      "category": "40x46mm Grenade",
+      "defname": "Ammo_40x46mmGrenade_Tox",
+      "price": 3
+    },
+    {
+      "abr": "14.5x114mm(fmj)",
+      "category": "14.5x114mm",
+      "defname": "Ammo_145x114mm_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "14.5x114mm(ap)",
+      "category": "14.5x114mm",
+      "defname": "Ammo_145x114mm_AP",
+      "price": 1
+    },
+    {
+      "abr": "14.5x114mm(ap-i)",
+      "category": "14.5x114mm",
+      "defname": "Ammo_145x114mm_Incendiary",
+      "price": 2
+    },
+    {
+      "abr": "14.5x114mm(ap-he)",
+      "category": "14.5x114mm",
+      "defname": "Ammo_145x114mm_HE",
+      "price": 2
+    },
+    {
+      "abr": "14.5x114mm(sabot)",
+      "category": "14.5x114mm",
+      "defname": "Ammo_145x114mm_Sabot",
+      "price": 2
+    },
+    {
+      "abr": "20x102mmnato(ap)",
+      "category": "20x102mm NATO",
+      "defname": "Ammo_20x102mmNATO_AP",
+      "price": 2
+    },
+    {
+      "abr": "20x102mmnato(ap-i)",
+      "category": "20x102mm NATO",
+      "defname": "Ammo_20x102mmNATO_Incendiary",
+      "price": 3
+    },
+    {
+      "abr": "20x102mmnato(ap-he)",
+      "category": "20x102mm NATO",
+      "defname": "Ammo_20x102mmNATO_HE",
+      "price": 3
+    },
+    {
+      "abr": "20x102mmnato(sabot)",
+      "category": "20x102mm NATO",
+      "defname": "Ammo_20x102mmNATO_Sabot",
+      "price": 2
+    },
+    {
+      "abr": "40x311mmr(ap)",
+      "category": "40x311mmR",
+      "defname": "Ammo_40x311mmR_AP",
+      "price": 17
+    },
+    {
+      "abr": "40x311mmr(ap-i)",
+      "category": "40x311mmR",
+      "defname": "Ammo_40x311mmR_Incendiary",
+      "price": 22
+    },
+    {
+      "abr": "40x311mmr(ap-he)",
+      "category": "40x311mmR",
+      "defname": "Ammo_40x311mmR_HE",
+      "price": 28
+    },
+    {
+      "abr": "40x311mmr(sabot)",
+      "category": "40x311mmR",
+      "defname": "Ammo_40x311mmR_Sabot",
+      "price": 19
+    },
+    {
+      "abr": "arrow(stone)",
+      "category": "Arrows",
+      "defname": "Ammo_Arrow_Stone",
+      "price": 1
+    },
+    {
+      "abr": "arrow(steel)",
+      "category": "Arrows",
+      "defname": "Ammo_Arrow_Steel",
+      "price": 1
+    },
+    {
+      "abr": "arrow(plasteel)",
+      "category": "Arrows",
+      "defname": "Ammo_Arrow_Plasteel",
+      "price": 2
+    },
+    {
+      "abr": "arrow(venom)",
+      "category": "Arrows",
+      "defname": "Ammo_Arrow_Venom",
+      "price": 3
+    },
+    {
+      "abr": "arrow(flame)",
+      "category": "Arrows",
+      "defname": "Ammo_Arrow_Flame",
+      "price": 2
+    },
+    {
+      "abr": "greatarrow(stone)",
+      "category": "Great arrows",
+      "defname": "Ammo_GreatArrow_Stone",
+      "price": 1
+    },
+    {
+      "abr": "greatarrow(steel)",
+      "category": "Great arrows",
+      "defname": "Ammo_GreatArrow_Steel",
+      "price": 1
+    },
+    {
+      "abr": "greatarrow(plasteel)",
+      "category": "Great arrows",
+      "defname": "Ammo_GreatArrow_Plasteel",
+      "price": 6
+    },
+    {
+      "abr": "greatarrow(venom)",
+      "category": "Great arrows",
+      "defname": "Ammo_GreatArrow_Venom",
+      "price": 7
+    },
+    {
+      "abr": "greatarrow(flame)",
+      "category": "Great arrows",
+      "defname": "Ammo_GreatArrow_Flame",
+      "price": 4
+    },
+    {
+      "abr": "jelliedchemfuel",
+      "category": "Flamethrower fuel",
+      "defname": "Ammo_Flamethrower_Napalm",
+      "price": 1
+    },
+    {
+      "abr": "jelliedprometheum",
+      "category": "Flamethrower fuel",
+      "defname": "Ammo_Flamethrower_Prometheum",
+      "price": 2
+    },
+    {
+      "abr": "infusedchemfuel",
+      "category": "Flamethrower fuel",
+      "defname": "Ammo_Flamethrower_Bioferrite",
+      "price": 1
+    },
+    {
+      "abr": "flareround",
+      "category": "Flare",
+      "defname": "Ammo_Flare",
+      "price": 1
+    },
+    {
+      "abr": "bioferriteflareround",
+      "category": "Flare",
+      "defname": "Ammo_FlareBioferrite",
+      "price": 1
+    },
+    {
+      "abr": ".44magnum(fmj)",
+      "category": ".44 Magnum",
+      "defname": "Ammo_44Magnum_FMJ",
+      "price": 1
+    },
+    {
+      "abr": ".44magnum(ap)",
+      "category": ".44 Magnum",
+      "defname": "Ammo_44Magnum_AP",
+      "price": 1
+    },
+    {
+      "abr": ".44magnum(hp)",
+      "category": ".44 Magnum",
+      "defname": "Ammo_44Magnum_HP",
+      "price": 1
+    },
+    {
+      "abr": ".45acp(fmj)",
+      "category": ".45 ACP",
+      "defname": "Ammo_45ACP_FMJ",
+      "price": 1
+    },
+    {
+      "abr": ".45acp(ap)",
+      "category": ".45 ACP",
+      "defname": "Ammo_45ACP_AP",
+      "price": 1
+    },
+    {
+      "abr": ".45acp(hp)",
+      "category": ".45 ACP",
+      "defname": "Ammo_45ACP_HP",
+      "price": 1
+    },
+    {
+      "abr": ".303british(fmj)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_FMJ",
+      "price": 1
+    },
+    {
+      "abr": ".303british(ap)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_AP",
+      "price": 1
+    },
+    {
+      "abr": ".303british(hp)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_HP",
+      "price": 1
+    },
+    {
+      "abr": ".303british(ap-i)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_Incendiary",
+      "price": 1
+    },
+    {
+      "abr": ".303british(ap-he)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_HE",
+      "price": 1
+    },
+    {
+      "abr": ".303british(sabot)",
+      "category": ".303 British",
+      "defname": "Ammo_303British_Sabot",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(fmj)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(ap)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_AP",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(hp)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_HP",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(ap-i)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_Incendiary",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(ap-he)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_HE",
+      "price": 1
+    },
+    {
+      "abr": "5.56x45mmnato(sabot)",
+      "category": "5.56x45mm NATO",
+      "defname": "Ammo_556x45mmNATO_Sabot",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(fmj)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_FMJ",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(ap)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_AP",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(hp)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_HP",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(ap-i)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_Incendiary",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(ap-he)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_HE",
+      "price": 1
+    },
+    {
+      "abr": "7.62x51mmnato(sabot)",
+      "category": "7.62x51mm NATO",
+      "defname": "Ammo_762x51mmNATO_Sabot",
+      "price": 1
+    },
+    {
+      "abr": "50mmrocket(he)",
+      "category": null,
+      "defname": "Ammo_50mmRocket_HE",
+      "price": 55
+    },
+    {
+      "abr": "81mmmortarshell(airburst)",
+      "category": "81mm mortar shell",
+      "defname": "Shell_HighExplosive_HFuzed",
+      "price": 116
+    },
+    {
+      "abr": "90mmcannonshell(heat)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HEAT",
+      "price": 194
+    },
+    {
+      "abr": "90mmcannonshell(ap)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_AP",
+      "price": 140
+    },
+    {
+      "abr": "90mmcannonshell(he)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HE",
+      "price": 188
+    },
+    {
+      "abr": "90mmcannonshell(hetime-fuzed)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_HE_TFuzed",
+      "price": 222
+    },
+    {
+      "abr": "90mmcannonshell(apcr)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_APCR",
+      "price": 180
+    },
+    {
+      "abr": "90mmcannonshell(emp)",
+      "category": "90mm cannon shell",
+      "defname": "Ammo_90mmCannonShell_EMP",
+      "price": 284
+    },
+    {
+      "abr": "12gaugeshell(buck)",
+      "category": "12 gauge",
+      "defname": "Ammo_12Gauge_Buck",
+      "price": 1
+    },
+    {
+      "abr": "12gaugeshell(slug)",
+      "category": "12 gauge",
+      "defname": "Ammo_12Gauge_Slug",
+      "price": 1
+    },
+    {
+      "abr": "12gaugeshell(bean)",
+      "category": "12 gauge",
+      "defname": "Ammo_12Gauge_Beanbag",
+      "price": 1
+    },
+    {
+      "abr": "12gaugeshell(emp)",
+      "category": "12 gauge",
+      "defname": "Ammo_12Gauge_ElectroSlug",
+      "price": 2
+    },
+    {
+      "abr": ".410boreshell(buck)",
+      "category": ".410 Bore",
+      "defname": "Ammo_410Bore_Buck",
+      "price": 1
+    },
+    {
+      "abr": ".410boreshell(slug)",
+      "category": ".410 Bore",
+      "defname": "Ammo_410Bore_Slug",
+      "price": 1
+    },
+    {
+      "abr": ".410boreshell(bean)",
+      "category": ".410 Bore",
+      "defname": "Ammo_410Bore_Beanbag",
+      "price": 1
+    },
+    {
+      "abr": ".410boreshell(emp)",
+      "category": ".410 Bore",
+      "defname": "Ammo_410Bore_ElectroSlug",
+      "price": 1
     }
   ],
-  "total": 924
+  "total": 1336
 }

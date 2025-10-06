@@ -256,7 +256,7 @@
       "abr": "beer",
       "category": "Drugs",
       "defname": "Beer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "beret",
@@ -6478,7 +6478,7 @@
       "abr": "kpvmachinegun",
       "category": "Security",
       "defname": "Turret_KPV",
-      "price": 1342
+      "price": -10
     },
     {
       "abr": "lacticdrone",
@@ -6508,7 +6508,7 @@
       "abr": "loadingbench",
       "category": "Production",
       "defname": "AmmoBench",
-      "price": 775
+      "price": -10
     },
     {
       "abr": "luciferdrone",
@@ -6550,7 +6550,7 @@
       "abr": "m240b",
       "category": "Security",
       "defname": "Turret_M240B",
-      "price": 892
+      "price": -10
     },
     {
       "abr": "masondrone",
@@ -6610,7 +6610,7 @@
       "abr": "mediumauto-turret",
       "category": "Security",
       "defname": "Turret_Medium",
-      "price": 1025
+      "price": -10
     },
     {
       "abr": "meleeshield",

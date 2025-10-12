@@ -98,7 +98,7 @@
     },
     {
       "abr": "antigrainwarhead",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_AntigrainWarhead",
       "price": -10
     },
@@ -1100,7 +1100,7 @@
     },
     {
       "abr": "empshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_EMP",
       "price": 92
     },
@@ -1166,7 +1166,7 @@
     },
     {
       "abr": "firefoamshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Firefoam",
       "price": 92
     },
@@ -1364,7 +1364,7 @@
     },
     {
       "abr": "gold",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Gold",
       "price": 17
     },
@@ -1520,7 +1520,7 @@
     },
     {
       "abr": "heavybandolier",
-      "category": "Loadbearing gear",
+      "category": "Misc",
       "defname": "Apparel_Bandolier",
       "price": 271
     },
@@ -1568,7 +1568,7 @@
     },
     {
       "abr": "high-explosiveshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_HighExplosive",
       "price": 92
     },
@@ -1748,7 +1748,7 @@
     },
     {
       "abr": "incendiaryshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Incendiary",
       "price": 92
     },
@@ -2144,7 +2144,7 @@
     },
     {
       "abr": "milk",
-      "category": "Animal products",
+      "category": "Milk",
       "defname": "Milk",
       "price": 3
     },
@@ -2462,7 +2462,7 @@
     },
     {
       "abr": "plasteel",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Plasteel",
       "price": 15
     },
@@ -2900,7 +2900,7 @@
     },
     {
       "abr": "silver",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Silver",
       "price": 2
     },
@@ -3068,7 +3068,7 @@
     },
     {
       "abr": "smokeshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Smoke",
       "price": 92
     },
@@ -3158,7 +3158,7 @@
     },
     {
       "abr": "steel",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Steel",
       "price": 3
     },
@@ -3452,7 +3452,7 @@
     },
     {
       "abr": "toxshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Toxic",
       "price": 92
     },
@@ -3542,7 +3542,7 @@
     },
     {
       "abr": "uranium",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Uranium",
       "price": 10
     },
@@ -3668,7 +3668,7 @@
     },
     {
       "abr": "wood",
-      "category": "Raw resources",
+      "category": "Timber",
       "defname": "WoodLog",
       "price": 2
     },
@@ -3920,7 +3920,7 @@
     },
     {
       "abr": "bioferrite",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Bioferrite",
       "price": -10
     },
@@ -3986,7 +3986,7 @@
     },
     {
       "abr": "deadlifeshell",
-      "category": "81mm mortar shell",
+      "category": "Mortar shells",
       "defname": "Shell_Deadlife",
       "price": -10
     },
@@ -4856,7 +4856,7 @@
     },
     {
       "abr": "obsidian",
-      "category": "Raw resources",
+      "category": "Metallics",
       "defname": "Obsidian",
       "price": 8
     },
@@ -5389,12 +5389,6 @@
       "price": 508
     },
     {
-      "abr": "90mmflakturret",
-      "category": "Security",
-      "defname": "Turret_Flak",
-      "price": -10
-    },
-    {
       "abr": "adaptivedrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Adaptive_Drone",
@@ -5419,12 +5413,6 @@
       "price": -10
     },
     {
-      "abr": "advancednightvisiongoggles",
-      "category": "Headgear",
-      "defname": "CE_Apparel_AdvancedNightVision",
-      "price": 683
-    },
-    {
       "abr": "agriculturaldrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Agricultural_Drone",
@@ -5440,12 +5428,6 @@
       "abr": "agriculturalqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Agricultural_Queen",
-      "price": -10
-    },
-    {
-      "abr": "ags-30",
-      "category": "Security",
-      "defname": "Turret_AGSThirty",
       "price": -10
     },
     {
@@ -5573,18 +5555,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Aurum_Queen",
       "price": -10
-    },
-    {
-      "abr": "backpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_Backpack",
-      "price": 181
-    },
-    {
-      "abr": "ballisticshield",
-      "category": "Shields",
-      "defname": "CE_Apparel_BallisticShield",
-      "price": 417
     },
     {
       "abr": "beeeggs",
@@ -5839,12 +5809,6 @@
       "price": -10
     },
     {
-      "abr": "binoculars",
-      "category": "Ranged weapons",
-      "defname": "Gun_BinocularsRadio",
-      "price": 533
-    },
-    {
       "abr": "biointerfacecomponents",
       "category": "Manufactured",
       "defname": "RB_ComponentBioInterface",
@@ -5941,12 +5905,6 @@
       "price": -10
     },
     {
-      "abr": "chargeblasterauto-turret",
-      "category": "Security",
-      "defname": "Turret_Blaster",
-      "price": -10
-    },
-    {
       "abr": "chefdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Chef_Drone",
@@ -5981,18 +5939,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Commando_Queen",
       "price": -10
-    },
-    {
-      "abr": "compositevest",
-      "category": "Armor",
-      "defname": "CE_Apparel_CompositeVest",
-      "price": 442
-    },
-    {
-      "abr": "concussiongrenade",
-      "category": "Grenades",
-      "defname": "CE_Weapon_GrenadeConcussion",
-      "price": 23
     },
     {
       "abr": "culinarydrone",
@@ -6065,12 +6011,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Desiccated_Queen",
       "price": -10
-    },
-    {
-      "abr": "disposablerocketlauncher",
-      "category": "Ranged weapons",
-      "defname": "CE_DisposableRocketLauncher",
-      "price": 167
     },
     {
       "abr": "egglayingdrone",
@@ -6151,24 +6091,6 @@
       "price": -10
     },
     {
-      "abr": "firefoamgrenade",
-      "category": "Grenades",
-      "defname": "CE_Weapon_GrenadeFirefoam",
-      "price": 30
-    },
-    {
-      "abr": "flaregun",
-      "category": "Ranged weapons",
-      "defname": "CE_FlareGun",
-      "price": 188
-    },
-    {
-      "abr": "flashbanggrenade",
-      "category": "Grenades",
-      "defname": "CE_Weapon_GrenadeFlashbang",
-      "price": 15
-    },
-    {
       "abr": "foamydrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Foamy_Drone",
@@ -6203,18 +6125,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Frigid_Queen",
       "price": -10
-    },
-    {
-      "abr": "fsx",
-      "category": "Raw resources",
-      "defname": "FSX",
-      "price": 12
-    },
-    {
-      "abr": "gasmask",
-      "category": "Headgear",
-      "defname": "CE_Apparel_GasMask",
-      "price": 193
     },
     {
       "abr": "genepackdrone",
@@ -6271,18 +6181,6 @@
       "price": -10
     },
     {
-      "abr": "grenadelauncher",
-      "category": "Ranged weapons",
-      "defname": "CE_GrenadeLauncher",
-      "price": 254
-    },
-    {
-      "abr": "gunsmithingbench",
-      "category": "Production",
-      "defname": "GunsmithingBench",
-      "price": -10
-    },
-    {
       "abr": "handlerdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Handler_Drone",
@@ -6316,12 +6214,6 @@
       "abr": "harvesterqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Harvester_Queen",
-      "price": -10
-    },
-    {
-      "abr": "heavyauto-turret",
-      "category": "Security",
-      "defname": "Turret_Heavy",
       "price": -10
     },
     {
@@ -6409,12 +6301,6 @@
       "price": -10
     },
     {
-      "abr": "improvisedgasmask",
-      "category": "Headgear",
-      "defname": "CE_Apparel_ImprovGasMask",
-      "price": 106
-    },
-    {
       "abr": "infernodrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Inferno_Drone",
@@ -6469,18 +6355,6 @@
       "price": -10
     },
     {
-      "abr": "kidbackpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_KidBackpack",
-      "price": 91
-    },
-    {
-      "abr": "kpvmachinegun",
-      "category": "Security",
-      "defname": "Turret_KPV",
-      "price": -10
-    },
-    {
       "abr": "lacticdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Lactic_Drone",
@@ -6502,12 +6376,6 @@
       "abr": "lavishhoneymeal",
       "category": "Meals",
       "defname": "RB_LavishHoney",
-      "price": -10
-    },
-    {
-      "abr": "loadingbench",
-      "category": "Production",
-      "defname": "AmmoBench",
       "price": -10
     },
     {
@@ -6544,12 +6412,6 @@
       "abr": "luxuriousqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Luxurious_Queen",
-      "price": -10
-    },
-    {
-      "abr": "m240b",
-      "category": "Security",
-      "defname": "Turret_M240B",
       "price": -10
     },
     {
@@ -6607,18 +6469,6 @@
       "price": -10
     },
     {
-      "abr": "mediumauto-turret",
-      "category": "Security",
-      "defname": "Turret_Medium",
-      "price": -10
-    },
-    {
-      "abr": "meleeshield",
-      "category": "Shields",
-      "defname": "CE_Apparel_MeleeShield",
-      "price": 257
-    },
-    {
       "abr": "milddrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Mild_Drone",
@@ -6671,12 +6521,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Neutro_Queen",
       "price": -10
-    },
-    {
-      "abr": "nightvisionmonocular",
-      "category": "Headgear",
-      "defname": "CE_Apparel_SimpleNightVision",
-      "price": 475
     },
     {
       "abr": "nitrodrone",
@@ -6823,18 +6667,6 @@
       "price": -10
     },
     {
-      "abr": "platehelmet",
-      "category": "Headgear",
-      "defname": "CE_Apparel_PlateHelmet",
-      "price": 265
-    },
-    {
-      "abr": "poweredexoframe",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_ExoFrame",
-      "price": 1708
-    },
-    {
       "abr": "preciousdrone",
       "category": "Drones and queens",
       "defname": "RB_Bee_Precious_Drone",
@@ -6850,12 +6682,6 @@
       "abr": "preciousqueen",
       "category": "Drones and queens",
       "defname": "RB_Bee_Precious_Queen",
-      "price": -10
-    },
-    {
-      "abr": "prometheum",
-      "category": "Raw resources",
-      "defname": "Prometheum",
       "price": -10
     },
     {
@@ -6875,12 +6701,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Psychic_Queen",
       "price": -10
-    },
-    {
-      "abr": "psycho",
-      "category": "Drugs",
-      "defname": "Psycho",
-      "price": 12
     },
     {
       "abr": "psychotropichoney",
@@ -6905,12 +6725,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Quarry_Queen",
       "price": -10
-    },
-    {
-      "abr": "radiopack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_RadioPack",
-      "price": 767
     },
     {
       "abr": "radioactivedrone",
@@ -7033,22 +6847,10 @@
       "price": -10
     },
     {
-      "abr": "smokegrenade",
-      "category": "Grenades",
-      "defname": "CE_Weapon_GrenadeSmoke",
-      "price": 18
-    },
-    {
       "abr": "steelwax",
       "category": "Beeswax",
       "defname": "RB_Steelwax",
       "price": -10
-    },
-    {
-      "abr": "stickbomb",
-      "category": "Grenades",
-      "defname": "CE_Weapon_GrenadeStickBomb",
-      "price": 39
     },
     {
       "abr": "stonerdrone",
@@ -7157,12 +6959,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Synthetic_Queen",
       "price": -10
-    },
-    {
-      "abr": "tacticalvest",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_TacVest",
-      "price": 248
     },
     {
       "abr": "tannerdrone",
@@ -7277,12 +7073,6 @@
       "category": "Drones and queens",
       "defname": "RB_Bee_Trash_Queen",
       "price": -10
-    },
-    {
-      "abr": "tribalbackpack",
-      "category": "Loadbearing gear",
-      "defname": "CE_Apparel_TribalBackpack",
-      "price": 97
     },
     {
       "abr": "vampiredrone",
@@ -7435,593 +7225,5099 @@
       "price": -10
     },
     {
-      "abr": "nervespikerbolt",
-      "category": "Crossbow bolts",
-      "defname": "Ammo_NerveSpikerBolt",
+      "abr": "acidflask",
+      "category": "Grenades",
+      "defname": "DankPyon_Weapon_AcidFlask",
       "price": -10
     },
     {
-      "abr": "12x64mmcharged",
-      "category": "12x64mm Charged",
-      "defname": "Ammo_12x64mmCharged",
-      "price": 3
+      "abr": "acidflaskbelt",
+      "category": "Utility",
+      "defname": "DankPyon_Apparel_AcidFlaskBelt",
+      "price": -10
     },
     {
-      "abr": "164x284mmdemolitionshell",
-      "category": "164x284mm Demolition Shell",
-      "defname": "Ammo_164x284mmDemo",
-      "price": 37
+      "abr": "additionalfurpadding",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_AdditionalFurPadding",
+      "price": -10
     },
     {
-      "abr": "30x64mmfuelcell(incendiary)",
-      "category": "30x64mm Fuel Cell",
-      "defname": "Ammo_30x64mmFuel_Incendiary",
-      "price": 13
+      "abr": "adrenalinegland",
+      "category": "Loot",
+      "defname": "DankPyon_AdrenalineGland",
+      "price": -10
     },
     {
-      "abr": "30x64mmfuelcell(thermobaric)",
-      "category": "30x64mm Fuel Cell",
-      "defname": "Ammo_30x64mmFuel_Thermobaric",
-      "price": 19
+      "abr": "advancedcookingrecipes",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_AdvancedCooking",
+      "price": -10
     },
     {
-      "abr": "5x35mmcharged",
-      "category": "5x35mm Charged",
-      "defname": "Ammo_5x35mmCharged",
-      "price": 1
+      "abr": "advancedresearchbench",
+      "category": "Production",
+      "defname": "DankPyon_AdvancedResearchBench",
+      "price": -10
     },
     {
-      "abr": "5x50mmcaseless(sabot)",
-      "category": "5x50mm Caseless",
-      "defname": "Ammo_5x50mmCaseless_Sabot",
-      "price": 1
+      "abr": "alchemyworkbench",
+      "category": "Production",
+      "defname": "DankPyon_AlchemyBench",
+      "price": -10
     },
     {
-      "abr": "66mmthermalbolt(incendiary)",
-      "category": "66mm Thermal Bolt",
-      "defname": "Ammo_66mmThermalBolt_Incendiary",
-      "price": 24
+      "abr": "ale",
+      "category": "Drugs",
+      "defname": "DankPyon_Ale",
+      "price": -10
     },
     {
-      "abr": "6x22mmcharged",
-      "category": "6x22mm Charged",
-      "defname": "Ammo_6x22mmCharged",
-      "price": 1
+      "abr": "alewort",
+      "category": "Manufactured",
+      "defname": "DankPyon_WortAle",
+      "price": -10
     },
     {
-      "abr": "6x24mmcharged",
-      "category": "6x24mm Charged",
-      "defname": "Ammo_6x24mmCharged",
-      "price": 1
+      "abr": "alembic",
+      "category": "Misc",
+      "defname": "DankPyon_Alembic",
+      "price": -10
     },
     {
-      "abr": "6x24mmcharged(conc.)",
-      "category": "6x24mm Charged",
-      "defname": "Ammo_6x24mmCharged_AP",
-      "price": 1
+      "abr": "alp",
+      "category": "Animals",
+      "defname": "DankPyon_Alp",
+      "price": -10
     },
     {
-      "abr": "6x24mmcharged(ion)",
-      "category": "6x24mm Charged",
-      "defname": "Ammo_6x24mmCharged_Ion",
-      "price": 1
+      "abr": "alpmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Alp",
+      "price": -10
     },
     {
-      "abr": "80x256mmfuelcell(incendiary)",
-      "category": "80x256mm Fuel Cell",
-      "defname": "Ammo_80x256mmFuel_Incendiary",
-      "price": 25
+      "abr": "amber",
+      "category": "Gemstones",
+      "defname": "DankPyon_Amber",
+      "price": -10
     },
     {
-      "abr": "8x35mmcharged",
-      "category": "8x35mm Charged",
-      "defname": "Ammo_8x35mmCharged",
-      "price": 2
+      "abr": "ambernecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Amber",
+      "price": -10
     },
     {
-      "abr": "8x35mmcharged(conc.)",
-      "category": "8x35mm Charged",
-      "defname": "Ammo_8x35mmCharged_AP",
-      "price": 2
+      "abr": "amberring",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Amber",
+      "price": -10
     },
     {
-      "abr": "8x35mmcharged(ion)",
-      "category": "8x35mm Charged",
-      "defname": "Ammo_8x35mmCharged_Ion",
-      "price": 2
+      "abr": "ancientballistarepeaterschematics",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_BallistaRepeater",
+      "price": -10
     },
     {
-      "abr": "laserchargepack",
-      "category": "Laser charge pack",
-      "defname": "Ammo_LaserChargePack",
-      "price": 1
+      "abr": "ancientbrazier",
+      "category": "Art",
+      "defname": "DankPyon_Brazier1x1c",
+      "price": -10
     },
     {
-      "abr": "mechanoidlaserpack",
-      "category": "Laser charge pack",
-      "defname": "Ammo_LaserChargePack_Mech",
-      "price": 1
+      "abr": "ancientcodex",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_AncientCodex",
+      "price": -10
     },
     {
-      "abr": "30x29mmgrenade(he)",
-      "category": "30x29mm Grenade",
-      "defname": "Ammo_30x29mmGrenade_HE",
-      "price": 5
+      "abr": "ancientcolumn",
+      "category": "Art",
+      "defname": "DankPyon_Ancient_Column",
+      "price": -10
     },
     {
-      "abr": "30x29mmgrenade(hetime-fuzed)",
-      "category": "30x29mm Grenade",
-      "defname": "Ammo_30x29mmGrenade_HE_TFuzed",
-      "price": 7
+      "abr": "ancientcolumn",
+      "category": "Art",
+      "defname": "DankPyon_Ruined_AncientColumn",
+      "price": -10
     },
     {
-      "abr": "30x29mmgrenade(hedp)",
-      "category": "30x29mm Grenade",
-      "defname": "Ammo_30x29mmGrenade_HEDP",
-      "price": 5
+      "abr": "ancientcrossbowschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_Crossbow",
+      "price": -10
     },
     {
-      "abr": "30x29mmgrenade(emp)",
-      "category": "30x29mm Grenade",
-      "defname": "Ammo_30x29mmGrenade_EMP",
-      "price": 9
+      "abr": "ancientcrossbowschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_HeavyCrossbow",
+      "price": -10
     },
     {
-      "abr": "30x29mmgrenade(smoke)",
-      "category": "30x29mm Grenade",
-      "defname": "Ammo_30x29mmGrenade_Smoke",
-      "price": 4
+      "abr": "ancientgreatbowschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_GreatBow",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(he)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_HE",
-      "price": 4
+      "abr": "ancientgunpowderschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_Gunpowder",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(hetime-fuzed)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_HE_TFuzed",
-      "price": 6
+      "abr": "ancientmetallurgyschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_Steel",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(hedp)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_HEDP",
-      "price": 4
+      "abr": "ancientmilitarybladesschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_MilitaryBlades",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(emp)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_EMP",
-      "price": 8
+      "abr": "ancientmilitarymacesschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_MilitaryMaces",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(smoke)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_Smoke",
-      "price": 3
+      "abr": "ancientmiltarypolearmschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_MilitaryPolearms",
+      "price": -10
     },
     {
-      "abr": "40x46mmgrenade(tox)",
-      "category": "40x46mm Grenade",
-      "defname": "Ammo_40x46mmGrenade_Tox",
-      "price": 3
+      "abr": "ancientnoblebladesschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_NobleBlades",
+      "price": -10
     },
     {
-      "abr": "14.5x114mm(fmj)",
-      "category": "14.5x114mm",
-      "defname": "Ammo_145x114mm_FMJ",
-      "price": 1
+      "abr": "ancientnoblemacesschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_NobleMaces",
+      "price": -10
     },
     {
-      "abr": "14.5x114mm(ap)",
-      "category": "14.5x114mm",
-      "defname": "Ammo_145x114mm_AP",
-      "price": 1
+      "abr": "ancientnoblepolearmschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_NoblePolearms",
+      "price": -10
     },
     {
-      "abr": "14.5x114mm(ap-i)",
-      "category": "14.5x114mm",
-      "defname": "Ammo_145x114mm_Incendiary",
-      "price": 2
+      "abr": "ancientobeliskbrazier",
+      "category": "Art",
+      "defname": "DankPyon_Brazier2x2c",
+      "price": -10
     },
     {
-      "abr": "14.5x114mm(ap-he)",
-      "category": "14.5x114mm",
-      "defname": "Ammo_145x114mm_HE",
-      "price": 2
+      "abr": "ancientorb",
+      "category": "Quest stuff",
+      "defname": "DankPyon_CultOrb",
+      "price": -10
     },
     {
-      "abr": "14.5x114mm(sabot)",
-      "category": "14.5x114mm",
-      "defname": "Ammo_145x114mm_Sabot",
-      "price": 2
+      "abr": "ancientpedestal",
+      "category": "Quest stuff",
+      "defname": "DankPyon_CultPedestal",
+      "price": -10
     },
     {
-      "abr": "20x102mmnato(ap)",
-      "category": "20x102mm NATO",
-      "defname": "Ammo_20x102mmNATO_AP",
-      "price": 2
+      "abr": "ancientreliquary",
+      "category": "Art",
+      "defname": "DankPyon_AncientReliquaryEmpty",
+      "price": -10
     },
     {
-      "abr": "20x102mmnato(ap-i)",
-      "category": "20x102mm NATO",
-      "defname": "Ammo_20x102mmNATO_Incendiary",
-      "price": 3
+      "abr": "ancientschematic",
+      "category": "Books",
+      "defname": "DankPyon_Schematic",
+      "price": -10
     },
     {
-      "abr": "20x102mmnato(ap-he)",
-      "category": "20x102mm NATO",
-      "defname": "Ammo_20x102mmNATO_HE",
-      "price": 3
+      "abr": "ancienttarschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_Tar",
+      "price": -10
     },
     {
-      "abr": "20x102mmnato(sabot)",
-      "category": "20x102mm NATO",
-      "defname": "Ammo_20x102mmNATO_Sabot",
-      "price": 2
+      "abr": "ancienttroll",
+      "category": "Animals",
+      "defname": "DankPyon_AncientTroll",
+      "price": -10
     },
     {
-      "abr": "40x311mmr(ap)",
-      "category": "40x311mmR",
-      "defname": "Ammo_40x311mmR_AP",
-      "price": 17
+      "abr": "ancienttrollmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_AncientTroll",
+      "price": -10
     },
     {
-      "abr": "40x311mmr(ap-i)",
-      "category": "40x311mmR",
-      "defname": "Ammo_40x311mmR_Incendiary",
-      "price": 22
+      "abr": "ancientwarbowschematic",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_WarBow",
+      "price": -10
     },
     {
-      "abr": "40x311mmr(ap-he)",
-      "category": "40x311mmR",
-      "defname": "Ammo_40x311mmR_HE",
-      "price": 28
+      "abr": "ancientwood",
+      "category": "Loot",
+      "defname": "DankPyon_AncientWood",
+      "price": -10
     },
     {
-      "abr": "40x311mmr(sabot)",
-      "category": "40x311mmR",
-      "defname": "Ammo_40x311mmR_Sabot",
-      "price": 19
+      "abr": "angus",
+      "category": "Animals",
+      "defname": "DankPyon_Angus",
+      "price": -10
     },
     {
-      "abr": "arrow(stone)",
-      "category": "Arrows",
-      "defname": "Ammo_Arrow_Stone",
-      "price": 1
+      "abr": "anvil",
+      "category": "Production",
+      "defname": "DankPyon_Anvil",
+      "price": -10
     },
     {
-      "abr": "arrow(steel)",
-      "category": "Arrows",
-      "defname": "Ammo_Arrow_Steel",
-      "price": 1
+      "abr": "apothecary'smiracle",
+      "category": "Drugs",
+      "defname": "DankPyon_Miracle",
+      "price": -10
     },
     {
-      "abr": "arrow(plasteel)",
-      "category": "Arrows",
-      "defname": "Ammo_Arrow_Plasteel",
-      "price": 2
+      "abr": "apothecary'smiraclemixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Miracle",
+      "price": -10
     },
     {
-      "abr": "arrow(venom)",
-      "category": "Arrows",
-      "defname": "Ammo_Arrow_Venom",
-      "price": 3
+      "abr": "applejuice",
+      "category": "Non-alcoholic",
+      "defname": "DankPyon_JuiceApple",
+      "price": -10
     },
     {
-      "abr": "arrow(flame)",
-      "category": "Arrows",
-      "defname": "Ammo_Arrow_Flame",
-      "price": 2
+      "abr": "applemince",
+      "category": "Manufactured",
+      "defname": "DankPyon_MincedApple",
+      "price": -10
     },
     {
-      "abr": "greatarrow(stone)",
-      "category": "Great arrows",
-      "defname": "Ammo_GreatArrow_Stone",
-      "price": 1
+      "abr": "applepie",
+      "category": "Meals",
+      "defname": "DankPyon_MealApplePie",
+      "price": -10
     },
     {
-      "abr": "greatarrow(steel)",
-      "category": "Great arrows",
-      "defname": "Ammo_GreatArrow_Steel",
-      "price": 1
+      "abr": "apples",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawApples",
+      "price": -10
     },
     {
-      "abr": "greatarrow(plasteel)",
-      "category": "Great arrows",
-      "defname": "Ammo_GreatArrow_Plasteel",
-      "price": 6
+      "abr": "arbalest",
+      "category": "Ranged weapons",
+      "defname": "DankPyon_CrossbowHeavy",
+      "price": -10
     },
     {
-      "abr": "greatarrow(venom)",
-      "category": "Great arrows",
-      "defname": "Ammo_GreatArrow_Venom",
-      "price": 7
+      "abr": "arcticwolfhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Wolf_Arctic",
+      "price": -10
     },
     {
-      "abr": "greatarrow(flame)",
-      "category": "Great arrows",
-      "defname": "Ammo_GreatArrow_Flame",
-      "price": 4
+      "abr": "arcticwolfrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugWolfArctic2x2c",
+      "price": -10
     },
     {
-      "abr": "jelliedchemfuel",
-      "category": "Flamethrower fuel",
-      "defname": "Ammo_Flamethrower_Napalm",
-      "price": 1
+      "abr": "armadilloleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Armadillo",
+      "price": -10
     },
     {
-      "abr": "jelliedprometheum",
-      "category": "Flamethrower fuel",
-      "defname": "Ammo_Flamethrower_Prometheum",
-      "price": 2
+      "abr": "armet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_Armet",
+      "price": -10
     },
     {
-      "abr": "infusedchemfuel",
-      "category": "Flamethrower fuel",
-      "defname": "Ammo_Flamethrower_Bioferrite",
-      "price": 1
+      "abr": "armingcap",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ArmingCap",
+      "price": -10
     },
     {
-      "abr": "flareround",
-      "category": "Flare",
-      "defname": "Ammo_Flare",
-      "price": 1
+      "abr": "armingsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_ArmingSword",
+      "price": -10
     },
     {
-      "abr": "bioferriteflareround",
-      "category": "Flare",
-      "defname": "Ammo_FlareBioferrite",
-      "price": 1
+      "abr": "armorstatue",
+      "category": "Art",
+      "defname": "DankPyon_ArmorStatue",
+      "price": -10
     },
     {
-      "abr": ".44magnum(fmj)",
-      "category": ".44 Magnum",
-      "defname": "Ammo_44Magnum_FMJ",
-      "price": 1
+      "abr": "artist'slegacy",
+      "category": "Loot",
+      "defname": "DankPyon_TornNote_Song1c",
+      "price": -10
     },
     {
-      "abr": ".44magnum(ap)",
-      "category": ".44 Magnum",
-      "defname": "Ammo_44Magnum_AP",
-      "price": 1
+      "abr": "assortedcart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_Assorted",
+      "price": -10
     },
     {
-      "abr": ".44magnum(hp)",
-      "category": ".44 Magnum",
-      "defname": "Ammo_44Magnum_HP",
-      "price": 1
+      "abr": "bakingtools",
+      "category": "Misc",
+      "defname": "DankPyon_TableBaking",
+      "price": -10
     },
     {
-      "abr": ".45acp(fmj)",
-      "category": ".45 ACP",
-      "defname": "Ammo_45ACP_FMJ",
-      "price": 1
+      "abr": "ballistabolts",
+      "category": "Manufactured",
+      "defname": "DankPyon_BallistaBolt",
+      "price": -10
     },
     {
-      "abr": ".45acp(ap)",
-      "category": ".45 ACP",
-      "defname": "Ammo_45ACP_AP",
-      "price": 1
+      "abr": "banner(amboise)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerAmboise",
+      "price": -10
     },
     {
-      "abr": ".45acp(hp)",
-      "category": ".45 ACP",
-      "defname": "Ammo_45ACP_HP",
-      "price": 1
+      "abr": "banner(arrow)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerArrow",
+      "price": -10
     },
     {
-      "abr": ".303british(fmj)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_FMJ",
-      "price": 1
+      "abr": "banner(axe)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerAxe",
+      "price": -10
     },
     {
-      "abr": ".303british(ap)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_AP",
-      "price": 1
+      "abr": "banner(crow)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerCrow",
+      "price": -10
     },
     {
-      "abr": ".303british(hp)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_HP",
-      "price": 1
+      "abr": "banner(hand)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerHand",
+      "price": -10
     },
     {
-      "abr": ".303british(ap-i)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_Incendiary",
-      "price": 1
+      "abr": "banner(hesse)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerHesse",
+      "price": -10
     },
     {
-      "abr": ".303british(ap-he)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_HE",
-      "price": 1
+      "abr": "banner(lindwurm)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerLindwurm",
+      "price": -10
     },
     {
-      "abr": ".303british(sabot)",
-      "category": ".303 British",
-      "defname": "Ammo_303British_Sabot",
-      "price": 1
+      "abr": "banner(mooncult)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerMoonCult",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(fmj)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_FMJ",
-      "price": 1
+      "abr": "banner(oswin)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerOswin",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(ap)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_AP",
-      "price": 1
+      "abr": "banner(plain)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerPlain",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(hp)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_HP",
-      "price": 1
+      "abr": "banner(soren)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerSoren",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(ap-i)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_Incendiary",
-      "price": 1
+      "abr": "banner(sun)",
+      "category": "Furniture",
+      "defname": "DankPyon_BannerSun",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(ap-he)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_HE",
-      "price": 1
+      "abr": "bardiche",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Bardiche",
+      "price": -10
     },
     {
-      "abr": "5.56x45mmnato(sabot)",
-      "category": "5.56x45mm NATO",
-      "defname": "Ammo_556x45mmNATO_Sabot",
-      "price": 1
+      "abr": "barrel",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBarrelClosed",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(fmj)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_FMJ",
-      "price": 1
+      "abr": "barrelofbasiccomponents",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelComponentBasic",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(ap)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_AP",
-      "price": 1
+      "abr": "barrelofcoalore",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelCoalOre",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(hp)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_HP",
-      "price": 1
+      "abr": "barrelofgoldore",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelGoldOre",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(ap-i)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_Incendiary",
-      "price": 1
+      "abr": "barrelofgrape",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelGrape",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(ap-he)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_HE",
-      "price": 1
+      "abr": "barrelofironore",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelIronOre",
+      "price": -10
     },
     {
-      "abr": "7.62x51mmnato(sabot)",
-      "category": "7.62x51mm NATO",
-      "defname": "Ammo_762x51mmNATO_Sabot",
-      "price": 1
+      "abr": "barrelofleather",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelLeather",
+      "price": -10
     },
     {
-      "abr": "50mmrocket(he)",
-      "category": null,
-      "defname": "Ammo_50mmRocket_HE",
-      "price": 55
+      "abr": "barrelofrawplasteel",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelRawPlasteel",
+      "price": -10
     },
     {
-      "abr": "81mmmortarshell(airburst)",
-      "category": "81mm mortar shell",
-      "defname": "Shell_HighExplosive_HFuzed",
-      "price": 116
+      "abr": "barrelofsilverore",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelSilverOre",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(heat)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HEAT",
-      "price": 194
+      "abr": "barreloftextiles",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelTextiles",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(ap)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_AP",
-      "price": 140
+      "abr": "barrelofwood",
+      "category": "Furniture",
+      "defname": "DankPyon_BarrelWoodLog",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(he)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HE",
-      "price": 188
+      "abr": "barrelshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBarrelStack",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(hetime-fuzed)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_HE_TFuzed",
-      "price": 222
+      "abr": "bascinethelmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ClosedBascinetHelmet",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(apcr)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_APCR",
-      "price": 180
+      "abr": "basiccomponent",
+      "category": "Manufactured",
+      "defname": "DankPyon_ComponentBasic",
+      "price": -10
     },
     {
-      "abr": "90mmcannonshell(emp)",
-      "category": "90mm cannon shell",
-      "defname": "Ammo_90mmCannonShell_EMP",
-      "price": 284
+      "abr": "battleelixir",
+      "category": "Drugs",
+      "defname": "DankPyon_BattleElixir",
+      "price": -10
     },
     {
-      "abr": "12gaugeshell(buck)",
-      "category": "12 gauge",
-      "defname": "Ammo_12Gauge_Buck",
-      "price": 1
+      "abr": "battleelixirmixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_BattleElixir",
+      "price": -10
     },
     {
-      "abr": "12gaugeshell(slug)",
-      "category": "12 gauge",
-      "defname": "Ammo_12Gauge_Slug",
-      "price": 1
+      "abr": "bearhood(grizzly)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_BearGrizzly",
+      "price": -10
     },
     {
-      "abr": "12gaugeshell(bean)",
-      "category": "12 gauge",
-      "defname": "Ammo_12Gauge_Beanbag",
-      "price": 1
+      "abr": "bearhood(polar)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_BearPolar",
+      "price": -10
     },
     {
-      "abr": "12gaugeshell(emp)",
-      "category": "12 gauge",
-      "defname": "Ammo_12Gauge_ElectroSlug",
-      "price": 2
+      "abr": "bellows",
+      "category": "Misc",
+      "defname": "DankPyon_Bellows",
+      "price": -10
     },
     {
-      "abr": ".410boreshell(buck)",
-      "category": ".410 Bore",
-      "defname": "Ammo_410Bore_Buck",
-      "price": 1
+      "abr": "billhook",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Billhook",
+      "price": -10
     },
     {
-      "abr": ".410boreshell(slug)",
-      "category": ".410 Bore",
-      "defname": "Ammo_410Bore_Slug",
-      "price": 1
+      "abr": "birdleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Bird",
+      "price": -10
     },
     {
-      "abr": ".410boreshell(bean)",
-      "category": ".410 Bore",
-      "defname": "Ammo_410Bore_Beanbag",
-      "price": 1
+      "abr": "birdpost",
+      "category": "Misc",
+      "defname": "DankPyon_BirdPost",
+      "price": -10
     },
     {
-      "abr": ".410boreshell(emp)",
-      "category": ".410 Bore",
-      "defname": "Ammo_410Bore_ElectroSlug",
-      "price": 1
+      "abr": "blacksmith'shammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_BlacksmithHammer",
+      "price": -10
     },
     {
-      "abr": "deathsuperacidifier",
-      "category": "Bionic",
-      "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "abr": "bludgeon",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Bludgeon",
+      "price": -10
+    },
+    {
+      "abr": "blueheart",
+      "category": "Loot",
+      "defname": "DankPyon_TrollHeart",
+      "price": -10
+    },
+    {
+      "abr": "bluelysrug(2x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Lys_Blue2x3c",
+      "price": -10
+    },
+    {
+      "abr": "blue-limestripedrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Striped_BlueLime2x4c",
+      "price": -10
+    },
+    {
+      "abr": "boarspear",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_BoarSpear",
+      "price": -10
+    },
+    {
+      "abr": "boarskin",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_DireBoar",
+      "price": -10
+    },
+    {
+      "abr": "boarskinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_DireBoar",
+      "price": -10
+    },
+    {
+      "abr": "boiledbeansandonion",
+      "category": "Meals",
+      "defname": "DankPyon_MealBoiledBeansAndOnion",
+      "price": -10
+    },
+    {
+      "abr": "bone",
+      "category": "Raw resources",
+      "defname": "DankPyon_Bone",
+      "price": -10
+    },
+    {
+      "abr": "boneplating",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_BonePlating",
+      "price": -10
+    },
+    {
+      "abr": "bonesoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealBoneSoup",
+      "price": -10
+    },
+    {
+      "abr": "bookfilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledBook",
+      "price": -10
+    },
+    {
+      "abr": "bookscribetable",
+      "category": "Production",
+      "defname": "DankPyon_Book_ScribeTable",
+      "price": -10
+    },
+    {
+      "abr": "boots",
+      "category": "Footwear",
+      "defname": "DankPyon_Footwear_BootsLeather",
+      "price": -10
+    },
+    {
+      "abr": "braies",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_Braies",
+      "price": -10
+    },
+    {
+      "abr": "bread",
+      "category": "Meals",
+      "defname": "DankPyon_MealBread",
+      "price": -10
+    },
+    {
+      "abr": "breadcupboard",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCupboardBread",
+      "price": -10
+    },
+    {
+      "abr": "breadsoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealBreadSoup",
+      "price": -10
+    },
+    {
+      "abr": "breastplate",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Breast_Plate",
+      "price": -10
+    },
+    {
+      "abr": "bricks(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bricks1x1c",
+      "price": -10
+    },
+    {
+      "abr": "bricks(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bricks1x2c",
+      "price": -10
+    },
+    {
+      "abr": "bricks(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bricks2x2c",
+      "price": -10
+    },
+    {
+      "abr": "brigandine",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Brigandine",
+      "price": -10
+    },
+    {
+      "abr": "bundledsack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_BundledSack1x1c",
+      "price": -10
+    },
+    {
+      "abr": "bundledsack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_BundledSack2x2c",
+      "price": -10
+    },
+    {
+      "abr": "bust",
+      "category": "Art",
+      "defname": "DankPyon_Bust",
+      "price": -10
+    },
+    {
+      "abr": "butcher'sblock",
+      "category": "Production",
+      "defname": "DankPyon_ButchersBlock",
+      "price": -10
+    },
+    {
+      "abr": "butcher'scleaver",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_ButcherCleaver",
+      "price": -10
+    },
+    {
+      "abr": "cabbages",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawCabbages",
+      "price": -10
+    },
+    {
+      "abr": "camelhidehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Camel",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Furniture",
+      "defname": "DankPyon_Candle",
+      "price": -10
+    },
+    {
+      "abr": "candle",
+      "category": "Furniture",
+      "defname": "DankPyon_Candle_Beeswax",
+      "price": -10
+    },
+    {
+      "abr": "candlestand",
+      "category": "Furniture",
+      "defname": "DankPyon_CandleStand",
+      "price": -10
+    },
+    {
+      "abr": "candlebra",
+      "category": "Furniture",
+      "defname": "DankPyon_Candelabra",
+      "price": -10
+    },
+    {
+      "abr": "candles",
+      "category": "Furniture",
+      "defname": "DankPyon_Candles",
+      "price": -10
+    },
+    {
+      "abr": "candles",
+      "category": "Furniture",
+      "defname": "DankPyon_Candles_Beeswax",
+      "price": -10
+    },
+    {
+      "abr": "carrotcake",
+      "category": "Meals",
+      "defname": "DankPyon_MealCarrotCake",
+      "price": -10
+    },
+    {
+      "abr": "carrots",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawCarrots",
+      "price": -10
+    },
+    {
+      "abr": "cavelindwurm",
+      "category": "Animals",
+      "defname": "DankPyon_LindwurmCave",
+      "price": -10
+    },
+    {
+      "abr": "chaincoif",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainCoif",
+      "price": -10
+    },
+    {
+      "abr": "chainflat-top",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_Chain_FlatTopHelmet",
+      "price": -10
+    },
+    {
+      "abr": "chainkettlehelm",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainKettleHelmet",
+      "price": -10
+    },
+    {
+      "abr": "chainnasalhelm",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainNasalHelmet",
+      "price": -10
+    },
+    {
+      "abr": "chainnasalhelm(bandana)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainNasalRedHelmet",
+      "price": -10
+    },
+    {
+      "abr": "chainveilhelmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainClosedFlatTopHelmet",
+      "price": -10
+    },
+    {
+      "abr": "chainveilhelmet(adorned)",
+      "category": "Headgear",
+      "defname": "DankPyon_Adorned_FlatTop",
+      "price": -10
+    },
+    {
+      "abr": "chargelance",
+      "category": "Ranged weapons",
+      "defname": "Gun_ChargeLance",
+      "price": 2258
+    },
+    {
+      "abr": "checkereddiamondrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Diamond_RGB2x4c",
+      "price": -10
+    },
+    {
+      "abr": "cheese",
+      "category": "Meals",
+      "defname": "DankPyon_MealCheese",
+      "price": -10
+    },
+    {
+      "abr": "cheesecupboard",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCupboardCheese",
+      "price": -10
+    },
+    {
+      "abr": "cheesefondue",
+      "category": "Meals",
+      "defname": "DankPyon_Slop_Fine",
+      "price": -10
+    },
+    {
+      "abr": "cheesesoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealCheeseSoup",
+      "price": -10
+    },
+    {
+      "abr": "chinchillafurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Chinchilla",
+      "price": -10
+    },
+    {
+      "abr": "cider",
+      "category": "Drugs",
+      "defname": "DankPyon_Cider",
+      "price": -10
+    },
+    {
+      "abr": "citrine",
+      "category": "Gemstones",
+      "defname": "DankPyon_Citrine",
+      "price": -10
+    },
+    {
+      "abr": "citrinenecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Citrine",
+      "price": -10
+    },
+    {
+      "abr": "citrinering",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Citrine",
+      "price": -10
+    },
+    {
+      "abr": "clay",
+      "category": "Raw resources",
+      "defname": "DankPyon_Clay",
+      "price": -10
+    },
+    {
+      "abr": "clayblocks",
+      "category": "Stone blocks",
+      "defname": "DankPyon_BlocksClay",
+      "price": -10
+    },
+    {
+      "abr": "clayvase",
+      "category": "Art",
+      "defname": "DankPyon_Vase",
+      "price": -10
+    },
+    {
+      "abr": "cleaningbench",
+      "category": "Production",
+      "defname": "DankPyon_CleaningBench",
+      "price": -10
+    },
+    {
+      "abr": "closedchaincoif",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainCoifClosed",
+      "price": -10
+    },
+    {
+      "abr": "closedchainflat-top",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ClosedChain_FlatTopHelmet",
+      "price": -10
+    },
+    {
+      "abr": "closet",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCloset",
+      "price": -10
+    },
+    {
+      "abr": "closet(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCloset1x2c",
+      "price": -10
+    },
+    {
+      "abr": "coalchunks",
+      "category": "Raw resources",
+      "defname": "DankPyon_Coal",
+      "price": -10
+    },
+    {
+      "abr": "coif",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_coif",
+      "price": -10
+    },
+    {
+      "abr": "constrictormeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_GiantConstrictorForest",
+      "price": -10
+    },
+    {
+      "abr": "cookingtools",
+      "category": "Misc",
+      "defname": "DankPyon_RusticCookingTools",
+      "price": -10
+    },
+    {
+      "abr": "cotton",
+      "category": "Raw resources",
+      "defname": "DankPyon_RawCotton",
+      "price": -10
+    },
+    {
+      "abr": "cougarhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Cougar",
+      "price": -10
+    },
+    {
+      "abr": "cougarrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugCougar2x2c",
+      "price": -10
+    },
+    {
+      "abr": "counter(1x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCounter1x3c",
+      "price": -10
+    },
+    {
+      "abr": "crate(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate1x1c",
+      "price": -10
+    },
+    {
+      "abr": "crate(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate1x2c",
+      "price": -10
+    },
+    {
+      "abr": "crate(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate2x2c",
+      "price": -10
+    },
+    {
+      "abr": "crossbow",
+      "category": "Ranged weapons",
+      "defname": "DankPyon_Crossbow",
+      "price": -10
+    },
+    {
+      "abr": "cultisthood",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_CultistHood",
+      "price": -10
+    },
+    {
+      "abr": "cupanddice",
+      "category": "Furniture",
+      "defname": "Dankpyon_CupAndDice",
+      "price": -10
+    },
+    {
+      "abr": "cupboard",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCupboardEmpty",
+      "price": -10
+    },
+    {
+      "abr": "daer",
+      "category": "Animals",
+      "defname": "DankPyon_Daer",
+      "price": -10
+    },
+    {
+      "abr": "daerantler",
+      "category": "Items",
+      "defname": "DankPyon_DaerAntler",
+      "price": -10
+    },
+    {
+      "abr": "daerleather",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Daer",
+      "price": -10
+    },
+    {
+      "abr": "daerleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Daer",
+      "price": -10
+    },
+    {
+      "abr": "daermeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Daer",
+      "price": -10
+    },
+    {
+      "abr": "daerrug(4x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugDaer4x4c",
+      "price": -10
+    },
+    {
+      "abr": "darkwood",
+      "category": "Wood logs",
+      "defname": "DankPyon_RawDarkWood",
+      "price": -10
+    },
+    {
+      "abr": "darkwoodplanks",
+      "category": "Timber",
+      "defname": "DankPyon_DarkWood",
+      "price": -10
+    },
+    {
+      "abr": "deathstinger",
+      "category": "Animals",
+      "defname": "DankPyon_Deathstinger",
+      "price": -10
+    },
+    {
+      "abr": "deathstingerjarsbelt",
+      "category": "Utility",
+      "defname": "SV_Apparel_DeathstingerJar",
+      "price": -10
+    },
+    {
+      "abr": "deathstingerlarvae",
+      "category": "Misc",
+      "defname": "SV_DeathstingerLarvae",
+      "price": -10
+    },
+    {
+      "abr": "deepgreendiamondrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Diamond_DeepGreen2x4c",
+      "price": -10
+    },
+    {
+      "abr": "deepgreenlysrug(2x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Lys_DeepGreen2x3c",
+      "price": -10
+    },
+    {
+      "abr": "deepgreenstripedrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Striped_RGB2x4c",
+      "price": -10
+    },
+    {
+      "abr": "direboar",
+      "category": "Animals",
+      "defname": "DankPyon_DireBoar",
+      "price": -10
+    },
+    {
+      "abr": "direboartusk",
+      "category": "Items",
+      "defname": "DankPyon_DireBoarTusk",
+      "price": -10
+    },
+    {
+      "abr": "direwolf",
+      "category": "Animals",
+      "defname": "DankPyon_Direwolf",
+      "price": -10
+    },
+    {
+      "abr": "direwolfmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Direwolf",
+      "price": -10
+    },
+    {
+      "abr": "direwolfpelt",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_DirewolfPelt",
+      "price": -10
+    },
+    {
+      "abr": "dirtyemeraldskull",
+      "category": "Loot",
+      "defname": "DankPyon_SkullEmerald",
+      "price": -10
+    },
+    {
+      "abr": "dirtygoldskull",
+      "category": "Loot",
+      "defname": "DankPyon_SkullGold",
+      "price": -10
+    },
+    {
+      "abr": "dirtygoldenbowl",
+      "category": "Loot",
+      "defname": "DankPyon_BowlGold",
+      "price": -10
+    },
+    {
+      "abr": "dirtygoldenchalice",
+      "category": "Loot",
+      "defname": "DankPyon_ChaliceGold",
+      "price": -10
+    },
+    {
+      "abr": "dirtyrubyskull",
+      "category": "Loot",
+      "defname": "DankPyon_SkullRuby",
+      "price": -10
+    },
+    {
+      "abr": "dirtysapphireskull",
+      "category": "Loot",
+      "defname": "DankPyon_SkullSapphire",
+      "price": -10
+    },
+    {
+      "abr": "dirtysilverbowl",
+      "category": "Loot",
+      "defname": "DankPyon_BowlSilver",
+      "price": -10
+    },
+    {
+      "abr": "dirtysilverchalice",
+      "category": "Loot",
+      "defname": "DankPyon_ChaliceSilver",
+      "price": -10
+    },
+    {
+      "abr": "dogleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Dog",
+      "price": -10
+    },
+    {
+      "abr": "doublefurbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFurDouble",
+      "price": -10
+    },
+    {
+      "abr": "doublelogbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedLogDouble",
+      "price": -10
+    },
+    {
+      "abr": "doublestrawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBedDouble",
+      "price": -10
+    },
+    {
+      "abr": "doublewickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWickerDouble",
+      "price": -10
+    },
+    {
+      "abr": "dreadleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Dread",
+      "price": -10
+    },
+    {
+      "abr": "dresser",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticDresser",
+      "price": -10
+    },
+    {
+      "abr": "driedfish",
+      "category": "Fish",
+      "defname": "DankPyon_DriedFish",
+      "price": -10
+    },
+    {
+      "abr": "driedhumanmeat",
+      "category": "Meat",
+      "defname": "DankPyon_DriedMeat_Human",
+      "price": -10
+    },
+    {
+      "abr": "driedinsectmeat",
+      "category": "Meat",
+      "defname": "DankPyon_DriedMeat_Insect",
+      "price": -10
+    },
+    {
+      "abr": "driedmeat",
+      "category": "Meat",
+      "defname": "DankPyon_DriedMeat",
+      "price": -10
+    },
+    {
+      "abr": "elephantleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Elephant",
+      "price": -10
+    },
+    {
+      "abr": "embeddedcleaver",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Kitchen_EmbeddedCleaver",
+      "price": -10
+    },
+    {
+      "abr": "emerald",
+      "category": "Gemstones",
+      "defname": "DankPyon_Emerald",
+      "price": -10
+    },
+    {
+      "abr": "emeralddice",
+      "category": "Loot",
+      "defname": "DankPyon_DiceEmerald",
+      "price": -10
+    },
+    {
+      "abr": "emeraldfilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledEmerald",
+      "price": -10
+    },
+    {
+      "abr": "emeraldnecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Emerald",
+      "price": -10
+    },
+    {
+      "abr": "emeraldring",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Emerald",
+      "price": -10
+    },
+    {
+      "abr": "emeraldskull",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_SkullEmerald",
+      "price": -10
+    },
+    {
+      "abr": "emplauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_EmpLauncher",
+      "price": 842
+    },
+    {
+      "abr": "emptyalemug",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_Ale",
+      "price": -10
+    },
+    {
+      "abr": "emptybowl",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Kitchen_Bowl",
+      "price": -10
+    },
+    {
+      "abr": "emptycart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_Empty",
+      "price": -10
+    },
+    {
+      "abr": "emptycookingpot",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Kitchen_CookingPot",
+      "price": -10
+    },
+    {
+      "abr": "emptycup",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Kitchen_Cup",
+      "price": -10
+    },
+    {
+      "abr": "emptygriffonwinebottle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_GriffonWine",
+      "price": -10
+    },
+    {
+      "abr": "emptyicewinebottle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_IceWine",
+      "price": -10
+    },
+    {
+      "abr": "emptylargeshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticEmptyShelf1x2c",
+      "price": -10
+    },
+    {
+      "abr": "emptymarketstall",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Empty",
+      "price": -10
+    },
+    {
+      "abr": "emptymeadbottle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_Mead",
+      "price": -10
+    },
+    {
+      "abr": "emptymilkjar",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_Milk",
+      "price": -10
+    },
+    {
+      "abr": "emptymulberrywinebottle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_MulberryWine",
+      "price": -10
+    },
+    {
+      "abr": "emptyplate",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Kitchen_Plate",
+      "price": -10
+    },
+    {
+      "abr": "emptyrack",
+      "category": "Furniture",
+      "defname": "DankPyon_RackEmpty",
+      "price": -10
+    },
+    {
+      "abr": "emptyshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticEmptyShelf",
+      "price": -10
+    },
+    {
+      "abr": "emptyshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfEmpty",
+      "price": -10
+    },
+    {
+      "abr": "emptywinebottle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Bottle_Wine",
+      "price": -10
+    },
+    {
+      "abr": "endtable",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticEndTable",
+      "price": -10
+    },
+    {
+      "abr": "explorer'sarchive",
+      "category": "Furniture",
+      "defname": "DankPyon_CultShelf",
+      "price": -10
+    },
+    {
+      "abr": "falchion",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Falchion",
+      "price": -10
+    },
+    {
+      "abr": "fat",
+      "category": "Animal products",
+      "defname": "DankPyon_Fat",
+      "price": -10
+    },
+    {
+      "abr": "fencingsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_FencingSword",
+      "price": -10
+    },
+    {
+      "abr": "fermentingbarrel",
+      "category": "Production",
+      "defname": "BarrelProcessor",
+      "price": -10
+    },
+    {
+      "abr": "fightingaxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_FightingAxe",
+      "price": -10
+    },
+    {
+      "abr": "fightingspear",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_FightingSpear",
+      "price": -10
+    },
+    {
+      "abr": "filledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilled1c",
+      "price": -10
+    },
+    {
+      "abr": "filledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilled2c",
+      "price": -10
+    },
+    {
+      "abr": "firepotbelt",
+      "category": "Utility",
+      "defname": "DankPyon_Apparel_FirePotBelt",
+      "price": -10
+    },
+    {
+      "abr": "firepots",
+      "category": "Grenades",
+      "defname": "DankPyon_Weapon_PotFire",
+      "price": -10
+    },
+    {
+      "abr": "flamebow",
+      "category": "Ranged weapons",
+      "defname": "Flamebow",
+      "price": 75
+    },
+    {
+      "abr": "flashpot",
+      "category": "Grenades",
+      "defname": "DankPyon_Weapon_PotFlash",
+      "price": -10
+    },
+    {
+      "abr": "flashpotbelt",
+      "category": "Utility",
+      "defname": "DankPyon_Apparel_FlashPotBelt",
+      "price": -10
+    },
+    {
+      "abr": "flax",
+      "category": "Foods",
+      "defname": "DankPyon_RawFlax",
+      "price": -10
+    },
+    {
+      "abr": "flaxbale(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_FlaxBale1x2c",
+      "price": -10
+    },
+    {
+      "abr": "flaxbale(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_FlaxBale2x2c",
+      "price": -10
+    },
+    {
+      "abr": "flaxpile",
+      "category": "Furniture",
+      "defname": "DankPyon_FlaxPile1x2c",
+      "price": -10
+    },
+    {
+      "abr": "fleawort",
+      "category": "Medicine",
+      "defname": "DankPyon_Fleawort",
+      "price": -10
+    },
+    {
+      "abr": "flour",
+      "category": "Flour",
+      "defname": "DankPyon_Flour",
+      "price": -10
+    },
+    {
+      "abr": "flyagaric",
+      "category": "Medicine",
+      "defname": "DankPyon_FlyAgaric",
+      "price": -10
+    },
+    {
+      "abr": "foodfilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledFood",
+      "price": -10
+    },
+    {
+      "abr": "forestlindwurm",
+      "category": "Animals",
+      "defname": "DankPyon_LindwurmForest",
+      "price": -10
+    },
+    {
+      "abr": "foxfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Fox",
+      "price": -10
+    },
+    {
+      "abr": "friedeggs",
+      "category": "Meals",
+      "defname": "DankPyon_MealFriedEggs",
+      "price": -10
+    },
+    {
+      "abr": "fullarmingcap",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_FullArmingCap",
+      "price": -10
+    },
+    {
+      "abr": "fullchaincoif",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ChainCoifFull",
+      "price": -10
+    },
+    {
+      "abr": "fullplate",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_FullPlate",
+      "price": -10
+    },
+    {
+      "abr": "fullplate(adorned)",
+      "category": "Armor",
+      "defname": "DankPyon_Apparel_AdornedHeavyPlate",
+      "price": -10
+    },
+    {
+      "abr": "furbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedFur",
+      "price": -10
+    },
+    {
+      "abr": "furcloak",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_FurCloak",
+      "price": -10
+    },
+    {
+      "abr": "furnace",
+      "category": "Production",
+      "defname": "DankPyon_Furnace",
+      "price": -10
+    },
+    {
+      "abr": "gambeson",
+      "category": "Apparel",
+      "defname": "Dankpyon_Apparel_Gambeson",
+      "price": -10
+    },
+    {
+      "abr": "gardeningbox",
+      "category": "Furniture",
+      "defname": "DankPyon_GardeningBox",
+      "price": -10
+    },
+    {
+      "abr": "garlic",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawGarlic",
+      "price": -10
+    },
+    {
+      "abr": "ghoul",
+      "category": "Animals",
+      "defname": "DankPyon_Ghoul_Stage_Two",
+      "price": -10
+    },
+    {
+      "abr": "giantbones",
+      "category": "Loot",
+      "defname": "DankPyon_UnholdBones",
+      "price": -10
+    },
+    {
+      "abr": "giantcaveconstrictor",
+      "category": "Animals",
+      "defname": "DankPyon_GiantConstrictorCave",
+      "price": -10
+    },
+    {
+      "abr": "giantcaveconstrictoregg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggConstrictorCaveFertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantcavelindwurmegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggLindwurmCaveFertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantcobraegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "DankPyon_Cobra_EggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantconstrictor",
+      "category": "Animals",
+      "defname": "DankPyon_GiantConstrictorForest",
+      "price": -10
+    },
+    {
+      "abr": "giantconstrictoregg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "DankPyon_Constrictor_EggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantforestconstrictoregg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggConstrictorForestFertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantforestlindwurmegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggLindwurmForestFertilized",
+      "price": -10
+    },
+    {
+      "abr": "giantlindwurmegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "DankPyon_Lindwurm_EggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "gildedarmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ArmetGilded",
+      "price": -10
+    },
+    {
+      "abr": "gildedfullplate",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_FullPlateGilded",
+      "price": -10
+    },
+    {
+      "abr": "gloucestershire",
+      "category": "Animals",
+      "defname": "DankPyon_Gloucestershire",
+      "price": -10
+    },
+    {
+      "abr": "gloves",
+      "category": "Handwear",
+      "defname": "DankPyon_Handwear_GlovesLeather",
+      "price": -10
+    },
+    {
+      "abr": "glowingresin",
+      "category": "Loot",
+      "defname": "DankPyon_GlowingResin",
+      "price": -10
+    },
+    {
+      "abr": "goatcheese",
+      "category": "Meals",
+      "defname": "DankPyon_MealGoatCheese",
+      "price": -10
+    },
+    {
+      "abr": "goatmilk",
+      "category": "Milk",
+      "defname": "DankPyon_GoatMilk",
+      "price": -10
+    },
+    {
+      "abr": "goedendag",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Goedendag",
+      "price": -10
+    },
+    {
+      "abr": "goldbowl",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_BowlGold",
+      "price": -10
+    },
+    {
+      "abr": "goldchalicefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledChaliceGold",
+      "price": -10
+    },
+    {
+      "abr": "goldingotstack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_GoldIngots1x1c",
+      "price": -10
+    },
+    {
+      "abr": "goldingotstack(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_GoldIngots1x2c",
+      "price": -10
+    },
+    {
+      "abr": "goldingotstack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_GoldIngots2x2c",
+      "price": -10
+    },
+    {
+      "abr": "goldore",
+      "category": "Raw ore",
+      "defname": "DankPyon_GoldOre",
+      "price": -10
+    },
+    {
+      "abr": "goldskull",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_SkullGold",
+      "price": -10
+    },
+    {
+      "abr": "goldenchalice",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_ChaliceGold",
+      "price": -10
+    },
+    {
+      "abr": "goldendice",
+      "category": "Loot",
+      "defname": "DankPyon_DiceGold",
+      "price": -10
+    },
+    {
+      "abr": "goldwarefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledGoldware",
+      "price": -10
+    },
+    {
+      "abr": "gossamer",
+      "category": "Loot",
+      "defname": "DankPyon_Gossamer",
+      "price": -10
+    },
+    {
+      "abr": "grandarchonobelisksculpture",
+      "category": "Art",
+      "defname": "DankPyon_ArchonObeliskSculpture2x2c",
+      "price": -10
+    },
+    {
+      "abr": "grandarchonsculpture",
+      "category": "Art",
+      "defname": "DankPyon_ArchonSculpture2x2c",
+      "price": -10
+    },
+    {
+      "abr": "granddicegodobelisksculpture",
+      "category": "Art",
+      "defname": "DankPyon_RNG2x2c",
+      "price": -10
+    },
+    {
+      "abr": "granddicegodsculpture",
+      "category": "Art",
+      "defname": "DankPyon_RNGLarge2x2c",
+      "price": -10
+    },
+    {
+      "abr": "grandicesculpture",
+      "category": "Art",
+      "defname": "DankPyon_SculptureGrand_Ice",
+      "price": -10
+    },
+    {
+      "abr": "grandobelisk",
+      "category": "Art",
+      "defname": "DankPyon_Obelisk2x2c",
+      "price": -10
+    },
+    {
+      "abr": "grandroyalcrossrug(4x6)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugRoyal_GrandCross3x3c",
+      "price": -10
+    },
+    {
+      "abr": "grapemust",
+      "category": "Manufactured",
+      "defname": "DankPyon_MustWine",
+      "price": -10
+    },
+    {
+      "abr": "grapes",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawGrapes",
+      "price": -10
+    },
+    {
+      "abr": "greathelm",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_GreatHelm",
+      "price": -10
+    },
+    {
+      "abr": "greathelm(adorned)",
+      "category": "Headgear",
+      "defname": "DankPyon_Adorned_GreatHelm",
+      "price": -10
+    },
+    {
+      "abr": "greataxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Greataxe",
+      "price": -10
+    },
+    {
+      "abr": "greatsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Greatsword",
+      "price": -10
+    },
+    {
+      "abr": "griffon",
+      "category": "Animals",
+      "defname": "DankPyon_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "griffonberry",
+      "category": "Vegetarian",
+      "defname": "DankPyon_GriffonBerry",
+      "price": -10
+    },
+    {
+      "abr": "griffonberrymust",
+      "category": "Manufactured",
+      "defname": "DankPyon_MustWine_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "griffonberrypie",
+      "category": "Meals",
+      "defname": "DankPyon_MealGriffonBerryPie",
+      "price": -10
+    },
+    {
+      "abr": "griffonegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_Griffon_EggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "griffonegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "DankPyon_Griffon_EggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "griffonleather",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "griffonleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "griffonmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "griffonwine",
+      "category": "Drugs",
+      "defname": "DankPyon_Wine_Griffon",
+      "price": -10
+    },
+    {
+      "abr": "grill",
+      "category": "Production",
+      "defname": "DankPyon_Grill",
+      "price": -10
+    },
+    {
+      "abr": "grilledcheese",
+      "category": "Meals",
+      "defname": "DankPyon_MealGrilledCheese",
+      "price": -10
+    },
+    {
+      "abr": "grilledsausages",
+      "category": "Meals",
+      "defname": "DankPyon_MealGrilledSausages",
+      "price": -10
+    },
+    {
+      "abr": "grilledskewers",
+      "category": "Meals",
+      "defname": "DankPyon_MealGrilledSkewers",
+      "price": -10
+    },
+    {
+      "abr": "grindingwheel",
+      "category": "Misc",
+      "defname": "DankPyon_Grinder",
+      "price": -10
+    },
+    {
+      "abr": "grizzlybearhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Bear_Grizzly",
+      "price": -10
+    },
+    {
+      "abr": "grizzlybearrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugGrizzlyBear3x3c",
+      "price": -10
+    },
+    {
+      "abr": "guineapigfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_GuineaPig",
+      "price": -10
+    },
+    {
+      "abr": "gunpowder",
+      "category": "Manufactured",
+      "defname": "DankPyon_Gunpowder",
+      "price": -10
+    },
+    {
+      "abr": "halberd",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Halberd",
+      "price": -10
+    },
+    {
+      "abr": "hampshire",
+      "category": "Animals",
+      "defname": "DankPyon_Hampshire",
+      "price": -10
+    },
+    {
+      "abr": "handaxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Handaxe",
+      "price": -10
+    },
+    {
+      "abr": "handgonne",
+      "category": "Ranged weapons",
+      "defname": "DankPyon_Handgonne",
+      "price": -10
+    },
+    {
+      "abr": "happypowder",
+      "category": "Drugs",
+      "defname": "DankPyon_HappyPowder",
+      "price": -10
+    },
+    {
+      "abr": "happypowdermixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_HappyPowder",
+      "price": -10
+    },
+    {
+      "abr": "hatchet",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Hatchet",
+      "price": -10
+    },
+    {
+      "abr": "hauberk",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Hauberk",
+      "price": -10
+    },
+    {
+      "abr": "haybale(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bale1x2c",
+      "price": -10
+    },
+    {
+      "abr": "haybale(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_HayBale2x2c",
+      "price": -10
+    },
+    {
+      "abr": "haypile",
+      "category": "Furniture",
+      "defname": "DankPyon_HayPile1x2c",
+      "price": -10
+    },
+    {
+      "abr": "heartoftheforest",
+      "category": "Loot",
+      "defname": "DankPyon_SchratHeart",
+      "price": -10
+    },
+    {
+      "abr": "hearth",
+      "category": "Production",
+      "defname": "DankPyon_RusticHearth",
+      "price": -10
+    },
+    {
+      "abr": "heatershield",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldHeater",
+      "price": -10
+    },
+    {
+      "abr": "heatershield(amboise)",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldHeater_Amboise",
+      "price": -10
+    },
+    {
+      "abr": "heatershield(hesse)",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldHeater_Hesse",
+      "price": -10
+    },
+    {
+      "abr": "heatershield(oswin)",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldHeater_Oswin",
+      "price": -10
+    },
+    {
+      "abr": "heatershield(soren)",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldHeater_Soren",
+      "price": -10
+    },
+    {
+      "abr": "heavybarbrute",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HeavyBarbrute",
+      "price": -10
+    },
+    {
+      "abr": "heavychaincoif(adorned)",
+      "category": "Headgear",
+      "defname": "DankPyon_Adorned_HeavyMailCoif",
+      "price": -10
+    },
+    {
+      "abr": "heavyfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Bluefur",
+      "price": -10
+    },
+    {
+      "abr": "heavyfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Heavy",
+      "price": -10
+    },
+    {
+      "abr": "heavyhauberk",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Heavy_Hauberk",
+      "price": -10
+    },
+    {
+      "abr": "heavyhauberk(adorned)",
+      "category": "Armor",
+      "defname": "DankPyon_Apparel_AdornedMailShirt",
+      "price": -10
+    },
+    {
+      "abr": "heraldicgreathelm(amboise)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HeraldicGreatHelm1c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicgreathelm(hesse)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HeraldicGreatHelm4c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicgreathelm(oswin)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HeraldicGreatHelm3c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicgreathelm(soren)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HeraldicGreatHelm2c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicheavyhauberk(amboise)",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Heraldic_Hauberk1c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicheavyhauberk(hesse)",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Heraldic_Hauberk4c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicheavyhauberk(oswin)",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Heraldic_Hauberk3c",
+      "price": -10
+    },
+    {
+      "abr": "heraldicheavyhauberk(soren)",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Heraldic_Hauberk2c",
+      "price": -10
+    },
+    {
+      "abr": "herbtable",
+      "category": "Production",
+      "defname": "DankPyon_HerbTable",
+      "price": -10
+    },
+    {
+      "abr": "herbalextract",
+      "category": "Medicine",
+      "defname": "DankPyon_HerbalExtract",
+      "price": -10
+    },
+    {
+      "abr": "hippoleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Hippo",
+      "price": -10
+    },
+    {
+      "abr": "hood",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_Hood",
+      "price": -10
+    },
+    {
+      "abr": "hookedblade",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_HookedBlade",
+      "price": -10
+    },
+    {
+      "abr": "hornethoney",
+      "category": "Drugs",
+      "defname": "DankPyon_HornetHoney",
+      "price": -10
+    },
+    {
+      "abr": "hornetjelly",
+      "category": "Animal products",
+      "defname": "DankPyon_HornetJelly",
+      "price": -10
+    },
+    {
+      "abr": "hornetmead",
+      "category": "Drugs",
+      "defname": "SV_HornetMead",
+      "price": -10
+    },
+    {
+      "abr": "hose",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_Hose",
+      "price": -10
+    },
+    {
+      "abr": "hounskullhelmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_HounskullHelmet",
+      "price": -10
+    },
+    {
+      "abr": "humanleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Human",
+      "price": -10
+    },
+    {
+      "abr": "humanrug(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugHuman1x2c",
+      "price": -10
+    },
+    {
+      "abr": "hunter'sstew",
+      "category": "Meals",
+      "defname": "DankPyon_MealHuntersStew",
+      "price": -10
+    },
+    {
+      "abr": "huntingbow",
+      "category": "Ranged weapons",
+      "defname": "DankPyon_Bow_Hunting",
+      "price": -10
+    },
+    {
+      "abr": "hyena",
+      "category": "Animals",
+      "defname": "DankPyon_Hyena",
+      "price": -10
+    },
+    {
+      "abr": "hyenafur",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Hyena",
+      "price": -10
+    },
+    {
+      "abr": "hyenafurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Hyena",
+      "price": -10
+    },
+    {
+      "abr": "hyenapelt",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_HyenaPelt",
+      "price": -10
+    },
+    {
+      "abr": "hyenarug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugHyena2x2c",
+      "price": -10
+    },
+    {
+      "abr": "ice",
+      "category": "Raw resources",
+      "defname": "DankPyon_IceBlock",
+      "price": -10
+    },
+    {
+      "abr": "icewine",
+      "category": "Drugs",
+      "defname": "DankPyon_Wine_Ice",
+      "price": -10
+    },
+    {
+      "abr": "icewinemust",
+      "category": "Manufactured",
+      "defname": "DankPyon_MustWine_Ice",
+      "price": -10
+    },
+    {
+      "abr": "inertflasks",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Research_Flasks",
+      "price": -10
+    },
+    {
+      "abr": "inertvials",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Research_Vials",
+      "price": -10
+    },
+    {
+      "abr": "ingotfilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledIngot",
+      "price": -10
+    },
+    {
+      "abr": "intermediatecookingrecipes",
+      "category": "Ancient schematic",
+      "defname": "DankPyon_Schematic_IntermediateCooking",
+      "price": -10
+    },
+    {
+      "abr": "ironingot",
+      "category": "Metallics",
+      "defname": "DankPyon_IronIngot",
+      "price": -10
+    },
+    {
+      "abr": "ironingotstack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_IronIngots1x1c",
+      "price": -10
+    },
+    {
+      "abr": "ironingotstack(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_IronIngots1x2c",
+      "price": -10
+    },
+    {
+      "abr": "ironingotstack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_IronIngots2x2c",
+      "price": -10
+    },
+    {
+      "abr": "ironore",
+      "category": "Raw ore",
+      "defname": "DankPyon_IronOre",
+      "price": -10
+    },
+    {
+      "abr": "jadenecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Jade",
+      "price": -10
+    },
+    {
+      "abr": "jadering",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Jade",
+      "price": -10
+    },
+    {
+      "abr": "jewelrybench",
+      "category": "Production",
+      "defname": "DankPyon_JewelryBench",
+      "price": -10
+    },
+    {
+      "abr": "kiteshield",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldKite",
+      "price": -10
+    },
+    {
+      "abr": "klappviserbarbute",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_KlappvisorBascinet",
+      "price": -10
+    },
+    {
+      "abr": "klappviserbascinet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_Bascinet_KlappvisierHelmetClosed",
+      "price": -10
+    },
+    {
+      "abr": "largebarrel",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBarrelBigClosed",
+      "price": -10
+    },
+    {
+      "abr": "largebarrel",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBarrelBigClosedDown",
+      "price": -10
+    },
+    {
+      "abr": "largebreadshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Bread",
+      "price": -10
+    },
+    {
+      "abr": "largecavecobraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggLargeCobraCaveFertilized",
+      "price": -10
+    },
+    {
+      "abr": "largecheeseshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Cheese",
+      "price": -10
+    },
+    {
+      "abr": "largecobra",
+      "category": "Animals",
+      "defname": "DankPyon_LargeCobraForest",
+      "price": -10
+    },
+    {
+      "abr": "largecobra",
+      "category": "Animals",
+      "defname": "DankPyon_LargeCobraCave",
+      "price": -10
+    },
+    {
+      "abr": "largecrate(bones)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate2x2_Bones",
+      "price": -10
+    },
+    {
+      "abr": "largecrate(lindwurm)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate2x2_Lindwurm",
+      "price": -10
+    },
+    {
+      "abr": "largecrate(unhold)",
+      "category": "Furniture",
+      "defname": "DankPyon_Crate2x2_Unhold",
+      "price": -10
+    },
+    {
+      "abr": "largeemptyshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelfEmpty",
+      "price": -10
+    },
+    {
+      "abr": "largeforestcobraegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_EggLargeForestCobraFertilized",
+      "price": -10
+    },
+    {
+      "abr": "largefountain",
+      "category": "Furniture",
+      "defname": "DankPyon_Fountain2x2c",
+      "price": -10
+    },
+    {
+      "abr": "largegrainshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Grain",
+      "price": -10
+    },
+    {
+      "abr": "largegrapebarrel",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBarrelBigGrape",
+      "price": -10
+    },
+    {
+      "abr": "largeicesculpture",
+      "category": "Art",
+      "defname": "DankPyon_SculptureLarge_Ice",
+      "price": -10
+    },
+    {
+      "abr": "largemeadshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Mead",
+      "price": -10
+    },
+    {
+      "abr": "largemeatshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_Large_Meat_Shelf",
+      "price": -10
+    },
+    {
+      "abr": "largeoven",
+      "category": "Production",
+      "defname": "DankPyon_StoneOvenLarge",
+      "price": -10
+    },
+    {
+      "abr": "largeresearchshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBookshelf1x2c",
+      "price": -10
+    },
+    {
+      "abr": "largevegetablesshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Vegetables",
+      "price": -10
+    },
+    {
+      "abr": "largewineshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_LargeShelf_Wine",
+      "price": -10
+    },
+    {
+      "abr": "leather",
+      "category": "Leathers",
+      "defname": "DankPyon_DummyLeather",
+      "price": -10
+    },
+    {
+      "abr": "lecturn",
+      "category": "Furniture",
+      "defname": "DankPyon_Lecturn",
+      "price": -10
+    },
+    {
+      "abr": "lemoncake",
+      "category": "Meals",
+      "defname": "DankPyon_MealLemonCake",
+      "price": -10
+    },
+    {
+      "abr": "lemons",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawLemons",
+      "price": -10
+    },
+    {
+      "abr": "lentils",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawLentils",
+      "price": -10
+    },
+    {
+      "abr": "lightlamellar",
+      "category": "Armor",
+      "defname": "DankPyon_Apparel_Light_Lamellar",
+      "price": -10
+    },
+    {
+      "abr": "limelysrug(2x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Lys_Lime2x3c",
+      "price": -10
+    },
+    {
+      "abr": "lime-reddiamondrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Diamond_LimeRed2x4c",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmblood",
+      "category": "Loot",
+      "defname": "DankPyon_LindwurmBlood",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmbones",
+      "category": "Loot",
+      "defname": "DankPyon_LindwurmBones",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmbroadscales",
+      "category": "Loot",
+      "defname": "DankPyon_LindwurmScales",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_LindwurmForest",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmscalearmor",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Lindwurm",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmscalecloak",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_LindwurmCloak",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmscalehelmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_Lindwurm",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmscales",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Lindwurm",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmscaleshide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Lindwurm",
+      "price": -10
+    },
+    {
+      "abr": "lindwurmshield",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldLindwurm",
+      "price": -10
+    },
+    {
+      "abr": "linen",
+      "category": "Textiles",
+      "defname": "DankPyon_Linen",
+      "price": -10
+    },
+    {
+      "abr": "livingtreeshield",
+      "category": "Shields",
+      "defname": "DankPyon_ShieldLiving",
+      "price": -10
+    },
+    {
+      "abr": "logbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedLog",
+      "price": -10
+    },
+    {
+      "abr": "logbench(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogBench1x2c",
+      "price": -10
+    },
+    {
+      "abr": "logbench(1x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogBench1x3c",
+      "price": -10
+    },
+    {
+      "abr": "logbench(1x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogBench1x4c",
+      "price": -10
+    },
+    {
+      "abr": "logchair",
+      "category": "Furniture",
+      "defname": "DankPyon_LogChair",
+      "price": -10
+    },
+    {
+      "abr": "logtable(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogTable1x2c",
+      "price": -10
+    },
+    {
+      "abr": "logtable(1x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogTable1x3c",
+      "price": -10
+    },
+    {
+      "abr": "logtable(1x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogTable1x4c",
+      "price": -10
+    },
+    {
+      "abr": "logtable(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_LogTable2x4c",
+      "price": -10
+    },
+    {
+      "abr": "longroyallysrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugRoyal_LongLys2x4c",
+      "price": -10
+    },
+    {
+      "abr": "longaxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Longaxe",
+      "price": -10
+    },
+    {
+      "abr": "longsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Longsword",
+      "price": -10
+    },
+    {
+      "abr": "luhix",
+      "category": "Drugs",
+      "defname": "DankPyon_Luhix",
+      "price": -10
+    },
+    {
+      "abr": "luhixmixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Luhix",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(bow)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Bow",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(bread)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Bread",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(dairy)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Dairy",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(herb)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Herb",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(meat)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_Meats",
+      "price": -10
+    },
+    {
+      "abr": "marketstall(weapons)",
+      "category": "Furniture",
+      "defname": "DankPyon_Stall_MeleeWeapons",
+      "price": -10
+    },
+    {
+      "abr": "mashedpotatoes",
+      "category": "Meals",
+      "defname": "DankPyon_MealMashedPotatoes",
+      "price": -10
+    },
+    {
+      "abr": "mastodonleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Mastodon",
+      "price": -10
+    },
+    {
+      "abr": "mead",
+      "category": "Drugs",
+      "defname": "DankPyon_Mead",
+      "price": -10
+    },
+    {
+      "abr": "mendingbench",
+      "category": "Production",
+      "defname": "DankPyon_MendingBench",
+      "price": -10
+    },
+    {
+      "abr": "messengertable",
+      "category": "Misc",
+      "defname": "DankPyon_ScribeTable",
+      "price": -10
+    },
+    {
+      "abr": "metalstrongbox",
+      "category": "Furniture",
+      "defname": "DankPyon_MetalStrongbox",
+      "price": -10
+    },
+    {
+      "abr": "militarypick",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_MilitaryPick",
+      "price": -10
+    },
+    {
+      "abr": "militiaspear",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_MilitiaSpear",
+      "price": -10
+    },
+    {
+      "abr": "millstone",
+      "category": "Production",
+      "defname": "DankPyon_Millstone",
+      "price": -10
+    },
+    {
+      "abr": "mimic",
+      "category": "Animals",
+      "defname": "DankPyon_RusticMimic",
+      "price": -10
+    },
+    {
+      "abr": "mindwort",
+      "category": "Medicine",
+      "defname": "DankPyon_Mindwort",
+      "price": -10
+    },
+    {
+      "abr": "miningtools",
+      "category": "Misc",
+      "defname": "DankPyon_MiningTools",
+      "price": -10
+    },
+    {
+      "abr": "minkfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Mink",
+      "price": -10
+    },
+    {
+      "abr": "morningstar",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_MorningStar",
+      "price": -10
+    },
+    {
+      "abr": "mulberry",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawMulberry",
+      "price": -10
+    },
+    {
+      "abr": "mulberrywine",
+      "category": "Drugs",
+      "defname": "DankPyon_Wine_Mulberry",
+      "price": -10
+    },
+    {
+      "abr": "mulberrywinemust",
+      "category": "Manufactured",
+      "defname": "DankPyon_MustWine_Mulberry",
+      "price": -10
+    },
+    {
+      "abr": "mushroomsoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealMushroomSoup",
+      "price": -10
+    },
+    {
+      "abr": "nachzehrer",
+      "category": "Animals",
+      "defname": "DankPyon_Ghoul_Stage_One",
+      "price": -10
+    },
+    {
+      "abr": "nachzehrer",
+      "category": "Animals",
+      "defname": "DankPyon_Ghoul_Stage_Three",
+      "price": -10
+    },
+    {
+      "abr": "nachzehrerhorn",
+      "category": "Loot",
+      "defname": "DankPyon_NachHorns",
+      "price": -10
+    },
+    {
+      "abr": "nachzehrermeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Ghoul_Stage_One",
+      "price": -10
+    },
+    {
+      "abr": "namedarmet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ArmetNamed",
+      "price": -10
+    },
+    {
+      "abr": "namedfullplate",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_FullPlateNamed",
+      "price": -10
+    },
+    {
+      "abr": "namedgreataxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedGreataxe",
+      "price": -10
+    },
+    {
+      "abr": "namedgreatsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedGreatsword",
+      "price": -10
+    },
+    {
+      "abr": "namedgreatsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedGreatsword1c",
+      "price": -10
+    },
+    {
+      "abr": "namedgreatsword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedGreatsword2c",
+      "price": -10
+    },
+    {
+      "abr": "namedhalberd",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedHalberd",
+      "price": -10
+    },
+    {
+      "abr": "namedhalberd",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedHalberd1c",
+      "price": -10
+    },
+    {
+      "abr": "namedtwo-handedflangedmace",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedTwoHandedFlangedMace",
+      "price": -10
+    },
+    {
+      "abr": "namedtwo-handedhammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer",
+      "price": -10
+    },
+    {
+      "abr": "namedtwo-handedhammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NamedTwoHandedHammer1c",
+      "price": -10
+    },
+    {
+      "abr": "noblesword",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NobleSword",
+      "price": -10
+    },
+    {
+      "abr": "nomadmace",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_NomadMace",
+      "price": -10
+    },
+    {
+      "abr": "northernboar",
+      "category": "Animals",
+      "defname": "DankPyon_NorthernBoar",
+      "price": -10
+    },
+    {
+      "abr": "oillamp",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticLamp",
+      "price": -10
+    },
+    {
+      "abr": "onenglish",
+      "category": "Books",
+      "defname": "DankPyon_BookUnique_OnEnglish",
+      "price": -10
+    },
+    {
+      "abr": "onions",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawOnions",
+      "price": -10
+    },
+    {
+      "abr": "onyx",
+      "category": "Gemstones",
+      "defname": "DankPyon_Onyx",
+      "price": -10
+    },
+    {
+      "abr": "onyxnecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Onyx",
+      "price": -10
+    },
+    {
+      "abr": "onyxring",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Onyx",
+      "price": -10
+    },
+    {
+      "abr": "orecart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_Ore",
+      "price": -10
+    },
+    {
+      "abr": "ornatetome",
+      "category": "Books",
+      "defname": "DankPyon_BookUnique_OrnateTome",
+      "price": -10
+    },
+    {
+      "abr": "oswinqueen",
+      "category": "Raw resources",
+      "defname": "DankPyon_QueenBee",
+      "price": -10
+    },
+    {
+      "abr": "packagedmacci",
+      "category": "Meals",
+      "defname": "DankPyon_MealRationsVegetarian",
+      "price": -10
+    },
+    {
+      "abr": "packagedrations",
+      "category": "Meals",
+      "defname": "DankPyon_MealRations",
+      "price": -10
+    },
+    {
+      "abr": "paddedarmor",
+      "category": "Armor",
+      "defname": "DankPyon_Apparel_Padded_Leather",
+      "price": -10
+    },
+    {
+      "abr": "paddedchausses",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_ChaussesPadded",
+      "price": -10
+    },
+    {
+      "abr": "paddedflattop",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_PaddedFlatTopHelmet",
+      "price": -10
+    },
+    {
+      "abr": "paddedkettle",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_PaddedKettleHelmet",
+      "price": -10
+    },
+    {
+      "abr": "paddednasalhelm",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_PaddedNasalHelmet",
+      "price": -10
+    },
+    {
+      "abr": "paddedsurcoat",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Padded_Surcoat",
+      "price": -10
+    },
+    {
+      "abr": "pantherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Panther",
+      "price": -10
+    },
+    {
+      "abr": "pantherrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPanther2x2c",
+      "price": -10
+    },
+    {
+      "abr": "paper",
+      "category": "Manufactured",
+      "defname": "DankPyon_Paper",
+      "price": -10
+    },
+    {
+      "abr": "paperhangingrack",
+      "category": "Misc",
+      "defname": "DankPyon_PaperHangingRack",
+      "price": -10
+    },
+    {
+      "abr": "papermixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Paper",
+      "price": -10
+    },
+    {
+      "abr": "parchedskin",
+      "category": "Loot",
+      "defname": "DankPyon_ParchedSkin",
+      "price": -10
+    },
+    {
+      "abr": "paregoric",
+      "category": "Drugs",
+      "defname": "DankPyon_Paregoric",
+      "price": -10
+    },
+    {
+      "abr": "paregoricmixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Paregoric",
+      "price": -10
+    },
+    {
+      "abr": "patchedclothrug(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Cloth1x1c",
+      "price": -10
+    },
+    {
+      "abr": "patchedclothrug(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Cloth1x2c",
+      "price": -10
+    },
+    {
+      "abr": "patchedclothrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Cloth2x2c",
+      "price": -10
+    },
+    {
+      "abr": "patchedclothrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Cloth2x4c",
+      "price": -10
+    },
+    {
+      "abr": "patchedclothrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Cloth3x3c",
+      "price": -10
+    },
+    {
+      "abr": "patchedleatherrug(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Leather1x1c",
+      "price": -10
+    },
+    {
+      "abr": "patchedleatherrug(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Leather1x2c",
+      "price": -10
+    },
+    {
+      "abr": "patchedleatherrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Leather2x2c",
+      "price": -10
+    },
+    {
+      "abr": "patchedleatherrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Leather2x4c",
+      "price": -10
+    },
+    {
+      "abr": "patchedleatherrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPatched_Leather3x3c",
+      "price": -10
+    },
+    {
+      "abr": "pedestal",
+      "category": "Art",
+      "defname": "DankPyon_Pedestal",
+      "price": -10
+    },
+    {
+      "abr": "petrifiedscream",
+      "category": "Loot",
+      "defname": "DankPyon_PetrifiedScream",
+      "price": -10
+    },
+    {
+      "abr": "pickaxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Pickaxe",
+      "price": -10
+    },
+    {
+      "abr": "pigskinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Pig",
+      "price": -10
+    },
+    {
+      "abr": "pike",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Pike",
+      "price": -10
+    },
+    {
+      "abr": "pike(amboise)",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_PikeAmboise",
+      "price": -10
+    },
+    {
+      "abr": "pike(hesse)",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_PikeHesse",
+      "price": -10
+    },
+    {
+      "abr": "pike(oswin)",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_PikeOswin",
+      "price": -10
+    },
+    {
+      "abr": "pike(soren)",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_PikeSoren",
+      "price": -10
+    },
+    {
+      "abr": "pitchfork",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Pitchfork",
+      "price": -10
+    },
+    {
+      "abr": "plainhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Plain",
+      "price": -10
+    },
+    {
+      "abr": "plasteelstack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_Plasteel1x1c",
+      "price": -10
+    },
+    {
+      "abr": "plasteelstack(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Plasteel1x2c",
+      "price": -10
+    },
+    {
+      "abr": "plasteelstack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Plasteel2x2c",
+      "price": -10
+    },
+    {
+      "abr": "plateboots",
+      "category": "Footwear",
+      "defname": "DankPyon_Footwear_BootsPlate",
+      "price": -10
+    },
+    {
+      "abr": "platechausses",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_ChaussesPlate",
+      "price": -10
+    },
+    {
+      "abr": "plategloves",
+      "category": "Handwear",
+      "defname": "DankPyon_Handwear_GlovesPlate",
+      "price": -10
+    },
+    {
+      "abr": "poisongland",
+      "category": "Loot",
+      "defname": "DankPyon_PoisonGland",
+      "price": -10
+    },
+    {
+      "abr": "polarbearhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Bear_Polar",
+      "price": -10
+    },
+    {
+      "abr": "polarbearrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugPolarBear3x3c",
+      "price": -10
+    },
+    {
+      "abr": "polehammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Polehammer",
+      "price": -10
+    },
+    {
+      "abr": "poppy",
+      "category": "Medicine",
+      "defname": "DankPyon_Poppy",
+      "price": -10
+    },
+    {
+      "abr": "post",
+      "category": "Furniture",
+      "defname": "DankPyon_Post",
+      "price": -10
+    },
+    {
+      "abr": "potionofknowledgemixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Knowledge",
+      "price": -10
+    },
+    {
+      "abr": "pumpkinfritters",
+      "category": "Meals",
+      "defname": "DankPyon_MealPumpkinFritters",
+      "price": -10
+    },
+    {
+      "abr": "pumpkinsoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealPumpkinSoup",
+      "price": -10
+    },
+    {
+      "abr": "pumpkingpie",
+      "category": "Meals",
+      "defname": "DankPyon_MealPumpkinPie",
+      "price": -10
+    },
+    {
+      "abr": "pumpkins",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawPumpkins",
+      "price": -10
+    },
+    {
+      "abr": "quenchingbucket",
+      "category": "Misc",
+      "defname": "DankPyon_QuenchingBucket",
+      "price": -10
+    },
+    {
+      "abr": "quiche",
+      "category": "Meals",
+      "defname": "DankPyon_MealQuiche",
+      "price": -10
+    },
+    {
+      "abr": "quillandinkwelltable",
+      "category": "Misc",
+      "defname": "DankPyon_QuillAndInkwell",
+      "price": -10
+    },
+    {
+      "abr": "quiver",
+      "category": "Utility",
+      "defname": "DankPyon_Apparel_Quiver",
+      "price": -10
+    },
+    {
+      "abr": "ravelder",
+      "category": "Animals",
+      "defname": "DankPyon_Ravelder",
+      "price": -10
+    },
+    {
+      "abr": "rawherbs",
+      "category": "Foods",
+      "defname": "DankPyon_RawHerb",
+      "price": -10
+    },
+    {
+      "abr": "rawmithril",
+      "category": "Raw ore",
+      "defname": "DankPyon_PlasteelOre",
+      "price": -10
+    },
+    {
+      "abr": "rawplantcart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_PlantRaw",
+      "price": -10
+    },
+    {
+      "abr": "rawsausage",
+      "category": "Meals",
+      "defname": "DankPyon_Sausages",
+      "price": -10
+    },
+    {
+      "abr": "rawwood",
+      "category": "Wood logs",
+      "defname": "DankPyon_RawWood",
+      "price": -10
+    },
+    {
+      "abr": "rawwood(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_WoodLogs1x2c",
+      "price": -10
+    },
+    {
+      "abr": "rawwood(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_WoodLogs2x2c",
+      "price": -10
+    },
+    {
+      "abr": "rawwoodcart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_RawWood",
+      "price": -10
+    },
+    {
+      "abr": "rawwoodpile(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_WoodLogs1x1c",
+      "price": -10
+    },
+    {
+      "abr": "rawhide",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Rawhide",
+      "price": -10
+    },
+    {
+      "abr": "redbandana",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_RedBandana",
+      "price": -10
+    },
+    {
+      "abr": "redlysrug(2x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Lys_Red2x3c",
+      "price": -10
+    },
+    {
+      "abr": "redbackpoisongland",
+      "category": "Loot",
+      "defname": "DankPyon_RedbackPoisonGland",
+      "price": -10
+    },
+    {
+      "abr": "red-yellowdiamondrug(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugLoot_Diamond_RedYellow2x4c",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedtable(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_ReinforcedRusticTable1x1c",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedtable(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_ReinforcedRusticTable1x2c",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedtable(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_ReinforcedRusticTable2x2c",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedtable(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_ReinforcedTable2x4c",
+      "price": -10
+    },
+    {
+      "abr": "repairtools",
+      "category": "Manufactured",
+      "defname": "DankPyon_RepairTools",
+      "price": -10
+    },
+    {
+      "abr": "rimofwar",
+      "category": "Furniture",
+      "defname": "DankPyon_RimWar",
+      "price": -10
+    },
+    {
+      "abr": "ringofhaste",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Haste",
+      "price": -10
+    },
+    {
+      "abr": "ringofholding",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Holding",
+      "price": -10
+    },
+    {
+      "abr": "ringofresearch",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Research",
+      "price": -10
+    },
+    {
+      "abr": "ringofstunimmunity",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_StunImmunity",
+      "price": -10
+    },
+    {
+      "abr": "ringoftending",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Tending",
+      "price": -10
+    },
+    {
+      "abr": "roomdivider(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticRoomDivider1x2c",
+      "price": -10
+    },
+    {
+      "abr": "roundshield",
+      "category": "Shields",
+      "defname": "DankPyon_Shield",
+      "price": -10
+    },
+    {
+      "abr": "rox",
+      "category": "Animals",
+      "defname": "DankPyon_Rox",
+      "price": -10
+    },
+    {
+      "abr": "roxhorn",
+      "category": "Items",
+      "defname": "DankPyon_RoxHorn",
+      "price": -10
+    },
+    {
+      "abr": "roxleather",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Rox",
+      "price": -10
+    },
+    {
+      "abr": "roxleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Rox",
+      "price": -10
+    },
+    {
+      "abr": "roxmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Rox",
+      "price": -10
+    },
+    {
+      "abr": "roxrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugRox3x3c",
+      "price": -10
+    },
+    {
+      "abr": "roxsteak",
+      "category": "Meals",
+      "defname": "DankPyon_MealRoxSteak",
+      "price": -10
+    },
+    {
+      "abr": "roxwool",
+      "category": "Wools",
+      "defname": "DankPyon_WoolRox",
+      "price": -10
+    },
+    {
+      "abr": "royalarmchair",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalArmchair",
+      "price": -10
+    },
+    {
+      "abr": "royalbookshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalBookshelf",
+      "price": -10
+    },
+    {
+      "abr": "royalchest",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalChest",
+      "price": -10
+    },
+    {
+      "abr": "royalcloset",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalCloset",
+      "price": -10
+    },
+    {
+      "abr": "royalcrossrug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugRoyal_LongLys3x3c",
+      "price": -10
+    },
+    {
+      "abr": "royaldresser",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalDresser",
+      "price": -10
+    },
+    {
+      "abr": "royalendtable",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalEndTable",
+      "price": -10
+    },
+    {
+      "abr": "royallysrug(2x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugRoyal_Lys2x3c",
+      "price": -10
+    },
+    {
+      "abr": "royaltable(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTable2x2c",
+      "price": -10
+    },
+    {
+      "abr": "royaltable(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTable2x4c",
+      "price": -10
+    },
+    {
+      "abr": "royalthrone",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalThrone",
+      "price": -10
+    },
+    {
+      "abr": "royaltudorbed",
+      "category": "Furniture",
+      "defname": "DankPyon_RoyalTudorBed",
+      "price": -10
+    },
+    {
+      "abr": "ruby",
+      "category": "Gemstones",
+      "defname": "DankPyon_Ruby",
+      "price": -10
+    },
+    {
+      "abr": "rubydice",
+      "category": "Loot",
+      "defname": "DankPyon_DiceRuby",
+      "price": -10
+    },
+    {
+      "abr": "rubyfilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledRuby",
+      "price": -10
+    },
+    {
+      "abr": "rubynecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Ruby",
+      "price": -10
+    },
+    {
+      "abr": "rubyring",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Ruby",
+      "price": -10
+    },
+    {
+      "abr": "rubyskull",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_SkullRuby",
+      "price": -10
+    },
+    {
+      "abr": "ruinedbook",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Scribe_Book",
+      "price": -10
+    },
+    {
+      "abr": "ruinedbook",
+      "category": "Loot",
+      "defname": "DankPyon_Book",
+      "price": -10
+    },
+    {
+      "abr": "ruinedmortarandpestle",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Alchemy_MortarAndPestle",
+      "price": -10
+    },
+    {
+      "abr": "ruinedpaper",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Scribe_StackPaper",
+      "price": -10
+    },
+    {
+      "abr": "ruinedscrollandquill",
+      "category": "Furniture",
+      "defname": "DankPyon_OnTop_Scribe_ScrollAndInkwell",
+      "price": -10
+    },
+    {
+      "abr": "runesandsigils",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_RunesAndSigils",
+      "price": -10
+    },
+    {
+      "abr": "rusticbed(blue)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_Rustic_Blue",
+      "price": -10
+    },
+    {
+      "abr": "rusticbed(green)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_Rustic_Green",
+      "price": -10
+    },
+    {
+      "abr": "rusticbed(red)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_Rustic_Red",
+      "price": -10
+    },
+    {
+      "abr": "rusticchest",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticChest",
+      "price": -10
+    },
+    {
+      "abr": "rusticdiningchair",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticChair",
+      "price": -10
+    },
+    {
+      "abr": "rusticdoublebed(blue)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_RusticDouble_Blue",
+      "price": -10
+    },
+    {
+      "abr": "rusticdoublebed(green)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_RusticDouble_Green",
+      "price": -10
+    },
+    {
+      "abr": "rusticdoublebed(red)",
+      "category": "Furniture",
+      "defname": "DankPyon_Bed_RusticDouble_Red",
+      "price": -10
+    },
+    {
+      "abr": "rusticnoblechair",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticNobleChair",
+      "price": -10
+    },
+    {
+      "abr": "rusticoven",
+      "category": "Production",
+      "defname": "DankPyon_StoneOven",
+      "price": -10
+    },
+    {
+      "abr": "rusticroundstool",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticStool",
+      "price": -10
+    },
+    {
+      "abr": "rusticroundtable(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticRoundTable2x2c",
+      "price": -10
+    },
+    {
+      "abr": "rustictable(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticTable1x1c",
+      "price": -10
+    },
+    {
+      "abr": "rustictable(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticTable1x2c",
+      "price": -10
+    },
+    {
+      "abr": "rustictable(1x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticTable1x3c",
+      "price": -10
+    },
+    {
+      "abr": "rustictable(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticTable2x2c",
+      "price": -10
+    },
+    {
+      "abr": "rustictable(2x4)",
+      "category": "Furniture",
+      "defname": "DankPyon_Table2x4c",
+      "price": -10
+    },
+    {
+      "abr": "sack",
+      "category": "Furniture",
+      "defname": "DankPyon_SackClosed",
+      "price": -10
+    },
+    {
+      "abr": "sackofapples",
+      "category": "Furniture",
+      "defname": "DankPyon_SackApple",
+      "price": -10
+    },
+    {
+      "abr": "sackofflour",
+      "category": "Furniture",
+      "defname": "DankPyon_SackFlour",
+      "price": -10
+    },
+    {
+      "abr": "sackofpotatoes",
+      "category": "Furniture",
+      "defname": "DankPyon_SackPotato",
+      "price": -10
+    },
+    {
+      "abr": "sackofwheat",
+      "category": "Furniture",
+      "defname": "DankPyon_SackWheat",
+      "price": -10
+    },
+    {
+      "abr": "sackcloth",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Sackcloth",
+      "price": -10
+    },
+    {
+      "abr": "sallet(bellowface)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_SalletBellowFace",
+      "price": -10
+    },
+    {
+      "abr": "sallet(gryphon)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_SalletGryphon",
+      "price": -10
+    },
+    {
+      "abr": "sallet(visored)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_SalletHelmet",
+      "price": -10
+    },
+    {
+      "abr": "salt",
+      "category": "Condiments",
+      "defname": "DankPyon_Salt",
+      "price": -10
+    },
+    {
+      "abr": "sapphire",
+      "category": "Gemstones",
+      "defname": "DankPyon_Sapphire",
+      "price": -10
+    },
+    {
+      "abr": "sapphiredice",
+      "category": "Loot",
+      "defname": "DankPyon_DiceSapphire",
+      "price": -10
+    },
+    {
+      "abr": "sapphirefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledSapphire",
+      "price": -10
+    },
+    {
+      "abr": "sapphirenecklace",
+      "category": "Jewelry",
+      "defname": "DankPyon_Necklace_Sapphire",
+      "price": -10
+    },
+    {
+      "abr": "sapphirering",
+      "category": "Jewelry",
+      "defname": "DankPyon_Ring_Sapphire",
+      "price": -10
+    },
+    {
+      "abr": "sapphireskull",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_SkullSapphire",
+      "price": -10
+    },
+    {
+      "abr": "scaleleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Lizard",
+      "price": -10
+    },
+    {
+      "abr": "scorpiobolts",
+      "category": "Manufactured",
+      "defname": "DankPyon_ScorpioBolt",
+      "price": -10
+    },
+    {
+      "abr": "sealskinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Sealskin",
+      "price": -10
+    },
+    {
+      "abr": "sheepcheese",
+      "category": "Meals",
+      "defname": "DankPyon_MealSheepCheese",
+      "price": -10
+    },
+    {
+      "abr": "sheepmilk",
+      "category": "Milk",
+      "defname": "DankPyon_SheepMilk",
+      "price": -10
+    },
+    {
+      "abr": "shelf(assorteddrugsa)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_AssortedDrugsA",
+      "price": -10
+    },
+    {
+      "abr": "shelf(assorteddrugsb)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_AssortedDrugsB",
+      "price": -10
+    },
+    {
+      "abr": "shelf(assortedherbs)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_AssortedHerbs",
+      "price": -10
+    },
+    {
+      "abr": "shelf(battleelixir)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_BattleElixir",
+      "price": -10
+    },
+    {
+      "abr": "shelf(greenherbs)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_GreenHerbs",
+      "price": -10
+    },
+    {
+      "abr": "shelf(happypowder)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_HappyPowder",
+      "price": -10
+    },
+    {
+      "abr": "shelf(luhix)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_Luhix",
+      "price": -10
+    },
+    {
+      "abr": "shelf(paregoric)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_Paregoric",
+      "price": -10
+    },
+    {
+      "abr": "shelf(redherbs)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_RedHerbs",
+      "price": -10
+    },
+    {
+      "abr": "shelf(stardust)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_Stardust",
+      "price": -10
+    },
+    {
+      "abr": "shelf(vigorpill)",
+      "category": "Furniture",
+      "defname": "DankPyon_Shelf_VigorPill",
+      "price": -10
+    },
+    {
+      "abr": "silk",
+      "category": "Textiles",
+      "defname": "DankPyon_Silk",
+      "price": -10
+    },
+    {
+      "abr": "silkworm",
+      "category": "Raw food",
+      "defname": "DankPyon_Silkworm",
+      "price": -10
+    },
+    {
+      "abr": "silverbowl",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_BowlSilver",
+      "price": -10
+    },
+    {
+      "abr": "silverchalice",
+      "category": "Polished loot",
+      "defname": "DankPyon_Building_ChaliceSilver",
+      "price": -10
+    },
+    {
+      "abr": "silverchalicefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledChaliceSilver",
+      "price": -10
+    },
+    {
+      "abr": "silveringotstack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_SilverIngots1x1c",
+      "price": -10
+    },
+    {
+      "abr": "silveringotstack(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_SilverIngots1x2c",
+      "price": -10
+    },
+    {
+      "abr": "silveringotstack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_SilverIngots2x2c",
+      "price": -10
+    },
+    {
+      "abr": "silverore",
+      "category": "Raw ore",
+      "defname": "DankPyon_SilverOre",
+      "price": -10
+    },
+    {
+      "abr": "silverwarefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledSilverware",
+      "price": -10
+    },
+    {
+      "abr": "slop",
+      "category": "Meals",
+      "defname": "DankPyon_Slop",
+      "price": -10
+    },
+    {
+      "abr": "smallfountain",
+      "category": "Furniture",
+      "defname": "DankPyon_Fountain1x1c",
+      "price": -10
+    },
+    {
+      "abr": "smallicesculpture",
+      "category": "Art",
+      "defname": "DankPyon_SculptureSmall_Ice",
+      "price": -10
+    },
+    {
+      "abr": "smallresearchshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticBookshelf",
+      "price": -10
+    },
+    {
+      "abr": "smokelauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_SmokeLauncher",
+      "price": 633
+    },
+    {
+      "abr": "smokepot",
+      "category": "Grenades",
+      "defname": "DankPyon_Weapon_PotFlashSmoke",
+      "price": -10
+    },
+    {
+      "abr": "smokepotbelt",
+      "category": "Utility",
+      "defname": "DankPyon_Apparel_SmokePotBelt",
+      "price": -10
+    },
+    {
+      "abr": "smokedhumanmeat",
+      "category": "Meals",
+      "defname": "DankPyon_SmokedMeat_Human",
+      "price": -10
+    },
+    {
+      "abr": "smokedinsectmeat",
+      "category": "Meals",
+      "defname": "DankPyon_SmokedMeat_Insect",
+      "price": -10
+    },
+    {
+      "abr": "smokedmeat",
+      "category": "Meals",
+      "defname": "DankPyon_SmokedFish",
+      "price": -10
+    },
+    {
+      "abr": "smokedmeat",
+      "category": "Meals",
+      "defname": "DankPyon_SmokedMeat",
+      "price": -10
+    },
+    {
+      "abr": "smoker",
+      "category": "Production",
+      "defname": "DankPyon_Smoker",
+      "price": -10
+    },
+    {
+      "abr": "smokeyhoney",
+      "category": "Honey",
+      "defname": "DankPyon_Honey",
+      "price": -10
+    },
+    {
+      "abr": "smokeyhoneycomb",
+      "category": "Animal products",
+      "defname": "DankPyon_Honeycomb",
+      "price": -10
+    },
+    {
+      "abr": "softfurhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Light",
+      "price": -10
+    },
+    {
+      "abr": "souppot",
+      "category": "Production",
+      "defname": "DankPyon_StewPot",
+      "price": -10
+    },
+    {
+      "abr": "spearrack",
+      "category": "Furniture",
+      "defname": "DankPyon_RackSpear",
+      "price": -10
+    },
+    {
+      "abr": "spetum",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Spetum",
+      "price": -10
+    },
+    {
+      "abr": "spices",
+      "category": "Condiments",
+      "defname": "DankPyon_Spices",
+      "price": -10
+    },
+    {
+      "abr": "spinningwheel",
+      "category": "Production",
+      "defname": "DankPyon_SpinningWheel",
+      "price": -10
+    },
+    {
+      "abr": "splintedboots",
+      "category": "Footwear",
+      "defname": "DankPyon_Footwear_BootsSplinted",
+      "price": -10
+    },
+    {
+      "abr": "splintedchausses",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_ChaussesSplinted",
+      "price": -10
+    },
+    {
+      "abr": "splintedgloves",
+      "category": "Handwear",
+      "defname": "DankPyon_Handwear_GlovesSplinted",
+      "price": -10
+    },
+    {
+      "abr": "stackofbooks",
+      "category": "Misc",
+      "defname": "DankPyon_Stack_Books",
+      "price": -10
+    },
+    {
+      "abr": "stackofpapers",
+      "category": "Misc",
+      "defname": "DankPyon_Stack_Paper",
+      "price": -10
+    },
+    {
+      "abr": "stardust",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_Stardust",
+      "price": -10
+    },
+    {
+      "abr": "stardust",
+      "category": "Drugs",
+      "defname": "DankPyon_Stardust",
+      "price": -10
+    },
+    {
+      "abr": "steakwithwine",
+      "category": "Meals",
+      "defname": "DankPyon_MealSteakWithWine",
+      "price": -10
+    },
+    {
+      "abr": "steelingotstack(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_SteelIngots1x1c",
+      "price": -10
+    },
+    {
+      "abr": "steelingotstack(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_SteelIngots1x2c",
+      "price": -10
+    },
+    {
+      "abr": "steelingotstack(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_SteelIngots2x2c",
+      "price": -10
+    },
+    {
+      "abr": "stew",
+      "category": "Meals",
+      "defname": "DankPyon_Slop_Simple",
+      "price": -10
+    },
+    {
+      "abr": "stoneboulder",
+      "category": "Trebuchet ammo",
+      "defname": "DankPyon_StoneBoulder",
+      "price": -10
+    },
+    {
+      "abr": "stonecutter'sblock",
+      "category": "Production",
+      "defname": "DankPyon_StonecuttingSpot",
+      "price": -10
+    },
+    {
+      "abr": "straw",
+      "category": "Foods",
+      "defname": "DankPyon_Straw",
+      "price": -10
+    },
+    {
+      "abr": "strawbale(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBale1x2c",
+      "price": -10
+    },
+    {
+      "abr": "strawbale(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBale2x2c",
+      "price": -10
+    },
+    {
+      "abr": "strawbed",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawBed",
+      "price": -10
+    },
+    {
+      "abr": "strawpile",
+      "category": "Furniture",
+      "defname": "DankPyon_StrawPile1x2c",
+      "price": -10
+    },
+    {
+      "abr": "sugar",
+      "category": "Condiments",
+      "defname": "DankPyon_Sugar",
+      "price": -10
+    },
+    {
+      "abr": "sugarcane",
+      "category": "Foods",
+      "defname": "DankPyon_Sugarcane",
+      "price": -10
+    },
+    {
+      "abr": "sweetpancakes",
+      "category": "Meals",
+      "defname": "DankPyon_MealSweetPancakes",
+      "price": -10
+    },
+    {
+      "abr": "swordrack",
+      "category": "Furniture",
+      "defname": "DankPyon_RackSword",
+      "price": -10
+    },
+    {
+      "abr": "swordlance",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Swordlance",
+      "price": -10
+    },
+    {
+      "abr": "table(bow)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_Bow",
+      "price": -10
+    },
+    {
+      "abr": "table(bread)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_Bread",
+      "price": -10
+    },
+    {
+      "abr": "table(dairy)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_Dairy",
+      "price": -10
+    },
+    {
+      "abr": "table(herb)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_Herb",
+      "price": -10
+    },
+    {
+      "abr": "table(meat)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_Meats",
+      "price": -10
+    },
+    {
+      "abr": "table(weapons)",
+      "category": "Furniture",
+      "defname": "DankPyon_TableMarket_MeleeWeapons",
+      "price": -10
+    },
+    {
+      "abr": "tablesaw",
+      "category": "Production",
+      "defname": "DankPyon_SawTable",
+      "price": -10
+    },
+    {
+      "abr": "tale",
+      "category": "Books",
+      "defname": "DankPyon_Tale",
+      "price": -10
+    },
+    {
+      "abr": "talldividercolumn(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_DividerColumn",
+      "price": -10
+    },
+    {
+      "abr": "tallendtable",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticTallEndTable",
+      "price": -10
+    },
+    {
+      "abr": "tallow",
+      "category": "Foods",
+      "defname": "DankPyon_Tallow",
+      "price": -10
+    },
+    {
+      "abr": "tanningliquor",
+      "category": "Manufactured",
+      "defname": "DankPyon_TanningLiquor",
+      "price": -10
+    },
+    {
+      "abr": "tar",
+      "category": "Manufactured",
+      "defname": "DankPyon_Tar",
+      "price": -10
+    },
+    {
+      "abr": "taroccotable",
+      "category": "Furniture",
+      "defname": "DankPyon_Tarocco",
+      "price": -10
+    },
+    {
+      "abr": "tarredstoneboulder",
+      "category": "Trebuchet ammo",
+      "defname": "DankPyon_StoneBoulderTarred",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(blackwhite)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_4c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(blackyellow)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_5c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(blue)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_2c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(lime)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_3c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(plain)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_7c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(red)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_1c",
+      "price": -10
+    },
+    {
+      "abr": "tentstall(white)",
+      "category": "Furniture",
+      "defname": "DankPyon_MarketTent_6c",
+      "price": -10
+    },
+    {
+      "abr": "textilescart",
+      "category": "Furniture",
+      "defname": "DankPyon_Storage_Cart_Textiles",
+      "price": -10
+    },
+    {
+      "abr": "thickcoveredroomdivider(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticThickRoomDivider_Closed1x2c",
+      "price": -10
+    },
+    {
+      "abr": "thickopenroomdivider(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticThickRoomDivider_Open1x2c",
+      "price": -10
+    },
+    {
+      "abr": "thickscaleleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Rhinoceros",
+      "price": -10
+    },
+    {
+      "abr": "thickunholdfur",
+      "category": "Loot",
+      "defname": "DankPyon_ThickUnholdFur",
+      "price": -10
+    },
+    {
+      "abr": "thirdeye",
+      "category": "Loot",
+      "defname": "DankPyon_ThirdEye",
+      "price": -10
+    },
+    {
+      "abr": "thrumbohide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Thrumbo",
+      "price": -10
+    },
+    {
+      "abr": "thrumborug(3x3)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugThrumbo3x3c",
+      "price": -10
+    },
+    {
+      "abr": "thrumbomanehide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_AlphaThrumbo",
+      "price": -10
+    },
+    {
+      "abr": "timber(1x1)",
+      "category": "Furniture",
+      "defname": "DankPyon_Timber1x1c",
+      "price": -10
+    },
+    {
+      "abr": "timber(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Timber1x2c",
+      "price": -10
+    },
+    {
+      "abr": "timber(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_Timber2x2c",
+      "price": -10
+    },
+    {
+      "abr": "timberwolfhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Wolf_Timber",
+      "price": -10
+    },
+    {
+      "abr": "timberwolfrug(2x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_RugWolfTimber2x2c",
+      "price": -10
+    },
+    {
+      "abr": "tomatoomelette",
+      "category": "Meals",
+      "defname": "DankPyon_MealTomatoOmelette",
+      "price": -10
+    },
+    {
+      "abr": "tomatoes",
+      "category": "Vegetarian",
+      "defname": "DankPyon_RawTomatoes",
+      "price": -10
+    },
+    {
+      "abr": "toolrack",
+      "category": "Misc",
+      "defname": "DankPyon_ToolRack",
+      "price": -10
+    },
+    {
+      "abr": "tornnote",
+      "category": "Loot",
+      "defname": "DankPyon_TornNote_Hideout",
+      "price": -10
+    },
+    {
+      "abr": "toxbomblauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_ToxbombLauncher",
+      "price": 633
+    },
+    {
+      "abr": "treatise",
+      "category": "Books",
+      "defname": "DankPyon_Treatise",
+      "price": -10
+    },
+    {
+      "abr": "treatise(animals)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Animals",
+      "price": -10
+    },
+    {
+      "abr": "treatise(artistic)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Artistic",
+      "price": -10
+    },
+    {
+      "abr": "treatise(construction)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Construction",
+      "price": -10
+    },
+    {
+      "abr": "treatise(cooking)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Cooking",
+      "price": -10
+    },
+    {
+      "abr": "treatise(crafting)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Crafting",
+      "price": -10
+    },
+    {
+      "abr": "treatise(intellectual)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Intellectual",
+      "price": -10
+    },
+    {
+      "abr": "treatise(medicine)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Medicine",
+      "price": -10
+    },
+    {
+      "abr": "treatise(melee)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Melee",
+      "price": -10
+    },
+    {
+      "abr": "treatise(mining)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Mining",
+      "price": -10
+    },
+    {
+      "abr": "treatise(plants)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Plants",
+      "price": -10
+    },
+    {
+      "abr": "treatise(shooting)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Shooting",
+      "price": -10
+    },
+    {
+      "abr": "treatise(social)",
+      "category": "Treatise",
+      "defname": "DankPyon_Treatise_Social",
+      "price": -10
+    },
+    {
+      "abr": "trebuchet",
+      "category": "Security",
+      "defname": "DankPyon_Turret_Trebuchet",
+      "price": -10
+    },
+    {
+      "abr": "trestle",
+      "category": "Production",
+      "defname": "DankPyon_Trestle",
+      "price": -10
+    },
+    {
+      "abr": "trollleather",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Troll",
+      "price": -10
+    },
+    {
+      "abr": "trollleatherhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Troll",
+      "price": -10
+    },
+    {
+      "abr": "trousers",
+      "category": "Legwear",
+      "defname": "DankPyon_Apparel_Trousers",
+      "price": -10
+    },
+    {
+      "abr": "two-handedflangedmace",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_TwoHandedFlangedMace",
+      "price": -10
+    },
+    {
+      "abr": "two-handedhammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_TwoHandedHammer",
+      "price": -10
+    },
+    {
+      "abr": "two-handedmace",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_TwoHandedMace",
+      "price": -10
+    },
+    {
+      "abr": "two-handedmallet",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_TwoHandedMallet",
+      "price": -10
+    },
+    {
+      "abr": "unfermentedapplejuice",
+      "category": "Non-alcoholic",
+      "defname": "DankPyon_JuiceAppleUnfermented",
+      "price": -10
+    },
+    {
+      "abr": "unhold",
+      "category": "Animals",
+      "defname": "DankPyon_Unhold",
+      "price": -10
+    },
+    {
+      "abr": "unhold",
+      "category": "Animals",
+      "defname": "DankPyon_UnholdSnow",
+      "price": -10
+    },
+    {
+      "abr": "unholdheart",
+      "category": "Loot",
+      "defname": "DankPyon_UnholdHeart",
+      "price": -10
+    },
+    {
+      "abr": "unholdhide",
+      "category": "Loot",
+      "defname": "DankPyon_UnholdHide",
+      "price": -10
+    },
+    {
+      "abr": "unholdmeat",
+      "category": "Meat",
+      "defname": "Meat_DankPyon_Unhold",
+      "price": -10
+    },
+    {
+      "abr": "vegetablepot",
+      "category": "Meals",
+      "defname": "DankPyon_MealVegetablePot",
+      "price": -10
+    },
+    {
+      "abr": "vest",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Leather_Tunic",
+      "price": -10
+    },
+    {
+      "abr": "vialstable",
+      "category": "Misc",
+      "defname": "DankPyon_VialsTable",
+      "price": -10
+    },
+    {
+      "abr": "vigorpill",
+      "category": "Drugs",
+      "defname": "DankPyon_VigorPill",
+      "price": -10
+    },
+    {
+      "abr": "vigorpillmixture",
+      "category": "Manufactured",
+      "defname": "DankPyon_Mixture_VigorPill",
+      "price": -10
+    },
+    {
+      "abr": "visored-lessbascinet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_OpenBascinet",
+      "price": -10
+    },
+    {
+      "abr": "wallbanner(1x2)",
+      "category": "Furniture",
+      "defname": "DankPyon_WallBanner1x2c",
+      "price": -10
+    },
+    {
+      "abr": "wallflatscreentelevision",
+      "category": "Recreation",
+      "defname": "XER_WallFlatscreenTelevision",
+      "price": -10
+    },
+    {
+      "abr": "wallmegascreentelevision",
+      "category": "Recreation",
+      "defname": "XER_WallMegascreenTelevision",
+      "price": -10
+    },
+    {
+      "abr": "walltubetelevision",
+      "category": "Recreation",
+      "defname": "XER_WallTubeTelevision",
+      "price": -10
+    },
+    {
+      "abr": "warbow",
+      "category": "Ranged weapons",
+      "defname": "Bow_War",
+      "price": -10
+    },
+    {
+      "abr": "warfork",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Warfork",
+      "price": -10
+    },
+    {
+      "abr": "warhammer",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_Warhammer",
+      "price": -10
+    },
+    {
+      "abr": "warrior'sarmor(adorned)",
+      "category": "Armor",
+      "defname": "DankPyon_Apparel_AdornedWarriorArmor",
+      "price": -10
+    },
+    {
+      "abr": "waterskin",
+      "category": "Raw resources",
+      "defname": "DankPyon_Waterskin",
+      "price": -10
+    },
+    {
+      "abr": "wax",
+      "category": "Raw resources",
+      "defname": "DankPyon_Wax",
+      "price": -10
+    },
+    {
+      "abr": "weaponrack",
+      "category": "Furniture",
+      "defname": "DankPyon_RackMixed",
+      "price": -10
+    },
+    {
+      "abr": "webknecht",
+      "category": "Animals",
+      "defname": "DankPyon_Webknecht",
+      "price": -10
+    },
+    {
+      "abr": "webknechtegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "DankPyon_Webknecht_EggFertilized",
+      "price": -10
+    },
+    {
+      "abr": "webknechtegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "DankPyon_Webknecht_EggUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "well",
+      "category": "Production",
+      "defname": "DankPyon_Well",
+      "price": -10
+    },
+    {
+      "abr": "wheat",
+      "category": "Grains",
+      "defname": "DankPyon_RawWheat",
+      "price": -10
+    },
+    {
+      "abr": "wickerbed",
+      "category": "Furniture",
+      "defname": "DankPyon_BedWicker",
+      "price": -10
+    },
+    {
+      "abr": "wine",
+      "category": "Drugs",
+      "defname": "DankPyon_Wine",
+      "price": -10
+    },
+    {
+      "abr": "winecupboard",
+      "category": "Furniture",
+      "defname": "DankPyon_RusticCupboardWine",
+      "price": -10
+    },
+    {
+      "abr": "winefilledshelf",
+      "category": "Furniture",
+      "defname": "DankPyon_ShelfFilledWine",
+      "price": -10
+    },
+    {
+      "abr": "wingedmace",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_WingedMace",
+      "price": -10
+    },
+    {
+      "abr": "winterlentilsoup",
+      "category": "Meals",
+      "defname": "DankPyon_MealWinterLentilSoup",
+      "price": -10
+    },
+    {
+      "abr": "wolfhood(arctic)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_WolfArctic",
+      "price": -10
+    },
+    {
+      "abr": "wolfhood(timber)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_WolfTimber",
+      "price": -10
+    },
+    {
+      "abr": "wolf-ribsbascinet",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_WolfBascinet",
+      "price": -10
+    },
+    {
+      "abr": "wolfskin",
+      "category": "Leathers",
+      "defname": "DankPyon_Leather_Direwolf",
+      "price": -10
+    },
+    {
+      "abr": "wolfskinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Wolf",
+      "price": -10
+    },
+    {
+      "abr": "wolfskinhide",
+      "category": "Hides",
+      "defname": "DankPyon_Hide_Leather_Direwolf",
+      "price": -10
+    },
+    {
+      "abr": "woodcutter'saxe",
+      "category": "Melee weapons",
+      "defname": "DankPyon_MeleeWeapon_WoodcuttersAxe",
+      "price": -10
+    },
+    {
+      "abr": "workbench",
+      "category": "Production",
+      "defname": "DankPyon_Workbench",
+      "price": -10
+    },
+    {
+      "abr": "zweihanderhelm",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihanderHelm",
+      "price": -10
+    },
+    {
+      "abr": "zweihanderhelm(amboise)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihanderHelmAmboise",
+      "price": -10
+    },
+    {
+      "abr": "zweihanderhelm(hesse)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihanderHelmHesse",
+      "price": -10
+    },
+    {
+      "abr": "zweihanderhelm(oswin)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihanderHelmOswin",
+      "price": -10
+    },
+    {
+      "abr": "zweihanderhelm(soren)",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihanderHelmSoren",
+      "price": -10
+    },
+    {
+      "abr": "zweihander'scuirass",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Zweihanders_Cuirass",
+      "price": -10
+    },
+    {
+      "abr": "zweihander'scuirass(puffy)",
+      "category": "Apparel",
+      "defname": "DankPyon_Apparel_Zweihanders_CuirassFloof",
+      "price": -10
+    },
+    {
+      "abr": "zweihander'shat",
+      "category": "Headgear",
+      "defname": "DankPyon_Headgear_ZweihandersHat",
+      "price": -10
     }
   ],
-  "total": 1337
+  "total": 2053
 }

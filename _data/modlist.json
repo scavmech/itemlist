@@ -196,5 +196,41 @@
     "name": "Vanilla Events Expanded",
     "steamId": "1938420742",
     "version": "1.1.0"
+  },
+  {
+    "author": "Xercaine",
+    "name": "Wall Televisions",
+    "steamId": "3582096423",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Syrchalis",
+    "name": "[SYR] Processor Framework",
+    "steamId": "3210544395",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "SirLalaPyon",
+    "name": "Medieval Overhaul",
+    "steamId": "3219596926",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "SirVan",
+    "name": "Medieval Overhaul : Hornetkeeping",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CNEIO",
+    "name": "Just Help For Me",
+    "steamId": "3584588840",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "梦境触感",
+    "name": "Auto Ability",
+    "steamId": "3578731212",
+    "version": "1.0.0.0"
   }
 ]

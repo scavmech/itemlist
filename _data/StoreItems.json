@@ -8015,7 +8015,13 @@
       "category": ".410 Bore",
       "defname": "Ammo_410Bore_ElectroSlug",
       "price": 1
+    },
+    {
+      "abr": "deathsuperacidifier",
+      "category": "Bionic",
+      "defname": "VESWW_DeathSuperAcidifier",
+      "price": 1500
     }
   ],
-  "total": 1336
+  "total": 1337
 }

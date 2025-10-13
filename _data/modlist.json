@@ -84,6 +84,24 @@
     "version": "2.0.10.0"
   },
   {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
+  },
+  {
+    "author": "Zaljerem",
+    "name": "JecsLite - A RimWorld of Magic",
+    "steamId": "3312959701",
+    "version": "1.0.4.0"
+  },
+  {
+    "author": "Torann",
+    "name": "A RimWorld of Magic",
+    "steamId": "1201382956",
+    "version": "2.6.4.3"
+  },
+  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -150,12 +168,6 @@
     "version": "1.6.0.1"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "12.0.0"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -204,24 +216,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Syrchalis",
-    "name": "[SYR] Processor Framework",
-    "steamId": "3210544395",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "SirLalaPyon",
-    "name": "Medieval Overhaul",
-    "steamId": "3219596926",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "SirVan",
-    "name": "Medieval Overhaul : Hornetkeeping",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "CNEIO",
     "name": "Just Help For Me",
     "steamId": "3584588840",
@@ -231,6 +225,12 @@
     "author": "梦境触感",
     "name": "Auto Ability",
     "steamId": "3578731212",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ogre",
+    "name": "OgreStack",
+    "steamId": "1447140290",
     "version": "1.0.0.0"
   }
 ]

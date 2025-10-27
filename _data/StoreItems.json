@@ -5368,25 +5368,25 @@
       "abr": "aimanager",
       "category": "Production",
       "defname": "CM_AIManager",
-      "price": 7833
+      "price": -10
     },
     {
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "CM_BasicManagerStation",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "managerdatabase",
       "category": "Misc",
       "defname": "CM_ManagerDatabase",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "managerdesk",
       "category": "Production",
       "defname": "CM_ManagerStation",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "adaptivedrone",
@@ -8950,7 +8950,7 @@
       "abr": "deathsuperacidifier",
       "category": "Bionic",
       "defname": "VESWW_DeathSuperAcidifier",
-      "price": 1500
+      "price": -10
     }
   ],
   "total": 1492

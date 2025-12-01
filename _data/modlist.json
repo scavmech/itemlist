@@ -90,18 +90,6 @@
     "version": "12.0.0"
   },
   {
-    "author": "Zaljerem",
-    "name": "JecsLite - A RimWorld of Magic",
-    "steamId": "3312959701",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "Torann",
-    "name": "A RimWorld of Magic",
-    "steamId": "1201382956",
-    "version": "2.6.4.3"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -168,6 +156,12 @@
     "version": "1.6.0.1"
   },
   {
+    "author": "Soul, Phaneron and Bradson",
+    "name": "Adaptive Storage Framework",
+    "steamId": "3033901359",
+    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
+  },
+  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -198,36 +192,6 @@
     "version": "0.14.5+62493e01554bae13ce142dbf39f46ae1c9e974d9"
   },
   {
-    "author": "Sarg Bjornson and Ben Lubar",
-    "name": "Alpha Bees",
-    "steamId": "1558161673",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Helixien and Sarg",
-    "name": "Vanilla Events Expanded",
-    "steamId": "1938420742",
-    "version": "1.1.0"
-  },
-  {
-    "author": "Xercaine",
-    "name": "Wall Televisions",
-    "steamId": "3582096423",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "CNEIO",
-    "name": "Just Help For Me",
-    "steamId": "3584588840",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "梦境触感",
-    "name": "Auto Ability",
-    "steamId": "3578731212",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Ogre",
     "name": "OgreStack",
     "steamId": "1447140290",
@@ -238,5 +202,77 @@
     "name": "Vanilla Storytellers Expanded - Winston Waves",
     "steamId": "3215569151",
     "version": "1.0.2.2"
+  },
+  {
+    "author": "anobs, jecrell and contributors",
+    "name": "JecsTools Unofficial 1.6 BETA",
+    "steamId": "3524247750",
+    "version": "1.5.0.0"
+  },
+  {
+    "author": "Jecrell",
+    "name": "Call of Cthulhu - Cosmic Horrors - Unofficial 1.5-1.6",
+    "steamId": "3319844548",
+    "version": "1.4.0.1"
+  },
+  {
+    "author": "xerohexa",
+    "name": "Touhou Fashion: Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "xerohexa",
+    "name": "Touhou Fashion: TH08-09",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wilhelm95",
+    "name": "[Ku] A Mod About Meat",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "seobongzu",
+    "name": "[sbz] Neat Storage",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Th3_Fr3d, Keshash, Caulaflower, Blyatman and Graved",
+    "name": "More Injuries (Continued)",
+    "steamId": "3348840185",
+    "version": "1.6.0.2+0efec09cddf9f955fe0258314e4dd50102fb503a"
+  },
+  {
+    "author": "Oblitus",
+    "name": "Sync Growth",
+    "steamId": "2392562136",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Zoarak963",
+    "name": "Anomaly Research Asteroid",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "merthsoft",
+    "name": "Designator Shapes",
+    "steamId": "1235181370",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "merthsoft",
+    "name": "Flood Fill Shape",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Luca De Petrillo",
+    "name": "(NWN) Real Fog of War (Continued)",
+    "steamId": "3391128917",
+    "version": "1.6.4"
   }
 ]

@@ -4366,7 +4366,7 @@
       "abr": "beamgraser",
       "category": "Ranged weapons",
       "defname": "Gun_BeamGraser",
-      "price": 1875
+      "price": -10
     },
     {
       "abr": "beamrepeater",
@@ -6118,7 +6118,7 @@
       "abr": "untouchablemeat",
       "category": "Raw strange meat",
       "defname": "ROM_RawCHFood_Meat",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "verticalweaponrack",

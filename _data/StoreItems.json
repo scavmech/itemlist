@@ -5455,12 +5455,6 @@
       "price": -10
     },
     {
-      "abr": "ceilingsurveillancecamera",
-      "category": "Security",
-      "defname": "SurveillanceCamera_UnderRoof",
-      "price": -10
-    },
-    {
       "abr": "chloroform-soakedcloth",
       "category": "Drugs",
       "defname": "Chloroform",
@@ -5587,12 +5581,6 @@
       "price": -10
     },
     {
-      "abr": "groundsurveillancecamera",
-      "category": "Security",
-      "defname": "SurveillanceCamera_Ground",
-      "price": -10
-    },
-    {
       "abr": "hakureireimu-headdress",
       "category": "THFS head",
       "defname": "XHTHFS_HakureiReimu_Headdress",
@@ -5671,36 +5659,6 @@
       "price": -10
     },
     {
-      "abr": "inspectorchicken",
-      "category": "Security",
-      "defname": "InspectorChicken",
-      "price": -10
-    },
-    {
-      "abr": "inspectorhare",
-      "category": "Security",
-      "defname": "InspectorHare",
-      "price": -10
-    },
-    {
-      "abr": "inspectormonkey",
-      "category": "Security",
-      "defname": "InspectorMonkey",
-      "price": -10
-    },
-    {
-      "abr": "inspectorrat",
-      "category": "Security",
-      "defname": "InspectorRat",
-      "price": -10
-    },
-    {
-      "abr": "inspectorsquirrel",
-      "category": "Security",
-      "defname": "InspectorSquirrel",
-      "price": -10
-    },
-    {
       "abr": "kamishirasawakeine-cap",
       "category": "THFS head",
       "defname": "XHTHFS_KamishirasawaKeine_Cap",
@@ -5770,12 +5728,6 @@
       "abr": "largeintestine",
       "category": "Natural",
       "defname": "LargeIntestine",
-      "price": -10
-    },
-    {
-      "abr": "largesecuritybell",
-      "category": "Security",
-      "defname": "SecurityBell",
       "price": -10
     },
     {
@@ -5965,12 +5917,6 @@
       "price": -10
     },
     {
-      "abr": "selfsustainedsurveillancecamera",
-      "category": "Security",
-      "defname": "SurveillanceCamera_Solar",
-      "price": -10
-    },
-    {
       "abr": "shikieikiyamaxanadu-headdress",
       "category": "THFS head",
       "defname": "XHTHFS_ShikieikiYamaxanadu_Cap",
@@ -6010,12 +5956,6 @@
       "abr": "smallmeatsculpture",
       "category": "Art",
       "defname": "MeatSculptureSmall",
-      "price": -10
-    },
-    {
-      "abr": "smallsecuritybell",
-      "category": "Security",
-      "defname": "SecurityBellSmall",
       "price": -10
     },
     {
@@ -6103,24 +6043,6 @@
       "price": -10
     },
     {
-      "abr": "surveillancecamerainabush",
-      "category": "Security",
-      "defname": "SurveillanceCamera_Bush",
-      "price": -10
-    },
-    {
-      "abr": "surveillancecamerainadeadbush",
-      "category": "Security",
-      "defname": "SurveillanceCamera_DeadBush",
-      "price": -10
-    },
-    {
-      "abr": "surveillancecamerapost",
-      "category": "Security",
-      "defname": "SurveillanceCamera_High",
-      "price": -10
-    },
-    {
       "abr": "syameimaruaya-hat",
       "category": "THFS head",
       "defname": "XHTHFS_SyameimaruAya_Hat",
@@ -6178,80 +6100,68 @@
       "abr": "unnamedbook-readingyoukai-headorgans",
       "category": "THFS head organ",
       "defname": "XHTHFS_UnnamedBookReadingYoukai_HeadOrgans",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "unnamedbook-readingyoukai-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_UnnamedBookReadingYoukai_Outfit",
-      "price": -10
+      "price": 212
     },
     {
       "abr": "unnamedbook-readingyoukai-wings",
       "category": "THFS back",
       "defname": "XHTHFS_UnnamedBookReadingYoukai_Wings",
-      "price": -10
+      "price": 139
     },
     {
       "abr": "untouchablemeat",
       "category": "Raw strange meat",
       "defname": "ROM_RawCHFood_Meat",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "verticalweaponrack",
       "category": "Storage",
       "defname": "sbz_VerticalWeaponRack",
-      "price": -10
-    },
-    {
-      "abr": "wallmountedsurveillancecamera",
-      "category": "Security",
-      "defname": "SurveillanceCamera_Mounted",
-      "price": -10
-    },
-    {
-      "abr": "watchtelescope",
-      "category": "Security",
-      "defname": "WatchTelescope",
-      "price": -10
+      "price": 148
     },
     {
       "abr": "weaponrack",
       "category": "Storage",
       "defname": "sbz_WeaponRack",
-      "price": -10
+      "price": 76
     },
     {
       "abr": "wrigglenightbug-antennae",
       "category": "THFS head organ",
       "defname": "XHTHFS_WriggleNightbug_Antennae",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "wrigglenightbug-cape",
       "category": "THFS outer",
       "defname": "XHTHFS_WriggleNightbug_Cape",
-      "price": -10
+      "price": 209
     },
     {
       "abr": "wrigglenightbug-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_WriggleNightbug_Outfit",
-      "price": -10
+      "price": 212
     },
     {
       "abr": "yagokoroeirin-cap",
       "category": "THFS head",
       "defname": "XHTHFS_YagokoroEirin_Cap",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "yagokoroeirin-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_YagokoroEirin_Outfit",
-      "price": -10
+      "price": 212
     }
   ],
-  "total": 1042
+  "total": 1027
 }

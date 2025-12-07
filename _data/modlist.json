@@ -258,21 +258,9 @@
     "version": null
   },
   {
-    "author": "merthsoft",
-    "name": "Designator Shapes",
-    "steamId": "1235181370",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "merthsoft",
-    "name": "Flood Fill Shape",
+    "author": "sirrandoo",
+    "name": "Fleshtroid",
     "steamId": null,
     "version": null
-  },
-  {
-    "author": "Luca De Petrillo",
-    "name": "(NWN) Real Fog of War (Continued)",
-    "steamId": "3391128917",
-    "version": "1.6.4"
   }
 ]

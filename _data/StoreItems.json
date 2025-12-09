@@ -5638,7 +5638,7 @@
       "abr": "ibukisuika-horns",
       "category": "THFS head organ",
       "defname": "XHTHFS_IbukiSuika_Horns",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "ibukisuika-outfit",
@@ -5650,7 +5650,7 @@
       "abr": "inabatewi-ears",
       "category": "THFS head organ",
       "defname": "XHTHFS_InabaTewi_Ears",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "inabatewi-outfit",
@@ -5668,7 +5668,7 @@
       "abr": "kamishirasawakeine-horns",
       "category": "THFS head organ",
       "defname": "XHTHFS_KamishirasawaKeine_Horns",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "kamishirasawakeine-outfit",
@@ -5686,7 +5686,7 @@
       "abr": "kamishirasawakeine-tail",
       "category": "THFS tail",
       "defname": "XHTHFS_KamishirasawaKeine_Tail",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "kazamiyuuka-outfit",
@@ -5698,7 +5698,7 @@
       "abr": "kazamiyuuka-umbrella",
       "category": "THFS accessory",
       "defname": "XHTHFS_KazamiYuuka_Umbrella",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "ketamineautoinjector",
@@ -5746,7 +5746,7 @@
       "abr": "lunachild-wings",
       "category": "THFS back",
       "defname": "XHTHFS_LunaChild_Wings",
-      "price": -10
+      "price": 139
     },
     {
       "abr": "meatbed",
@@ -5782,7 +5782,7 @@
       "abr": "medicinemelancholy-partner",
       "category": "THFS accessory",
       "defname": "XHTHFS_MedicineMelancholy_Partner",
-      "price": -10
+      "price": 106
     },
     {
       "abr": "migomatter",
@@ -5824,7 +5824,7 @@
       "abr": "mystialorelei-ears",
       "category": "THFS head organ",
       "defname": "XHTHFS_MystiaLorelei_Ears",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "mystialorelei-hat",
@@ -5842,7 +5842,7 @@
       "abr": "mystialorelei-wings",
       "category": "THFS back",
       "defname": "XHTHFS_MystiaLorelei_Wings",
-      "price": -10
+      "price": 139
     },
     {
       "abr": "narrowdisplaycabinet",
@@ -5884,7 +5884,7 @@
       "abr": "reisenudongeininaba-ears",
       "category": "THFS head organ",
       "defname": "XHTHFS_ReisenUdongeinInaba_Ears",
-      "price": -10
+      "price": 70
     },
     {
       "abr": "reisenudongeininaba-outfit",
@@ -5980,7 +5980,7 @@
       "abr": "starsapphire-wings",
       "category": "THFS back",
       "defname": "XHTHFS_StarSapphire_Wings",
-      "price": -10
+      "price": 139
     },
     {
       "abr": "starvampiremeat",
@@ -6040,7 +6040,7 @@
       "abr": "sunnymilk-wings",
       "category": "THFS back",
       "defname": "XHTHFS_SunnyMilk_Wings",
-      "price": -10
+      "price": 139
     },
     {
       "abr": "syameimaruaya-hat",
@@ -6106,7 +6106,7 @@
       "abr": "unnamedbook-readingyoukai-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_UnnamedBookReadingYoukai_Outfit",
-      "price": 212
+      "price": -10
     },
     {
       "abr": "unnamedbook-readingyoukai-wings",
@@ -6142,25 +6142,25 @@
       "abr": "wrigglenightbug-cape",
       "category": "THFS outer",
       "defname": "XHTHFS_WriggleNightbug_Cape",
-      "price": 209
+      "price": -10
     },
     {
       "abr": "wrigglenightbug-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_WriggleNightbug_Outfit",
-      "price": 212
+      "price": -10
     },
     {
       "abr": "yagokoroeirin-cap",
       "category": "THFS head",
       "defname": "XHTHFS_YagokoroEirin_Cap",
-      "price": 106
+      "price": -10
     },
     {
       "abr": "yagokoroeirin-outfit",
       "category": "THFS outfit",
       "defname": "XHTHFS_YagokoroEirin_Outfit",
-      "price": 212
+      "price": -10
     }
   ],
   "total": 1027

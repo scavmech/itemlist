@@ -5419,749 +5419,1649 @@
       "price": 633
     },
     {
-      "abr": "2-tierdisplayshelf",
-      "category": "Storage",
-      "defname": "sbz_TwoTierDisplayShelf",
-      "price": -10
-    },
-    {
-      "abr": "airwaysuctiondevice",
-      "category": "Medical devices",
-      "defname": "SuctionDevice",
-      "price": -10
-    },
-    {
-      "abr": "bandage",
-      "category": "Medical devices",
-      "defname": "Bandage",
-      "price": -10
-    },
-    {
-      "abr": "bioniclargeintestine",
-      "category": "Bionic",
-      "defname": "BionicLargeIntestine",
-      "price": -10
-    },
-    {
-      "abr": "bionicsmallintestine",
-      "category": "Bionic",
-      "defname": "BionicSmallIntestine",
-      "price": -10
-    },
-    {
-      "abr": "bloodbag",
-      "category": "Medical devices",
-      "defname": "WholeBloodBag",
-      "price": -10
-    },
-    {
-      "abr": "chloroform-soakedcloth",
-      "category": "Drugs",
-      "defname": "Chloroform",
-      "price": -10
-    },
-    {
-      "abr": "chthonianchitin",
-      "category": "Leathers",
-      "defname": "CH_Leather_Chthonian",
-      "price": -10
-    },
-    {
-      "abr": "chthonianstrips",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_ChthonianMeat",
-      "price": -10
-    },
-    {
-      "abr": "crate",
-      "category": "Storage",
-      "defname": "sbz_MidCrate",
-      "price": -10
-    },
-    {
-      "abr": "cthulhidmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_CthulhidMeat",
-      "price": -10
-    },
-    {
-      "abr": "cubesofmeat",
-      "category": "Meat",
-      "defname": "MeatCube",
-      "price": -10
-    },
-    {
-      "abr": "darkyoungmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_DarkYoungMeat",
-      "price": -10
-    },
-    {
-      "abr": "darkyoungsap",
-      "category": "Animal products",
-      "defname": "ROM_DarkYoungSap",
-      "price": -10
-    },
-    {
-      "abr": "dark-youngbark",
-      "category": "Leathers",
-      "defname": "CH_Leather_DarkYoung",
-      "price": -10
-    },
-    {
       "abr": "deathsuperacidifier",
       "category": "Bionic",
       "defname": "VESWW_DeathSuperAcidifier",
       "price": -10
     },
     {
-      "abr": "deeponemeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_DeepOneMeat",
-      "price": -10
-    },
-    {
-      "abr": "deephide",
-      "category": "Leathers",
-      "defname": "CH_Leather_DeepOne",
-      "price": -10
-    },
-    {
-      "abr": "defibrillator",
-      "category": "Medical devices",
-      "defname": "Defibrillator",
-      "price": -10
-    },
-    {
-      "abr": "displaycabinet",
-      "category": "Storage",
-      "defname": "sbz_DisplayCabinet",
-      "price": -10
-    },
-    {
-      "abr": "displaycase",
-      "category": "Storage",
-      "defname": "sbz_DisplayTable",
-      "price": -10
-    },
-    {
-      "abr": "displayshelf",
-      "category": "Storage",
-      "defname": "sbz_DisplayShelf",
-      "price": -10
-    },
-    {
-      "abr": "drum",
-      "category": "Storage",
-      "defname": "sbz_Drum",
-      "price": -10
-    },
-    {
-      "abr": "epinephrineautoinjector",
+      "abr": "a0xprotofluid",
       "category": "Drugs",
-      "defname": "Epinephrine",
+      "defname": "XMT_Protofluid",
       "price": -10
     },
     {
-      "abr": "fujiwaranomokou-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_FujiwaraNoMokou_Headdress",
+      "abr": "aestheticmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerAestheticUtilityModule",
       "price": -10
     },
     {
-      "abr": "fujiwaranomokou-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_FujiwaraNoMokou_Outfit",
+      "abr": "airwiremodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerAirwireUtilityModule",
       "price": -10
     },
     {
-      "abr": "grandmeatsculpture",
-      "category": "Art",
-      "defname": "MeatSculptureGrand",
+      "abr": "alcoholsynthesizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerAlcoholSynthesizerUtilityModule",
       "price": -10
     },
     {
-      "abr": "hakureireimu-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_HakureiReimu_Headdress",
+      "abr": "analyzermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerAnalyzerWorkModule",
       "price": -10
     },
     {
-      "abr": "hakureireimu-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_HakureiReimu_Outfit",
+      "abr": "antigraintrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerAntigrainTrapDeployerAbilityModule",
       "price": -10
     },
     {
-      "abr": "hangershelf",
-      "category": "Storage",
-      "defname": "sbz_WideHangerShelf",
+      "abr": "apexcleaver",
+      "category": "Melee weapons",
+      "defname": "MTA_ApexCleaver",
       "price": -10
     },
     {
-      "abr": "hemostaticagent",
-      "category": "Medical devices",
-      "defname": "HemostaticAgent",
+      "abr": "apex-classatropolith",
+      "category": "Stage 2 Entromorphs",
+      "defname": "MTA_AHeartShard",
       "price": -10
     },
     {
-      "abr": "hiedanoakyuu-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_HiedaNoAkyuu_Headdress",
+      "abr": "apex-classmorolith",
+      "category": "Stage 1 Entromorphs",
+      "defname": "MTA_AHeadShard",
       "price": -10
     },
     {
-      "abr": "hiedanoakyuu-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_HiedaNoAkyuu_Outfit",
+      "abr": "apex-classstyxilith",
+      "category": "Stage 3 Entromorphs",
+      "defname": "MTA_ASpineShard",
       "price": -10
     },
     {
-      "abr": "horizontalweaponrack",
-      "category": "Storage",
-      "defname": "sbz_HorizontalWeaponRack",
+      "abr": "assaultriflemodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerAssaultRifleCombatModule",
       "price": -10
     },
     {
-      "abr": "houraisankaguya-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_HouraisanKaguya_Outfit",
+      "abr": "assemblersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerAssemblerSubpersonaChip",
       "price": -10
     },
     {
-      "abr": "ibukisuika-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_IbukiSuika_Headdress",
+      "abr": "atmofiltermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerAtmofilterUtilityModule",
       "price": -10
     },
     {
-      "abr": "ibukisuika-horns",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_IbukiSuika_Horns",
-      "price": 70
-    },
-    {
-      "abr": "ibukisuika-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_IbukiSuika_Outfit",
+      "abr": "atompowermodule",
+      "category": "Power slot modules",
+      "defname": "BM_SpacerAtomipowerPowerModule",
       "price": -10
     },
     {
-      "abr": "inabatewi-ears",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_InabaTewi_Ears",
-      "price": 70
-    },
-    {
-      "abr": "inabatewi-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_InabaTewi_Outfit",
+      "abr": "autopistolmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerAutopistolCombatModule",
       "price": -10
     },
     {
-      "abr": "kamishirasawakeine-cap",
-      "category": "THFS head",
-      "defname": "XHTHFS_KamishirasawaKeine_Cap",
+      "abr": "beakworm",
+      "category": "Animals",
+      "defname": "XMT_Barnacle",
       "price": -10
     },
     {
-      "abr": "kamishirasawakeine-horns",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_KamishirasawaKeine_Horns",
-      "price": 70
-    },
-    {
-      "abr": "kamishirasawakeine-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_KamishirasawaKeine_Outfit",
+      "abr": "beautifulfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_BeautifulRace",
       "price": -10
     },
     {
-      "abr": "kamishirasawakeine-outfit(hakutaku)",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_KamishirasawaKeine_Outfit_Hakutaku",
+      "abr": "bioweldermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerBiowelderUtilityModule",
       "price": -10
     },
     {
-      "abr": "kamishirasawakeine-tail",
-      "category": "THFS tail",
-      "defname": "XHTHFS_KamishirasawaKeine_Tail",
-      "price": 106
-    },
-    {
-      "abr": "kazamiyuuka-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_KazamiYuuka_Outfit",
+      "abr": "blackheart",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkHeart",
       "price": -10
     },
     {
-      "abr": "kazamiyuuka-umbrella",
-      "category": "THFS accessory",
-      "defname": "XHTHFS_KazamiYuuka_Umbrella",
-      "price": 106
+      "abr": "blacklung",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkLung",
+      "price": -10
     },
     {
-      "abr": "ketamineautoinjector",
+      "abr": "bone-eatingworm",
+      "category": "Animals",
+      "defname": "Boneworm",
+      "price": -10
+    },
+    {
+      "abr": "bonewormmeat",
+      "category": "Meat",
+      "defname": "Meat_Boneworm",
+      "price": -10
+    },
+    {
+      "abr": "botanistsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerBotanistSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "brawlerlenscombatmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerBrawlerCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "brawlersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerBrawlerSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "capsule",
+      "category": "Misc",
+      "defname": "XMT_Genepack",
+      "price": -10
+    },
+    {
+      "abr": "carbo-silicatemeat.",
+      "category": "Meat",
+      "defname": "Starbeast_Flesh_Meat",
+      "price": -10
+    },
+    {
+      "abr": "carriermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerCarrierUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "chainshotgunmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerChainShotgunCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "chargelancemodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerChargeLanceCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "chargeriflemodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerChargeRifleCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "chefmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerChefWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "chefsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerChefSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ChemfuelRace",
+      "price": -10
+    },
+    {
+      "abr": "chempowermodule",
+      "category": "Power slot modules",
+      "defname": "BM_SpacerChempowerPowerModule",
+      "price": -10
+    },
+    {
+      "abr": "chickenfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ChickenRace",
+      "price": -10
+    },
+    {
+      "abr": "chitin",
+      "category": "Raw resources",
+      "defname": "Starbeast_Chitin",
+      "price": -10
+    },
+    {
+      "abr": "coagulatormodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerCoagulatorUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "coldsteel",
+      "category": "Raw resources",
+      "defname": "MTA_ColdSteel",
+      "price": -10
+    },
+    {
+      "abr": "constructormodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerConstructorWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "constructorsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerConstructorSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "coolermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerCoolerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "craftermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerCrafterWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "creamfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_CreamRace",
+      "price": -10
+    },
+    {
+      "abr": "cryoprojectormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerCryoprojectorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "cryoweavemodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerCryoweaveSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "cryptizip",
       "category": "Drugs",
-      "defname": "Ketamine",
+      "defname": "XMT_Cryptizip",
       "price": -10
     },
     {
-      "abr": "kirisamemarisa-hat",
-      "category": "THFS head",
-      "defname": "XHTHFS_KirisameMarisa_Hat",
+      "abr": "cutefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_CuteRace",
       "price": -10
     },
     {
-      "abr": "kirisamemarisa-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_KirisameMarisa_Outfit",
+      "abr": "darkfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DarkRace",
       "price": -10
     },
     {
-      "abr": "largecrate",
-      "category": "Storage",
-      "defname": "sbz_Crate",
+      "abr": "darkkidney",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkKidney",
       "price": -10
     },
     {
-      "abr": "largeintestine",
-      "category": "Natural",
-      "defname": "LargeIntestine",
+      "abr": "darkliver",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkLiver",
       "price": -10
     },
     {
-      "abr": "lunachild-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_LunaChild_Cap",
+      "abr": "darklingeye",
+      "category": "Entropic Principle",
+      "defname": "MTA_MinorEye",
       "price": -10
     },
     {
-      "abr": "lunachild-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_LunaChild_Outfit",
+      "abr": "deadlifeburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerDeadlifeBurstAbilityModule",
       "price": -10
     },
     {
-      "abr": "lunachild-wings",
-      "category": "THFS back",
-      "defname": "XHTHFS_LunaChild_Wings",
-      "price": 139
-    },
-    {
-      "abr": "meatbed",
-      "category": "Furniture",
-      "defname": "MeatBed",
+      "abr": "deadlifespewermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerDeadlifeSpewerAbilityModule",
       "price": -10
     },
     {
-      "abr": "meathook",
-      "category": "Storage",
-      "defname": "sbz_MeatHook",
+      "abr": "deadlifetrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerDeadlifeTrapDeployerAbilityModule",
       "price": -10
     },
     {
-      "abr": "meatlamp",
-      "category": "Furniture",
-      "defname": "MeatLamp",
+      "abr": "demonfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DemonRace",
       "price": -10
     },
     {
-      "abr": "medicinemelancholy-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_MedicineMelancholy_Headdress",
+      "abr": "detoxifiermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerDetoxifierUtilityModule",
       "price": -10
     },
     {
-      "abr": "medicinemelancholy-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_MedicineMelancholy_Outfit",
+      "abr": "devourermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerDevourerUtilityModule",
       "price": -10
     },
     {
-      "abr": "medicinemelancholy-partner",
-      "category": "THFS accessory",
-      "defname": "XHTHFS_MedicineMelancholy_Partner",
-      "price": 106
+      "abr": "disruptorflaremodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerDisruptorFlareAbilityModule",
+      "price": -10
     },
     {
-      "abr": "migomatter",
+      "abr": "doomsdayrocketlaunchermodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerDoomsdayRocketLauncherCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "dragonfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DragonRace",
+      "price": -10
+    },
+    {
+      "abr": "draugarskin",
       "category": "Leathers",
-      "defname": "CH_Leather_MiGo",
+      "defname": "MTA_DraugarSkin",
       "price": -10
     },
     {
-      "abr": "migomeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_MiGoMeat",
+      "abr": "drillmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerDrillWorkModule",
       "price": -10
     },
     {
-      "abr": "minipallet",
-      "category": "Storage",
-      "defname": "sbz_MiniPallet",
+      "abr": "droplet",
+      "category": "Animal",
+      "defname": "XMT_Droplet",
       "price": -10
     },
     {
-      "abr": "morichikarinnosuke-glasses",
-      "category": "THFS face",
-      "defname": "XHTHFS_MorichikaRinnosuke_Glasses",
+      "abr": "echolocationmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerEcholocationUtilityModule",
       "price": -10
     },
     {
-      "abr": "morichikarinnosuke-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_MorichikaRinnosuke_Outfit",
+      "abr": "elbowblademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerElbowBladeCombatModule",
       "price": -10
     },
     {
-      "abr": "morphineautoinjector",
-      "category": "Drugs",
-      "defname": "Morphine",
+      "abr": "emaciatedthing",
+      "category": "Animals",
+      "defname": "XMT_AbominableMaw",
       "price": -10
     },
     {
-      "abr": "mystialorelei-ears",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_MystiaLorelei_Ears",
-      "price": 70
-    },
-    {
-      "abr": "mystialorelei-hat",
-      "category": "THFS head",
-      "defname": "XHTHFS_MystiaLorelei_Hat",
+      "abr": "empburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerEMPBurstAbilityModule",
       "price": -10
     },
     {
-      "abr": "mystialorelei-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_MystiaLorelei_Outfit",
+      "abr": "empgrenademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerEMPGrenadeCombatModule",
       "price": -10
     },
     {
-      "abr": "mystialorelei-wings",
-      "category": "THFS back",
-      "defname": "XHTHFS_MystiaLorelei_Wings",
-      "price": 139
-    },
-    {
-      "abr": "narrowdisplaycabinet",
-      "category": "Storage",
-      "defname": "sbz_NarrowDisplayCabinet",
+      "abr": "emplaunchermodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerEMPLauncherCombatModule",
       "price": -10
     },
     {
-      "abr": "narrowhangershelf",
-      "category": "Storage",
-      "defname": "sbz_HangerShelf",
+      "abr": "emptrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerEMPTrapDeployerAbilityModule",
       "price": -10
     },
     {
-      "abr": "narrowtalldisplayshelf",
-      "category": "Storage",
-      "defname": "sbz_NarrowTallDisplayShelf",
+      "abr": "entromorphseedling",
+      "category": "Precursor Entromorphs",
+      "defname": "MTA_EntromorphSeedling",
       "price": -10
     },
     {
-      "abr": "onozukakomachi-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_OnozukaKomachi_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "openshelf",
-      "category": "Storage",
-      "defname": "sbz_OpenShelf",
-      "price": -10
-    },
-    {
-      "abr": "pallet",
-      "category": "Storage",
-      "defname": "sbz_Pallet",
-      "price": -10
-    },
-    {
-      "abr": "reisenudongeininaba-ears",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_ReisenUdongeinInaba_Ears",
-      "price": 70
-    },
-    {
-      "abr": "reisenudongeininaba-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_ReisenUdongeinInaba_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "reisenudongeininaba-outfit(nojacket)",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_ReisenUdongeinInaba_Outfit_NoJacket",
-      "price": -10
-    },
-    {
-      "abr": "rhombohedralenergyweapon",
-      "category": "Ranged weapons",
-      "defname": "ROM_MiGoCastingWeapon",
-      "price": -10
-    },
-    {
-      "abr": "safe",
-      "category": "Storage",
-      "defname": "sbz_Safe",
-      "price": -10
-    },
-    {
-      "abr": "salineivbag",
-      "category": "Medical devices",
-      "defname": "SalineBag",
-      "price": -10
-    },
-    {
-      "abr": "shikieikiyamaxanadu-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_ShikieikiYamaxanadu_Cap",
-      "price": -10
-    },
-    {
-      "abr": "shikieikiyamaxanadu-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_ShikieikiYamaxanadu_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "shoggothmeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_ShoggothMeat",
-      "price": -10
-    },
-    {
-      "abr": "smallcrate",
-      "category": "Storage",
-      "defname": "sbz_SmallCrate",
-      "price": -10
-    },
-    {
-      "abr": "smalldisplayshelf",
-      "category": "Storage",
-      "defname": "sbz_SmallDisplayShelf",
-      "price": -10
-    },
-    {
-      "abr": "smallintestine",
-      "category": "Natural",
-      "defname": "SmallIntestine",
-      "price": -10
-    },
-    {
-      "abr": "smallmeatsculpture",
-      "category": "Art",
-      "defname": "MeatSculptureSmall",
-      "price": -10
-    },
-    {
-      "abr": "splint",
-      "category": "Medical devices",
-      "defname": "Splint",
-      "price": -10
-    },
-    {
-      "abr": "starsapphire-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_StarSapphire_Headdress",
-      "price": -10
-    },
-    {
-      "abr": "starsapphire-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_StarSapphire_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "starsapphire-wings",
-      "category": "THFS back",
-      "defname": "XHTHFS_StarSapphire_Wings",
-      "price": 139
-    },
-    {
-      "abr": "starvampiremeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_StarVampireMeat",
-      "price": -10
-    },
-    {
-      "abr": "star-spawnskin",
-      "category": "Leathers",
-      "defname": "CH_Leather_Cthulhid",
-      "price": -10
-    },
-    {
-      "abr": "star-vampireleather",
-      "category": "Leathers",
-      "defname": "CH_Leather_StarVampire",
-      "price": -10
-    },
-    {
-      "abr": "strangefinemeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealFine",
-      "price": -10
-    },
-    {
-      "abr": "strangekibble",
-      "category": "Foods",
-      "defname": "ROM_StrangeKibble",
-      "price": -10
-    },
-    {
-      "abr": "strangelavishmeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealLavish",
-      "price": -10
-    },
-    {
-      "abr": "strangesimplemeal",
-      "category": "Meals",
-      "defname": "ROM_StrangeMealSimple",
-      "price": -10
-    },
-    {
-      "abr": "sunnymilk-headdress",
-      "category": "THFS head",
-      "defname": "XHTHFS_SunnyMilk_Headdress",
-      "price": -10
-    },
-    {
-      "abr": "sunnymilk-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_SunnyMilk_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "sunnymilk-wings",
-      "category": "THFS back",
-      "defname": "XHTHFS_SunnyMilk_Wings",
-      "price": 139
-    },
-    {
-      "abr": "syameimaruaya-hat",
-      "category": "THFS head",
-      "defname": "XHTHFS_SyameimaruAya_Hat",
-      "price": -10
-    },
-    {
-      "abr": "syameimaruaya-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_SyameimaruAya_Outfit",
-      "price": -10
-    },
-    {
-      "abr": "talldisplayshelf",
-      "category": "Storage",
-      "defname": "sbz_TallDisplayShelf",
-      "price": -10
-    },
-    {
-      "abr": "textilerack",
-      "category": "Storage",
-      "defname": "sbz_TextileRack",
-      "price": -10
-    },
-    {
-      "abr": "thfscommon-tail(rabbit)",
-      "category": "THFS head",
-      "defname": "XHTHFS_Common_Tail_Rabbit",
-      "price": -10
-    },
-    {
-      "abr": "thoracoscope",
-      "category": "Medical devices",
-      "defname": "Thoracoscope",
-      "price": -10
-    },
-    {
-      "abr": "touhouaccessorycraftbench",
+      "abr": "entropicresearchbench",
       "category": "Production",
-      "defname": "XHTHFS_TouhouAccessoryCraftingBench",
+      "defname": "MTA_EntropyBench",
       "price": -10
     },
     {
-      "abr": "touhououtfittailorbench",
-      "category": "Production",
-      "defname": "XHTHFS_TouhouOutfitTailoringBench",
+      "abr": "explosivetrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerExplosiveTrapDeployerAbilityModule",
       "price": -10
     },
     {
-      "abr": "tourniquet",
-      "category": "Medical devices",
-      "defname": "Tourniquet",
+      "abr": "faunamastermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerTamerWorkModule",
       "price": -10
     },
     {
-      "abr": "unnamedbook-readingyoukai-headorgans",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_UnnamedBookReadingYoukai_HeadOrgans",
-      "price": 70
-    },
-    {
-      "abr": "unnamedbook-readingyoukai-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_UnnamedBookReadingYoukai_Outfit",
+      "abr": "fertilityadjustermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerFertilityAdjusterUtilityModule",
       "price": -10
     },
     {
-      "abr": "unnamedbook-readingyoukai-wings",
-      "category": "THFS back",
-      "defname": "XHTHFS_UnnamedBookReadingYoukai_Wings",
-      "price": 139
-    },
-    {
-      "abr": "untouchablemeat",
-      "category": "Raw strange meat",
-      "defname": "ROM_RawCHFood_Meat",
+      "abr": "fieldmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerFieldWorkModule",
       "price": -10
     },
     {
-      "abr": "verticalweaponrack",
-      "category": "Storage",
-      "defname": "sbz_VerticalWeaponRack",
-      "price": 148
-    },
-    {
-      "abr": "weaponrack",
-      "category": "Storage",
-      "defname": "sbz_WeaponRack",
-      "price": 76
-    },
-    {
-      "abr": "wrigglenightbug-antennae",
-      "category": "THFS head organ",
-      "defname": "XHTHFS_WriggleNightbug_Antennae",
-      "price": 70
-    },
-    {
-      "abr": "wrigglenightbug-cape",
-      "category": "THFS outer",
-      "defname": "XHTHFS_WriggleNightbug_Cape",
+      "abr": "firefoamburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerFirefoamBurstAbilityModule",
       "price": -10
     },
     {
-      "abr": "wrigglenightbug-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_WriggleNightbug_Outfit",
+      "abr": "firefoamtrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerFirefoamTrapDeployerAbilityModule",
       "price": -10
     },
     {
-      "abr": "yagokoroeirin-cap",
-      "category": "THFS head",
-      "defname": "XHTHFS_YagokoroEirin_Cap",
+      "abr": "flashlightmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerFlashlightUtilityModule",
       "price": -10
     },
     {
-      "abr": "yagokoroeirin-outfit",
-      "category": "THFS outfit",
-      "defname": "XHTHFS_YagokoroEirin_Outfit",
+      "abr": "fleshfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_FleshRace",
+      "price": -10
+    },
+    {
+      "abr": "fleshtick",
+      "category": "Animals",
+      "defname": "XMT_FleshTick",
+      "price": -10
+    },
+    {
+      "abr": "fleshling",
+      "category": "Animals",
+      "defname": "XMT_FetalHorror",
+      "price": -10
+    },
+    {
+      "abr": "fluimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerFluImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "foxcream",
+      "category": "Medicine",
+      "defname": "NBF_MedicineCream",
+      "price": -10
+    },
+    {
+      "abr": "fraggrenademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerFragGrenadeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "fuelmakermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerFuelmakerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "gaiafox",
+      "category": "Animals",
+      "defname": "NBF_Fox_GaiaRace",
+      "price": -10
+    },
+    {
+      "abr": "gastro-analyzermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerGastroanalyzerWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "gastrosterilizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerGastrosterilizerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "geneovomorph",
+      "category": "Security",
+      "defname": "XMT_GeneOvomorph",
+      "price": -10
+    },
+    {
+      "abr": "ghast",
+      "category": "Animals",
+      "defname": "MTA_Ghast",
+      "price": -10
+    },
+    {
+      "abr": "ghastbonesculpture",
+      "category": "Nightmare Art",
+      "defname": "MTA_SculptureGhast",
+      "price": -10
+    },
+    {
+      "abr": "ghastmeat",
+      "category": "Meat",
+      "defname": "Meat_MTA_Ghast",
+      "price": -10
+    },
+    {
+      "abr": "go-juicesynthesizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerGoJuiceSynthesizerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "grandsculpture",
+      "category": "Art",
+      "defname": "XMT_CorpseSculptureGrand",
+      "price": -10
+    },
+    {
+      "abr": "granitefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_GraniteRace",
+      "price": -10
+    },
+    {
+      "abr": "greasywool",
+      "category": "Wools",
+      "defname": "XMT_GreaseWool",
+      "price": -10
+    },
+    {
+      "abr": "greasywool",
+      "category": "Animals",
+      "defname": "XMT_StrangleMoss",
+      "price": -10
+    },
+    {
+      "abr": "gutwormsimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerGutWormsImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "handtalonmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerHandTalonCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "heatermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerHeaterUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "heavysmgmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerHeavySMGCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "hemofiltermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerHemofilterUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "hemomakermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerHemomakerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "high-explosiveburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerHighExplosiveBurstAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "horriblething",
+      "category": "Animals",
+      "defname": "XMT_Fleshtoad",
+      "price": -10
+    },
+    {
+      "abr": "houndoftindalos",
+      "category": "Animals",
+      "defname": "MTA_Tindalos",
+      "price": -10
+    },
+    {
+      "abr": "houndoftindalosmeat",
+      "category": "Meat",
+      "defname": "Meat_MTA_Tindalos",
+      "price": -10
+    },
+    {
+      "abr": "hovermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerHoverUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "howlingthing",
+      "category": "Animals",
+      "defname": "XMT_Howler",
+      "price": -10
+    },
+    {
+      "abr": "immunoenhancermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerImmunoenhancerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "incendiaryburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerIncendiaryBurstAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "incendiarylaunchermodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerIncendiaryLauncherCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "incendiarytrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerIncendiaryTrapDeployerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "insectfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_InsectoidRace",
+      "price": -10
+    },
+    {
+      "abr": "iridescentjelly",
+      "category": "Animal products",
+      "defname": "Starbeast_RoyalJelly",
+      "price": -10
+    },
+    {
+      "abr": "jellidbeast",
+      "category": "Animals",
+      "defname": "XMT_Slumberbeast",
+      "price": -10
+    },
+    {
+      "abr": "jumppackmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerJumpPackAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "kneespikemodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerKneeSpikeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "largesculpture",
+      "category": "Art",
+      "defname": "XMT_CorpseSculptureLarge",
+      "price": -10
+    },
+    {
+      "abr": "larva",
+      "category": "Animal",
+      "defname": "XMT_Larva",
+      "price": -10
+    },
+    {
+      "abr": "leapmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerLeapAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "limestonefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_LimestoneRace",
+      "price": -10
+    },
+    {
+      "abr": "lmgmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerLMGCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "low-shielddeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerLowShieldDeployerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "lungrotimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerLungRotImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "magprojectormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerMagprojectorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "magweavemodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerMagweaveSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "malariaimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerMalariaImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "marblefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MarbleRace",
+      "price": -10
+    },
+    {
+      "abr": "matureentromorph",
+      "category": "Precursor Entromorphs",
+      "defname": "MTA_EntromorphMature",
+      "price": -10
+    },
+    {
+      "abr": "meatballlarder",
+      "category": "Security",
+      "defname": "XMT_MeatballLarder",
+      "price": -10
+    },
+    {
+      "abr": "mechanalyzermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerMechanalyzerWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "mecharraymodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerMecharrayUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "mechlordsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerMechlordSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "mechsensormodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerMechsensorWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "medicmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerMedicWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "medprojectormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerMedprojectorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "mindreadermodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerMindreaderWorkModule",
+      "price": -10
+    },
+    {
+      "abr": "minersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerMinerSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "minigunmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMinigunCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "mini-turretgravdronemodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerMiniTurretGravdroneAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "monoblademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMonoBladeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "monoclawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMonoClawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "monofangmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMonoFangCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "monosawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMonoSawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "monoslashhornmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerMonoslashHornCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "monstrousarm",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkArm",
+      "price": -10
+    },
+    {
+      "abr": "monstrousleg",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkLeg",
+      "price": -10
+    },
+    {
+      "abr": "monstrousspine",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkSpine",
+      "price": -10
+    },
+    {
+      "abr": "muscleparasitesimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerMuscleParasitesImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "mushroomfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MushroomRace",
+      "price": -10
+    },
+    {
+      "abr": "nightmarecreaturemeat",
+      "category": "Raw nightmare meat",
+      "defname": "MTA_HorrorFlesh",
+      "price": -10
+    },
+    {
+      "abr": "nightmarehide",
+      "category": "Leathers",
+      "defname": "MTA_DreadWolfHide",
+      "price": -10
+    },
+    {
+      "abr": "nuclearjumppackmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerNuclearJumpPackAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "nuclearmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerNuclearUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "orbitalbombardmentmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerOrbitalBombardmentAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "orbitalmechclustermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerOrbitalMechClusterAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "orbitalpowerbeammodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerOrbitalPowerBeamAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "overdoseimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerOverdoseImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "ovomorph",
+      "category": "Security",
+      "defname": "XMT_Ovomorph",
+      "price": -10
+    },
+    {
+      "abr": "ovomorph",
+      "category": "Security",
+      "defname": "XMT_ExplosivePod",
+      "price": -10
+    },
+    {
+      "abr": "plagueimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerPlagueImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "plasmablademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPlasmaBladeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "plasmaclawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPlasmaClawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "plasmafangmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPlasmaFangCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "plasmasawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPlasmaSawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "plasmaslashhornmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPlasmaslashHornCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerblademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerBladeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerclawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerClawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerfangmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerFangCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerfistmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerFistCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerkickmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerKickCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powersawmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerSawCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerslashhornmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerSlashHornCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "powerstrikehornmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPowerStrikeHornCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "praetorianblade",
+      "category": "Melee weapons",
+      "defname": "MTA_PraetorianBlade",
+      "price": -10
+    },
+    {
+      "abr": "praetorian-classatropolith",
+      "category": "Stage 2 Entromorphs",
+      "defname": "MTA_WarriorHeartShard",
+      "price": -10
+    },
+    {
+      "abr": "praetorian-classmorolith",
+      "category": "Stage 1 Entromorphs",
+      "defname": "MTA_WarriorHeadShard",
+      "price": -10
+    },
+    {
+      "abr": "praetorian-classstyxilith",
+      "category": "Stage 3 Entromorphs",
+      "defname": "MTA_WarriorSpineShard",
+      "price": -10
+    },
+    {
+      "abr": "predatorear",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkEar",
+      "price": -10
+    },
+    {
+      "abr": "predatoreye",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkEye",
+      "price": -10
+    },
+    {
+      "abr": "predatormaw",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkMaw",
+      "price": -10
+    },
+    {
+      "abr": "predatornose",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkSnout",
+      "price": -10
+    },
+    {
+      "abr": "predatorstomach",
+      "category": "Entropic Principle",
+      "defname": "MTA_DarkStomach",
+      "price": -10
+    },
+    {
+      "abr": "processorsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerProcessorSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "psychitesynthesizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerPsychiteSynthesizerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(adoption)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_Adopt",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(catatonicsuppression)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_Catatonic",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(fascinate)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_Fascination",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(hivesong)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_Hivesong",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(sirenbroadcast)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_SirenBroadcast",
+      "price": -10
+    },
+    {
+      "abr": "psytrainer(sovereigndominion)",
+      "category": "Psytrainers",
+      "defname": "Psytrainer_XMT_Dominion",
+      "price": -10
+    },
+    {
+      "abr": "psywieldersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerPsywielderSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "pumpshotgunmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerPumpShotgunCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "pyroprojectormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerPyroprojectorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "pyroweavemodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerPyroweaveSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "queen",
+      "category": "Animal",
+      "defname": "XMT_Royal_AlienRace",
+      "price": -10
+    },
+    {
+      "abr": "radprojectormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerRadprojectorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "rangerlenscombatmodule",
+      "category": "Work slot modules",
+      "defname": "BM_SpacerRangerCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "rangersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerRangerSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "rat",
+      "category": "Animals",
+      "defname": "XMT_Plaguerat",
+      "price": -10
+    },
+    {
+      "abr": "reprocessormodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerReprocessorUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "resin",
+      "category": "Raw resources",
+      "defname": "Starbeast_Resin",
+      "price": -10
+    },
+    {
+      "abr": "resinderivedfabric",
+      "category": "Raw resources",
+      "defname": "Starbeast_Fabric",
+      "price": -10
+    },
+    {
+      "abr": "resinousjelly",
+      "category": "Animal products",
+      "defname": "Starbeast_Jelly",
+      "price": -10
+    },
+    {
+      "abr": "resinousjellyfountain",
+      "category": "Security",
+      "defname": "XMT_JellyWell",
+      "price": -10
+    },
+    {
+      "abr": "resinousmass",
+      "category": "Security",
+      "defname": "XMT_HibernationCocoon",
+      "price": -10
+    },
+    {
+      "abr": "resurrectormodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerResurrectorSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "revenantvertebraemodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerRevenantVertebraeAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "ricefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_RiceRace",
+      "price": -10
+    },
+    {
+      "abr": "robotfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MechanoidRace",
+      "price": -10
+    },
+    {
+      "abr": "sandstonefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SandstoneRace",
+      "price": -10
+    },
+    {
+      "abr": "scariaimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerScariaImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "seaotter",
+      "category": "Animals",
+      "defname": "SeaOtter",
+      "price": -10
+    },
+    {
+      "abr": "seaottermeat",
+      "category": "Meat",
+      "defname": "Meat_SeaOtter",
+      "price": -10
+    },
+    {
+      "abr": "serpentinething",
+      "category": "Animals",
+      "defname": "XMT_Hammerpede",
+      "price": -10
+    },
+    {
+      "abr": "shambler",
+      "category": "Animals",
+      "defname": "MTA_Shambler",
+      "price": -10
+    },
+    {
+      "abr": "shamblerbonesculpture",
+      "category": "Nightmare Art",
+      "defname": "MTA_SculptureShambler",
+      "price": -10
+    },
+    {
+      "abr": "shamblerleather",
+      "category": "Leathers",
+      "defname": "MTA_ShamblerLeather",
+      "price": -10
+    },
+    {
+      "abr": "shamblermeat",
+      "category": "Meat",
+      "defname": "Meat_MTA_Shambler",
+      "price": -10
+    },
+    {
+      "abr": "shellfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ShellRace",
+      "price": -10
+    },
+    {
+      "abr": "silencemodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerSilenceUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "slatefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SlateRace",
+      "price": -10
+    },
+    {
+      "abr": "sleepingsicknessimmunizermodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerSleepingSicknessImmunizerSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "slugcat",
+      "category": "Animals",
+      "defname": "XMT_Smotherer",
+      "price": -10
+    },
+    {
+      "abr": "smallsculpture",
+      "category": "Art",
+      "defname": "XMT_CorpseSculptureSmall",
+      "price": -10
+    },
+    {
+      "abr": "smokeburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerSmokeBurstAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "smokelaunchermodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerSmokeLauncherCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "smokespewermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerSmokeSpewerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "smoketrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerSmokeTrapDeployerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "smokeleafsynthesizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerSmokeleafSynthesizerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "sniperriflemodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerSniperRifleCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "socialitesubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerSocialiteSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "soulshards",
+      "category": "Entropic Principle",
+      "defname": "MTA_SoulShards",
+      "price": -10
+    },
+    {
+      "abr": "soulsplinters",
+      "category": "Entropic Principle",
+      "defname": "MTA_SoulSplinters",
+      "price": -10
+    },
+    {
+      "abr": "soul-mend",
+      "category": "Drugs",
+      "defname": "MTA_SoulMend",
+      "price": -10
+    },
+    {
+      "abr": "stalkerblade",
+      "category": "Melee weapons",
+      "defname": "MTA_StalkerBlade",
+      "price": -10
+    },
+    {
+      "abr": "stalker-classatropolith",
+      "category": "Stage 2 Entromorphs",
+      "defname": "MTA_StalkerHeartShard",
+      "price": -10
+    },
+    {
+      "abr": "stalker-classmorolith",
+      "category": "Stage 1 Entromorphs",
+      "defname": "MTA_StalkerHeadShard",
+      "price": -10
+    },
+    {
+      "abr": "stalker-classstyxilith",
+      "category": "Stage 3 Entromorphs",
+      "defname": "MTA_StalkerSpineShard",
+      "price": -10
+    },
+    {
+      "abr": "steelfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SteelRace",
+      "price": -10
+    },
+    {
+      "abr": "strangeegg",
+      "category": "Eggs (unfert.)",
+      "defname": "XMT_BarnacleEgg",
+      "price": -10
+    },
+    {
+      "abr": "surgeonsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerSurgeonSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "tindaloshoundmeat",
+      "category": "Raw nightmare meat",
+      "defname": "MTA_TindalosFlesh",
+      "price": -10
+    },
+    {
+      "abr": "tindalosleather",
+      "category": "Leathers",
+      "defname": "MTA_TindalosLeather",
+      "price": -10
+    },
+    {
+      "abr": "tinytranslucentthing",
+      "category": "Animals",
+      "defname": "XMT_Fleshspawn",
+      "price": -10
+    },
+    {
+      "abr": "tornadogeneratormodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerTornadoGeneratorAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "toxburstmodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerToxBurstAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "toxgrenademodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerToxGrenadeCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "toxspewermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerToxSpewerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "toxtrapdeployermodule",
+      "category": "Ability slot modules",
+      "defname": "BM_SpacerToxTrapDeployerAbilityModule",
+      "price": -10
+    },
+    {
+      "abr": "toxbomblaunchermodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerToxbombLauncherCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "toxweavemodule",
+      "category": "Support slot modules",
+      "defname": "BM_SpacerToxweaveSupportModule",
+      "price": -10
+    },
+    {
+      "abr": "tunenodemodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerTunenodeUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "turgidspore",
+      "category": "Animals",
+      "defname": "XMT_Petrolspore",
+      "price": -10
+    },
+    {
+      "abr": "vacbreathmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerVacbreathUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "venomfangsmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerVenomFangsCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "venomtalonmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerVenomTalonCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "voicemodmodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerVoicemodUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "voidreadersubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerVoidreaderSubpersonaChip",
+      "price": -10
+    },
+    {
+      "abr": "wake-upsynthesizermodule",
+      "category": "Utility slot modules",
+      "defname": "BM_SpacerWakeUpSynthesizerUtilityModule",
+      "price": -10
+    },
+    {
+      "abr": "wight",
+      "category": "Animals",
+      "defname": "MTA_Shrieker",
+      "price": -10
+    },
+    {
+      "abr": "wightmeat",
+      "category": "Meat",
+      "defname": "Meat_MTA_Shrieker",
+      "price": -10
+    },
+    {
+      "abr": "woodenfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_WoodRace",
+      "price": -10
+    },
+    {
+      "abr": "writhingthing",
+      "category": "Animals",
+      "defname": "XMT_Umbilical",
+      "price": -10
+    },
+    {
+      "abr": "xenomorph",
+      "category": "Animal",
+      "defname": "XMT_Starbeast_AlienRace",
+      "price": -10
+    },
+    {
+      "abr": "zeusfangmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerZeusFangCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "zeusfistmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerZeusfistCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "zeuskickmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerZeuskickCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "zeustrikehornmodule",
+      "category": "Combat slot modules",
+      "defname": "BM_SpacerZeustrikeHornCombatModule",
+      "price": -10
+    },
+    {
+      "abr": "zoologistsubpersona",
+      "category": "Ultratech",
+      "defname": "BM_SpacerZoologistSubpersonaChip",
       "price": -10
     }
   ],
-  "total": 1027
+  "total": 1177
 }

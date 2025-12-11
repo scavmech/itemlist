@@ -5350,13 +5350,13 @@
       "abr": "kidoutfitstand",
       "category": "Furniture",
       "defname": "Building_KidOutfitStand",
-      "price": 102
+      "price": -10
     },
     {
       "abr": "outfitstand",
       "category": "Furniture",
       "defname": "Building_OutfitStand",
-      "price": 119
+      "price": -10
     },
     {
       "abr": "vacskingland",

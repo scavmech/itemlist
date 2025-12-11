@@ -1474,13 +1474,13 @@
       "abr": "harp",
       "category": "Recreation",
       "defname": "Harp",
-      "price": 408
+      "price": -10
     },
     {
       "abr": "harpsichord",
       "category": "Recreation",
       "defname": "Harpsichord",
-      "price": 692
+      "price": -10
     },
     {
       "abr": "hay",
@@ -2422,7 +2422,7 @@
       "abr": "piano",
       "category": "Recreation",
       "defname": "Piano",
-      "price": 1117
+      "price": -10
     },
     {
       "abr": "pig",
@@ -5461,30 +5461,6 @@
       "price": -10
     },
     {
-      "abr": "apexcleaver",
-      "category": "Melee weapons",
-      "defname": "MTA_ApexCleaver",
-      "price": -10
-    },
-    {
-      "abr": "apex-classatropolith",
-      "category": "Stage 2 Entromorphs",
-      "defname": "MTA_AHeartShard",
-      "price": -10
-    },
-    {
-      "abr": "apex-classmorolith",
-      "category": "Stage 1 Entromorphs",
-      "defname": "MTA_AHeadShard",
-      "price": -10
-    },
-    {
-      "abr": "apex-classstyxilith",
-      "category": "Stage 3 Entromorphs",
-      "defname": "MTA_ASpineShard",
-      "price": -10
-    },
-    {
       "abr": "assaultriflemodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerAssaultRifleCombatModule",
@@ -5530,18 +5506,6 @@
       "abr": "bioweldermodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerBiowelderUtilityModule",
-      "price": -10
-    },
-    {
-      "abr": "blackheart",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkHeart",
-      "price": -10
-    },
-    {
-      "abr": "blacklung",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkLung",
       "price": -10
     },
     {
@@ -5653,12 +5617,6 @@
       "price": -10
     },
     {
-      "abr": "coldsteel",
-      "category": "Raw resources",
-      "defname": "MTA_ColdSteel",
-      "price": -10
-    },
-    {
       "abr": "constructormodule",
       "category": "Work slot modules",
       "defname": "BM_SpacerConstructorWorkModule",
@@ -5719,24 +5677,6 @@
       "price": -10
     },
     {
-      "abr": "darkkidney",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkKidney",
-      "price": -10
-    },
-    {
-      "abr": "darkliver",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkLiver",
-      "price": -10
-    },
-    {
-      "abr": "darklingeye",
-      "category": "Entropic Principle",
-      "defname": "MTA_MinorEye",
-      "price": -10
-    },
-    {
       "abr": "deadlifeburstmodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerDeadlifeBurstAbilityModule",
@@ -5791,12 +5731,6 @@
       "price": -10
     },
     {
-      "abr": "draugarskin",
-      "category": "Leathers",
-      "defname": "MTA_DraugarSkin",
-      "price": -10
-    },
-    {
       "abr": "drillmodule",
       "category": "Work slot modules",
       "defname": "BM_SpacerDrillWorkModule",
@@ -5848,18 +5782,6 @@
       "abr": "emptrapdeployermodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerEMPTrapDeployerAbilityModule",
-      "price": -10
-    },
-    {
-      "abr": "entromorphseedling",
-      "category": "Precursor Entromorphs",
-      "defname": "MTA_EntromorphSeedling",
-      "price": -10
-    },
-    {
-      "abr": "entropicresearchbench",
-      "category": "Production",
-      "defname": "MTA_EntropyBench",
       "price": -10
     },
     {
@@ -5971,24 +5893,6 @@
       "price": -10
     },
     {
-      "abr": "ghast",
-      "category": "Animals",
-      "defname": "MTA_Ghast",
-      "price": -10
-    },
-    {
-      "abr": "ghastbonesculpture",
-      "category": "Nightmare Art",
-      "defname": "MTA_SculptureGhast",
-      "price": -10
-    },
-    {
-      "abr": "ghastmeat",
-      "category": "Meat",
-      "defname": "Meat_MTA_Ghast",
-      "price": -10
-    },
-    {
       "abr": "go-juicesynthesizermodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerGoJuiceSynthesizerUtilityModule",
@@ -6064,18 +5968,6 @@
       "abr": "horriblething",
       "category": "Animals",
       "defname": "XMT_Fleshtoad",
-      "price": -10
-    },
-    {
-      "abr": "houndoftindalos",
-      "category": "Animals",
-      "defname": "MTA_Tindalos",
-      "price": -10
-    },
-    {
-      "abr": "houndoftindalosmeat",
-      "category": "Meat",
-      "defname": "Meat_MTA_Tindalos",
       "price": -10
     },
     {
@@ -6211,12 +6103,6 @@
       "price": -10
     },
     {
-      "abr": "matureentromorph",
-      "category": "Precursor Entromorphs",
-      "defname": "MTA_EntromorphMature",
-      "price": -10
-    },
-    {
       "abr": "meatballlarder",
       "category": "Security",
       "defname": "XMT_MeatballLarder",
@@ -6313,24 +6199,6 @@
       "price": -10
     },
     {
-      "abr": "monstrousarm",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkArm",
-      "price": -10
-    },
-    {
-      "abr": "monstrousleg",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkLeg",
-      "price": -10
-    },
-    {
-      "abr": "monstrousspine",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkSpine",
-      "price": -10
-    },
-    {
       "abr": "muscleparasitesimmunizermodule",
       "category": "Support slot modules",
       "defname": "BM_SpacerMuscleParasitesImmunizerSupportModule",
@@ -6340,18 +6208,6 @@
       "abr": "mushroomfox",
       "category": "Animals",
       "defname": "NBF_Fox_MushroomRace",
-      "price": -10
-    },
-    {
-      "abr": "nightmarecreaturemeat",
-      "category": "Raw nightmare meat",
-      "defname": "MTA_HorrorFlesh",
-      "price": -10
-    },
-    {
-      "abr": "nightmarehide",
-      "category": "Leathers",
-      "defname": "MTA_DreadWolfHide",
       "price": -10
     },
     {
@@ -6484,60 +6340,6 @@
       "abr": "powerstrikehornmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerPowerStrikeHornCombatModule",
-      "price": -10
-    },
-    {
-      "abr": "praetorianblade",
-      "category": "Melee weapons",
-      "defname": "MTA_PraetorianBlade",
-      "price": -10
-    },
-    {
-      "abr": "praetorian-classatropolith",
-      "category": "Stage 2 Entromorphs",
-      "defname": "MTA_WarriorHeartShard",
-      "price": -10
-    },
-    {
-      "abr": "praetorian-classmorolith",
-      "category": "Stage 1 Entromorphs",
-      "defname": "MTA_WarriorHeadShard",
-      "price": -10
-    },
-    {
-      "abr": "praetorian-classstyxilith",
-      "category": "Stage 3 Entromorphs",
-      "defname": "MTA_WarriorSpineShard",
-      "price": -10
-    },
-    {
-      "abr": "predatorear",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkEar",
-      "price": -10
-    },
-    {
-      "abr": "predatoreye",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkEye",
-      "price": -10
-    },
-    {
-      "abr": "predatormaw",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkMaw",
-      "price": -10
-    },
-    {
-      "abr": "predatornose",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkSnout",
-      "price": -10
-    },
-    {
-      "abr": "predatorstomach",
-      "category": "Entropic Principle",
-      "defname": "MTA_DarkStomach",
       "price": -10
     },
     {
@@ -6733,30 +6535,6 @@
       "price": -10
     },
     {
-      "abr": "shambler",
-      "category": "Animals",
-      "defname": "MTA_Shambler",
-      "price": -10
-    },
-    {
-      "abr": "shamblerbonesculpture",
-      "category": "Nightmare Art",
-      "defname": "MTA_SculptureShambler",
-      "price": -10
-    },
-    {
-      "abr": "shamblerleather",
-      "category": "Leathers",
-      "defname": "MTA_ShamblerLeather",
-      "price": -10
-    },
-    {
-      "abr": "shamblermeat",
-      "category": "Meat",
-      "defname": "Meat_MTA_Shambler",
-      "price": -10
-    },
-    {
       "abr": "shellfox",
       "category": "Animals",
       "defname": "NBF_Fox_ShellRace",
@@ -6835,196 +6613,130 @@
       "price": -10
     },
     {
-      "abr": "soulshards",
-      "category": "Entropic Principle",
-      "defname": "MTA_SoulShards",
-      "price": -10
-    },
-    {
-      "abr": "soulsplinters",
-      "category": "Entropic Principle",
-      "defname": "MTA_SoulSplinters",
-      "price": -10
-    },
-    {
-      "abr": "soul-mend",
-      "category": "Drugs",
-      "defname": "MTA_SoulMend",
-      "price": -10
-    },
-    {
-      "abr": "stalkerblade",
-      "category": "Melee weapons",
-      "defname": "MTA_StalkerBlade",
-      "price": -10
-    },
-    {
-      "abr": "stalker-classatropolith",
-      "category": "Stage 2 Entromorphs",
-      "defname": "MTA_StalkerHeartShard",
-      "price": -10
-    },
-    {
-      "abr": "stalker-classmorolith",
-      "category": "Stage 1 Entromorphs",
-      "defname": "MTA_StalkerHeadShard",
-      "price": -10
-    },
-    {
-      "abr": "stalker-classstyxilith",
-      "category": "Stage 3 Entromorphs",
-      "defname": "MTA_StalkerSpineShard",
-      "price": -10
-    },
-    {
       "abr": "steelfox",
       "category": "Animals",
       "defname": "NBF_Fox_SteelRace",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "strangeegg",
       "category": "Eggs (unfert.)",
       "defname": "XMT_BarnacleEgg",
-      "price": -10
+      "price": 25
     },
     {
       "abr": "surgeonsubpersona",
       "category": "Ultratech",
       "defname": "BM_SpacerSurgeonSubpersonaChip",
-      "price": -10
-    },
-    {
-      "abr": "tindaloshoundmeat",
-      "category": "Raw nightmare meat",
-      "defname": "MTA_TindalosFlesh",
-      "price": -10
-    },
-    {
-      "abr": "tindalosleather",
-      "category": "Leathers",
-      "defname": "MTA_TindalosLeather",
-      "price": -10
+      "price": 5150
     },
     {
       "abr": "tinytranslucentthing",
       "category": "Animals",
       "defname": "XMT_Fleshspawn",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "tornadogeneratormodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerTornadoGeneratorAbilityModule",
-      "price": -10
+      "price": 758
     },
     {
       "abr": "toxburstmodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerToxBurstAbilityModule",
-      "price": -10
+      "price": 2542
     },
     {
       "abr": "toxgrenademodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerToxGrenadeCombatModule",
-      "price": -10
+      "price": 1075
     },
     {
       "abr": "toxspewermodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerToxSpewerAbilityModule",
-      "price": -10
+      "price": 2608
     },
     {
       "abr": "toxtrapdeployermodule",
       "category": "Ability slot modules",
       "defname": "BM_SpacerToxTrapDeployerAbilityModule",
-      "price": -10
+      "price": 1033
     },
     {
       "abr": "toxbomblaunchermodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerToxbombLauncherCombatModule",
-      "price": -10
+      "price": 1142
     },
     {
       "abr": "toxweavemodule",
       "category": "Support slot modules",
       "defname": "BM_SpacerToxweaveSupportModule",
-      "price": -10
+      "price": 2375
     },
     {
       "abr": "tunenodemodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerTunenodeUtilityModule",
-      "price": -10
+      "price": 1258
     },
     {
       "abr": "turgidspore",
       "category": "Animals",
       "defname": "XMT_Petrolspore",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "vacbreathmodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerVacbreathUtilityModule",
-      "price": -10
+      "price": 1383
     },
     {
       "abr": "venomfangsmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerVenomFangsCombatModule",
-      "price": -10
+      "price": 1192
     },
     {
       "abr": "venomtalonmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerVenomTalonCombatModule",
-      "price": -10
+      "price": 1192
     },
     {
       "abr": "voicemodmodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerVoicemodUtilityModule",
-      "price": -10
+      "price": 1242
     },
     {
       "abr": "voidreadersubpersona",
       "category": "Ultratech",
       "defname": "BM_SpacerVoidreaderSubpersonaChip",
-      "price": -10
+      "price": 5900
     },
     {
       "abr": "wake-upsynthesizermodule",
       "category": "Utility slot modules",
       "defname": "BM_SpacerWakeUpSynthesizerUtilityModule",
-      "price": -10
-    },
-    {
-      "abr": "wight",
-      "category": "Animals",
-      "defname": "MTA_Shrieker",
-      "price": -10
-    },
-    {
-      "abr": "wightmeat",
-      "category": "Meat",
-      "defname": "Meat_MTA_Shrieker",
-      "price": -10
+      "price": 3225
     },
     {
       "abr": "woodenfox",
       "category": "Animals",
       "defname": "NBF_Fox_WoodRace",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "writhingthing",
       "category": "Animals",
       "defname": "XMT_Umbilical",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "xenomorph",
@@ -7036,32 +6748,32 @@
       "abr": "zeusfangmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerZeusFangCombatModule",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "zeusfistmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerZeusfistCombatModule",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "zeuskickmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerZeuskickCombatModule",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "zeustrikehornmodule",
       "category": "Combat slot modules",
       "defname": "BM_SpacerZeustrikeHornCombatModule",
-      "price": -10
+      "price": 5333
     },
     {
       "abr": "zoologistsubpersona",
       "category": "Ultratech",
       "defname": "BM_SpacerZoologistSubpersonaChip",
-      "price": -10
+      "price": 5150
     }
   ],
-  "total": 1177
+  "total": 1129
 }

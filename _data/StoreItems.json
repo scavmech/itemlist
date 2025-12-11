@@ -6616,7 +6616,7 @@
       "abr": "steelfox",
       "category": "Animals",
       "defname": "NBF_Fox_SteelRace",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "strangeegg",
@@ -6730,7 +6730,7 @@
       "abr": "woodenfox",
       "category": "Animals",
       "defname": "NBF_Fox_WoodRace",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "writhingthing",

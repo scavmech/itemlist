@@ -216,12 +216,6 @@
     "version": null
   },
   {
-    "author": "Three-Legged_Wolf",
-    "name": "More than Ashes V2",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Nighzmarquls",
     "name": "Alien | Rimworld",
     "steamId": "3596077324",
@@ -256,5 +250,11 @@
     "name": "The Sims Traits",
     "steamId": "3604588393",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Adamas",
+    "name": "Hospital",
+    "steamId": "2992224079",
+    "version": "1.4.0.0"
   }
 ]

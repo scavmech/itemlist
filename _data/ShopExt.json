@@ -3059,7 +3059,7 @@
       },
       "description": "a bipedal creature with hardened exoskeleton, phallic shaped cranium and a sharp bladed tail with prominent vertebral processes.",
       "defName": "XMT_Starbeast_AlienRace",
-      "enabled": true,
+      "enabled": false,
       "name": "xenomorph",
       "price": 97217
     },
@@ -3100,7 +3100,7 @@
       },
       "description": "a bipedal creature with hardened exoskeleton, phallic shaped cranium and a sharp bladed tail with prominent vertebral processes.",
       "defName": "XMT_Royal_AlienRace",
-      "enabled": true,
+      "enabled": false,
       "name": "queen",
       "price": 486083
     }

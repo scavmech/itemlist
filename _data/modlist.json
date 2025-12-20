@@ -18,12 +18,6 @@
     "version": "1.0.0+84bb098d16b26e403c811e34da99cf9a7752abc9"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Nibato",
     "name": "AutoExtractGenes",
     "steamId": "2882834449",
@@ -162,12 +156,6 @@
     "version": "1.6.0.1"
   },
   {
-    "author": "Soul, Phaneron and Bradson",
-    "name": "Adaptive Storage Framework",
-    "steamId": "3033901359",
-    "version": "1.2.4+40787e9e0746aab12c0bcfb376f67bdeaffd6bdd"
-  },
-  {
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
@@ -204,57 +192,63 @@
     "version": "1.0.2.2"
   },
   {
-    "author": "anobs, jecrell and contributors",
-    "name": "JecsTools Unofficial 1.6 BETA",
-    "steamId": "3524247750",
-    "version": "1.5.0.0"
-  },
-  {
-    "author": "Eragon, Noobert and Horologium",
-    "name": "Fox Overhaul",
+    "author": "Soap",
+    "name": "Battle Maid Dress",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Nighzmarquls",
-    "name": "Alien | Rimworld",
-    "steamId": "3596077324",
-    "version": "0.073.1"
-  },
-  {
-    "author": "Ezfi",
-    "name": "Animals of Monterey Bay",
+    "author": "Quartz",
+    "name": "Floor-Mounted Fuel Tanks",
     "steamId": null,
     "version": null
   },
   {
-    "author": "MrKociak",
-    "name": "Bionic modularity",
+    "author": "Xercaine",
+    "name": "Log Wall",
     "steamId": null,
     "version": null
   },
   {
-    "author": "ghastlyskull",
-    "name": "Echoes of the Rim",
-    "steamId": "3573196843",
+    "author": "Teiwaz",
+    "name": "Muffalo Drives Centipede",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MemeGoddess",
+    "name": "Prisoners Are Not Swines - Continued",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
+  },
+  {
+    "author": "KrukuCoB",
+    "name": "Rout: Birthdays",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xercaine",
+    "name": "Simple Wall",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "addvans",
+    "name": "WASDed Pawn",
+    "steamId": "3471835151",
     "version": "1.0.0.0"
   },
   {
-    "author": "MrHydralisk",
-    "name": "Layered Atmosphere and Orbit",
-    "steamId": "3568552579",
-    "version": "2.5.0.1"
-  },
-  {
-    "author": "Goji",
-    "name": "The Sims Traits",
-    "steamId": "3604588393",
+    "author": "Andromeda",
+    "name": "Nice Health Tab",
+    "steamId": "3328729902",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Adamas",
-    "name": "Hospital",
-    "steamId": "2992224079",
-    "version": "1.4.0.0"
   }
 ]

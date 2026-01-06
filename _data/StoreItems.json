@@ -838,13 +838,13 @@
       "abr": "detoxifierkidney",
       "category": "Bionic",
       "defname": "DetoxifierKidney",
-      "price": -10
+      "price": 1800
     },
     {
       "abr": "detoxifierlung",
       "category": "Bionic",
       "defname": "DetoxifierLung",
-      "price": -10
+      "price": 1542
     },
     {
       "abr": "devilstrand",

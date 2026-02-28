@@ -75,7 +75,7 @@
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -93,7 +93,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
   },
   {
     "author": "sirrandoo",
@@ -162,6 +162,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Viral Reaction",
+    "name": "Fantasy Biotech",
+    "steamId": "3632363090",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
@@ -192,63 +198,39 @@
     "version": "1.0.2.2"
   },
   {
-    "author": "Soap",
-    "name": "Battle Maid Dress",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Quartz",
-    "name": "Floor-Mounted Fuel Tanks",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Xercaine",
-    "name": "Log Wall",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Teiwaz",
-    "name": "Muffalo Drives Centipede",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MemeGoddess",
-    "name": "Prisoners Are Not Swines - Continued",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
     "name": "RimFridge: Now with Shelves!",
     "steamId": "2898411376",
     "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
   },
   {
-    "author": "KrukuCoB",
-    "name": "Rout: Birthdays",
-    "steamId": "3625791734",
-    "version": "1.0.0"
-  },
-  {
-    "author": "Xercaine",
-    "name": "Simple Wall",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "addvans",
-    "name": "WASDed Pawn",
-    "steamId": "3471835151",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Andromeda",
     "name": "Nice Health Tab",
     "steamId": "3328729902",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Arkymn",
+    "name": "Better Growth Moments",
+    "steamId": "3642805464",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "avilmask",
+    "name": "Common Sense",
+    "steamId": "1561769193",
+    "version": "1.0.9416.33549"
+  },
+  {
+    "author": "Yoann",
+    "name": "Common Sense - opportunistic cleaning patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Rimatomics",
+    "steamId": "1127530465",
+    "version": "1.7.7368"
   }
 ]

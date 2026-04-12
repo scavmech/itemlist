@@ -2638,7 +2638,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "psychofluidpump",
@@ -3898,18 +3898,6 @@
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": -10
-    },
-    {
-      "abr": "tradereportslog",
-      "category": "Misc",
-      "defname": "ASReportsLog",
-      "price": -10
-    },
-    {
-      "abr": "tradereportsprinter",
-      "category": "Misc",
-      "defname": "ASReportsPrinter",
       "price": -10
     },
     {
@@ -5365,30 +5353,6 @@
       "price": 2050
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "CM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "CM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "managerdatabase",
-      "category": "Misc",
-      "defname": "CM_ManagerDatabase",
-      "price": -10
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "CM_ManagerStation",
-      "price": -10
-    },
-    {
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
@@ -5425,358 +5389,394 @@
       "price": -10
     },
     {
-      "abr": "dualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_Refrigerator",
-      "price": -10
-    },
-    {
-      "abr": "quadrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_QuadRefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "singlerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleRefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "walldualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_WallRefrigerator",
-      "price": -10
-    },
-    {
-      "abr": "wallsinglerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleWallRefrigerator",
-      "price": -10
-    },
-    {
       "abr": "advancedpowerchip",
       "category": "Manufactured",
       "defname": "VR_PowerchipAdvanced",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "advancedtonalcore",
       "category": "Manufactured",
       "defname": "VR_TonalCoreHigh",
-      "price": -10
+      "price": 1667
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "CM_AIManager",
+      "price": 7833
     },
     {
       "abr": "alc",
       "category": "Rimatomics Product",
       "defname": "ALC",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "artificelordhelmet",
       "category": "Headgear",
       "defname": "VR_Apparel_ArtificeLordHelmet",
-      "price": -10
+      "price": 5983
     },
     {
       "abr": "artificelordsuit",
       "category": "Armor",
       "defname": "VR_Apparel_ArtificerSuit_Lord",
-      "price": -10
+      "price": 8992
     },
     {
       "abr": "artificergoggles",
       "category": "Headgear",
       "defname": "VR_Apparel_ArtificerGoggles",
-      "price": -10
+      "price": 700
     },
     {
       "abr": "artificerlink",
       "category": "Mechtech",
       "defname": "VR_ArtificerImplant",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "artificermonocle",
       "category": "Headgear",
       "defname": "VR_Apparel_ArtificerMonocle",
-      "price": -10
+      "price": 425
     },
     {
       "abr": "artificersuit",
       "category": "Armor",
       "defname": "VR_Apparel_ArtificerSuit_Basic",
-      "price": -10
+      "price": 4742
     },
     {
       "abr": "atom",
       "category": "Rimatomics Product",
       "defname": "ATOM",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "basicdeathrestcasket",
       "category": "Misc",
       "defname": "VR_BasicDeathRestCasket",
-      "price": -10
+      "price": 215
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "CM_BasicManagerStation",
+      "price": 262
     },
     {
       "abr": "basicpowerchip",
       "category": "Manufactured",
       "defname": "VR_PowerchipBasic",
-      "price": -10
+      "price": 833
     },
     {
       "abr": "basictonalcore",
       "category": "Manufactured",
       "defname": "VR_TonalCoreBasic",
-      "price": -10
+      "price": 333
     },
     {
       "abr": "beamsplitter",
       "category": "Rimatomics Product",
       "defname": "BeamSplitter",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "constructbooster",
       "category": "Misc",
       "defname": "VR_MechBooster_Steam",
-      "price": -10
+      "price": 1267
     },
     {
       "abr": "controlrodactuator",
       "category": "Rimatomics Product",
       "defname": "ControlRodActuator",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "controlsublink(high)",
       "category": "Mechtech",
       "defname": "VR_Artificer_ControlSublinkHigh",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "controlsublink(standard)",
       "category": "Mechtech",
       "defname": "VR_Artificer_ControlSublink",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "depleteduranium",
       "category": "Rimatomics Product",
       "defname": "DepletedUraniumPellets",
-      "price": -10
+      "price": 13
     },
     {
       "abr": "driveactuator",
       "category": "Rimatomics Product",
       "defname": "DriveActuator",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "dusabotround",
       "category": "Sabot Rounds",
       "defname": "RailgunSabotDU",
-      "price": -10
+      "price": 83
+    },
+    {
+      "abr": "dualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
     },
     {
       "abr": "ers",
       "category": "Rimatomics Product",
       "defname": "ERS",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "fuelrods",
       "category": "Nuclear fuel",
       "defname": "FuelRods",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "fuelrodsmox",
       "category": "Nuclear fuel",
       "defname": "FuelRodsMOX",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "generack",
       "category": "Production",
       "defname": "VR_GeneRack",
-      "price": -10
+      "price": 392
     },
     {
       "abr": "lensmodule",
       "category": "Rimatomics Product",
       "defname": "LenseModule",
-      "price": -10
+      "price": 67
+    },
+    {
+      "abr": "managerdatabase",
+      "category": "Misc",
+      "defname": "CM_ManagerDatabase",
+      "price": 917
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "CM_ManagerStation",
+      "price": 508
     },
     {
       "abr": "mechgestationprocessor",
       "category": "Mechtech",
       "defname": "VR_Artificer_MechFormfeeder",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "meps",
       "category": "Rimatomics Product",
       "defname": "MEPS",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "missilefuselage",
       "category": "Rimatomics Product",
       "defname": "MissileFuselage",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "moppmask(desert)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskDesert",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "moppmask(snow)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskSnow",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "moppmask(woodland)",
       "category": "Mopp",
       "defname": "Apparel_MoppMaskWoodland",
-      "price": -10
+      "price": 533
     },
     {
       "abr": "moppsuit(desert)",
       "category": "Mopp",
       "defname": "Apparel_MoppSuitDesert",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "moppsuit(snow)",
       "category": "Mopp",
       "defname": "Apparel_MoppSuitSnow",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "moppsuit(woodland)",
       "category": "Mopp",
       "defname": "Apparel_MoppSuitWoodland",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "nuclearwarhead",
       "category": "Rimatomics Product",
       "defname": "FissionWarhead",
-      "price": -10
+      "price": 24000
     },
     {
       "abr": "plutonium",
       "category": "Rimatomics Product",
       "defname": "Plutonium",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "potassiumiodide",
       "category": "Drugs",
       "defname": "PotassiumIodide",
-      "price": -10
+      "price": 53
+    },
+    {
+      "abr": "quadrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
     },
     {
       "abr": "r.t.g",
       "category": "Nuclear",
       "defname": "RimatomicsRTG",
-      "price": -10
+      "price": 4333
     },
     {
       "abr": "radiationmask",
       "category": "Hazmat",
       "defname": "Apparel_RadiationMask",
-      "price": -10
+      "price": 244
     },
     {
       "abr": "radiationsuit",
       "category": "Hazmat",
       "defname": "Apparel_RadiationSuit",
-      "price": -10
+      "price": 383
     },
     {
       "abr": "respirator",
       "category": "Headgear",
       "defname": "VR_Apparel_ArtificerRespirator",
-      "price": -10
+      "price": 99
     },
     {
       "abr": "rocketengine",
       "category": "Rimatomics Product",
       "defname": "RocketEngine",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "sabotround",
       "category": "Sabot Rounds",
       "defname": "RailgunSabot",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "scad",
       "category": "Rimatomics Product",
       "defname": "SCAD",
-      "price": -10
+      "price": 67
+    },
+    {
+      "abr": "singlerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
     },
     {
       "abr": "soulcoreencoder",
       "category": "Production",
       "defname": "VR_SubcoreEncoder_Steam",
-      "price": -10
+      "price": 367
     },
     {
       "abr": "standardpowerchip",
       "category": "Manufactured",
       "defname": "VR_PowerchipStandard",
-      "price": -10
+      "price": 1667
     },
     {
       "abr": "standardtonalcore",
       "category": "Manufactured",
       "defname": "VR_TonalCoreRegular",
-      "price": -10
+      "price": 500
     },
     {
       "abr": "steamheater",
       "category": "Temperature",
       "defname": "VR_Heater_Steam",
-      "price": -10
+      "price": 164
     },
     {
       "abr": "steamwalllamp",
       "category": "Furniture",
       "defname": "VRSteam_WallLamp",
-      "price": -10
+      "price": 49
     },
     {
       "abr": "targetingchip",
       "category": "Rimatomics Product",
       "defname": "TargetingChip",
-      "price": -10
+      "price": 67
     },
     {
       "abr": "tradebeacon",
       "category": "Misc",
       "defname": "VR_Steam_TradeBeacon",
-      "price": -10
+      "price": 231
+    },
+    {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": 321
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": 317
     },
     {
       "abr": "turbineblades",
       "category": "Rimatomics Product",
       "defname": "turbineBlade",
-      "price": -10
+      "price": 2
     },
     {
       "abr": "uraniumpellets",
       "category": "Rimatomics Product",
       "defname": "UraniumPellets",
-      "price": -10
+      "price": 3
+    },
+    {
+      "abr": "walldualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
+    },
+    {
+      "abr": "wallsinglerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
     }
   ],
   "total": 963

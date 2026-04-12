@@ -6,6 +6,30 @@
     "version": "2.4.2.0"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
+    "name": "Vanilla Expanded Framework",
+    "steamId": "2023507013",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "3215569151",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Billnotic",
+    "name": "Actually Vanilla Music Expansion",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arylice",
+    "name": "[ARY] Automatic Stump Chopping [1.5 - 1.6]",
+    "steamId": "3357749890",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Supes",
     "name": "Auto Seller",
     "steamId": "1440321094",
@@ -24,10 +48,34 @@
     "version": "1.0.0+5c371409c52a1621802cb4c641e76425b215c2c8"
   },
   {
+    "author": "SirRandoo",
+    "name": "BetterSliders",
+    "steamId": "2218078784",
+    "version": "1.0.4.0"
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
     "version": "3.3.2.0"
+  },
+  {
+    "author": "ilyvion",
+    "name": "ilyvion's Laboratory",
+    "steamId": "3296362231",
+    "version": "0.20.0+798ec1862a32ca605234d16f0aaaee258b75b1f2"
+  },
+  {
+    "author": "ilyvion and Fluffy",
+    "name": "Colony Manager Redux",
+    "steamId": "3310027356",
+    "version": "0.14.6+fb89a6a7f529fd6aaa35bd961cc45b931275c765"
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "HugsLib",
+    "steamId": "818773962",
+    "version": "12.0.0"
   },
   {
     "author": "Dubwise",
@@ -38,90 +86,6 @@
   {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Zaljerem",
-    "name": "Music Manager (Continued)",
-    "steamId": "3220120457",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "Peppsen",
-    "name": "P-Music",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "RandomCoughdrop",
-    "name": "Random's Gene Assistant",
-    "steamId": "2882497271",
-    "version": "1.0.0+9b434538317ea1d8147af7e9ab29b045868b181a"
-  },
-  {
-    "author": "kathanon",
-    "name": "Show Weapon Tallies",
-    "steamId": "2901520677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "MarximusMaximus and Slurmpy",
-    "name": "Slurmpy's Auto-Deathrest (1.5, 1.6)",
-    "steamId": "3235763894",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "ToolkitCore",
-    "steamId": "3013877477",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "nry",
-    "name": "Twitch Toolkit",
-    "steamId": "3013874066",
-    "version": "2.0.10.0"
-  },
-  {
-    "author": "UnlimitedHugs",
-    "name": "HugsLib",
-    "steamId": "818773962",
-    "version": "12.0.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "Remove Death Amnesia",
-    "steamId": "1905421159",
-    "version": "2.1.0+087ba57a51502828a906a94051d99ccb60311f4e"
-  },
-  {
-    "author": "sirrandoo",
-    "name": "More Pause Events",
-    "steamId": "1874708724",
-    "version": "1.6.4.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "BetterSliders",
-    "steamId": "2218078784",
-    "version": "1.0.4.0"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "Where's My Bed?",
-    "steamId": "1919873778",
-    "version": "1.3.0+073ddaf1c0f951c5da75c0f0e2f2de64655f531f"
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
     "steamId": null,
     "version": null
   },
@@ -138,70 +102,16 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Billnotic",
-    "name": "Actually Vanilla Music Expansion",
-    "steamId": null,
-    "version": null
+    "author": "sirrandoo",
+    "name": "More Pause Events",
+    "steamId": "1874708724",
+    "version": "1.6.4.0"
   },
   {
-    "author": "Arylice",
-    "name": "[ARY] Automatic Stump Chopping [1.5 - 1.6]",
-    "steamId": "3357749890",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Captolamia",
-    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
-    "steamId": "3239583412",
-    "version": "1.6.0.1"
-  },
-  {
-    "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson and Erdelf",
-    "name": "Vanilla Expanded Framework",
-    "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Viral Reaction",
-    "name": "Fantasy Biotech",
-    "steamId": "3632363090",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "swemoney",
-    "name": "Toolkit - Channel Points",
-    "steamId": "1916651243",
-    "version": "1.6.0"
-  },
-  {
-    "author": "avilmask",
-    "name": "Self Dyeing",
-    "steamId": "2562859859",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ilyvion",
-    "name": "ilyvion's Laboratory",
-    "steamId": "3296362231",
-    "version": "0.20.0+798ec1862a32ca605234d16f0aaaee258b75b1f2"
-  },
-  {
-    "author": "ilyvion and Fluffy",
-    "name": "Colony Manager Redux",
-    "steamId": "3310027356",
-    "version": "0.14.5+62493e01554bae13ce142dbf39f46ae1c9e974d9"
-  },
-  {
-    "author": "Oskar Potocki and Kikohi",
-    "name": "Vanilla Storytellers Expanded - Winston Waves",
-    "steamId": "3215569151",
-    "version": "1.0.2.2"
-  },
-  {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
+    "author": "Zaljerem",
+    "name": "Music Manager (Continued)",
+    "steamId": "3220120457",
+    "version": "1.0.4.0"
   },
   {
     "author": "Andromeda",
@@ -210,10 +120,58 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Arkymn",
-    "name": "Better Growth Moments",
-    "steamId": "3642805464",
+    "author": "Peppsen",
+    "name": "P-Music",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "RandomCoughdrop",
+    "name": "Random's Gene Assistant",
+    "steamId": "2882497271",
+    "version": "1.0.0+9b434538317ea1d8147af7e9ab29b045868b181a"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.1.0+087ba57a51502828a906a94051d99ccb60311f4e"
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "kathanon",
+    "name": "Show Weapon Tallies",
+    "steamId": "2901520677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "MarximusMaximus and Slurmpy",
+    "name": "Slurmpy's Auto-Deathrest (1.5, 1.6)",
+    "steamId": "3235763894",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirRandoo",
+    "name": "Where's My Bed?",
+    "steamId": "1919873778",
+    "version": "1.3.0+073ddaf1c0f951c5da75c0f0e2f2de64655f531f"
+  },
+  {
+    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
+    "name": "RimFridge: Now with Shelves!",
+    "steamId": "2898411376",
+    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
   },
   {
     "author": "avilmask",
@@ -228,9 +186,45 @@
     "version": null
   },
   {
+    "author": "Viral Reaction",
+    "name": "Fantasy Biotech",
+    "steamId": "3632363090",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Dubwise",
     "name": "Dubs Rimatomics",
     "steamId": "1127530465",
     "version": "1.7.7368"
+  },
+  {
+    "author": "nry",
+    "name": "ToolkitCore",
+    "steamId": "3013877477",
+    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+  },
+  {
+    "author": "nry",
+    "name": "Twitch Toolkit",
+    "steamId": "3013874066",
+    "version": "2.0.10.0"
+  },
+  {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Captolamia",
+    "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
+    "steamId": "3239583412",
+    "version": "1.6.0.1"
   }
 ]

@@ -712,7 +712,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": -10
+      "price": 53
     },
     {
       "abr": "controlpack",
@@ -2638,7 +2638,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": -10
+      "price": 17
     },
     {
       "abr": "psychofluidpump",
@@ -3898,18 +3898,6 @@
       "abr": "megascarab",
       "category": "Animals",
       "defname": "Megascarab",
-      "price": -10
-    },
-    {
-      "abr": "tradereportslog",
-      "category": "Misc",
-      "defname": "ASReportsLog",
-      "price": -10
-    },
-    {
-      "abr": "tradereportsprinter",
-      "category": "Misc",
-      "defname": "ASReportsPrinter",
       "price": -10
     },
     {
@@ -5365,30 +5353,6 @@
       "price": 2050
     },
     {
-      "abr": "aimanager",
-      "category": "Production",
-      "defname": "CM_AIManager",
-      "price": -10
-    },
-    {
-      "abr": "basicmanagerdesk",
-      "category": "Production",
-      "defname": "CM_BasicManagerStation",
-      "price": -10
-    },
-    {
-      "abr": "managerdatabase",
-      "category": "Misc",
-      "defname": "CM_ManagerDatabase",
-      "price": -10
-    },
-    {
-      "abr": "managerdesk",
-      "category": "Production",
-      "defname": "CM_ManagerStation",
-      "price": -10
-    },
-    {
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
@@ -5425,36 +5389,6 @@
       "price": -10
     },
     {
-      "abr": "dualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_Refrigerator",
-      "price": -10
-    },
-    {
-      "abr": "quadrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_QuadRefrigerator",
-      "price": 307
-    },
-    {
-      "abr": "singlerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleRefrigerator",
-      "price": 121
-    },
-    {
-      "abr": "walldualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_WallRefrigerator",
-      "price": 186
-    },
-    {
-      "abr": "wallsinglerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleWallRefrigerator",
-      "price": 121
-    },
-    {
       "abr": "advancedpowerchip",
       "category": "Manufactured",
       "defname": "VR_PowerchipAdvanced",
@@ -5465,6 +5399,12 @@
       "category": "Manufactured",
       "defname": "VR_TonalCoreHigh",
       "price": 1667
+    },
+    {
+      "abr": "aimanager",
+      "category": "Production",
+      "defname": "CM_AIManager",
+      "price": 7833
     },
     {
       "abr": "alc",
@@ -5519,6 +5459,12 @@
       "category": "Misc",
       "defname": "VR_BasicDeathRestCasket",
       "price": 215
+    },
+    {
+      "abr": "basicmanagerdesk",
+      "category": "Production",
+      "defname": "CM_BasicManagerStation",
+      "price": 262
     },
     {
       "abr": "basicpowerchip",
@@ -5581,6 +5527,12 @@
       "price": 83
     },
     {
+      "abr": "dualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_Refrigerator",
+      "price": 186
+    },
+    {
       "abr": "ers",
       "category": "Rimatomics Product",
       "defname": "ERS",
@@ -5609,6 +5561,18 @@
       "category": "Rimatomics Product",
       "defname": "LenseModule",
       "price": 67
+    },
+    {
+      "abr": "managerdatabase",
+      "category": "Misc",
+      "defname": "CM_ManagerDatabase",
+      "price": 917
+    },
+    {
+      "abr": "managerdesk",
+      "category": "Production",
+      "defname": "CM_ManagerStation",
+      "price": 508
     },
     {
       "abr": "mechgestationprocessor",
@@ -5683,6 +5647,12 @@
       "price": 53
     },
     {
+      "abr": "quadrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_QuadRefrigerator",
+      "price": 307
+    },
+    {
       "abr": "r.t.g",
       "category": "Nuclear",
       "defname": "RimatomicsRTG",
@@ -5723,6 +5693,12 @@
       "category": "Rimatomics Product",
       "defname": "SCAD",
       "price": 67
+    },
+    {
+      "abr": "singlerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleRefrigerator",
+      "price": 121
     },
     {
       "abr": "soulcoreencoder",
@@ -5767,6 +5743,18 @@
       "price": 231
     },
     {
+      "abr": "tradereportslog",
+      "category": "Misc",
+      "defname": "ASReportsLog",
+      "price": 321
+    },
+    {
+      "abr": "tradereportsprinter",
+      "category": "Misc",
+      "defname": "ASReportsPrinter",
+      "price": 317
+    },
+    {
       "abr": "turbineblades",
       "category": "Rimatomics Product",
       "defname": "turbineBlade",
@@ -5777,6 +5765,18 @@
       "category": "Rimatomics Product",
       "defname": "UraniumPellets",
       "price": 3
+    },
+    {
+      "abr": "walldualrefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_WallRefrigerator",
+      "price": 186
+    },
+    {
+      "abr": "wallsinglerefrigerator",
+      "category": "Furniture",
+      "defname": "RimFridge_SingleWallRefrigerator",
+      "price": 121
     }
   ],
   "total": 963

@@ -168,40 +168,10 @@
     "version": "1.3.0+073ddaf1c0f951c5da75c0f0e2f2de64655f531f"
   },
   {
-    "author": "Vendan, Kiame Vivacity and \"Just Harry\"",
-    "name": "RimFridge: Now with Shelves!",
-    "steamId": "2898411376",
-    "version": "1.0.0+55783cd62a94fd8e1fbec992c4691c72ad4daf4e"
-  },
-  {
-    "author": "avilmask",
-    "name": "Common Sense",
-    "steamId": "1561769193",
-    "version": "1.0.9416.33549"
-  },
-  {
-    "author": "Yoann",
-    "name": "Common Sense - opportunistic cleaning patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Viral Reaction",
-    "name": "Fantasy Biotech",
-    "steamId": "3632363090",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Dubwise",
-    "name": "Dubs Rimatomics",
-    "steamId": "1127530465",
-    "version": "1.7.7368"
-  },
-  {
     "author": "nry",
     "name": "ToolkitCore",
     "steamId": "3013877477",
-    "version": "1.0.0+7d0a90f98cb48c28759783d7c0a07f9c70b8ba21"
+    "version": "1.0.0.0"
   },
   {
     "author": "nry",
@@ -210,21 +180,69 @@
     "version": "2.0.10.0"
   },
   {
-    "author": "SirRandoo",
-    "name": "ToolkitUtils",
-    "steamId": "2009500580",
-    "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
-  },
-  {
     "author": "swemoney",
     "name": "Toolkit - Channel Points",
     "steamId": "1916651243",
     "version": "1.6.0"
   },
   {
+    "author": "SirRandoo",
+    "name": "ToolkitUtils",
+    "steamId": "2009500580",
+    "version": "7.0.6.0-RC1+38a1afff462be37643029c36d14ea73ac3f17859"
+  },
+  {
     "author": "Captolamia",
     "name": "TwitchToolkit - Lootboxes (resurrected) 1.5, 1.6",
     "steamId": "3239583412",
     "version": "1.6.0.1"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.9.2"
+  },
+  {
+    "author": "AOBA",
+    "name": "Fortified Features Framework",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma, Bread Mo, Bill Doors, KV4EX and Mortis",
+    "name": "The Dead Man's Switch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma, Bread Mo, GoGaTio and Mortis",
+    "name": "The Dead Man's Switch - Expedition",
+    "steamId": "3689879335",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "crewd",
+    "name": "Reinforced Walls (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mehni",
+    "name": "Pick Up And Haul",
+    "steamId": "1279012058",
+    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
+  },
+  {
+    "author": "Eragon, Noobert and Horologium",
+    "name": "Fox Overhaul",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arkymn",
+    "name": "Better Growth Moments",
+    "steamId": "3642805464",
+    "version": "1.0.0.0"
   }
 ]

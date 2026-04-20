@@ -5389,178 +5389,16 @@
       "price": -10
     },
     {
-      "abr": "advancedpowerchip",
-      "category": "Manufactured",
-      "defname": "VR_PowerchipAdvanced",
-      "price": 2500
-    },
-    {
-      "abr": "advancedtonalcore",
-      "category": "Manufactured",
-      "defname": "VR_TonalCoreHigh",
-      "price": 1667
-    },
-    {
       "abr": "aimanager",
       "category": "Production",
       "defname": "CM_AIManager",
       "price": 7833
     },
     {
-      "abr": "alc",
-      "category": "Rimatomics Product",
-      "defname": "ALC",
-      "price": 67
-    },
-    {
-      "abr": "artificelordhelmet",
-      "category": "Headgear",
-      "defname": "VR_Apparel_ArtificeLordHelmet",
-      "price": 5983
-    },
-    {
-      "abr": "artificelordsuit",
-      "category": "Armor",
-      "defname": "VR_Apparel_ArtificerSuit_Lord",
-      "price": 8992
-    },
-    {
-      "abr": "artificergoggles",
-      "category": "Headgear",
-      "defname": "VR_Apparel_ArtificerGoggles",
-      "price": 700
-    },
-    {
-      "abr": "artificerlink",
-      "category": "Mechtech",
-      "defname": "VR_ArtificerImplant",
-      "price": 833
-    },
-    {
-      "abr": "artificermonocle",
-      "category": "Headgear",
-      "defname": "VR_Apparel_ArtificerMonocle",
-      "price": 425
-    },
-    {
-      "abr": "artificersuit",
-      "category": "Armor",
-      "defname": "VR_Apparel_ArtificerSuit_Basic",
-      "price": 4742
-    },
-    {
-      "abr": "atom",
-      "category": "Rimatomics Product",
-      "defname": "ATOM",
-      "price": 67
-    },
-    {
-      "abr": "basicdeathrestcasket",
-      "category": "Misc",
-      "defname": "VR_BasicDeathRestCasket",
-      "price": 215
-    },
-    {
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "CM_BasicManagerStation",
       "price": 262
-    },
-    {
-      "abr": "basicpowerchip",
-      "category": "Manufactured",
-      "defname": "VR_PowerchipBasic",
-      "price": 833
-    },
-    {
-      "abr": "basictonalcore",
-      "category": "Manufactured",
-      "defname": "VR_TonalCoreBasic",
-      "price": 333
-    },
-    {
-      "abr": "beamsplitter",
-      "category": "Rimatomics Product",
-      "defname": "BeamSplitter",
-      "price": 67
-    },
-    {
-      "abr": "constructbooster",
-      "category": "Misc",
-      "defname": "VR_MechBooster_Steam",
-      "price": 1267
-    },
-    {
-      "abr": "controlrodactuator",
-      "category": "Rimatomics Product",
-      "defname": "ControlRodActuator",
-      "price": 67
-    },
-    {
-      "abr": "controlsublink(high)",
-      "category": "Mechtech",
-      "defname": "VR_Artificer_ControlSublinkHigh",
-      "price": 2000
-    },
-    {
-      "abr": "controlsublink(standard)",
-      "category": "Mechtech",
-      "defname": "VR_Artificer_ControlSublink",
-      "price": 2000
-    },
-    {
-      "abr": "depleteduranium",
-      "category": "Rimatomics Product",
-      "defname": "DepletedUraniumPellets",
-      "price": 13
-    },
-    {
-      "abr": "driveactuator",
-      "category": "Rimatomics Product",
-      "defname": "DriveActuator",
-      "price": 67
-    },
-    {
-      "abr": "dusabotround",
-      "category": "Sabot Rounds",
-      "defname": "RailgunSabotDU",
-      "price": 83
-    },
-    {
-      "abr": "dualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_Refrigerator",
-      "price": 186
-    },
-    {
-      "abr": "ers",
-      "category": "Rimatomics Product",
-      "defname": "ERS",
-      "price": 67
-    },
-    {
-      "abr": "fuelrods",
-      "category": "Nuclear fuel",
-      "defname": "FuelRods",
-      "price": 1667
-    },
-    {
-      "abr": "fuelrodsmox",
-      "category": "Nuclear fuel",
-      "defname": "FuelRodsMOX",
-      "price": 3333
-    },
-    {
-      "abr": "generack",
-      "category": "Production",
-      "defname": "VR_GeneRack",
-      "price": 392
-    },
-    {
-      "abr": "lensmodule",
-      "category": "Rimatomics Product",
-      "defname": "LenseModule",
-      "price": 67
     },
     {
       "abr": "managerdatabase",
@@ -5575,209 +5413,893 @@
       "price": 508
     },
     {
-      "abr": "mechgestationprocessor",
-      "category": "Mechtech",
-      "defname": "VR_Artificer_MechFormfeeder",
-      "price": 2000
-    },
-    {
-      "abr": "meps",
-      "category": "Rimatomics Product",
-      "defname": "MEPS",
-      "price": 67
-    },
-    {
-      "abr": "missilefuselage",
-      "category": "Rimatomics Product",
-      "defname": "MissileFuselage",
-      "price": 67
-    },
-    {
-      "abr": "moppmask(desert)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskDesert",
-      "price": 533
-    },
-    {
-      "abr": "moppmask(snow)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskSnow",
-      "price": 533
-    },
-    {
-      "abr": "moppmask(woodland)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppMaskWoodland",
-      "price": 533
-    },
-    {
-      "abr": "moppsuit(desert)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitDesert",
-      "price": 550
-    },
-    {
-      "abr": "moppsuit(snow)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitSnow",
-      "price": 550
-    },
-    {
-      "abr": "moppsuit(woodland)",
-      "category": "Mopp",
-      "defname": "Apparel_MoppSuitWoodland",
-      "price": 550
-    },
-    {
-      "abr": "nuclearwarhead",
-      "category": "Rimatomics Product",
-      "defname": "FissionWarhead",
-      "price": 24000
-    },
-    {
-      "abr": "plutonium",
-      "category": "Rimatomics Product",
-      "defname": "Plutonium",
-      "price": 100
-    },
-    {
-      "abr": "potassiumiodide",
-      "category": "Drugs",
-      "defname": "PotassiumIodide",
-      "price": 53
-    },
-    {
-      "abr": "quadrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_QuadRefrigerator",
-      "price": 307
-    },
-    {
-      "abr": "r.t.g",
-      "category": "Nuclear",
-      "defname": "RimatomicsRTG",
-      "price": 4333
-    },
-    {
-      "abr": "radiationmask",
-      "category": "Hazmat",
-      "defname": "Apparel_RadiationMask",
-      "price": 244
-    },
-    {
-      "abr": "radiationsuit",
-      "category": "Hazmat",
-      "defname": "Apparel_RadiationSuit",
-      "price": 383
-    },
-    {
-      "abr": "respirator",
-      "category": "Headgear",
-      "defname": "VR_Apparel_ArtificerRespirator",
-      "price": 99
-    },
-    {
-      "abr": "rocketengine",
-      "category": "Rimatomics Product",
-      "defname": "RocketEngine",
-      "price": 67
-    },
-    {
-      "abr": "sabotround",
-      "category": "Sabot Rounds",
-      "defname": "RailgunSabot",
-      "price": 17
-    },
-    {
-      "abr": "scad",
-      "category": "Rimatomics Product",
-      "defname": "SCAD",
-      "price": 67
-    },
-    {
-      "abr": "singlerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleRefrigerator",
-      "price": 121
-    },
-    {
-      "abr": "soulcoreencoder",
-      "category": "Production",
-      "defname": "VR_SubcoreEncoder_Steam",
-      "price": 367
-    },
-    {
-      "abr": "standardpowerchip",
-      "category": "Manufactured",
-      "defname": "VR_PowerchipStandard",
-      "price": 1667
-    },
-    {
-      "abr": "standardtonalcore",
-      "category": "Manufactured",
-      "defname": "VR_TonalCoreRegular",
-      "price": 500
-    },
-    {
-      "abr": "steamheater",
-      "category": "Temperature",
-      "defname": "VR_Heater_Steam",
-      "price": 164
-    },
-    {
-      "abr": "steamwalllamp",
-      "category": "Furniture",
-      "defname": "VRSteam_WallLamp",
-      "price": 49
-    },
-    {
-      "abr": "targetingchip",
-      "category": "Rimatomics Product",
-      "defname": "TargetingChip",
-      "price": 67
-    },
-    {
-      "abr": "tradebeacon",
-      "category": "Misc",
-      "defname": "VR_Steam_TradeBeacon",
-      "price": 231
-    },
-    {
       "abr": "tradereportslog",
       "category": "Misc",
       "defname": "ASReportsLog",
-      "price": 321
+      "price": -10
     },
     {
       "abr": "tradereportsprinter",
       "category": "Misc",
       "defname": "ASReportsPrinter",
-      "price": 317
+      "price": -10
     },
     {
-      "abr": "turbineblades",
-      "category": "Rimatomics Product",
-      "defname": "turbineBlade",
-      "price": 2
+      "abr": "2a38m",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_2A38M",
+      "price": -10
     },
     {
-      "abr": "uraniumpellets",
-      "category": "Rimatomics Product",
-      "defname": "UraniumPellets",
-      "price": 3
+      "abr": "additionalarmorplating",
+      "category": "Automatroid mods",
+      "defname": "DMS_BF_ExtendArmor",
+      "price": -10
     },
     {
-      "abr": "walldualrefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_WallRefrigerator",
-      "price": 186
+      "abr": "armycap",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_ArmyCap",
+      "price": -10
     },
     {
-      "abr": "wallsinglerefrigerator",
-      "category": "Furniture",
-      "defname": "RimFridge_SingleWallRefrigerator",
-      "price": 121
+      "abr": "artifuscle",
+      "category": "Manufactured",
+      "defname": "Artifuscle",
+      "price": -10
+    },
+    {
+      "abr": "artifusclechamber",
+      "category": "Production",
+      "defname": "DMS_TableArtifuscle",
+      "price": -10
+    },
+    {
+      "abr": "assaultpiercer",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultPiercer",
+      "price": -10
+    },
+    {
+      "abr": "beautifulfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_BeautifulRace",
+      "price": -10
+    },
+    {
+      "abr": "beret",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_Beret",
+      "price": -10
+    },
+    {
+      "abr": "biomechanicalneurochord",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticSpine",
+      "price": -10
+    },
+    {
+      "abr": "bionicsuit",
+      "category": "Armor",
+      "defname": "DMS_Apparel_BionicSuit",
+      "price": -10
+    },
+    {
+      "abr": "biosyntheticarm",
+      "category": "Bionic",
+      "defname": "DMS_SyntheticArm",
+      "price": -10
+    },
+    {
+      "abr": "biosyntheticleg",
+      "category": "Bionic",
+      "defname": "DMS_SyntheticLeg",
+      "price": -10
+    },
+    {
+      "abr": "blasterscreenshell",
+      "category": "Mortar shells",
+      "defname": "Shell_BlasterSmoke",
+      "price": -10
+    },
+    {
+      "abr": "boidcontroller",
+      "category": "Mechtech",
+      "defname": "DMS_MechLink_Nerfed",
+      "price": -10
+    },
+    {
+      "abr": "boltcannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SniperCannon",
+      "price": -10
+    },
+    {
+      "abr": "carbohydrate",
+      "category": "Manufactured",
+      "defname": "DMSE_Carbohydrate",
+      "price": -10
+    },
+    {
+      "abr": "caselessassaultrifle",
+      "category": "Aerospace weapon",
+      "defname": "DMSE_Modular_AR",
+      "price": -10
+    },
+    {
+      "abr": "caselessautopistol",
+      "category": "Aerospace weapon",
+      "defname": "DMSE_Modular_C95BP_Pistol",
+      "price": -10
+    },
+    {
+      "abr": "caselessdefensefirearm",
+      "category": "Aerospace weapon",
+      "defname": "DMSE_Modular_PDW",
+      "price": -10
+    },
+    {
+      "abr": "caselesslightmachinegun",
+      "category": "Aerospace weapon",
+      "defname": "DMSE_Modular_LMG",
+      "price": -10
+    },
+    {
+      "abr": "caselesspistol",
+      "category": "Aerospace weapon",
+      "defname": "DMSE_Modular_C95_Pistol",
+      "price": -10
+    },
+    {
+      "abr": "ceramicplates",
+      "category": "Automatroid mods",
+      "defname": "DMS_CeramicsPlating",
+      "price": -10
+    },
+    {
+      "abr": "ceramics",
+      "category": "Raw resources",
+      "defname": "DMS_Ceramics",
+      "price": -10
+    },
+    {
+      "abr": "chemfuelfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ChemfuelRace",
+      "price": -10
+    },
+    {
+      "abr": "chickenfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ChickenRace",
+      "price": -10
+    },
+    {
+      "abr": "clustercontrolchipsets",
+      "category": "Manufactured",
+      "defname": "ComponentControlChip",
+      "price": -10
+    },
+    {
+      "abr": "clustertransceiver",
+      "category": "Mechtech",
+      "defname": "DMS_MechLink",
+      "price": -10
+    },
+    {
+      "abr": "c-ration",
+      "category": "Drugs",
+      "defname": "DMS_CombatRation",
+      "price": -10
+    },
+    {
+      "abr": "creamfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_CreamRace",
+      "price": -10
+    },
+    {
+      "abr": "criticaldocument",
+      "category": "Manufactured",
+      "defname": "DMS_QuestDocument",
+      "price": -10
+    },
+    {
+      "abr": "cruisemissile",
+      "category": "Manufactured",
+      "defname": "DMSE_CruiseMissile",
+      "price": -10
+    },
+    {
+      "abr": "cutefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_CuteRace",
+      "price": -10
+    },
+    {
+      "abr": "darkfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DarkRace",
+      "price": -10
+    },
+    {
+      "abr": "demonfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DemonRace",
+      "price": -10
+    },
+    {
+      "abr": "disposablelauncher",
+      "category": "Utility",
+      "defname": "DMS_DeposableRocketLauncher",
+      "price": -10
+    },
+    {
+      "abr": "doorbuster",
+      "category": "Automatroid weapon",
+      "defname": "DMS_DoorBreaker",
+      "price": -10
+    },
+    {
+      "abr": "dragonfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_DragonRace",
+      "price": -10
+    },
+    {
+      "abr": "elephantrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_ElephantGun",
+      "price": -10
+    },
+    {
+      "abr": "emotionfilter",
+      "category": "Bionic",
+      "defname": "DMS_SensoryFilter",
+      "price": -10
+    },
+    {
+      "abr": "encryptedtransmitter",
+      "category": "Misc",
+      "defname": "DMS_EncryptedTransmitter",
+      "price": -10
+    },
+    {
+      "abr": "extendedcargorack",
+      "category": "Automatroid mods",
+      "defname": "DMS_BF_ExtendCargo",
+      "price": -10
+    },
+    {
+      "abr": "firecontrolsystem",
+      "category": "Manufactured",
+      "defname": "ComponentFireControl",
+      "price": -10
+    },
+    {
+      "abr": "flameblaster",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Flameblaster",
+      "price": -10
+    },
+    {
+      "abr": "fleshfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_FleshRace",
+      "price": -10
+    },
+    {
+      "abr": "foxcream",
+      "category": "Medicine",
+      "defname": "NBF_MedicineCream",
+      "price": -10
+    },
+    {
+      "abr": "fusionreactor",
+      "category": "Misc",
+      "defname": "DMSE_FusionCore",
+      "price": -10
+    },
+    {
+      "abr": "gaiafox",
+      "category": "Animals",
+      "defname": "NBF_Fox_GaiaRace",
+      "price": -10
+    },
+    {
+      "abr": "garrisoncap",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_GarrisonCap",
+      "price": -10
+    },
+    {
+      "abr": "garrisoncoat",
+      "category": "Misc",
+      "defname": "DMS_Apparel_GarrisonCoat",
+      "price": -10
+    },
+    {
+      "abr": "gau-19/aattacker",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU19Gatlinggun",
+      "price": -10
+    },
+    {
+      "abr": "gau-4vulcan",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU4Gatlinggun_Hold",
+      "price": -10
+    },
+    {
+      "abr": "gau-8avenger",
+      "category": "Automatroid weapon",
+      "defname": "DMS_GAU8Gatlinggun",
+      "price": -10
+    },
+    {
+      "abr": "granitefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_GraniteRace",
+      "price": -10
+    },
+    {
+      "abr": "graphene",
+      "category": "Manufactured",
+      "defname": "DMSE_Graphene",
+      "price": -10
+    },
+    {
+      "abr": "graphenebattery",
+      "category": "Power",
+      "defname": "DMSE_Battery",
+      "price": -10
+    },
+    {
+      "abr": "graphenebio-reactor",
+      "category": "Misc",
+      "defname": "DMSE_GrapheneBioreactor",
+      "price": -10
+    },
+    {
+      "abr": "hazardsuit",
+      "category": "Misc",
+      "defname": "DMS_Apparel_HazardSuit",
+      "price": -10
+    },
+    {
+      "abr": "heavyexoskeletalunit",
+      "category": "Armor",
+      "defname": "DMSE_Apparel_HeavyPowerSkeleton",
+      "price": -10
+    },
+    {
+      "abr": "heavyhydraulicframe",
+      "category": "Automatroid mods",
+      "defname": "DMS_TB_HeavyHydraulicFrame",
+      "price": -10
+    },
+    {
+      "abr": "hounddronepack",
+      "category": "Utility",
+      "defname": "DMS_Apparel_PackHound",
+      "price": -10
+    },
+    {
+      "abr": "insectfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_InsectoidRace",
+      "price": -10
+    },
+    {
+      "abr": "ivasuit",
+      "category": "Apparel",
+      "defname": "DMSE_Apparel_IVASuit",
+      "price": -10
+    },
+    {
+      "abr": "knuckledusterrevolver",
+      "category": "Automatroid weapon",
+      "defname": "DMS_KnuckledusterRevolver",
+      "price": -10
+    },
+    {
+      "abr": "labfurnace",
+      "category": "Production",
+      "defname": "DMS_LabFurnace",
+      "price": -10
+    },
+    {
+      "abr": "labreactor",
+      "category": "Production",
+      "defname": "DMS_LabReactor",
+      "price": -10
+    },
+    {
+      "abr": "limestonefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_LimestoneRace",
+      "price": -10
+    },
+    {
+      "abr": "m214",
+      "category": "Automatroid weapon",
+      "defname": "DMS_M214Gatlinggun",
+      "price": -10
+    },
+    {
+      "abr": "machete",
+      "category": "Melee weapons",
+      "defname": "DMS_Machete",
+      "price": -10
+    },
+    {
+      "abr": "machinecabinet",
+      "category": "Misc",
+      "defname": "DMS_MachineCabinet",
+      "price": -10
+    },
+    {
+      "abr": "machineryprinter",
+      "category": "Production",
+      "defname": "DMS_TableMachinePrinter",
+      "price": -10
+    },
+    {
+      "abr": "marblefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MarbleRace",
+      "price": -10
+    },
+    {
+      "abr": "mechamr",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AntiMaterialRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechanti-tankrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DragoonRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechassaultrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechassaultshotgun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AssaultShotgun",
+      "price": -10
+    },
+    {
+      "abr": "mechautocannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Autocannon",
+      "price": -10
+    },
+    {
+      "abr": "mechbattlerifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_BattleRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechgrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_AutomaticGrenadeLauncher",
+      "price": -10
+    },
+    {
+      "abr": "mechheavygrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DragoonGrenade",
+      "price": -10
+    },
+    {
+      "abr": "mechhmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_HeavyMachineGun",
+      "price": -10
+    },
+    {
+      "abr": "mechlmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_LightMachineGun",
+      "price": -10
+    },
+    {
+      "abr": "mechmarksmanrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_MarksmanRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechpistol",
+      "category": "Automatroid weapon",
+      "defname": "DMS_TacticalPistol",
+      "price": -10
+    },
+    {
+      "abr": "mechsemi-autorifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SemiAutoRifle",
+      "price": -10
+    },
+    {
+      "abr": "mechaneuralarm",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticArm",
+      "price": -10
+    },
+    {
+      "abr": "mechaneuralkidney",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticKidney",
+      "price": -10
+    },
+    {
+      "abr": "mechaneuralleg",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticLeg",
+      "price": -10
+    },
+    {
+      "abr": "mechaneurallung",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticLung",
+      "price": -10
+    },
+    {
+      "abr": "mechaneuralvisualsensor",
+      "category": "Bionic",
+      "defname": "DMS_ProstheticEye",
+      "price": -10
+    },
+    {
+      "abr": "mk44bushmasteriiautocannon",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_MK44_Autocannon",
+      "price": -10
+    },
+    {
+      "abr": "mpqfs-85mdawnblade",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_DawnbladeM",
+      "price": -10
+    },
+    {
+      "abr": "mushroomfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MushroomRace",
+      "price": -10
+    },
+    {
+      "abr": "neuroglue",
+      "category": "Drugs",
+      "defname": "Neuroglue",
+      "price": -10
+    },
+    {
+      "abr": "nightvisiongoggles",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_Gunlink",
+      "price": -10
+    },
+    {
+      "abr": "nitrogallium",
+      "category": "Manufactured",
+      "defname": "DMSE_Nitrogallium",
+      "price": -10
+    },
+    {
+      "abr": "nuclearbattery",
+      "category": "Automatroid mods",
+      "defname": "DMS_NuclearBattery",
+      "price": -10
+    },
+    {
+      "abr": "nuclearthermalthruster",
+      "category": "Misc",
+      "defname": "DMSE_NuclearThruster",
+      "price": -10
+    },
+    {
+      "abr": "nutritionport",
+      "category": "Bionic",
+      "defname": "DMS_NutrientPort",
+      "price": -10
+    },
+    {
+      "abr": "operatorhelmet",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_ArrayHelmet",
+      "price": -10
+    },
+    {
+      "abr": "orbitalrangerhelmet",
+      "category": "Headgear",
+      "defname": "DMSE_Apparel_RangerHelmet",
+      "price": -10
+    },
+    {
+      "abr": "organicassembler",
+      "category": "Production",
+      "defname": "DMSE_TableArtifuscle",
+      "price": -10
+    },
+    {
+      "abr": "oxygencandle",
+      "category": "Misc",
+      "defname": "DMSE_OxygenCandle",
+      "price": -10
+    },
+    {
+      "abr": "pdw",
+      "category": "Automatroid weapon",
+      "defname": "DMS_PDW",
+      "price": -10
+    },
+    {
+      "abr": "plasticfiber",
+      "category": "Textiles",
+      "defname": "Plasfiber",
+      "price": -10
+    },
+    {
+      "abr": "polyester",
+      "category": "Textiles",
+      "defname": "Polyester",
+      "price": -10
+    },
+    {
+      "abr": "poweredexoskeletalunit",
+      "category": "Armor",
+      "defname": "DMS_Apparel_PowerSkeleton",
+      "price": -10
+    },
+    {
+      "abr": "precisefabricationcenter",
+      "category": "Production",
+      "defname": "DMSE_MicrogravityFacility",
+      "price": -10
+    },
+    {
+      "abr": "pressurechamber",
+      "category": "Production",
+      "defname": "DMS_ReactionChamber",
+      "price": -10
+    },
+    {
+      "abr": "recoillessrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Gun_Recoilless",
+      "price": -10
+    },
+    {
+      "abr": "reinforcedframe",
+      "category": "Automatroid mods",
+      "defname": "DMS_ReinforcedFrame",
+      "price": -10
+    },
+    {
+      "abr": "ricefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_RiceRace",
+      "price": -10
+    },
+    {
+      "abr": "rifledsluggun",
+      "category": "Automatroid weapon",
+      "defname": "DMS_RiotShotgun",
+      "price": -10
+    },
+    {
+      "abr": "riotlmg",
+      "category": "Automatroid weapon",
+      "defname": "DMS_MiniMachineGun",
+      "price": -10
+    },
+    {
+      "abr": "riotrevolver",
+      "category": "Automatroid weapon",
+      "defname": "DMS_Revolver",
+      "price": -10
+    },
+    {
+      "abr": "robotfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_MechanoidRace",
+      "price": -10
+    },
+    {
+      "abr": "rocketbooster",
+      "category": "Misc",
+      "defname": "DMSE_SolidRocketThruster",
+      "price": -10
+    },
+    {
+      "abr": "rotaryforger",
+      "category": "Production",
+      "defname": "DMSE_TableLathe",
+      "price": -10
+    },
+    {
+      "abr": "sandstonefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SandstoneRace",
+      "price": -10
+    },
+    {
+      "abr": "shellfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_ShellRace",
+      "price": -10
+    },
+    {
+      "abr": "signalstealthdevice",
+      "category": "Misc",
+      "defname": "DMSE_StealthDevice",
+      "price": -10
+    },
+    {
+      "abr": "sinteringfurnace",
+      "category": "Production",
+      "defname": "DMS_Furnace",
+      "price": -10
+    },
+    {
+      "abr": "slatefox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SlateRace",
+      "price": -10
+    },
+    {
+      "abr": "snipergrenadelauncher",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SniperGrenadeLauncher",
+      "price": -10
+    },
+    {
+      "abr": "softkepi",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_SoftKepi",
+      "price": -10
+    },
+    {
+      "abr": "solarshieldingdevice",
+      "category": "Misc",
+      "defname": "DMSE_SolarShield",
+      "price": -10
+    },
+    {
+      "abr": "stamponent",
+      "category": "Manufactured",
+      "defname": "ComponentStamped",
+      "price": -10
+    },
+    {
+      "abr": "stealthmask",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_StealthMask",
+      "price": -10
+    },
+    {
+      "abr": "steelfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_SteelRace",
+      "price": -10
+    },
+    {
+      "abr": "stunbaton",
+      "category": "Melee weapons",
+      "defname": "DMS_StunBaton",
+      "price": -10
+    },
+    {
+      "abr": "survivalrifle",
+      "category": "Automatroid weapon",
+      "defname": "DMS_SurvivalRifle",
+      "price": -10
+    },
+    {
+      "abr": "synthetictendon",
+      "category": "Automatroid mods",
+      "defname": "DMS_SyntheticTendon",
+      "price": -10
+    },
+    {
+      "abr": "t/rcomponent",
+      "category": "Manufactured",
+      "defname": "ComponentTransmitter",
+      "price": -10
+    },
+    {
+      "abr": "tacticalcloak",
+      "category": "Misc",
+      "defname": "DMS_Apparel_TacticalCloak",
+      "price": -10
+    },
+    {
+      "abr": "tacticalhelmet",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_TacticalHelmet",
+      "price": -10
+    },
+    {
+      "abr": "tacticalvest",
+      "category": "Armor",
+      "defname": "DMS_Apparel_TacticalVest",
+      "price": -10
+    },
+    {
+      "abr": "tantasteel",
+      "category": "Manufactured",
+      "defname": "DMSE_TantastenAlloy",
+      "price": -10
+    },
+    {
+      "abr": "technicalinstruction",
+      "category": "Books",
+      "defname": "DMS_Schematic",
+      "price": -10
+    },
+    {
+      "abr": "tungsteel",
+      "category": "Raw resources",
+      "defname": "Tungsteel",
+      "price": -10
+    },
+    {
+      "abr": "uniform",
+      "category": "Armor",
+      "defname": "DMS_Apparel_UnitSuit",
+      "price": -10
+    },
+    {
+      "abr": "uniform",
+      "category": "Misc",
+      "defname": "DMS_Apparel_Uniform",
+      "price": -10
+    },
+    {
+      "abr": "uniformcap",
+      "category": "Headgear",
+      "defname": "DMS_Apparel_UniformCap",
+      "price": -10
+    },
+    {
+      "abr": "vacuumpump",
+      "category": "Misc",
+      "defname": "DMSE_VacuumPump",
+      "price": -10
+    },
+    {
+      "abr": "vasilek",
+      "category": "Security",
+      "defname": "DMS_Turret_Vasilek",
+      "price": -10
+    },
+    {
+      "abr": "verlingbriddronebelt",
+      "category": "Utility",
+      "defname": "DMS_Apparel_PackVerling",
+      "price": -10
+    },
+    {
+      "abr": "wetwarecomputer",
+      "category": "Manufactured",
+      "defname": "Neurocomputer",
+      "price": -10
+    },
+    {
+      "abr": "woodenfox",
+      "category": "Animals",
+      "defname": "NBF_Fox_WoodRace",
+      "price": -10
     }
   ],
-  "total": 963
+  "total": 1050
 }

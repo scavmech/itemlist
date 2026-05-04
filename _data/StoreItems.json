@@ -4,7 +4,7 @@
       "abr": "advancedcomponent",
       "category": "Manufactured",
       "defname": "ComponentSpacer",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "aestheticnose",
@@ -712,7 +712,7 @@
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
-      "price": 53
+      "price": -10
     },
     {
       "abr": "controlpack",
@@ -850,7 +850,7 @@
       "abr": "devilstrand",
       "category": "Textiles",
       "defname": "DevilstrandCloth",
-      "price": 9
+      "price": -10
     },
     {
       "abr": "diningchair",
@@ -2638,7 +2638,7 @@
       "abr": "psychitetea",
       "category": "Drugs",
       "defname": "PsychiteTea",
-      "price": 17
+      "price": -10
     },
     {
       "abr": "psychofluidpump",
@@ -2830,7 +2830,7 @@
       "abr": "sash",
       "category": "Misc",
       "defname": "Apparel_Sash",
-      "price": -10
+      "price": 89
     },
     {
       "abr": "schooldesk",
@@ -5392,25 +5392,25 @@
       "abr": "aimanager",
       "category": "Production",
       "defname": "CM_AIManager",
-      "price": 7833
+      "price": -10
     },
     {
       "abr": "basicmanagerdesk",
       "category": "Production",
       "defname": "CM_BasicManagerStation",
-      "price": 262
+      "price": -10
     },
     {
       "abr": "managerdatabase",
       "category": "Misc",
       "defname": "CM_ManagerDatabase",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "managerdesk",
       "category": "Production",
       "defname": "CM_ManagerStation",
-      "price": 508
+      "price": -10
     },
     {
       "abr": "tradereportslog",

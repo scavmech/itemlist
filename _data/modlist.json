@@ -201,48 +201,24 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.9.2"
+    "version": "1.9.3"
   },
   {
-    "author": "AOBA",
-    "name": "Fortified Features Framework",
+    "author": "erdelf, Oskar Potocki, legodude17, Taranchuk, xrushha, Sarg Bjornson, Sir Van and Reann Shepard",
+    "name": "Vanilla Psycasts Expanded",
+    "steamId": "2842502659",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Exploration Loot",
     "steamId": null,
     "version": null
   },
   {
-    "author": "AobaKuma, Bread Mo, Bill Doors, KV4EX and Mortis",
-    "name": "The Dead Man's Switch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "AobaKuma, Bread Mo, GoGaTio and Mortis",
-    "name": "The Dead Man's Switch - Expedition",
-    "steamId": "3689879335",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "crewd",
-    "name": "Reinforced Walls (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mehni",
-    "name": "Pick Up And Haul",
-    "steamId": "1279012058",
-    "version": "1.0.0+ff1022e1ba7c5c17256a00124f95be16bdc69799"
-  },
-  {
-    "author": "Eragon, Noobert and Horologium",
-    "name": "Fox Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Arkymn",
-    "name": "Better Growth Moments",
-    "steamId": "3642805464",
-    "version": "1.0.0.0"
+    "author": "llunak",
+    "name": "Pathfinding Avoidance",
+    "steamId": "3530140490",
+    "version": "1.0.0+2ec99e3f55bb228c4810e56352a2740eb128ae56"
   }
 ]
